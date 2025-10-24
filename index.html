@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>家族ニュースピックアップ</title>
+  <style>
+    body {
+      font-family: "Segoe UI", sans-serif;
+      background-color: #0f172a;
+      color: #e2e8f0;
+      margin: 0;
+      padding: 1.5rem;
+      line-height: 1.6;
+    }
+    h1 {
+      color: #facc15;
+      text-align: center;
+    }
+    section {
+      margin-bottom: 2rem;
+    }
+    .card {
+      background: #1e293b;
+      border-radius: 10px;
+      padding: 1rem;
+      margin: 0.5rem 0;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    }
+    .card a {
+      color: #93c5fd;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <h1>🔥 今日のニュースピックアップ 🔥</h1>
+
+  <section id="AI">
+    <h2>🤖 AIニュース</h2>
+    <div id="ai-list"></div>
+  </section>
+
+  <section id="経済">
+    <h2>💹 経済ニュース</h2>
+    <div id="biz-list"></div>
+  </section>
+
+  <script src="script.js"></script>
+</body>
+</html>
