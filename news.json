@@ -1,4 +1,31 @@
 {
-  "AI": [],
-  "経済": []
+  "AI": [
+    {
+      "tag": "AI",
+      "title": "OpenAI、新モデル「o1-preview」発表",
+      "summary": "従来よりも思考能力が強化され、コード生成と分析タスクに特化。企業導入も拡大中。",
+      "date": "2025-10-26",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/category/artificial-intelligence/"
+    },
+    {
+      "tag": "AI",
+      "title": "Anthropic、Claude 3.5シリーズを拡張",
+      "summary": "Claude 3.5 Sonnetの新APIが登場し、ドキュメント理解と長文要約に強みを発揮。",
+      "date": "2025-10-26",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/category/ai/"
+    }
+  ],
+  
+  "BIZ": [
+   {
+      "tag": "経済",
+      "title": "日銀、金利政策の見直しを示唆",
+      "summary": "金融緩和の長期化を背景に、今後の政策スタンスに柔軟性を持たせる方針を発表。",
+      "date": "2025-10-26",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.co.jp/"
+    }
+  ]
 }
