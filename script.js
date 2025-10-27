@@ -16,10 +16,13 @@ function renderSection(sectionId, articles) {
     const card = document.createElement("div");
     card.className = "card";
 
+    // summaryの改行を<br>に変換
+    const formattedSummary = article.summary.replace(/\n/g, '<br>');
+
     card.innerHTML = `
       <div class="tag">${article.tag}</div>
       <h3>${article.title}</h3>
-      <p>${article.summary}</p>
+      <p>${formattedSummary}</p>
       <div class="meta">
         <span class="date">${article.date}</span>
         <span class="source">${article.source}</span>
