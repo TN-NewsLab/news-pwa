@@ -2,30 +2,30 @@
   "AI": [
     {
       "tag": "AI",
-      "title": "OpenAI、新モデル「o1-preview」発表",
-      "summary": "従来よりも思考能力が強化され、コード生成と分析タスクに特化。企業導入も拡大中。",
-      "date": "2025-10-26",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/category/artificial-intelligence/"
+      "title": "OpenAI、「日本のAI経済ブループリント」を公開",
+      "summary": "OpenAIは、日本の包摂的成長と持続可能な未来を目指し、生成AIを活用した国家戦略「AI経済ブループリント」を発表しました。",
+      "date": "2025-10-25",
+      "source": "Ledge.ai",
+      "url": "https://ledge.ai/articles/openai_japan_economic_blueprint_2025"
     },
     {
       "tag": "AI",
-      "title": "Anthropic、Claude 3.5シリーズを拡張",
-      "summary": "Claude 3.5 Sonnetの新APIが登場し、ドキュメント理解と長文要約に強みを発揮。",
-      "date": "2025-10-26",
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/category/ai/"
+      "title": "日立、AIネイティブな基幹システム刷新を支援",
+      "summary": "日立は、AIを前提とした業務・IT・組織改革を支援する新サービス「モダナイゼーション powered by Lumada」の提供を開始しました。",
+      "date": "2025-10-24",
+      "source": "Ledge.ai",
+      "url": "https://ledge.ai/articles/hitachi_modernization_powered_by_lumada_launch"
     }
   ],
   
   "BIZ": [
    {
       "tag": "経済",
-      "title": "日銀、金利政策の見直しを示唆",
-      "summary": "金融緩和の長期化を背景に、今後の政策スタンスに柔軟性を持たせる方針を発表。",
-      "date": "2025-10-26",
+      "title": "トランプ米大統領きょう訪日、高市首相が初会談で信頼関係構築へ",
+      "summary": "・トランプ氏「良い関係築けるだろう」、高市首相「大切な同盟国」\n・日米関税合意の文書署名で調整、レアアース確保で連携確認－報道",
+      "date": "2025-10-27",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.co.jp/"
+      "url": "https://www.bloomberg.co.jp/news/articles/2025-10-27/T4K43JGP9VCW00?srnd=cojp-v2"
     }
   ]
 }
