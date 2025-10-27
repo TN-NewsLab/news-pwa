@@ -1,0 +1,116 @@
+/* --- ベース設定 --- */
+body {
+  background-color: #f4f6f8;   /* 明るめグレー背景 */
+  color: #222;                /* 読みやすい濃グレー文字 */
+  font-family: 'Segoe UI', 'Roboto', sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+/* --- 見出し --- */
+h1 {
+  color: #2b4c7e;             /* 知的な青みグレー */
+  border-bottom: 2px solid #2b4c7e;
+  padding-bottom: 0.4em;
+  margin-bottom: 1em;
+}
+
+/* --- セクションタイトルに軽い下線 --- */
+section h2 {
+  border-bottom: 1px solid #d1d5db;
+  padding-bottom: 0.4em;
+  margin-bottom: 0.8em;
+  color: #1e293b;
+  font-weight: 600;
+}
+
+/* --- ニュースカード --- */
+.card {
+  background: #ffffff;
+  border: 1px solid #e1e4e8;
+  border-radius: 10px;
+  padding: 1.2em 1.4em;
+  margin-bottom: 1.2em;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 14px rgba(0,0,0,0.08);
+}
+
+/* --- カード内タイトル --- */
+.card h3 {
+  font-size: 1.1em;
+  font-weight: 600;
+  color: #1e293b;
+  margin: 0 0 0.4em 0;
+  letter-spacing: 0.01em;
+}
+
+/* --- 本文 --- */
+.card p {
+  font-size: 0.93em;
+  color: #4b5563;
+  line-height: 1.5;
+  margin: 0.3em 0;
+}
+
+/* --- リンク --- */
+.card a {
+  display: inline-block;
+  margin-top: 0.6em;
+  color: #2563eb;
+  font-weight: 500;
+  text-decoration: none;
+  transition: color 0.2s ease, transform 0.2s ease;
+}
+.card a:hover {
+  color: #1d4ed8;
+  transform: translateX(4px);
+  text-decoration: underline;
+}
+
+/* --- カテゴリラベル --- */
+.tag {
+  display: inline-block;
+  background: #e0f2fe;
+  color: #0369a1;
+  font-size: 0.75em;
+  font-weight: 600;
+  padding: 0.25em 0.6em;
+  border-radius: 6px;
+  margin-bottom: 0.5em;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* --- バースデーバナー --- */
+.birthday-banner {
+  background: linear-gradient(135deg, #d9e8ff, #f0f6ff);
+  border: 1px solid #a8c7ff;
+  color: #2b4c7e;
+  text-align: center;
+  padding: 1.2em;
+  border-radius: 12px;
+  margin-bottom: 1.5em;
+  font-size: 1.1em;
+  box-shadow: 0 2px 10px rgba(100,140,255,0.15);
+}
+
+/* --- メタ情報（日付・出典） --- */
+.meta {
+  font-size: 0.8em;
+  color: #6b7280;
+  margin-top: 0.5em;
+  display: flex;
+  gap: 1em;
+  align-items: center;
+}
+.meta .date::before {
+  content: "📅 ";
+}
+.meta .source::before {
+  content: "📰 ";
+}
