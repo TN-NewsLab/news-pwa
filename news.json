@@ -2,30 +2,38 @@
   "AI": [
     {
       "tag": "AI",
-      "title": "OpenAI、「日本のAI経済ブループリント」を公開",
-      "summary": "OpenAIは、日本の包摂的成長と持続可能な未来を目指し、生成AIを活用した国家戦略「AI経済ブループリント」を発表しました。",
-      "date": "2025-10-25",
+      "title": "Amazon、「ロボットで雇用を奪ってきた企業ではない」と反論──自動化報道に対し公式声明を発表",
+      "summary": "Amazonは「ロボットによって雇用を奪ってきた企業ではない」と公式に反論し、今後25万人の新規採用を計画していると発表しました。新技術「Blue Jay」と「Project Eluna」は人とロボットの協働を前提に設計されています。自動化による効率化と安全性向上を目指しつつ、雇用拡大の姿勢を強調しています。",
+      "date": "2025-10-29",
       "source": "Ledge.ai",
-      "url": "https://ledge.ai/articles/openai_japan_economic_blueprint_2025"
+      "url": "https://ledge.ai/articles/amazon_robotics_employment_response_oct2025"
     },
     {
       "tag": "AI",
-      "title": "日立、AIネイティブな基幹システム刷新を支援",
-      "summary": "日立は、AIを前提とした業務・IT・組織改革を支援する新サービス「モダナイゼーション powered by Lumada」の提供を開始しました。",
-      "date": "2025-10-24",
-      "source": "Ledge.ai",
-      "url": "https://ledge.ai/articles/hitachi_modernization_powered_by_lumada_launch"
+      "title": "オープンAIが組織再編完了、営利中心に－マイクロソフト27％保有",
+      "summary": "マイクロソフトはOpenAIの株式27％を取得し、2032年までAIモデルへのアクセス権を確保しました。OpenAIは営利部門を公益目的会社に再編し、非営利団体が支配権を維持します。さらに、OpenAIはAzureクラウドサービスを2500億ドル相当追加購入する契約も締結しました。",
+      "date": "2025-10-29",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.co.jp/news/articles/2025-10-28/T4UGR5GOYMTC00?srnd=cojp-v2"
     }
   ],
   
   "BIZ": [
+ {
+      "tag": "経済",
+      "title": "【コラム】トランプ氏歓待成功、高市首相の外交本格始動－リーディー",
+      "summary": "高市首相はトランプ大統領を手厚く歓待し、外交デビューを成功させたと評価されています。安倍元首相の戦略を継承し、個人的な関係構築を重視する姿勢が際立ちました。日本株は高市政権への期待から上昇し、日経平均は初めて5万円を突破しました。",
+      "date": "2025-10-29",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.co.jp/news/articles/2025-10-28/T4UAKNGP493700?srnd=cojp-v2"
+    }
    {
       "tag": "経済",
-      "title": "トランプ米大統領きょう訪日、高市首相が初会談で信頼関係構築へ",
-      "summary": "・トランプ氏「良い関係築けるだろう」、高市首相「大切な同盟国」\n・日米関税合意の文書署名で調整、レアアース確保で連携確認－報道",
-      "date": "2025-10-27",
+      "title": "【日本市況】日経平均初の5万1000円台、AIや対米投資期待－債券下落",
+      "summary": "・日経平均株価が史上初めて5万1000円台に到達し、日本市場は大幅に上昇しました。\n・背景にはAI関連銘柄の活況や、対米投資への期待感が強まっていることがあります。\n・一方で、債券市場は下落し、長期金利の上昇が見られました。",
+      "date": "2025-10-29",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.co.jp/news/articles/2025-10-27/T4K43JGP9VCW00?srnd=cojp-v2"
+      "url": "https://www.bloomberg.co.jp/news/articles/2025-10-29/T4VJJ6GOYMTI00?srnd=cojp-v2"
     }
   ]
 }
