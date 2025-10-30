@@ -18,10 +18,28 @@ self.addEventListener('install', (event) => {
   );
 });
 
+// self.addEventListener('fetch', (event) => {
+//   event.respondWith(
+//     caches.match(event.request).then((response) => {
+//       return response || fetch(event.request);
+//     })
+//   );
+// });
+
 self.addEventListener('fetch', (event) => {
   event.respondWith(
-    caches.match(event.request).then((response) => {
-      return response || fetch(event.request);
-    })
+    fetch(event.request)
+      .then((response) => {
+        // オンライン成功 → キャッシュ更新
+        const clone = response.clone();
+        caches.open('news-cache-v2').then((cache) => {
+          cache.put(event.request, clone);
+        });
+        return response;
+      })
+      .catch(() => {
+        // オフライン時 → キャッシュから取得
+        return caches.match(event.request);
+      })
   );
 });
