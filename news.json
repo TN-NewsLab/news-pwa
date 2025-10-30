@@ -2,38 +2,38 @@
   "AI": [
     {
       "tag": "AI",
-      "title": "Amazon、「ロボットで雇用を奪ってきた企業ではない」と反論──自動化報道に対し公式声明を発表",
-      "summary": "Amazonは「ロボットによって雇用を奪ってきた企業ではない」と公式に反論し、今後25万人の新規採用を計画していると発表しました。新技術「Blue Jay」と「Project Eluna」は人とロボットの協働を前提に設計されています。自動化による効率化と安全性向上を目指しつつ、雇用拡大の姿勢を強調しています。",
-      "date": "2025-10-29",
-      "source": "Ledge.ai",
-      "url": "https://ledge.ai/articles/amazon_robotics_employment_response_oct2025"
+      "title": "OpenAIが26年後半にもIPO申請、1兆ドルと評価の可能性",
+      "summary": "ロイターによると、OpenAIは過去最大級のIPOを目指しており、規制当局への申請を検討中。同社は今週、営利事業を中心とした組織再編を完了したと発表。最近の従業員による株式売却では、企業価値がすでに5000億ドルと評価されていた。",
+      "date": "2025-10-30",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.co.jp/news/articles/2025-10-30/T4X3MCGOT0JK00"
     },
     {
       "tag": "AI",
-      "title": "オープンAIが組織再編完了、営利中心に  マイクロソフト27%保有",
-      "summary": "マイクロソフトはOpenAIの株式27%を取得し、2032年までAIモデルへのアクセス権を確保しました。OpenAIは営利部門を公益目的会社に再編し、非営利団体が支配権を維持します。さらに、OpenAIはAzureクラウドサービスを2500億ドル相当追加購入する契約も締結しました。",
-      "date": "2025-10-29",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.co.jp/news/articles/2025-10-28/T4UGR5GOYMTC00?srnd=cojp-v2"
+      "title": "誰のためのブラウザー？ オープンAI「Atlas」が残念な理由",
+      "summary": "OpenAIの新ブラウザー「Atlas」は、AI統合型の革新を目指しているが、現時点では目的や利点が不明瞭で、ユーザーにとっての価値が見えにくいと指摘されています。記事筆者は「Atlasを試用したが、従来のブラウザーとの違いや利便性が感じられず、使用意図が不明だった」と述べています。「AtlasはAIによる情報整理や検索支援を特徴とするが、現段階では機能が限定的で、ユーザー体験に乏しい。OpenAIは今後のアップデートで改善を図る可能性があるが、現状では『誰のためのブラウザーなのか』が曖昧なまま」と述べています。",
+      "date": "2025-10-30",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.jp/s/371418/i-tried-openais-new-atlas-browser-but-i-still-dont-know-what-its-for/"
     }
   ],
   
   "BIZ": [
     {
       "tag": "経済",
-      "title": "【コラム】トランプ氏歓待成功、高市首相の外交本格始動－リーディー",
-      "summary": "高市首相はトランプ大統領を手厚く歓待し、外交デビューを成功させたと評価されています。安倍元首相の戦略を継承し、個人的な関係構築を重視する姿勢が際立ちました。日本株は高市政権への期待から上昇し、日経平均は初めて5万円を突破しました。",
-      "date": "2025-10-29",
+      "title": "黒田前日銀総裁、1ドル=120-130円前後に向けた円高進行見込む",
+      "summary": "黒田氏は、日米の金利差が縮小することで円高が進む可能性が高いと指摘。現在の為替水準（1ドル=153円前後）は過度な円安であり、適正水準への回帰を見込む。年末までに日銀が利上げを実施するとの見方も示し、金融政策の転換が円高要因になると分析。",
+      "date": "2025-10-30",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.co.jp/news/articles/2025-10-28/T4UAKNGP493700?srnd=cojp-v2"
+      "url": "https://www.bloomberg.co.jp/news/articles/2025-10-30/T4XIQ3GP493400?srnd=cojp-v2"
     },
    {
       "tag": "経済",
-      "title": "【日本市況】日経平均初の5万1000円台、AIや対米投資期待－債券下落",
-      "summary": "日経平均株価が史上初めて5万1000円台に到達し、日本市場は大幅に上昇しました。背景にはAI関連銘柄の活況や、対米投資への期待感が強まっていることがあります。一方で、債券市場は下落し、長期金利の上昇が見られました。",
-      "date": "2025-10-29",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.co.jp/news/articles/2025-10-29/T4VJJ6GOYMTI00?srnd=cojp-v2"
+      "title": "FRB、12月は金利据え置き見通し  0.25%利下げ予想修正＝野村",
+      "summary": "米経済指標の底堅さやインフレの粘着性を背景に、利下げ開始時期が後ろ倒しになる可能性が高まっている。野村は2026年にかけて段階的な利下げが進むと見ており、年末までの利下げは見送りと予測。市場ではFRBの慎重な姿勢を織り込みつつあり、金利高止まりの長期化が意識されている。",
+      "date": "2025-10-30",
+      "source": "Reuters",
+      "url": "https://jp.reuters.com/markets/japan/T4R5HC366NOGXPVPENQYCVYF2Y-2025-10-30/"
     }
   ]
 }
