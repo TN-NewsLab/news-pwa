@@ -1,0 +1,68 @@
+{
+  "updatedAt": "2025-10-31T05:39:08.712Z",
+  "top": [
+    {
+      "source": "BBC World",
+      "title": "Trump caps refugee admissions at record low - with most to be white South Africans",
+      "url": "https://www.bbc.com/news/articles/cy40jj71243o?at_medium=RSS&at_campaign=rss",
+      "summary": "The president sets the limit at 7,500 for the coming year, a dramatic cut from 125,000."
+    },
+    {
+      "source": "BBC World",
+      "title": "How teenager gave a street concert and was caught up in Russia's repressive past",
+      "url": "https://www.bbc.com/news/articles/cz91jyxj88ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Diana Loginova sang songs critical of the Kremlin. The 18-year-old and her bandmate are now in court."
+    },
+    {
+      "source": "BBC World",
+      "title": "'We saw people murdered in front of us' - Sudan siege survivors speak to the BBC",
+      "url": "https://www.bbc.com/news/articles/cgr4qqgdlkjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Harrowing accounts from people who have escaped an RSF assault on the besieged city of el-Fasher."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Watchdog slams O2 over unexpected price rise",
+      "url": "https://www.bbc.com/news/articles/cd047vl9ylpo?at_medium=RSS&at_campaign=rss",
+      "summary": "The media regulator said it was disappointed O2 raised prices more than was advertised when customers took out contracts."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "First UK phones to get satellite connectivity in signal blackspots announced",
+      "url": "https://www.bbc.com/news/articles/c993m88jer9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Virgin Media O2 has partnered with Elon Musk firm Starlink to offer the service."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Websites disabled in Microsoft global outage come back online",
+      "url": "https://www.bbc.com/news/articles/c3rj45n4x5eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Microsoft 365 and its Azure cloud computing platform were hit with DNS issues, similar to the recent AWS outage."
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "Microsoft&#8217;s agent platform play",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/tech/809889/github-agent-hq-platform-play-microsoft-jared-palmer-jay-parikh",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "Tim Cook says more AIs are coming to Apple Intelligence",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/news/810735/tim-cook-ai-apple-intelligence-integrations",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "Samsung’s AirPods Pro look-alikes have fallen to their best price in months",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/tech/810613/samsung-galaxy-buds-3-pro-anc-earbuds-deal-sale",
+      "summary": "(要約準備中)"
+    }
+  ]
+}
