@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2025-10-31T06:54:49.886Z",
+  "updatedAt": "2025-10-31T13:45:39.418Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Trump caps refugee admissions at record low - with most to be white South Africans",
-      "url": "https://www.bbc.com/news/articles/cy40jj71243o?at_medium=RSS&at_campaign=rss",
-      "summary": "The president sets the limit at 7,500 for the coming year, a dramatic cut from 125,000."
+      "title": "Hurricane Melissa death toll rises as aid struggles to reach parts of Jamaica",
+      "url": "https://www.bbc.com/news/articles/clylqpyg8pjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Authorities report at least 30 people have been killed in Haiti and 19 in Jamaica as a result of the devastating storm."
     },
     {
       "source": "BBC World",
-      "title": "How teenager gave a street concert and was caught up in Russia's repressive past",
-      "url": "https://www.bbc.com/news/articles/cz91jyxj88ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Diana Loginova sang songs critical of the Kremlin. The 18-year-old and her bandmate are now in court."
+      "title": "US strikes on alleged drug boats violate law, UN human rights chief says",
+      "url": "https://www.bbc.com/news/articles/cx2nx95pgz7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Volker Türk said the strikes were \"unacceptable\" and urged Washington to halt them immediately."
     },
     {
       "source": "BBC World",
-      "title": "'We saw people murdered in front of us' - Sudan siege survivors speak to the BBC",
-      "url": "https://www.bbc.com/news/articles/cgr4qqgdlkjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Harrowing accounts from people who have escaped an RSF assault on the besieged city of el-Fasher."
+      "title": "Election protesters defy army chief in third day of Tanzania unrest",
+      "url": "https://www.bbc.com/news/articles/cz0x8vdvkjgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Some deaths have been reported though accurate figures are hard to obtain due to the internet shutdown. "
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Microsoft&#8217;s agent platform play",
+        "#text": "The FCC is letting ISPs hide fees on your broadband bill",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/809889/github-agent-hq-platform-play-microsoft-jared-palmer-jay-parikh",
+      "url": "https://www.theverge.com/report/810928/fcc-broadband-information-labels-rollback",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Tim Cook says more AIs are coming to Apple Intelligence",
+        "#text": "Perplexity’s new AI tool aims to simplify patent research",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/810735/tim-cook-ai-apple-intelligence-integrations",
+      "url": "https://www.theverge.com/news/811340/perplexity-ai-patent-research-tool",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Samsung’s AirPods Pro look-alikes have fallen to their best price in months",
+        "#text": "ESPN, ABC, and other Disney channels go dark on YouTube TV",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/810613/samsung-galaxy-buds-3-pro-anc-earbuds-deal-sale",
+      "url": "https://www.theverge.com/news/811316/youtube-tv-disney-channels-pulled-deal-renewal",
       "summary": "(要約準備中)"
     }
   ]
