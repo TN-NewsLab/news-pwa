@@ -1,23 +1,35 @@
 {
-  "updatedAt": "2025-10-31T13:45:39.418Z",
+  "updatedAt": "2025-10-31T18:57:48.397Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Hurricane Melissa death toll rises as aid struggles to reach parts of Jamaica",
+      "title": "Hurricane death toll rises as Jamaica aid effort struggles",
       "url": "https://www.bbc.com/news/articles/clylqpyg8pjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Authorities report at least 30 people have been killed in Haiti and 19 in Jamaica as a result of the devastating storm."
+      "summary": "The devastating storm claimed nearly 50 lives when it swept Haiti and Jamaica this week.     "
     },
     {
       "source": "BBC World",
-      "title": "US strikes on alleged drug boats violate law, UN human rights chief says",
-      "url": "https://www.bbc.com/news/articles/cx2nx95pgz7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Volker Türk said the strikes were \"unacceptable\" and urged Washington to halt them immediately."
+      "title": "More than 60,000 flee Sudanese city after its capture by RSF militia, says UN",
+      "url": "https://www.bbc.com/news/articles/c0qppe4vdevo?at_medium=RSS&at_campaign=rss",
+      "summary": "El-Fasher is under the control of paramilitaries accused of mass executions and crimes against humanity."
     },
     {
       "source": "BBC World",
-      "title": "Election protesters defy army chief in third day of Tanzania unrest",
-      "url": "https://www.bbc.com/news/articles/cz0x8vdvkjgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Some deaths have been reported though accurate figures are hard to obtain due to the internet shutdown. "
+      "title": "South Africa hits back at US refugee plan to favour white Afrikaners",
+      "url": "https://www.bbc.com/news/articles/c1e3de5ny14o?at_medium=RSS&at_campaign=rss",
+      "summary": "Pretoria rubbishes claims of a white genocide and quotes prominent Afrikaners who dub Trump's plans racist."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Pornhub says UK visitors down 77% since age checks came in",
+      "url": "https://www.bbc.com/news/articles/cgkz3m3re1zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The site tells BBC News it believes people are viewing riskier sites - but they may just be using VPNs.  "
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Security concerns over system at heart of digital ID",
+      "url": "https://www.bbc.com/news/articles/c5y930x81wpo?at_medium=RSS&at_campaign=rss",
+      "summary": "The government is facing questions over whether One Login can be trusted to keep people's personal data secure."
     },
     {
       "source": "BBC Technology",
@@ -26,42 +38,30 @@
       "summary": "The media regulator said it was disappointed O2 raised prices more than was advertised when customers took out contracts."
     },
     {
-      "source": "BBC Technology",
-      "title": "First UK phones to get satellite connectivity in signal blackspots announced",
-      "url": "https://www.bbc.com/news/articles/c993m88jer9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Virgin Media O2 has partnered with Elon Musk firm Starlink to offer the service."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Websites disabled in Microsoft global outage come back online",
-      "url": "https://www.bbc.com/news/articles/c3rj45n4x5eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Microsoft 365 and its Azure cloud computing platform were hit with DNS issues, similar to the recent AWS outage."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "The FCC is letting ISPs hide fees on your broadband bill",
+        "#text": "Microsoft releases an Xbox Full Screen Experience preview for the MSI Claw",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/report/810928/fcc-broadband-information-labels-rollback",
+      "url": "https://www.theverge.com/news/811826/microsoft-xbox-full-screen-experience-fse-msi-claw-windows-11-insider",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Perplexity’s new AI tool aims to simplify patent research",
+        "#text": "Windows 11 tests Bluetooth audio sharing that connects two headsets at once",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/811340/perplexity-ai-patent-research-tool",
+      "url": "https://www.theverge.com/news/811795/microsoft-windows-11-bluetooth-le-shared-audio-headsets",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "ESPN, ABC, and other Disney channels go dark on YouTube TV",
+        "#text": "Dolby Atmos arrives in the new, affordable China-exclusive Hyundai Elexio",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/811316/youtube-tv-disney-channels-pulled-deal-renewal",
+      "url": "https://www.theverge.com/tech/811718/dolby-atmos-arrives-in-the-new-affordable-china-exclusive-hyundai-elexio",
       "summary": "(要約準備中)"
     }
   ]
