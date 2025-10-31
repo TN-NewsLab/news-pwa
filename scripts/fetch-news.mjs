@@ -3,9 +3,9 @@ import { XMLParser } from "fast-xml-parser";
 import fs from "fs";
 
 const FEEDS = [
-  { name: "Reuters Top", url: "https://feeds.reuters.com/reuters/topNews" },
-  { name: "Bloomberg Tech", url: "https://feeds.bloomberg.com/technology/news.rss" },
-  { name: "NHK", url: "https://www3.nhk.or.jp/rss/news/cat0.xml" }
+  { name: "BBC World", url: "https://feeds.bbci.co.uk/news/world/rss.xml" },
+  { name: "BBC Technology", url: "https://feeds.bbci.co.uk/news/technology/rss.xml" },
+  { name: "The Verge", url: "https://www.theverge.com/rss/index.xml" }
 ];
 
 const parser = new XMLParser({ ignoreAttributes: false });
