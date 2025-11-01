@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2025-11-01T06:49:14.589Z",
+  "updatedAt": "2025-11-01T13:30:10.416Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Scavenging for food in streets - desperation takes hold in Jamaica after hurricane",
+      "title": "'We need food, we have no food' - desperation takes hold in Jamaica after hurricane",
       "url": "https://www.bbc.com/news/articles/c0jdd186l0go?at_medium=RSS&at_campaign=rss",
       "summary": "People in Black River have not seen any aid, telling the BBC that they are fighting to survive."
     },
     {
       "source": "BBC World",
-      "title": "'No inch here was spared': Hurricane Melissa destroys Jamaica town",
-      "url": "https://www.bbc.com/news/videos/ce3xxzg09gro?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC’s Nada Tawfik reports from Black River, where the strongest storm to hit the country in modern history has left scenes of desperation."
+      "title": "Defence of Donbas town a priority, Zelensky says, as special forces deployed",
+      "url": "https://www.bbc.com/news/articles/crklljyx6mzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Army sources tell the BBC military intelligence special forces are being used to protect supply lines into Pokrovsk."
     },
     {
       "source": "BBC World",
-      "title": "Hundreds feared dead in Tanzania crackdown on election protests",
-      "url": "https://www.bbc.com/news/articles/cz0x8vdvkjgo?at_medium=RSS&at_campaign=rss",
-      "summary": "A diplomatic source tells the BBC there is credible evidence that at least 500 people have been killed."
+      "title": "Tanzania president wins election as hundreds feared dead in unrest",
+      "url": "https://www.bbc.com/news/articles/cm2ww0e0jewo?at_medium=RSS&at_campaign=rss",
+      "summary": "Demonstrations continued on Friday as young protesters denounced the election as unfair. "
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "You wish your phone had the Oppo Find X9 Pro&#8217;s battery life",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/tech/808067/oppo-find-x9-pro-review",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "The Playdate is a great indie puzzle machine",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/games/811497/playdate-puzzle-game-reviews-lexgrid-togglebot-what-time-is-it",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "GTA VI developer accused of union busting in mass firings",
         "@_type": "html"
       },
       "url": "https://www.theverge.com/news/811999/gta-vi-rockstar-games-union-busting",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Here are the shipping and return policies for all the big-name retailers",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/21570161/holiday-shipping-return-policy-apple-google-microsoft-amazon",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Microsoft releases an Xbox Full Screen Experience preview for the MSI Claw",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/news/811826/microsoft-xbox-full-screen-experience-fse-msi-claw-windows-11-insider",
       "summary": "(要約準備中)"
     }
   ]
