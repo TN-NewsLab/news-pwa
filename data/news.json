@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2025-10-31T18:57:48.397Z",
+  "updatedAt": "2025-11-01T03:35:26.529Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Hurricane death toll rises as Jamaica aid effort struggles",
-      "url": "https://www.bbc.com/news/articles/clylqpyg8pjo?at_medium=RSS&at_campaign=rss",
-      "summary": "The devastating storm claimed nearly 50 lives when it swept Haiti and Jamaica this week.     "
+      "title": "Scavenging for food in streets - desperation takes hold in Jamaica after hurricane",
+      "url": "https://www.bbc.com/news/articles/c0jdd186l0go?at_medium=RSS&at_campaign=rss",
+      "summary": "People in Black River haven't seen any aid and told the BBC that they are fighting to survive."
     },
     {
       "source": "BBC World",
-      "title": "More than 60,000 flee Sudanese city after its capture by RSF militia, says UN",
-      "url": "https://www.bbc.com/news/articles/c0qppe4vdevo?at_medium=RSS&at_campaign=rss",
-      "summary": "El-Fasher is under the control of paramilitaries accused of mass executions and crimes against humanity."
+      "title": "'No inch here was spared': Hurricane Melissa destroys Jamaica town",
+      "url": "https://www.bbc.com/news/videos/ce3xxzg09gro?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC’s Nada Tawfik reports from Black River, where the strongest storm to hit the country in modern history has left scenes of desperation."
     },
     {
       "source": "BBC World",
-      "title": "South Africa hits back at US refugee plan to favour white Afrikaners",
-      "url": "https://www.bbc.com/news/articles/c1e3de5ny14o?at_medium=RSS&at_campaign=rss",
-      "summary": "Pretoria rubbishes claims of a white genocide and quotes prominent Afrikaners who dub Trump's plans racist."
+      "title": "Hundreds feared dead in Tanzania crackdown on election protests",
+      "url": "https://www.bbc.com/news/articles/cz0x8vdvkjgo?at_medium=RSS&at_campaign=rss",
+      "summary": "A diplomatic source tells the BBC there is credible evidence that at least 500 people have been killed."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "GTA VI developer accused of union busting in mass firings",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/news/811999/gta-vi-rockstar-games-union-busting",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "Here are the shipping and return policies for all the big-name retailers",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/21570161/holiday-shipping-return-policy-apple-google-microsoft-amazon",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "Microsoft releases an Xbox Full Screen Experience preview for the MSI Claw",
         "@_type": "html"
       },
       "url": "https://www.theverge.com/news/811826/microsoft-xbox-full-screen-experience-fse-msi-claw-windows-11-insider",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Windows 11 tests Bluetooth audio sharing that connects two headsets at once",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/news/811795/microsoft-windows-11-bluetooth-le-shared-audio-headsets",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Dolby Atmos arrives in the new, affordable China-exclusive Hyundai Elexio",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/tech/811718/dolby-atmos-arrives-in-the-new-affordable-china-exclusive-hyundai-elexio",
       "summary": "(要約準備中)"
     }
   ]
