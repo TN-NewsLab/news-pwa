@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2025-11-02T06:53:01.473Z",
+  "updatedAt": "2025-11-02T13:29:31.300Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Hurricane Melissa death toll rises to 28 in Jamaica",
+      "url": "https://www.bbc.com/news/articles/c1e34p92q0vo?at_medium=RSS&at_campaign=rss",
+      "summary": "PM Andrew Holness warns of reports of possible fatalities still to be verified - suggesting the figure may yet rise."
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump tells military to prepare for 'action' against Islamist militants in Nigeria",
+      "url": "https://www.bbc.com/news/articles/cev18jy21w7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president says his threat is over killings of Christians - though experts say there is no evidence they are disproportionately targeted."
+    },
     {
       "source": "BBC World",
       "title": "Key town faces 'multi-thousand' Russian force, top Ukraine commander admits",
       "url": "https://www.bbc.com/news/articles/crklljyx6mzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Oleksandr Syrskyi denies Russian reports that Ukrainian troops are surrounded in the eastern town of Pokrovsk."
-    },
-    {
-      "source": "BBC World",
-      "title": "Britons evacuated from Jamaica as UK sends Hurricane Melissa aid",
-      "url": "https://www.bbc.com/news/articles/cvg441qyv2xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Foreign Secretary Yvette Cooper has said the UK's first chartered flight from Jamaica to the UK will arrive on Sunday."
-    },
-    {
-      "source": "BBC World",
-      "title": "New Yorkers could pick a political newcomer to run their city - and take on Trump",
-      "url": "https://www.bbc.com/news/articles/c3rjjdvx5r5o?at_medium=RSS&at_campaign=rss",
-      "summary": "From hip-hop musician to the brink of running America's biggest city, how did Zohran Mamdani win over New Yorkers?"
+      "summary": "Oleksandr Syrskyi says special forces have been deployed but denies Russian reports Ukrainian troops are surrounded in Pokrovsk."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "The great tariff shakedown",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/column/811549/trump-tariff-shakedown",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "The best things to watch over and over and over",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/tech/811575/best-shows-rewatch-multiple-times-installer",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "Google’s Pixel Watch 3 and Anker’s two-headed USB-C cable are our favorite deals this week",
         "@_type": "html"
       },
       "url": "https://www.theverge.com/tech/811879/google-pixel-watch-3-anker-140w-usb-c-cable-deal-sale",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Ayaneo Phone confirmed in a teaser featuring retro Remake branding",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/news/812084/ayaneo-phone-confirmed-in-a-teaser-featuring-retro-remake-branding",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "LG’s brilliant B5 OLED TV is already down to just $530 for Black Friday",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/tech/811935/lg-b5-oled-tv-black-friday-doorbuster-deal-sale",
       "summary": "(要約準備中)"
     }
   ]
