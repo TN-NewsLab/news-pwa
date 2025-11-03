@@ -1,23 +1,35 @@
 {
-  "updatedAt": "2025-11-03T13:46:33.600Z",
+  "updatedAt": "2025-11-03T18:49:04.170Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Israeli military's ex-top lawyer arrested as scandal over video leak deepens",
+      "title": "Israeli military's ex-top lawyer arrested over leak of video allegedly showing Palestinian detainee abuse",
       "url": "https://www.bbc.com/news/articles/cy0kpd97qqko?at_medium=RSS&at_campaign=rss",
       "summary": "Maj Gen Yifat Tomer-Yerushalmi resigned on Friday, admitting leaking a video allegedly showing abuse of a Palestinian detainee."
     },
     {
       "source": "BBC World",
-      "title": "Trump says he doubts US will go to war with Venezuela ",
-      "url": "https://www.bbc.com/news/articles/c709rwxzx9yo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president also suggests Nicolás Maduro's days as the South American country's leader are numbered."
+      "title": "Agony for families as landslide death toll climbs in Uganda and Kenya",
+      "url": "https://www.bbc.com/news/articles/cyv8g28zd7mo?at_medium=RSS&at_campaign=rss",
+      "summary": "More than 40 people are known to have died since last week, according to officials."
     },
     {
       "source": "BBC World",
-      "title": "At least 20 dead after magnitude-6.3 earthquake hits Afghanistan",
-      "url": "https://www.bbc.com/news/articles/c8jrw12d3edo?at_medium=RSS&at_campaign=rss",
-      "summary": "The quake struck near Mazar-e Sharif, one of Afghanistan's largest cities, in the early hours of Monday."
+      "title": "French climber among at least three killed in Nepal avalanche",
+      "url": "https://www.bbc.com/news/articles/c2kp42y5y81o?at_medium=RSS&at_campaign=rss",
+      "summary": "A search is continuing in the Dolakha district for four other foreigners who are feared dead. "
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Government disappointed by unexpected O2 price rise",
+      "url": "https://www.bbc.com/news/articles/c5y02797xygo?at_medium=RSS&at_campaign=rss",
+      "summary": "The technology secretary says O2's higher-than-expected price increase is \"disappointing\" given the cost of living."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "ChatGPT owner OpenAI signs $38bn cloud computing deal with Amazon",
+      "url": "https://www.bbc.com/news/articles/cgqlzje32pjo?at_medium=RSS&at_campaign=rss",
+      "summary": "The seven-year agreement will see OpenAI gain access to Nvidia graphics processors to train its artificial intelligence models. "
     },
     {
       "source": "BBC Technology",
@@ -26,42 +38,30 @@
       "summary": "The president pardoned Changpeng Zhao, the co-founder of the world's largest crypto exchange, in October."
     },
     {
-      "source": "BBC Technology",
-      "title": "China to ease chip export ban in new trade deal, White House says",
-      "url": "https://www.bbc.com/news/articles/cy5qgy93w9go?at_medium=RSS&at_campaign=rss",
-      "summary": "Nexperia chips are vital in car production and there were concerns from manufacturers about the damage a shortage could have. "
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Football Manager has finally added women's teams after 20 years. I put the game to the test",
-      "url": "https://www.bbc.com/news/articles/clyz8de5p57o?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Tom Gerken plays the new version of the sports management video game after it faced delays and cancellations."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "How Frankenstein’s creature designer found a new look for an iconic monster",
+        "#text": "Studio Ghibli, Bandai Namco, Square Enix demand OpenAI stop using their content to train AI",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/811694/netflix-frankenstein-creature-design-interview-mike-hill",
+      "url": "https://www.theverge.com/news/812545/coda-studio-ghibli-sora-2-copyright-infringement",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Redmagic’s liquid-cooled gaming phone starts at $749",
+        "#text": "Coca-Cola&#8217;s new AI holiday ad is a sloppy eyesore",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/812391/redmagics-liquid-cooled-gaming-phone-starts-at-749",
+      "url": "https://www.theverge.com/news/812559/coca-cola-ai-holiday-christmas-commercial-2025",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Google pulls AI model after senator says it fabricated assault allegation",
+        "#text": "The AI industry is running on FOMO",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/812376/google-removes-gemma-senator-blackburn-hallucination",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/812455/ai-industry-earnings-bubble-fomo-hype",
       "summary": "(要約準備中)"
     }
   ]
