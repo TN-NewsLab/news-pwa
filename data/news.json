@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2025-11-03T03:45:00.844Z",
+  "updatedAt": "2025-11-03T07:01:44.605Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "At least 20 dead after magnitude-6.3 earthquake hits Afghanistan",
+      "url": "https://www.bbc.com/news/articles/c8jrw12d3edo?at_medium=RSS&at_campaign=rss",
+      "summary": "The quake struck near Mazar-e Sharif, one of Afghanistan's largest cities, in the early hours of Monday."
+    },
+    {
+      "source": "BBC World",
+      "title": "I'm luckiest man alive, it's a miracle, says Air India crash sole survivor",
+      "url": "https://www.bbc.com/news/articles/cp85zvne1m3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Viswashkumar Ramesh describes the pain and anguish he is enduring despite surviving the disaster."
+    },
     {
       "source": "BBC World",
       "title": "'No help, no food, no water': Hurricane-hit Jamaican towns desperately wait for aid",
@@ -8,16 +20,10 @@
       "summary": "Days after Hurricane Melissa hit, communities are isolated with little food, no water, and no idea of when normalcy will return."
     },
     {
-      "source": "BBC World",
-      "title": "At least eight dead after magnitude-6.3 earthquake hits Afghanistan",
-      "url": "https://www.bbc.com/news/articles/c8jrw12d3edo?at_medium=RSS&at_campaign=rss",
-      "summary": "The quake struck near Mazar-e Sharif, one of Afghanistan's largest cities, in the early hours of Monday."
-    },
-    {
-      "source": "BBC World",
-      "title": "Nato 'will stand with Ukraine' to get long-lasting peace, senior official tells BBC",
-      "url": "https://www.bbc.com/news/articles/czxng7kxnp9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Admiral Giuseppe Cavo Dragone tells the BBC the Russia-Ukraine war is bogged down, and it is \"almost time to sit and talk\"."
+      "source": "BBC Technology",
+      "title": "'No idea who he is', says Trump after pardoning crypto tycoon",
+      "url": "https://www.bbc.com/news/articles/cn7ek63e5xyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The president pardoned Changpeng Zhao, the co-founder of the world's largest crypto exchange, in October."
     },
     {
       "source": "BBC Technology",
@@ -30,12 +36,6 @@
       "title": "China to ease chip export ban in new trade deal, White House says",
       "url": "https://www.bbc.com/news/articles/cy5qgy93w9go?at_medium=RSS&at_campaign=rss",
       "summary": "Nexperia chips are vital in car production and there were concerns from manufacturers about the damage a shortage could have. "
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Vue cinema boss: I don't see streaming as the competition",
-      "url": "https://www.bbc.com/news/articles/c986d9jjv87o?at_medium=RSS&at_campaign=rss",
-      "summary": "Tim Richards spoke to Will Bain on the BBC's Big Boss Interview podcast."
     },
     {
       "source": "The Verge",
