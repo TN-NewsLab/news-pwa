@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2025-11-03T07:01:44.605Z",
+  "updatedAt": "2025-11-03T13:46:33.600Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Israeli military's ex-top lawyer arrested as scandal over video leak deepens",
+      "url": "https://www.bbc.com/news/articles/cy0kpd97qqko?at_medium=RSS&at_campaign=rss",
+      "summary": "Maj Gen Yifat Tomer-Yerushalmi resigned on Friday, admitting leaking a video allegedly showing abuse of a Palestinian detainee."
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump says he doubts US will go to war with Venezuela ",
+      "url": "https://www.bbc.com/news/articles/c709rwxzx9yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president also suggests Nicolás Maduro's days as the South American country's leader are numbered."
+    },
     {
       "source": "BBC World",
       "title": "At least 20 dead after magnitude-6.3 earthquake hits Afghanistan",
@@ -8,28 +20,10 @@
       "summary": "The quake struck near Mazar-e Sharif, one of Afghanistan's largest cities, in the early hours of Monday."
     },
     {
-      "source": "BBC World",
-      "title": "I'm luckiest man alive, it's a miracle, says Air India crash sole survivor",
-      "url": "https://www.bbc.com/news/articles/cp85zvne1m3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Viswashkumar Ramesh describes the pain and anguish he is enduring despite surviving the disaster."
-    },
-    {
-      "source": "BBC World",
-      "title": "'No help, no food, no water': Hurricane-hit Jamaican towns desperately wait for aid",
-      "url": "https://www.bbc.com/news/articles/cpv11w8ez10o?at_medium=RSS&at_campaign=rss",
-      "summary": "Days after Hurricane Melissa hit, communities are isolated with little food, no water, and no idea of when normalcy will return."
-    },
-    {
       "source": "BBC Technology",
-      "title": "'No idea who he is', says Trump after pardoning crypto tycoon",
+      "title": "'No idea who he is,' says Trump after pardoning crypto tycoon",
       "url": "https://www.bbc.com/news/articles/cn7ek63e5xyo?at_medium=RSS&at_campaign=rss",
       "summary": "The president pardoned Changpeng Zhao, the co-founder of the world's largest crypto exchange, in October."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Will AI mean the end of call centres?",
-      "url": "https://www.bbc.com/news/articles/cz913ylq3k3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Some commentators predict artificial intelligence is about to replace most customer support jobs."
     },
     {
       "source": "BBC Technology",
@@ -38,30 +32,36 @@
       "summary": "Nexperia chips are vital in car production and there were concerns from manufacturers about the damage a shortage could have. "
     },
     {
+      "source": "BBC Technology",
+      "title": "Football Manager has finally added women's teams after 20 years. I put the game to the test",
+      "url": "https://www.bbc.com/news/articles/clyz8de5p57o?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Tom Gerken plays the new version of the sports management video game after it faced delays and cancellations."
+    },
+    {
       "source": "The Verge",
       "title": {
-        "#text": "The best new movies to stream this week",
+        "#text": "How Frankenstein’s creature designer found a new look for an iconic monster",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/812193/the-best-new-movies-to-stream-this-week",
+      "url": "https://www.theverge.com/entertainment/811694/netflix-frankenstein-creature-design-interview-mike-hill",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "You need to watch the found footage classic, Lake Mungo",
+        "#text": "Redmagic’s liquid-cooled gaming phone starts at $749",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/column/812150/watch-the-found-footage-classic-horror-mokumentary-lake-mungo",
+      "url": "https://www.theverge.com/news/812391/redmagics-liquid-cooled-gaming-phone-starts-at-749",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Why the Zune never killed the iPod",
+        "#text": "Google pulls AI model after senator says it fabricated assault allegation",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/podcast/811595/microsoft-zune-version-history",
+      "url": "https://www.theverge.com/news/812376/google-removes-gemma-senator-blackburn-hallucination",
       "summary": "(要約準備中)"
     }
   ]
