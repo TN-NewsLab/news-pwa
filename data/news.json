@@ -1,41 +1,50 @@
 {
-  "updatedAt": "2025-11-02T18:45:20.194Z",
+  "updatedAt": "2025-11-03T03:45:00.844Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "'No help, no food, no water': hurricane-hit Jamaican towns desperately wait for aid",
+      "title": "'No help, no food, no water': Hurricane-hit Jamaican towns desperately wait for aid",
       "url": "https://www.bbc.com/news/articles/cpv11w8ez10o?at_medium=RSS&at_campaign=rss",
       "summary": "Days after Hurricane Melissa hit, communities are isolated with little food, no water, and no idea of when normalcy will return."
     },
     {
       "source": "BBC World",
-      "title": "Hurricane Melissa death toll rises to 28 in Jamaica",
-      "url": "https://www.bbc.com/news/articles/c1e34p92q0vo?at_medium=RSS&at_campaign=rss",
-      "summary": "PM Andrew Holness warns of reports of possible fatalities still to be verified - suggesting the figure may yet rise."
+      "title": "At least eight dead after magnitude-6.3 earthquake hits Afghanistan",
+      "url": "https://www.bbc.com/news/articles/c8jrw12d3edo?at_medium=RSS&at_campaign=rss",
+      "summary": "The quake struck near Mazar-e Sharif, one of Afghanistan's largest cities, in the early hours of Monday."
     },
     {
       "source": "BBC World",
-      "title": "Louvre heist carried out by petty criminals, prosecutor says",
-      "url": "https://www.bbc.com/news/articles/c4gw42j29lqo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Paris prosecutor says four suspects arrested so far are \"clearly local people\", not organised crime professionals."
+      "title": "Nato 'will stand with Ukraine' to get long-lasting peace, senior official tells BBC",
+      "url": "https://www.bbc.com/news/articles/czxng7kxnp9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Admiral Giuseppe Cavo Dragone tells the BBC the Russia-Ukraine war is bogged down, and it is \"almost time to sit and talk\"."
     },
     {
       "source": "BBC Technology",
-      "title": "Pornhub says UK visitors down 77% since age checks came in",
-      "url": "https://www.bbc.com/news/articles/cgkz3m3re1zo?at_medium=RSS&at_campaign=rss",
-      "summary": "The site tells BBC News it believes people are viewing riskier sites - but they may just be using VPNs.  "
+      "title": "Will AI mean the end of call centres?",
+      "url": "https://www.bbc.com/news/articles/cz913ylq3k3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Some commentators predict artificial intelligence is about to replace most customer support jobs."
     },
     {
       "source": "BBC Technology",
-      "title": "Security concerns over system at heart of digital ID",
-      "url": "https://www.bbc.com/news/articles/c5y930x81wpo?at_medium=RSS&at_campaign=rss",
-      "summary": "The government is facing questions over whether One Login can be trusted to keep people's personal data secure."
+      "title": "China to ease chip export ban in new trade deal, White House says",
+      "url": "https://www.bbc.com/news/articles/cy5qgy93w9go?at_medium=RSS&at_campaign=rss",
+      "summary": "Nexperia chips are vital in car production and there were concerns from manufacturers about the damage a shortage could have. "
     },
     {
       "source": "BBC Technology",
-      "title": "Watchdog slams O2 over unexpected price rise",
-      "url": "https://www.bbc.com/news/articles/cd047vl9ylpo?at_medium=RSS&at_campaign=rss",
-      "summary": "The media regulator said it was disappointed O2 raised prices more than was advertised when customers took out contracts."
+      "title": "Vue cinema boss: I don't see streaming as the competition",
+      "url": "https://www.bbc.com/news/articles/c986d9jjv87o?at_medium=RSS&at_campaign=rss",
+      "summary": "Tim Richards spoke to Will Bain on the BBC's Big Boss Interview podcast."
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "The best new movies to stream this week",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/entertainment/812193/the-best-new-movies-to-stream-this-week",
+      "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/podcast/811595/microsoft-zune-version-history",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "The perfect grocery list-making app doesn’t exist",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/tech/809152/grocery-list-app-paprika-better-meal-google-keep",
       "summary": "(要約準備中)"
     }
   ]
