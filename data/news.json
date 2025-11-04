@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2025-11-04T13:48:08.163Z",
+  "updatedAt": "2025-11-04T18:52:44.019Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Polls open in NYC mayoral race - here are five things to watch in US elections",
+      "title": "Dick Cheney's death a loss to the nation, says George W Bush",
+      "url": "https://www.bbc.com/news/articles/clyzm1j6l76o?at_medium=RSS&at_campaign=rss",
+      "summary": "Cheney became one of the most powerful vice-presidents in US history under Bush, and was a key architect in his \"war on terror\"."
+    },
+    {
+      "source": "BBC World",
+      "title": "Polls open in US elections - here are five things to watch",
       "url": "https://www.bbc.com/news/articles/c0qp5yjd253o?at_medium=RSS&at_campaign=rss",
       "summary": "Though President Donald Trump is not on the ballot, his agenda looms large over the races in New York City, New Jersey, and Virginia."
     },
     {
       "source": "BBC World",
-      "title": "China sentences infamous Myanmar scam mafia members to death",
-      "url": "https://www.bbc.com/news/articles/cy9pyljl009o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Bai family is among notorious crime gangs ensnared in a crackdown on scam networks."
-    },
-    {
-      "source": "BBC World",
-      "title": "Seven climbers dead after Nepal avalanche",
-      "url": "https://www.bbc.com/news/articles/c2kp42y5y81o?at_medium=RSS&at_campaign=rss",
-      "summary": "Rescuers located two bodies and are searching for the remaining five, believed to have been buried by snow."
+      "title": "Hamas hands Red Cross coffin it says contains Gaza hostage's body",
+      "url": "https://www.bbc.com/news/articles/c1wlz8j8lr4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Israeli military says the remains will be transferred to its forces in Gaza, who will take them to Israel for identification."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Tech companies don’t care that students use their AI agents to cheat",
+        "#text": "OpenAI launches its Sora app on Android",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/812906/ai-agents-cheating-school-students",
+      "url": "https://www.theverge.com/news/813533/openai-sora-android-launch",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "How a bunch of hackers freed the Kinect from the Xbox",
+        "#text": "Samsung previews HDR10 Plus Advanced, its answer to Dolby Vision 2",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/812803/hacking-kinect-history",
+      "url": "https://www.theverge.com/tech/813389/samsung-previews-hdr10-plus-advanced-its-answer-to-dolby-vision-2",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Nintendo is raising its Switch 2 sales expectations",
+        "#text": "Every current-gen Fitbit is already heavily discounted for Black Friday",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/813025/nintendo-switch-2-sales-september-2025-earnings",
+      "url": "https://www.theverge.com/tech/813053/fitbit-fitness-tracker-deals-black-friday-sale-2025",
       "summary": "(要約準備中)"
     }
   ]
