@@ -1,11 +1,17 @@
 {
-  "updatedAt": "2025-11-03T18:49:04.170Z",
+  "updatedAt": "2025-11-04T03:34:11.799Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Israeli military's ex-top lawyer arrested over leak of video allegedly showing Palestinian detainee abuse",
-      "url": "https://www.bbc.com/news/articles/cy0kpd97qqko?at_medium=RSS&at_campaign=rss",
-      "summary": "Maj Gen Yifat Tomer-Yerushalmi resigned on Friday, admitting leaking a video allegedly showing abuse of a Palestinian detainee."
+      "title": "Trump administration will tap emergency fund to pay partial food stamp benefits",
+      "url": "https://www.bbc.com/news/articles/cglg632n719o?at_medium=RSS&at_campaign=rss",
+      "summary": "The shutdown has deprived more than 40 million Americans of food assistance, known as Snap, since Saturday. "
+    },
+    {
+      "source": "BBC World",
+      "title": "China academic intimidation claim referred to counter-terrorism police",
+      "url": "https://www.bbc.com/news/articles/cj0e1lyyvdlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Sensitive research  into alleged human rights abuses is alleged to have been shut down by Chinese agents."
     },
     {
       "source": "BBC World",
@@ -14,10 +20,16 @@
       "summary": "More than 40 people are known to have died since last week, according to officials."
     },
     {
-      "source": "BBC World",
-      "title": "French climber among at least three killed in Nepal avalanche",
-      "url": "https://www.bbc.com/news/articles/c2kp42y5y81o?at_medium=RSS&at_campaign=rss",
-      "summary": "A search is continuing in the Dolakha district for four other foreigners who are feared dead. "
+      "source": "BBC Technology",
+      "title": "Online porn showing choking to be made illegal, government says",
+      "url": "https://www.bbc.com/news/articles/clyk3qzq7k7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Possession and publication of such material will be a criminal offence, under amendments to the Crime and Policing Bill."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Shein bans all sex dolls after outrage over childlike products",
+      "url": "https://www.bbc.com/news/articles/cddrg70pj1mo?at_medium=RSS&at_campaign=rss",
+      "summary": "Every listing and image related to the sex dolls has been removed from Shein's platform, the firm said."
     },
     {
       "source": "BBC Technology",
@@ -26,42 +38,30 @@
       "summary": "The technology secretary says O2's higher-than-expected price increase is \"disappointing\" given the cost of living."
     },
     {
-      "source": "BBC Technology",
-      "title": "ChatGPT owner OpenAI signs $38bn cloud computing deal with Amazon",
-      "url": "https://www.bbc.com/news/articles/cgqlzje32pjo?at_medium=RSS&at_campaign=rss",
-      "summary": "The seven-year agreement will see OpenAI gain access to Nvidia graphics processors to train its artificial intelligence models. "
-    },
-    {
-      "source": "BBC Technology",
-      "title": "'No idea who he is,' says Trump after pardoning crypto tycoon",
-      "url": "https://www.bbc.com/news/articles/cn7ek63e5xyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The president pardoned Changpeng Zhao, the co-founder of the world's largest crypto exchange, in October."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Studio Ghibli, Bandai Namco, Square Enix demand OpenAI stop using their content to train AI",
+        "#text": "I tested 30 smart locks, and these are the best",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/812545/coda-studio-ghibli-sora-2-copyright-infringement",
+      "url": "https://www.theverge.com/23393163/best-smart-door-lock",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Coca-Cola&#8217;s new AI holiday ad is a sloppy eyesore",
+        "#text": "No, ChatGPT hasn&#8217;t added a ban on giving legal and health advice",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/812559/coca-cola-ai-holiday-christmas-commercial-2025",
+      "url": "https://www.theverge.com/news/812848/chatgpt-legal-medical-advice-rumor",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The AI industry is running on FOMO",
+        "#text": "iOS 26.1 lets you tweak Liquid Glass, and it&#8217;s out now",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/812455/ai-industry-earnings-bubble-fomo-hype",
+      "url": "https://www.theverge.com/news/812375/apple-iphone-ios-26-1-update-availability",
       "summary": "(要約準備中)"
     }
   ]
