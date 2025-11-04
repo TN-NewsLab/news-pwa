@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2025-11-04T06:56:31.770Z",
+  "updatedAt": "2025-11-04T13:48:08.163Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Trump administration will tap emergency fund to pay partial food stamp benefits",
-      "url": "https://www.bbc.com/news/articles/cglg632n719o?at_medium=RSS&at_campaign=rss",
-      "summary": "The shutdown has deprived more than 40 million Americans of food assistance, known as Snap, since Saturday. "
+      "title": "Polls open in NYC mayoral race - here are five things to watch in US elections",
+      "url": "https://www.bbc.com/news/articles/c0qp5yjd253o?at_medium=RSS&at_campaign=rss",
+      "summary": "Though President Donald Trump is not on the ballot, his agenda looms large over the races in New York City, New Jersey, and Virginia."
     },
     {
       "source": "BBC World",
-      "title": "China academic intimidation claim referred to counter-terrorism police",
-      "url": "https://www.bbc.com/news/articles/cj0e1lyyvdlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Sensitive research  into alleged human rights abuses is alleged to have been shut down by Chinese agents."
+      "title": "China sentences infamous Myanmar scam mafia members to death",
+      "url": "https://www.bbc.com/news/articles/cy9pyljl009o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Bai family is among notorious crime gangs ensnared in a crackdown on scam networks."
     },
     {
       "source": "BBC World",
-      "title": "Agony for families as landslide death toll climbs in Uganda and Kenya",
-      "url": "https://www.bbc.com/news/articles/cyv8g28zd7mo?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 40 people are known to have died since last week, according to officials."
+      "title": "Seven climbers dead after Nepal avalanche",
+      "url": "https://www.bbc.com/news/articles/c2kp42y5y81o?at_medium=RSS&at_campaign=rss",
+      "summary": "Rescuers located two bodies and are searching for the remaining five, believed to have been buried by snow."
     },
     {
       "source": "BBC Technology",
@@ -29,7 +29,7 @@
       "source": "BBC Technology",
       "title": "Shein bans all sex dolls after outrage over childlike products",
       "url": "https://www.bbc.com/news/articles/cddrg70pj1mo?at_medium=RSS&at_campaign=rss",
-      "summary": "Every listing and image related to the sex dolls has been removed from Shein's platform, the firm said."
+      "summary": "Every listing and image related to the sex dolls has been removed from Shein's platform, the firm says."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "I tested 30 smart locks, and these are the best",
+        "#text": "Tech companies don’t care that students use their AI agents to cheat",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/23393163/best-smart-door-lock",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/812906/ai-agents-cheating-school-students",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "No, ChatGPT hasn&#8217;t added a ban on giving legal and health advice",
+        "#text": "How a bunch of hackers freed the Kinect from the Xbox",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/812848/chatgpt-legal-medical-advice-rumor",
+      "url": "https://www.theverge.com/tech/812803/hacking-kinect-history",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "iOS 26.1 lets you tweak Liquid Glass, and it&#8217;s out now",
+        "#text": "Nintendo is raising its Switch 2 sales expectations",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/812375/apple-iphone-ios-26-1-update-availability",
+      "url": "https://www.theverge.com/news/813025/nintendo-switch-2-sales-september-2025-earnings",
       "summary": "(要約準備中)"
     }
   ]
