@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-11-05T06:54:56.473Z",
+  "updatedAt": "2025-11-05T13:45:56.149Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,21 +9,21 @@
     },
     {
       "source": "BBC World",
-      "title": "At least seven people killed after UPS cargo plane crashes in Kentucky",
-      "url": "https://www.bbc.com/news/articles/ce9dyyydjr0o?at_medium=RSS&at_campaign=rss",
-      "summary": "At least 11 people were injured when the plane exploded during takeoff near Louisville International Airport. "
+      "title": "Mamdani seals remarkable victory - but real challenges await",
+      "url": "https://www.bbc.com/news/articles/cly4kr8gzr2o?at_medium=RSS&at_campaign=rss",
+      "summary": "After entering the race largely unnoticed, the new mayor of New York City can expect to face serious scrutiny in office."
     },
     {
       "source": "BBC World",
-      "title": "Dick Cheney's death a loss to the nation, says George W Bush",
-      "url": "https://www.bbc.com/news/articles/clyzm1j6l76o?at_medium=RSS&at_campaign=rss",
-      "summary": "Cheney became one of the most powerful vice-presidents in US history under Bush, and was a key architect in his \"war on terror\"."
+      "title": "At least seven people killed after UPS cargo plane crashes in Kentucky",
+      "url": "https://www.bbc.com/news/articles/ce9dyyydjr0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Eleven others were injured when the plane exploded during takeoff near  Louisville Muhammad Ali International Airport."
     },
     {
       "source": "BBC Technology",
-      "title": "France investigates Shein and Temu after sex doll scandal",
+      "title": "Shein opens first store in Paris overshadowed by French sex-doll inquiry",
       "url": "https://www.bbc.com/news/articles/cx2lppx2jm7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Retailers Wish and AliExpress are also being investigated in relation to the offence of enabling minors to access pornographic content."
+      "summary": "Shein's fast-fashion outlet inside Paris department store BHV prompts several French brands to leave."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Epic and Google agree to settle their lawsuit and change Android’s fate globally",
+        "#text": "Zohran Mamdani won because he knew when to be online — and when not to",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/813991/epic-google-proposed-settlement",
+      "url": "https://www.theverge.com/policy/814065/zohran-mamdani-nyc-mayor-race-victory-online",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The best robot vacuums we&#8217;ve tested for 2025",
+        "#text": "We finally have a Nintendo Store app for iOS and Android",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/22997597/best-robot-vacuum-cleaner",
+      "url": "https://www.theverge.com/news/814054/nintendo-store-app-ios-android-games-shop",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Google has a ‘moonshot’ plan for AI data centers in space",
+        "#text": "Hot subpoena summer",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/813894/google-project-suncatcher-ai-datacenter-satellites",
+      "url": "https://www.theverge.com/cs/features/804409/perez-hilton-lively-baldoni-subpoena",
       "summary": "(要約準備中)"
     }
   ]
