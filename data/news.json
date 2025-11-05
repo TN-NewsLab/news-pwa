@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-11-05T13:45:56.149Z",
+  "updatedAt": "2025-11-05T18:54:21.509Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,21 +9,27 @@
     },
     {
       "source": "BBC World",
-      "title": "Mamdani seals remarkable victory - but real challenges await",
-      "url": "https://www.bbc.com/news/articles/cly4kr8gzr2o?at_medium=RSS&at_campaign=rss",
-      "summary": "After entering the race largely unnoticed, the new mayor of New York City can expect to face serious scrutiny in office."
+      "title": "'One of us': Ugandan pride in New York mayor with roots in their country",
+      "url": "https://www.bbc.com/news/articles/c0510463p9do?at_medium=RSS&at_campaign=rss",
+      "summary": "A professor describes Mamdani as \"one of us\" while some young Ugandans take inspiration from the 34-year-old's victory."
     },
     {
       "source": "BBC World",
-      "title": "At least seven people killed after UPS cargo plane crashes in Kentucky",
+      "title": "At least nine people killed after UPS cargo plane crashes in Kentucky",
       "url": "https://www.bbc.com/news/articles/ce9dyyydjr0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Eleven others were injured when the plane exploded during takeoff near  Louisville Muhammad Ali International Airport."
+      "summary": "Others were injured when the plane exploded during takeoff near  Louisville Muhammad Ali International Airport."
     },
     {
       "source": "BBC Technology",
-      "title": "Shein opens first store in Paris overshadowed by French sex-doll inquiry",
+      "title": "MP wants Elon Musk's chatbot shut down over claim he enabled grooming gangs",
+      "url": "https://www.bbc.com/news/articles/c9d6vwg80qyo?at_medium=RSS&at_campaign=rss",
+      "summary": "SNP MP Pete Wishart says he is seeking legal advice over the \"disturbing\" AI-generated social media post."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "France moves to suspend Shein website as it opens first store in Paris",
       "url": "https://www.bbc.com/news/articles/cx2lppx2jm7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Shein's fast-fashion outlet inside Paris department store BHV prompts several French brands to leave."
+      "summary": "The economy ministry said proceedings would last until Shein proved all of its content complied with French law."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "The car-maker is lobbying fiercely for the pay package, which is being voted on ahead of its AGM on Thursday."
     },
     {
-      "source": "BBC Technology",
-      "title": "AI 'godmother' Fei-Fei Li says she is 'proud to be different'",
-      "url": "https://www.bbc.com/news/articles/c5yp2vj92e9o?at_medium=RSS&at_campaign=rss",
-      "summary": "AI pioneer Professor Fei-Fei Li is set to receive a top engineering prize from the King for her contributions to the field. "
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Zohran Mamdani won because he knew when to be online — and when not to",
+        "#text": "Amazon&#8217;s grocery store dreams are reshaping Whole Foods",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/814065/zohran-mamdani-nyc-mayor-race-victory-online",
+      "url": "https://www.theverge.com/news/814454/amazon-whole-foods-fulfillment-concept-store",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "We finally have a Nintendo Store app for iOS and Android",
+        "#text": "The hottest trend in speedrunning is flipping a coin",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/814054/nintendo-store-app-ios-android-games-shop",
+      "url": "https://www.theverge.com/games/814111/unfair-flips-speedrunning",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Hot subpoena summer",
+        "#text": "Baseus’ solar-powered dash cam is down to its best price yet",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/cs/features/804409/perez-hilton-lively-baldoni-subpoena",
+      "url": "https://www.theverge.com/tech/814368/baseus-primetrip-vd1-pro-dash-cam-deal-sale",
       "summary": "(要約準備中)"
     }
   ]
