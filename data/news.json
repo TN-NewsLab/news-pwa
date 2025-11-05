@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2025-11-04T18:52:44.019Z",
+  "updatedAt": "2025-11-05T03:35:58.151Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Zohran Mamdani projected winner of New York City mayoral election",
+      "url": "https://www.bbc.com/news/articles/ceq01l8reqlo?at_medium=RSS&at_campaign=rss",
+      "summary": "It is a historic moment as Mamdani also becomes the first South Asian and Muslim to lead the city."
+    },
     {
       "source": "BBC World",
       "title": "Dick Cheney's death a loss to the nation, says George W Bush",
@@ -9,59 +15,53 @@
     },
     {
       "source": "BBC World",
-      "title": "Polls open in US elections - here are five things to watch",
-      "url": "https://www.bbc.com/news/articles/c0qp5yjd253o?at_medium=RSS&at_campaign=rss",
-      "summary": "Though President Donald Trump is not on the ballot, his agenda looms large over the races in New York City, New Jersey, and Virginia."
-    },
-    {
-      "source": "BBC World",
-      "title": "Hamas hands Red Cross coffin it says contains Gaza hostage's body",
+      "title": "Israel identifies body returned by Hamas as Israeli-American soldier",
       "url": "https://www.bbc.com/news/articles/c1wlz8j8lr4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Israeli military says the remains will be transferred to its forces in Gaza, who will take them to Israel for identification."
+      "summary": "Israeli-American soldier Itay Chen's remains were returned to Israel via the Red Cross in Gaza on Tuesday."
     },
     {
       "source": "BBC Technology",
-      "title": "Online porn showing choking to be made illegal, government says",
-      "url": "https://www.bbc.com/news/articles/clyk3qzq7k7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Possession and publication of such material will be a criminal offence, under amendments to the Crime and Policing Bill."
+      "title": "France investigates Shein and Temu after sex doll scandal",
+      "url": "https://www.bbc.com/news/articles/cx2lppx2jm7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Retailers Wish and AliExpress are also being investigated in relation to the offence of enabling minors to access pornographic content."
     },
     {
       "source": "BBC Technology",
-      "title": "Shein bans all sex dolls after outrage over childlike products",
-      "url": "https://www.bbc.com/news/articles/cddrg70pj1mo?at_medium=RSS&at_campaign=rss",
-      "summary": "Every listing and image related to the sex dolls has been removed from Shein's platform, the firm says."
+      "title": "Tesla says Musk should be paid $1tn - will shareholders agree?",
+      "url": "https://www.bbc.com/news/articles/cn4j0yg1drgo?at_medium=RSS&at_campaign=rss",
+      "summary": "The car-maker is lobbying fiercely for the pay package, which is being voted on ahead of its AGM on Thursday."
     },
     {
       "source": "BBC Technology",
-      "title": "Government disappointed by unexpected O2 price rise",
-      "url": "https://www.bbc.com/news/articles/c5y02797xygo?at_medium=RSS&at_campaign=rss",
-      "summary": "The technology secretary says O2's higher-than-expected price increase is \"disappointing\" given the cost of living."
+      "title": "AI 'godmother' Fei-Fei Li says she is 'proud to be different'",
+      "url": "https://www.bbc.com/news/articles/c5yp2vj92e9o?at_medium=RSS&at_campaign=rss",
+      "summary": "AI pioneer Professor Fei-Fei Li is set to receive a top engineering prize from the King for her contributions to the field. "
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "OpenAI launches its Sora app on Android",
+        "#text": "The best robot vacuums we&#8217;ve tested for 2025",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/813533/openai-sora-android-launch",
+      "url": "https://www.theverge.com/22997597/best-robot-vacuum-cleaner",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Samsung previews HDR10 Plus Advanced, its answer to Dolby Vision 2",
+        "#text": "Google has a ‘moonshot’ plan for AI data centers in space",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/813389/samsung-previews-hdr10-plus-advanced-its-answer-to-dolby-vision-2",
+      "url": "https://www.theverge.com/news/813894/google-project-suncatcher-ai-datacenter-satellites",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Every current-gen Fitbit is already heavily discounted for Black Friday",
+        "#text": "Valve will finally turn off the Steam Deck&#8217;s screen while it&#8217;s downloading games",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/813053/fitbit-fitness-tracker-deals-black-friday-sale-2025",
+      "url": "https://www.theverge.com/news/813864/valve-steam-deck-screen-download-games-low-power-screen-off",
       "summary": "(要約準備中)"
     }
   ]
