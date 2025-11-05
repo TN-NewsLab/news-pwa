@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2025-11-05T03:35:58.151Z",
+  "updatedAt": "2025-11-05T06:54:56.473Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Zohran Mamdani projected winner of New York City mayoral election",
+      "title": "'Mandate for change': Zohran Mamdani wins New York City mayoral election",
       "url": "https://www.bbc.com/news/articles/ceq01l8reqlo?at_medium=RSS&at_campaign=rss",
-      "summary": "It is a historic moment as Mamdani also becomes the first South Asian and Muslim to lead the city."
+      "summary": "It is a historic moment as Mamdani also becomes the first South Asian and first Muslim to lead the city."
+    },
+    {
+      "source": "BBC World",
+      "title": "At least seven people killed after UPS cargo plane crashes in Kentucky",
+      "url": "https://www.bbc.com/news/articles/ce9dyyydjr0o?at_medium=RSS&at_campaign=rss",
+      "summary": "At least 11 people were injured when the plane exploded during takeoff near Louisville International Airport. "
     },
     {
       "source": "BBC World",
       "title": "Dick Cheney's death a loss to the nation, says George W Bush",
       "url": "https://www.bbc.com/news/articles/clyzm1j6l76o?at_medium=RSS&at_campaign=rss",
       "summary": "Cheney became one of the most powerful vice-presidents in US history under Bush, and was a key architect in his \"war on terror\"."
-    },
-    {
-      "source": "BBC World",
-      "title": "Israel identifies body returned by Hamas as Israeli-American soldier",
-      "url": "https://www.bbc.com/news/articles/c1wlz8j8lr4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Israeli-American soldier Itay Chen's remains were returned to Israel via the Red Cross in Gaza on Tuesday."
     },
     {
       "source": "BBC Technology",
@@ -40,6 +40,15 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "Epic and Google agree to settle their lawsuit and change Android’s fate globally",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/policy/813991/epic-google-proposed-settlement",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "The best robot vacuums we&#8217;ve tested for 2025",
         "@_type": "html"
       },
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/news/813894/google-project-suncatcher-ai-datacenter-satellites",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Valve will finally turn off the Steam Deck&#8217;s screen while it&#8217;s downloading games",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/news/813864/valve-steam-deck-screen-download-games-low-power-screen-off",
       "summary": "(要約準備中)"
     }
   ]
