@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2025-11-06T13:44:26.014Z",
+  "updatedAt": "2025-11-06T18:56:12.686Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Typhoon heads for Vietnam after 114 killed in the Philippines",
-      "url": "https://www.bbc.com/news/articles/c62e0764e6qo?at_medium=RSS&at_campaign=rss",
-      "summary": "Kalmaegi, one of the strongest typhoons this year, has gained strength as it barrels toward central Vietnam."
+      "title": "Typhoon Kalmaegi hits Vietnam after killing at least 114 in Philippines",
+      "url": "https://www.bbc.com/news/articles/c70jnx9e414o?at_medium=RSS&at_campaign=rss",
+      "summary": "More than 260,000 soldiers are on standby for rescue efforts as winds of up to 92mph (149km/h) hit Vietnam."
     },
     {
       "source": "BBC World",
-      "title": "Inside Gaza, BBC sees total devastation after two years of war",
-      "url": "https://www.bbc.com/news/articles/c0rp4lrdv8ko?at_medium=RSS&at_campaign=rss",
-      "summary": "With endless rubble and destroyed streets as far as the eye can see, any plans for Gaza's future are a far cry from where it is today, writes Lucy Williamson."
+      "title": "Russian soldier sentenced to life in jail in unprecedented Ukrainian trial",
+      "url": "https://www.bbc.com/news/articles/cy8vl4xz9jyo?at_medium=RSS&at_campaign=rss",
+      "summary": "In the first ruling of its kind, Dmitry Kurashov was found guilty of killing an unarmed Ukrainian soldier who had surrendered. "
     },
     {
       "source": "BBC World",
-      "title": "Israel says Hamas returned body of dead Tanzanian hostage",
-      "url": "https://www.bbc.com/news/articles/cgjdwje0ywdo?at_medium=RSS&at_campaign=rss",
-      "summary": "Joshua Mollel, a 21-year-old agriculture student, was killed at Kibbutz Nir Oz during the Hamas-led 7 October 2023 attack on Israel."
+      "title": "Sudan's RSF militia says it agrees to humanitarian ceasefire",
+      "url": "https://www.bbc.com/news/articles/c74070y9e3go?at_medium=RSS&at_campaign=rss",
+      "summary": "The group issued the statement after an 18-month siege of the city of el-Fasher in the western Darfur region."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Thousands of flights in danger of cancellation as FAA announces major cuts",
+        "#text": "FBI subpoenas the web registrar behind Archive.is",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/815359/faa-flight-cuts-airport-government-shutdown",
+      "url": "https://www.theverge.com/news/815691/fbi-subpoena-archive-is-owner",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Foursquare&#8217;s founder launches a new app that talks to you about your neighborhood",
+        "#text": "You can now make your own Wordle puzzles",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/815328/beebot-app-foursquare-founder-ai-audio-updates",
+      "url": "https://www.theverge.com/news/815716/wordle-new-york-times-nyt-creation-tool-puzzles",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Huawei Mate 70 Air is a little thick for a thin phone",
+        "#text": "The latest Blink Video Doorbell is over 50 percent off",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/815327/huawei-mate-70-air-is-a-little-thick-for-a-thin-phone",
+      "url": "https://www.theverge.com/tech/815637/blink-video-doorbell-second-generation-early-black-friday-deal-sale",
       "summary": "(要約準備中)"
     }
   ]
