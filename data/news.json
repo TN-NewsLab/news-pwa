@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2025-11-06T06:56:54.667Z",
+  "updatedAt": "2025-11-06T13:44:26.014Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Typhoon heads for Vietnam after 114 killed in the Philippines",
+      "url": "https://www.bbc.com/news/articles/c62e0764e6qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Kalmaegi, one of the strongest typhoons this year, has gained strength as it barrels toward central Vietnam."
+    },
     {
       "source": "BBC World",
       "title": "Inside Gaza, BBC sees total devastation after two years of war",
@@ -9,59 +15,53 @@
     },
     {
       "source": "BBC World",
-      "title": "Conservative justices sharply question Trump tariffs in high-stakes hearing",
-      "url": "https://www.bbc.com/news/articles/c4gp3nj5nj3o?at_medium=RSS&at_campaign=rss",
-      "summary": "If the court rules against Trump's tariffs, it could force the US to refund some of the billions it has collected."
-    },
-    {
-      "source": "BBC World",
-      "title": "US to cut flights at 40 airports if shutdown doesn't end, transportation secretary warns",
-      "url": "https://www.bbc.com/news/articles/c2kp8dex14xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Flight capacity will be cut 10% across the country, as air traffic controllers report experiencing fatigue, Transportation Secretary Sean Duffy said."
+      "title": "Israel says Hamas returned body of dead Tanzanian hostage",
+      "url": "https://www.bbc.com/news/articles/cgjdwje0ywdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Joshua Mollel, a 21-year-old agriculture student, was killed at Kibbutz Nir Oz during the Hamas-led 7 October 2023 attack on Israel."
     },
     {
       "source": "BBC Technology",
-      "title": "King handed Nvidia boss a letter warning of AI dangers",
-      "url": "https://www.bbc.com/news/articles/cze60grxx4wo?at_medium=RSS&at_campaign=rss",
-      "summary": "In the 2023 remarks from the King he said AI was \"no less important than the discovery of electricity\" but warned the risks must be tackled."
+      "title": "Grand Theft Auto studio accused of 'union busting' after sacking workers",
+      "url": "https://www.bbc.com/news/articles/c9v10rr1meeo?at_medium=RSS&at_campaign=rss",
+      "summary": "A union representing people in the gaming sector said 31 people were fired at Rockstar's UK studios."
     },
     {
       "source": "BBC Technology",
-      "title": "MP wants Elon Musk's chatbot shut down over claim he enabled grooming gangs",
-      "url": "https://www.bbc.com/news/articles/c9d6vwg80qyo?at_medium=RSS&at_campaign=rss",
-      "summary": "SNP MP Pete Wishart says he is seeking legal advice over the \"disturbing\" AI-generated social media post."
+      "title": "'Vibe coding' named word of the year by Collins Dictionary",
+      "url": "https://www.bbc.com/news/articles/cpd2y053nleo?at_medium=RSS&at_campaign=rss",
+      "summary": "The art of making an app by describing it to artificial intelligence (AI) tops 10 new terms on the shortlist."
     },
     {
       "source": "BBC Technology",
-      "title": "France moves to suspend Shein website as it opens first store in Paris",
-      "url": "https://www.bbc.com/news/articles/cx2lppx2jm7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The economy ministry said proceedings would last until Shein proved all of its content complied with French law."
+      "title": "Will quantum be bigger than AI?",
+      "url": "https://www.bbc.com/news/articles/c04gvx7egw5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The highly-complex technology is increasingly being tipped to transform computing."
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Canon adds a 32-megapixel sensor and 7K video to the new EOS R6 Mark III",
+        "#text": "Thousands of flights in danger of cancellation as FAA announces major cuts",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/814245/canon-eos-r6-mark-iii-mirrorless-camera-price-specs",
+      "url": "https://www.theverge.com/news/815359/faa-flight-cuts-airport-government-shutdown",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Election night at Kalshi HQ",
+        "#text": "Foursquare&#8217;s founder launches a new app that talks to you about your neighborhood",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/column/815208/election-night-at-kalshi-hq",
+      "url": "https://www.theverge.com/news/815328/beebot-app-foursquare-founder-ai-audio-updates",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Rode’s all-in-one video production console is now smaller and cheaper",
+        "#text": "Huawei Mate 70 Air is a little thick for a thin phone",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/813545/rode-rodecaster-video-s-production-console-audio-switcher",
+      "url": "https://www.theverge.com/news/815327/huawei-mate-70-air-is-a-little-thick-for-a-thin-phone",
       "summary": "(要約準備中)"
     }
   ]
