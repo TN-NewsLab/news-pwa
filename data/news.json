@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2025-11-05T18:54:21.509Z",
+  "updatedAt": "2025-11-06T03:41:50.699Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "'Mandate for change': Zohran Mamdani wins New York City mayoral election",
-      "url": "https://www.bbc.com/news/articles/ceq01l8reqlo?at_medium=RSS&at_campaign=rss",
-      "summary": "It is a historic moment as Mamdani also becomes the first South Asian and first Muslim to lead the city."
+      "title": "Inside Gaza, BBC sees total devastation after two years of war",
+      "url": "https://www.bbc.com/news/articles/c0rp4lrdv8ko?at_medium=RSS&at_campaign=rss",
+      "summary": "With endless rubble and destroyed streets as far as the eye can see, any plans for Gaza's future are a far cry from where it is today, writes Lucy Williamson."
     },
     {
       "source": "BBC World",
-      "title": "'One of us': Ugandan pride in New York mayor with roots in their country",
-      "url": "https://www.bbc.com/news/articles/c0510463p9do?at_medium=RSS&at_campaign=rss",
-      "summary": "A professor describes Mamdani as \"one of us\" while some young Ugandans take inspiration from the 34-year-old's victory."
+      "title": "Conservative justices sharply question Trump tariffs in high-stakes hearing",
+      "url": "https://www.bbc.com/news/articles/c4gp3nj5nj3o?at_medium=RSS&at_campaign=rss",
+      "summary": "If the court rules against Trump's tariffs, it could force the US to refund some of the billions it has collected."
     },
     {
       "source": "BBC World",
-      "title": "At least nine people killed after UPS cargo plane crashes in Kentucky",
-      "url": "https://www.bbc.com/news/articles/ce9dyyydjr0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Others were injured when the plane exploded during takeoff near  Louisville Muhammad Ali International Airport."
+      "title": "US to cut flights at 40 airports if shutdown doesn't end, transportation secretary warns",
+      "url": "https://www.bbc.com/news/articles/c2kp8dex14xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Flight capacity will be cut 10% across the country, as air traffic controllers report experiencing fatigue, Transportation Secretary Sean Duffy said."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "King handed Nvidia boss a letter warning of AI dangers",
+      "url": "https://www.bbc.com/news/articles/cze60grxx4wo?at_medium=RSS&at_campaign=rss",
+      "summary": "In the 2023 remarks from the King he said AI was \"no less important than the discovery of electricity\" but warned the risks must be tackled."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "The economy ministry said proceedings would last until Shein proved all of its content complied with French law."
     },
     {
-      "source": "BBC Technology",
-      "title": "Tesla says Musk should be paid $1tn - will shareholders agree?",
-      "url": "https://www.bbc.com/news/articles/cn4j0yg1drgo?at_medium=RSS&at_campaign=rss",
-      "summary": "The car-maker is lobbying fiercely for the pay package, which is being voted on ahead of its AGM on Thursday."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Amazon&#8217;s grocery store dreams are reshaping Whole Foods",
+        "#text": "Election night at Kalshi HQ",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/814454/amazon-whole-foods-fulfillment-concept-store",
+      "url": "https://www.theverge.com/column/815208/election-night-at-kalshi-hq",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The hottest trend in speedrunning is flipping a coin",
+        "#text": "Rode’s all-in-one video production console is now smaller and cheaper",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/814111/unfair-flips-speedrunning",
+      "url": "https://www.theverge.com/news/813545/rode-rodecaster-video-s-production-console-audio-switcher",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Baseus’ solar-powered dash cam is down to its best price yet",
+        "#text": "Films from YouTube and Google Play are no longer available on Movies Anywhere",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/814368/baseus-primetrip-vd1-pro-dash-cam-deal-sale",
+      "url": "https://www.theverge.com/news/815082/movies-anywhere-ends-google-play-youtube-support",
       "summary": "(要約準備中)"
     }
   ]
