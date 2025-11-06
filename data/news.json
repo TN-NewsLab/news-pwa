@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-11-06T03:41:50.699Z",
+  "updatedAt": "2025-11-06T06:56:54.667Z",
   "top": [
     {
       "source": "BBC World",
@@ -40,6 +40,15 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "Canon adds a 32-megapixel sensor and 7K video to the new EOS R6 Mark III",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/news/814245/canon-eos-r6-mark-iii-mirrorless-camera-price-specs",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "Election night at Kalshi HQ",
         "@_type": "html"
       },
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/news/813545/rode-rodecaster-video-s-production-console-audio-switcher",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Films from YouTube and Google Play are no longer available on Movies Anywhere",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/news/815082/movies-anywhere-ends-google-play-youtube-support",
       "summary": "(要約準備中)"
     }
   ]
