@@ -26,8 +26,8 @@ async function updateNews() {
 
     // 既存データを読み込み（なければ空）
     let data = {};
-    if (fs.existsSync("./news.json")) {
-      data = JSON.parse(fs.readFileSync("./news.json", "utf-8"));
+    if (fs.existsSync("./data/news.json")) {
+      data = JSON.parse(fs.readFileSync("./data/news.json", "utf-8"));
     }
 
     // データ更新
@@ -35,7 +35,7 @@ async function updateNews() {
     data.経済 = economyNews;
 
     // ファイル保存
-    fs.writeFileSync("./news.json", JSON.stringify(data, null, 2));
+    fs.writeFileSync("./data/news.json", JSON.stringify(data, null, 2));
 
     console.log("✅ AI・経済ニュースを更新しました！");
   } catch (err) {
