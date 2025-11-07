@@ -1,23 +1,35 @@
 {
-  "updatedAt": "2025-11-06T18:56:12.686Z",
+  "updatedAt": "2025-11-07T03:35:51.853Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Typhoon Kalmaegi hits Vietnam after killing at least 114 in Philippines",
+      "title": "COP30: World leaders take aim at Trump for climate inaction",
+      "url": "https://www.bbc.com/news/articles/cn4j8dgnj1wo?at_medium=RSS&at_campaign=rss",
+      "summary": "World leaders address COP30 climate summit in Belém and take aim at Trump record on climate change."
+    },
+    {
+      "source": "BBC World",
+      "title": "Typhoon Kalmaegi kills three in Vietnam after leaving 114 dead in Philippines",
       "url": "https://www.bbc.com/news/articles/c70jnx9e414o?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 260,000 soldiers are on standby for rescue efforts as winds of up to 92mph (149km/h) hit Vietnam."
+      "summary": "One of the year's deadliest storms has headed west to Cambodia and Laos after barreling through Vietnam."
     },
     {
       "source": "BBC World",
-      "title": "Russian soldier sentenced to life in jail in unprecedented Ukrainian trial",
-      "url": "https://www.bbc.com/news/articles/cy8vl4xz9jyo?at_medium=RSS&at_campaign=rss",
-      "summary": "In the first ruling of its kind, Dmitry Kurashov was found guilty of killing an unarmed Ukrainian soldier who had surrendered. "
+      "title": "'Our job is only killing' - how Sudan's brutal militia carried out a massacre",
+      "url": "https://www.bbc.com/news/articles/c8dr5e30m5ro?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Verify tracks how the RSF killed unarmed people in a massacre that humanitarian officials believe left 2,000 dead."
     },
     {
-      "source": "BBC World",
-      "title": "Sudan's RSF militia says it agrees to humanitarian ceasefire",
-      "url": "https://www.bbc.com/news/articles/c74070y9e3go?at_medium=RSS&at_campaign=rss",
-      "summary": "The group issued the statement after an 18-month siege of the city of el-Fasher in the western Darfur region."
+      "source": "BBC Technology",
+      "title": "Elon Musk's $1tn pay deal approved by Tesla shareholders",
+      "url": "https://www.bbc.com/news/articles/cwyk6kvyxvzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The richest man in the world will get hundreds of millions of new shares if he hits his targets."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Texas sues Roblox for 'putting paedophiles and profits' over safety",
+      "url": "https://www.bbc.com/news/articles/cy0kd4kk0kqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Roblox said it is \"disappointed\" that it is being sued based on \"misrepresentations and sensationalised claims\"."
     },
     {
       "source": "BBC Technology",
@@ -26,42 +38,30 @@
       "summary": "A union representing people in the gaming sector said 31 people were fired at Rockstar's UK studios."
     },
     {
-      "source": "BBC Technology",
-      "title": "'Vibe coding' named word of the year by Collins Dictionary",
-      "url": "https://www.bbc.com/news/articles/cpd2y053nleo?at_medium=RSS&at_campaign=rss",
-      "summary": "The art of making an app by describing it to artificial intelligence (AI) tops 10 new terms on the shortlist."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Will quantum be bigger than AI?",
-      "url": "https://www.bbc.com/news/articles/c04gvx7egw5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The highly-complex technology is increasingly being tipped to transform computing."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "FBI subpoenas the web registrar behind Archive.is",
+        "#text": "Apple’s latest sci-fi series Pluribus luxuriates in its mystery",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/815691/fbi-subpoena-archive-is-owner",
+      "url": "https://www.theverge.com/entertainment/815745/pluribus-review-apple-tv",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "You can now make your own Wordle puzzles",
+        "#text": "The best AirPods to buy",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/815716/wordle-new-york-times-nyt-creation-tool-puzzles",
+      "url": "https://www.theverge.com/tech/645217/best-apple-airpods-pro",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The latest Blink Video Doorbell is over 50 percent off",
+        "#text": "Samsung’s new Switch 2-compatible microSD Express card is already on sale",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/815637/blink-video-doorbell-second-generation-early-black-friday-deal-sale",
+      "url": "https://www.theverge.com/tech/815946/samsung-p9-microsd-express-card-nintendo-switch-2-deal-sale",
       "summary": "(要約準備中)"
     }
   ]
