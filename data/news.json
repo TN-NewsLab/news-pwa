@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-11-07T13:38:02.653Z",
+  "updatedAt": "2025-11-07T18:48:45.976Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,15 +9,15 @@
     },
     {
       "source": "BBC World",
-      "title": "'Our job is only killing' - how Sudan's brutal militia carried out a massacre",
-      "url": "https://www.bbc.com/news/articles/c8dr5e30m5ro?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Verify tracks how the RSF killed unarmed people in a massacre that humanitarian officials believe left 2,000 dead."
+      "title": "Released Israeli hostage says he was sexually assaulted in Gaza captivity",
+      "url": "https://www.bbc.com/news/articles/cgkz0yzde80o?at_medium=RSS&at_campaign=rss",
+      "summary": "In an interview with Israeli TV, Rom Braslavski described how he was stripped naked and tied up by members of Palestinian Islamic Jihad."
     },
     {
       "source": "BBC World",
-      "title": "Fifty-four people injured in mosque blast at Jakarta high school ",
-      "url": "https://www.bbc.com/news/articles/clykgdg3l42o?at_medium=RSS&at_campaign=rss",
-      "summary": "Authorities say a 17-year-old suspected of causing the explosion during Friday prayers is in surgery."
+      "title": "Belgium rushes to secure drone defences after airport disruption",
+      "url": "https://www.bbc.com/news/articles/c8r04ld1gz2o?at_medium=RSS&at_campaign=rss",
+      "summary": "After drone sightings cause Zaventem airport near Brussels to close temporarily, Belgium turns to its European allies for help."
     },
     {
       "source": "BBC Technology",
@@ -33,35 +33,35 @@
     },
     {
       "source": "BBC Technology",
-      "title": "Rightmove shares plummet over AI investment plans",
-      "url": "https://www.bbc.com/news/articles/cly97lj0nddo?at_medium=RSS&at_campaign=rss",
-      "summary": "Shares in the property website sink after it cuts profit forecasts to step up investment in AI."
+      "title": "What does Elon Musk do with all his money?",
+      "url": "https://www.bbc.com/news/articles/c1wl5wj39zjo?at_medium=RSS&at_campaign=rss",
+      "summary": "While he has a penchant for cars and jets, the world's richest person reportedly lives a relatively modest life."
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The Polestar 4 takes EV minimalism to the next level",
+        "#text": "Anker’s 521 PowerHouse can power up to six devices, and it&#8217;s on sale",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/transportation/814717/polestar-4-review-specs-price-rear-windshield",
+      "url": "https://www.theverge.com/tech/816578/anker-521-powerhouse-deal-sale",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Apple’s latest sci-fi series Pluribus luxuriates in its mystery",
+        "#text": "Steam store pages are wider now",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/815745/pluribus-review-apple-tv",
+      "url": "https://www.theverge.com/news/816599/valve-steam-store-pages-wider",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The best AirPods to buy",
+        "#text": "Texas sues Roblox for allegedly failing to protect children on its platform",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/645217/best-apple-airpods-pro",
+      "url": "https://www.theverge.com/news/816549/texas-roblox-lawsuit-child-safety",
       "summary": "(要約準備中)"
     }
   ]
