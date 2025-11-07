@@ -1,5 +1,5 @@
-async function loadNews() {
-  const response = await fetch("news.json");
+sonasync function loadNews() {
+  const response = await fetch("./data/news.json");
   const data = await response.json();
 
   renderSection("AI", data.AI);
