@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2025-11-08T03:16:37.191Z",
+  "updatedAt": "2025-11-08T06:49:56.756Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Trump gives Hungary one-year exemption from Russian energy sanctions",
+      "url": "https://www.bbc.com/news/articles/cp85dvnkpv4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The opt-out comes despite the US increasing pressure on allies to sever economic ties with Russia."
+    },
     {
       "source": "BBC World",
       "title": "DNA pioneer James Watson dies at 97",
@@ -9,15 +15,9 @@
     },
     {
       "source": "BBC World",
-      "title": "Elon Musk's $1tn pay deal approved by Tesla shareholders",
-      "url": "https://www.bbc.com/news/articles/cwyk6kvyxvzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The richest man in the world will get hundreds of millions of new shares if he hits his targets."
-    },
-    {
-      "source": "BBC World",
-      "title": "Released Israeli hostage says he was sexually assaulted in Gaza captivity",
-      "url": "https://www.bbc.com/news/articles/cgkz0yzde80o?at_medium=RSS&at_campaign=rss",
-      "summary": "In an interview with Israeli TV, Rom Braslavski described how he was stripped naked and tied up by members of Palestinian Islamic Jihad."
+      "title": "Israel receives coffin Hamas says contains body of Gaza hostage",
+      "url": "https://www.bbc.com/news/articles/cwykw15dx56o?at_medium=RSS&at_campaign=rss",
+      "summary": "If the body is identified as a hostage, five dead hostages will remain in Gaza and still need to be returned under a ceasefire deal."
     },
     {
       "source": "BBC Technology",
