@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2025-11-08T06:49:56.756Z",
+  "updatedAt": "2025-11-08T13:30:03.037Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "UPS and FedEx ground some cargo planes after Kentucky air disaster",
+      "url": "https://www.bbc.com/news/articles/cx2pr5y7p90o?at_medium=RSS&at_campaign=rss",
+      "summary": "The delivery companies confirm MD-11 planes have been temporarily grounded as the death toll in Louisville rises to 14.\n"
+    },
     {
       "source": "BBC World",
       "title": "Trump gives Hungary one-year exemption from Russian energy sanctions",
@@ -11,13 +17,7 @@
       "source": "BBC World",
       "title": "DNA pioneer James Watson dies at 97",
       "url": "https://www.bbc.com/news/articles/cn8xdypnz32o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Nobel Prize winner felt ostracised by the scientific community over his comments on race and intelligence."
-    },
-    {
-      "source": "BBC World",
-      "title": "Israel receives coffin Hamas says contains body of Gaza hostage",
-      "url": "https://www.bbc.com/news/articles/cwykw15dx56o?at_medium=RSS&at_campaign=rss",
-      "summary": "If the body is identified as a hostage, five dead hostages will remain in Gaza and still need to be returned under a ceasefire deal."
+      "summary": "Watson co-discover the double-helix structure of DNA, but his reputation was later damaged by his comments on race and sex."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "The endearing movie that affirms creativity as a human act",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/entertainment/816399/peter-hujars-day-ira-sachs-interview",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "Soaring electricity rates fueled Democratic victories — now comes the hard part",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/report/816946/electricity-rates-election-democrats",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "Halo Infinite is about to get its last major update",
         "@_type": "html"
       },
       "url": "https://www.theverge.com/news/816960/halo-infinite-end",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Maybe Peloton is its own worst enemy",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/gadgets/816352/peloton-q1-2026-earnings-fitness",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "The best Fitbits for your fitness and health",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker",
       "summary": "(要約準備中)"
     }
   ]
