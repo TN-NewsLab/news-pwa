@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2025-11-07T18:48:45.976Z",
+  "updatedAt": "2025-11-08T03:16:37.191Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "DNA pioneer James Watson dies at 97",
+      "url": "https://www.bbc.com/news/articles/cn8xdypnz32o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Nobel Prize winner felt ostracised by the scientific community over his comments on race and intelligence."
+    },
     {
       "source": "BBC World",
       "title": "Elon Musk's $1tn pay deal approved by Tesla shareholders",
@@ -12,12 +18,6 @@
       "title": "Released Israeli hostage says he was sexually assaulted in Gaza captivity",
       "url": "https://www.bbc.com/news/articles/cgkz0yzde80o?at_medium=RSS&at_campaign=rss",
       "summary": "In an interview with Israeli TV, Rom Braslavski described how he was stripped naked and tied up by members of Palestinian Islamic Jihad."
-    },
-    {
-      "source": "BBC World",
-      "title": "Belgium rushes to secure drone defences after airport disruption",
-      "url": "https://www.bbc.com/news/articles/c8r04ld1gz2o?at_medium=RSS&at_campaign=rss",
-      "summary": "After drone sightings cause Zaventem airport near Brussels to close temporarily, Belgium turns to its European allies for help."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Anker’s 521 PowerHouse can power up to six devices, and it&#8217;s on sale",
+        "#text": "Halo Infinite is about to get its last major update",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/816578/anker-521-powerhouse-deal-sale",
+      "url": "https://www.theverge.com/news/816960/halo-infinite-end",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Steam store pages are wider now",
+        "#text": "Maybe Peloton is its own worst enemy",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/816599/valve-steam-store-pages-wider",
+      "url": "https://www.theverge.com/gadgets/816352/peloton-q1-2026-earnings-fitness",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Texas sues Roblox for allegedly failing to protect children on its platform",
+        "#text": "The best Fitbits for your fitness and health",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/816549/texas-roblox-lawsuit-child-safety",
+      "url": "https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker",
       "summary": "(要約準備中)"
     }
   ]
