@@ -1,12 +1,6 @@
 {
-  "updatedAt": "2025-11-08T18:48:29.756Z",
+  "updatedAt": "2025-11-09T03:37:24.953Z",
   "top": [
-    {
-      "source": "BBC World",
-      "title": "UPS and FedEx ground some cargo planes after Kentucky air disaster",
-      "url": "https://www.bbc.com/news/articles/cx2pr5y7p90o?at_medium=RSS&at_campaign=rss",
-      "summary": "The delivery companies confirm MD-11 planes have been temporarily grounded as the death toll in Louisville rises to 14.\n"
-    },
     {
       "source": "BBC World",
       "title": "Six dead as Russia hits energy and residential sites in Ukraine",
@@ -18,6 +12,12 @@
       "title": "What Hungary's Orban did - and didn't - get from Trump",
       "url": "https://www.bbc.com/news/articles/ckg4r193152o?at_medium=RSS&at_campaign=rss",
       "summary": "On the surface, the Hungarian PM's trip was exactly what he wanted, but the full picture is more complex, writes the BBC's Nick Thorpe."
+    },
+    {
+      "source": "BBC World",
+      "title": "More than 1,400 flights cancelled as US air traffic cuts enter second day",
+      "url": "https://www.bbc.com/news/articles/cj410k00yw8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Thousands more flights have been delayed or cancelled as the reduction of air travel capacity continues during the federal government shutdown. "
     },
     {
       "source": "BBC Technology",
