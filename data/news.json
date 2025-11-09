@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2025-11-09T06:51:12.707Z",
+  "updatedAt": "2025-11-09T13:30:30.620Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Syria's Sharaa arrives in US for Trump talks after sanctions lifted",
-      "url": "https://www.bbc.com/news/articles/c0rpxkwdkrpo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Syrian leader will meet the US President at the White House on Monday for security talks."
-    },
-    {
-      "source": "BBC World",
-      "title": "Six dead as Russia hits energy and residential sites in Ukraine",
-      "url": "https://www.bbc.com/news/articles/ce3xdg7xrv9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Overnight, 25 locations including Kyiv were hit, leaving many areas without electricity and heating."
-    },
-    {
-      "source": "BBC World",
-      "title": "Storm declared 'super typhoon' as it hits Philippines ",
+      "title": "Nearly a million evacuated as Philippines braces for 'super typhoon'",
       "url": "https://www.bbc.com/news/articles/cq509yj82y8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Typhoon Fung Wong is already bringing \"life threatening conditions\" to one eastern island, with widespread disruption expected later."
+      "summary": "Typhoon Fung-wong with sustained winds of 185 km/h (115mph) is expected to make landfall on Sunday evening."
+    },
+    {
+      "source": "BBC World",
+      "title": "BBC on Luzon Island as super typhoon nears Philippines",
+      "url": "https://www.bbc.com/news/videos/c20p2m83p5go?at_medium=RSS&at_campaign=rss",
+      "summary": "Typhoon Fung Wong will bring sustained winds of 185 km/h (155mph) and torrential rain to several areas on Sunday."
+    },
+    {
+      "source": "BBC World",
+      "title": "UK military to help protect Belgium after drone incursions",
+      "url": "https://www.bbc.com/news/articles/c3dn2ep584ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Sir Richard Knighton, the UK military chief, says his Belgian counterpart asked for assistance this week in the form of UK personnel and equipment.\n\n"
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "The algorithm failed music",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/column/815744/music-recommendation-algorithms",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "Ikea just took over your smart home",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/tech/816650/ikea-just-took-over-your-smart-home",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "The best earbuds we’ve tested for 2025",
         "@_type": "html"
       },
       "url": "https://www.theverge.com/21309820/best-wireless-earbuds",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Apple helped kill netbooks. Will it bring them back?",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/tech/817277/apple-ipad-killed-the-netbook-cheap-macbook-is-bringing-them-back",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Sims streamers are distancing themselves from EA, but for some the choice is hard",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/games/816750/the-sims-ea-buyout-content-creator-program-departures-lilsimsie",
       "summary": "(要約準備中)"
     }
   ]
