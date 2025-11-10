@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2025-11-10T03:44:49.698Z",
+  "updatedAt": "2025-11-10T06:57:55.473Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "US Senate passes deal aimed at ending government shutdown",
+      "url": "https://www.bbc.com/news/articles/cpd2p2eddnzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The measure signals a major breakthrough but the deal still needs to get over more hurdles in Congress. "
+    },
     {
       "source": "BBC World",
       "title": "Philippines hit by 'intense' typhoon as nearly a million evacuate",
@@ -9,15 +15,9 @@
     },
     {
       "source": "BBC World",
-      "title": "BBC on Luzon Island as super typhoon hits Philippines",
-      "url": "https://www.bbc.com/news/videos/c20p2m83p5go?at_medium=RSS&at_campaign=rss",
-      "summary": "Typhoon Fung-wong has made landfall in the Philippines, where more than 900,000 people have been evacuated."
-    },
-    {
-      "source": "BBC World",
-      "title": "Iran faces unprecedented drought as water crisis hits Tehran",
-      "url": "https://www.bbc.com/news/articles/cy4p2yzmem0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The government is pleading with Iranians to save water as reservoirs dry up and rainfall is at a record low."
+      "title": "A hacking kingpin reveals all: Inside the gang that left a trail of destruction",
+      "url": "https://www.bbc.com/news/articles/cm2w0pvg4wko?at_medium=RSS&at_campaign=rss",
+      "summary": "One of the world's most prominent cyber-criminals speaks to the BBC in an exclusive interview."
     },
     {
       "source": "BBC Technology",
