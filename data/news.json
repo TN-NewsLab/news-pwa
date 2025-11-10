@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2025-11-09T18:45:44.124Z",
+  "updatedAt": "2025-11-10T03:44:49.698Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Super typhoon makes landfall in Philippines as nearly a million evacuated",
+      "title": "Philippines hit by 'intense' typhoon as nearly a million evacuate",
       "url": "https://www.bbc.com/news/articles/cq509yj82y8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Typhoon Fung-wong, with sustained winds of 185 km/h (115mph), made landfall on Sunday evening local time."
+      "summary": "Typhoon Fung-wong, with sustained winds of 185 km/h (115mph), hit the Philippines as a super typhoon and later weakened."
     },
     {
       "source": "BBC World",
@@ -15,9 +15,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Israel receives body of soldier killed in 2014 in Gaza",
-      "url": "https://www.bbc.com/news/articles/c2kp3yjy8q7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Israeli military confirmed the soldier's body had been returned from Gaza after 11 years on Sunday."
+      "title": "Iran faces unprecedented drought as water crisis hits Tehran",
+      "url": "https://www.bbc.com/news/articles/cy4p2yzmem0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The government is pleading with Iranians to save water as reservoirs dry up and rainfall is at a record low."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "China exempts chips used by carmakers from export curbs",
+      "url": "https://www.bbc.com/news/articles/c0rp2514g4qo?at_medium=RSS&at_campaign=rss",
+      "summary": "The block on exports of the company's chips had raised fears that European car production would be hit."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "The tech billionaire believes Optimus could play a big role in the lives of people around the world."
     },
     {
-      "source": "BBC Technology",
-      "title": "What does Elon Musk do with all his money?",
-      "url": "https://www.bbc.com/news/articles/c1wl5wj39zjo?at_medium=RSS&at_campaign=rss",
-      "summary": "While he has a penchant for cars and jets, the world's richest person reportedly lives a relatively modest life."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Arturia&#8217;s KeyStep mk2 MIDI controller is a shortcut to flow state",
+        "#text": "Cleveland Guardians&#8217; pitchers indicted for rigging online bets",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/817387/arturia-keystep-mk2-midi-controller-generative-sequencing-writers-block",
+      "url": "https://www.theverge.com/news/817425/cleveland-guardians-pitchers-indicted-for-rigging-online-bets",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The tale of the Fire Phone, Amazon’s very strange smartphone",
+        "#text": "You need to listen to this compilation of ‘80s Spanish ambient and electronic music",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/podcast/816739/amazon-fire-phone-version-history",
+      "url": "https://www.theverge.com/column/817417/la-ola-interior-compilation-80s-spanish-ambient-and-electronic-music",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Deck out your tree with ornaments of retro consoles, movie moments, and more",
+        "#text": "YouTube TV, ESPN, and Disney: the latest on the blackout",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/811614/best-christmas-ornaments-2025",
+      "url": "https://www.theverge.com/news/817403/youtube-tv-disney-espn-blackout-updates",
       "summary": "(要約準備中)"
     }
   ]
