@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2025-11-10T13:43:59.122Z",
+  "updatedAt": "2025-11-10T18:51:23.403Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "At least eight killed after car explodes near Delhi's Red Fort",
+      "url": "https://www.bbc.com/news/articles/ceq0p8qnnrno?at_medium=RSS&at_campaign=rss",
+      "summary": "Twenty more were injured in the blast, the cause of which is still unknown, authorities say."
+    },
     {
       "source": "BBC World",
       "title": "US Senate to debate deal to end longest shutdown after overnight breakthrough",
@@ -9,15 +15,9 @@
     },
     {
       "source": "BBC World",
-      "title": "Malian TikToker killed by suspected jihadists after pro-army posts",
-      "url": "https://www.bbc.com/news/articles/cnvep8ppyr6o?at_medium=RSS&at_campaign=rss",
-      "summary": "Mariam Cissé, said to be in her 20s, was accused of providing information to the army."
-    },
-    {
-      "source": "BBC World",
-      "title": "Dozens of inmates found hanged in Ecuador prison",
-      "url": "https://www.bbc.com/news/articles/c0kp220561go?at_medium=RSS&at_campaign=rss",
-      "summary": "Prison guards found 27 bodies hours after another four inmates were killed in clashes between rival gangs."
+      "title": "Former French president Sarkozy released from prison after three weeks",
+      "url": "https://www.bbc.com/news/articles/cm2eppqd2nyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The former French president was jailed in October for conspiring to fund his election campaign with money from late Libyan dictator Muammar Gaddafi."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Tesla is fighting the EV sales slump with short-term rentals",
+        "#text": "Apple’s AirPods 4 just hit their lowest price yet at $85",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/817477/tesla-direct-short-term-ev-rentals-tax-credit",
+      "url": "https://www.theverge.com/tech/817656/apple-airpods-4-early-black-friday-deal-sale",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Blue Origin scrubs second New Glenn launch",
+        "#text": "Netflix might make its own video podcasts",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/817466/blue-origin-new-glenn-second-launch-scrubbed",
+      "url": "https://www.theverge.com/news/817675/netflix-exclusive-original-podcasts-rumor",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Cleveland Guardians&#8217; pitchers indicted for rigging online bets",
+        "#text": "Why I love my OXO kitchen scale",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/817425/cleveland-guardians-pitchers-indicted-for-rigging-online-bets",
+      "url": "https://www.theverge.com/tech/812853/oxo-kitchen-scale-favorites",
       "summary": "(要約準備中)"
     }
   ]
