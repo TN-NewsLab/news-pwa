@@ -1,23 +1,35 @@
 {
-  "updatedAt": "2025-11-10T06:57:55.473Z",
+  "updatedAt": "2025-11-10T13:43:59.122Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "US Senate passes deal aimed at ending government shutdown",
+      "title": "US Senate to debate deal to end longest shutdown after overnight breakthrough",
       "url": "https://www.bbc.com/news/articles/cpd2p2eddnzo?at_medium=RSS&at_campaign=rss",
       "summary": "The measure signals a major breakthrough but the deal still needs to get over more hurdles in Congress. "
     },
     {
       "source": "BBC World",
-      "title": "Philippines hit by 'intense' typhoon as nearly a million evacuate",
-      "url": "https://www.bbc.com/news/articles/cq509yj82y8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Typhoon Fung-wong, with sustained winds of 185 km/h (115mph), hit the Philippines as a super typhoon and later weakened."
+      "title": "Malian TikToker killed by suspected jihadists after pro-army posts",
+      "url": "https://www.bbc.com/news/articles/cnvep8ppyr6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Mariam Cissé, said to be in her 20s, was accused of providing information to the army."
     },
     {
       "source": "BBC World",
-      "title": "A hacking kingpin reveals all: Inside the gang that left a trail of destruction",
+      "title": "Dozens of inmates found hanged in Ecuador prison",
+      "url": "https://www.bbc.com/news/articles/c0kp220561go?at_medium=RSS&at_campaign=rss",
+      "summary": "Prison guards found 27 bodies hours after another four inmates were killed in clashes between rival gangs."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "A jailed hacking kingpin reveals all about the gang that left a trail of destruction",
       "url": "https://www.bbc.com/news/articles/cm2w0pvg4wko?at_medium=RSS&at_campaign=rss",
       "summary": "One of the world's most prominent cyber-criminals speaks to the BBC in an exclusive interview."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Dundee and US surgeons achieve world-first stroke surgery using robot",
+      "url": "https://www.bbc.com/news/articles/cjw983pvz6lo?at_medium=RSS&at_campaign=rss",
+      "summary": "A Dundee professor carried out the first remote thrombectomy on a human cadaver."
     },
     {
       "source": "BBC Technology",
@@ -26,16 +38,22 @@
       "summary": "The block on exports of the company's chips had raised fears that European car production would be hit."
     },
     {
-      "source": "BBC Technology",
-      "title": "Elon Musk's $1tn pay deal approved by Tesla shareholders",
-      "url": "https://www.bbc.com/news/articles/cwyk6kvyxvzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The richest man in the world will get hundreds of millions of new shares if he hits his targets."
+      "source": "The Verge",
+      "title": {
+        "#text": "Tesla is fighting the EV sales slump with short-term rentals",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/news/817477/tesla-direct-short-term-ev-rentals-tax-credit",
+      "summary": "(要約準備中)"
     },
     {
-      "source": "BBC Technology",
-      "title": "Why human-shaped robots loom large in Musk's Tesla plans",
-      "url": "https://www.bbc.com/news/articles/cdrz2rdlykdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The tech billionaire believes Optimus could play a big role in the lives of people around the world."
+      "source": "The Verge",
+      "title": {
+        "#text": "Blue Origin scrubs second New Glenn launch",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/news/817466/blue-origin-new-glenn-second-launch-scrubbed",
+      "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
@@ -44,24 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/news/817425/cleveland-guardians-pitchers-indicted-for-rigging-online-bets",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "You need to listen to this compilation of ‘80s Spanish ambient and electronic music",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/column/817417/la-ola-interior-compilation-80s-spanish-ambient-and-electronic-music",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "YouTube TV, ESPN, and Disney: the latest on the blackout",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/news/817403/youtube-tv-disney-espn-blackout-updates",
       "summary": "(要約準備中)"
     }
   ]
