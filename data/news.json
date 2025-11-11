@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2025-11-11T06:56:31.100Z",
+  "updatedAt": "2025-11-11T13:42:50.971Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "At least eight killed after car explodes near Delhi's Red Fort",
-      "url": "https://www.bbc.com/news/articles/ceq0p8qnnrno?at_medium=RSS&at_campaign=rss",
-      "summary": "Twenty more were injured in the blast, the cause of which is still unknown, authorities say."
+      "title": "US Senate passes funding bill as historic shutdown nears likely end",
+      "url": "https://www.bbc.com/news/articles/cj41pgpk0wgo?at_medium=RSS&at_campaign=rss",
+      "summary": "It will need to be approved by the House and then signed into law by the president before the government can reopen."
     },
     {
       "source": "BBC World",
-      "title": "US Senate to debate deal to end longest shutdown after overnight breakthrough",
-      "url": "https://www.bbc.com/news/articles/cpd2p2eddnzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The measure signals a major breakthrough but the deal still needs to get over more hurdles in Congress. "
+      "title": "'There was blood everywhere': Delhi residents recount horror of huge car explosion",
+      "url": "https://www.bbc.com/news/articles/clyl7n4q3qyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Eyewitnesses describe what they saw after the blast near the Red Fort in the Indian capital."
     },
     {
       "source": "BBC World",
-      "title": "Syria to join US-led coalition to defeat IS group after Trump meeting",
-      "url": "https://www.bbc.com/news/articles/cvgvz6316zwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ahmed al-Sharaa, once branded a terrorist by the US, became the first Syrian leader to visit the White House. "
+      "title": "Suicide bombing in Islamabad kills 12, says Pakistan's interior minister",
+      "url": "https://www.bbc.com/news/articles/cp3x6102p3ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Mohsin Naqvi says the bomber tried to gain entry to a court complex but was unable to get inside."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Siri Shortcuts now works with Samsung SmartThings routines",
+        "#text": "Snapchat is letting subscribers revive their 2D Bitmojis",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/818054/samsung-smartthings-routines-siri-ios-support",
+      "url": "https://www.theverge.com/news/818382/snapchat-bitmoji-comic-style-2d-avatar",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The best early Black Friday deals we’ve found so far on laptops, TVs, and more",
+        "#text": "The next iPhone Air has reportedly been delayed",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025",
+      "url": "https://www.theverge.com/news/817908/apple-iphone-air-second-generation-delayed",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Paramount Plus is getting a price hike in early 2026",
+        "#text": "Samsung brings a generative AI-powered Bixby to its TVs",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/818019/paramount-plus-price-increase-us-2026",
+      "url": "https://www.theverge.com/news/818355/samsung-tvs-bixby-generative-ai-conversational",
       "summary": "(要約準備中)"
     }
   ]
