@@ -1,18 +1,6 @@
 {
-  "updatedAt": "2025-11-11T13:42:50.971Z",
+  "updatedAt": "2025-11-11T18:53:24.004Z",
   "top": [
-    {
-      "source": "BBC World",
-      "title": "US Senate passes funding bill as historic shutdown nears likely end",
-      "url": "https://www.bbc.com/news/articles/cj41pgpk0wgo?at_medium=RSS&at_campaign=rss",
-      "summary": "It will need to be approved by the House and then signed into law by the president before the government can reopen."
-    },
-    {
-      "source": "BBC World",
-      "title": "'There was blood everywhere': Delhi residents recount horror of huge car explosion",
-      "url": "https://www.bbc.com/news/articles/clyl7n4q3qyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Eyewitnesses describe what they saw after the blast near the Red Fort in the Indian capital."
-    },
     {
       "source": "BBC World",
       "title": "Suicide bombing in Islamabad kills 12, says Pakistan's interior minister",
@@ -20,8 +8,26 @@
       "summary": "Mohsin Naqvi says the bomber tried to gain entry to a court complex but was unable to get inside."
     },
     {
+      "source": "BBC World",
+      "title": "'There was a state of terror': Sudan hospital worker describes fleeing before alleged massacre",
+      "url": "https://www.bbc.com/news/articles/cqx31ezjr04o?at_medium=RSS&at_campaign=rss",
+      "summary": "\"I have lost the people whose faces I used to see smiling,\" says Abdu-Rabbu Ahmed after escaping el-Fasher."
+    },
+    {
+      "source": "BBC World",
+      "title": "Four potential obstacles in House vote to end US shutdown",
+      "url": "https://www.bbc.com/news/articles/cly4wxnxxj2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The spending plan may have passed the Senate, but it's not yet a done deal in the House. "
+    },
+    {
       "source": "BBC Technology",
-      "title": "Cryptoqueen who fled China for London mansion to be sentenced over £5bn Bitcoin stash",
+      "title": "Man dances for 144 hours to break video game marathon record",
+      "url": "https://www.bbc.com/news/articles/cy8vwjp4jxyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Szabolcs Csépe played Dance Dance Revolution for six days to secure his place in the record books."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Cryptoqueen who fled China for London mansion jailed over £5bn Bitcoin stash",
       "url": "https://www.bbc.com/news/articles/cvg4w1g9ezko?at_medium=RSS&at_campaign=rss",
       "summary": "Qian Zhimin bought cryptocurrency using funds stolen from thousands of Chinese pensioners, say police.\n"
     },
@@ -32,36 +38,30 @@
       "summary": "In an extraordinary move, the Dutch government seized control of Nexperia, triggering anger in Beijing."
     },
     {
-      "source": "BBC Technology",
-      "title": "A jailed hacking kingpin reveals all about the gang that left a trail of destruction",
-      "url": "https://www.bbc.com/news/articles/cm2w0pvg4wko?at_medium=RSS&at_campaign=rss",
-      "summary": "One of the world's most prominent cyber-criminals speaks to the BBC in an exclusive interview."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Snapchat is letting subscribers revive their 2D Bitmojis",
+        "#text": "AI chatbots are helping hide eating disorders and making deepfake ‘thinspiration’ ",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/818382/snapchat-bitmoji-comic-style-2d-avatar",
+      "url": "https://www.theverge.com/news/818508/chatbot-eating-disorder-mental-health",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The next iPhone Air has reportedly been delayed",
+        "#text": "Amazon’s like-new Kindle Paperwhite Signature Edition is on sale for just $127",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/817908/apple-iphone-air-second-generation-delayed",
+      "url": "https://www.theverge.com/gadgets/818102/amazon-kindle-paperwhite-signature-edition-lego-christmas-tree-deal-sale",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Samsung brings a generative AI-powered Bixby to its TVs",
+        "#text": "Google Photos lets iPhone users edit images by describing changes",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/818355/samsung-tvs-bixby-generative-ai-conversational",
+      "url": "https://www.theverge.com/news/818346/google-photos-ios-help-me-edit-update",
       "summary": "(要約準備中)"
     }
   ]
