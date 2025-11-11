@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-11-10T18:51:23.403Z",
+  "updatedAt": "2025-11-11T03:39:09.173Z",
   "top": [
     {
       "source": "BBC World",
@@ -15,9 +15,21 @@
     },
     {
       "source": "BBC World",
-      "title": "Former French president Sarkozy released from prison after three weeks",
-      "url": "https://www.bbc.com/news/articles/cm2eppqd2nyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The former French president was jailed in October for conspiring to fund his election campaign with money from late Libyan dictator Muammar Gaddafi."
+      "title": "Syria to join US-led coalition to defeat IS group after Trump meeting",
+      "url": "https://www.bbc.com/news/articles/cvgvz6316zwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ahmed al-Sharaa, once branded a terrorist by the US, became the first Syrian leader to visit the White House. "
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Cryptoqueen who fled China for London mansion to be sentenced over £5bn Bitcoin stash",
+      "url": "https://www.bbc.com/news/articles/cvg4w1g9ezko?at_medium=RSS&at_campaign=rss",
+      "summary": "Qian Zhimin bought cryptocurrency using funds stolen from thousands of Chinese pensioners, say police.\n"
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Battle over Chinese chip maker rocks global car industry",
+      "url": "https://www.bbc.com/news/articles/cr43kyn9d6po?at_medium=RSS&at_campaign=rss",
+      "summary": "In an extraordinary move, the Dutch government seized control of Nexperia, triggering anger in Beijing."
     },
     {
       "source": "BBC Technology",
@@ -26,42 +38,30 @@
       "summary": "One of the world's most prominent cyber-criminals speaks to the BBC in an exclusive interview."
     },
     {
-      "source": "BBC Technology",
-      "title": "Dundee and US surgeons achieve world-first stroke surgery using robot",
-      "url": "https://www.bbc.com/news/articles/cjw983pvz6lo?at_medium=RSS&at_campaign=rss",
-      "summary": "A Dundee professor carried out the first remote thrombectomy on a human cadaver."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "China exempts chips used by carmakers from export curbs",
-      "url": "https://www.bbc.com/news/articles/c0rp2514g4qo?at_medium=RSS&at_campaign=rss",
-      "summary": "The block on exports of the company's chips had raised fears that European car production would be hit."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Apple’s AirPods 4 just hit their lowest price yet at $85",
+        "#text": "Siri Shortcuts now works with Samsung SmartThings routines",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/817656/apple-airpods-4-early-black-friday-deal-sale",
+      "url": "https://www.theverge.com/news/818054/samsung-smartthings-routines-siri-ios-support",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Netflix might make its own video podcasts",
+        "#text": "The best early Black Friday deals we’ve found so far on laptops, TVs, and more",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/817675/netflix-exclusive-original-podcasts-rumor",
+      "url": "https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Why I love my OXO kitchen scale",
+        "#text": "Paramount Plus is getting a price hike in early 2026",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/812853/oxo-kitchen-scale-favorites",
+      "url": "https://www.theverge.com/news/818019/paramount-plus-price-increase-us-2026",
       "summary": "(要約準備中)"
     }
   ]
