@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-11-11T18:53:24.004Z",
+  "updatedAt": "2025-11-12T03:37:57.605Z",
   "top": [
     {
       "source": "BBC World",
@@ -15,53 +15,53 @@
     },
     {
       "source": "BBC World",
-      "title": "Four potential obstacles in House vote to end US shutdown",
-      "url": "https://www.bbc.com/news/articles/cly4wxnxxj2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The spending plan may have passed the Senate, but it's not yet a done deal in the House. "
+      "title": "US aircraft carrier group arrives in Caribbean",
+      "url": "https://www.bbc.com/news/articles/c4gkypezze8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US Navy's Gerald R Ford aircraft carrier is considered the world's largest warship. "
     },
     {
       "source": "BBC Technology",
-      "title": "Man dances for 144 hours to break video game marathon record",
-      "url": "https://www.bbc.com/news/articles/cy8vwjp4jxyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Szabolcs Csépe played Dance Dance Revolution for six days to secure his place in the record books."
+      "title": "UK seeking to curb AI child sex abuse imagery with tougher testing",
+      "url": "https://www.bbc.com/news/articles/cn8xq677l9xo?at_medium=RSS&at_campaign=rss",
+      "summary": "A new law will allow authorised testers to assess AI models for their ability to generate abuse material "
     },
     {
       "source": "BBC Technology",
-      "title": "Cryptoqueen who fled China for London mansion jailed over £5bn Bitcoin stash",
-      "url": "https://www.bbc.com/news/articles/cvg4w1g9ezko?at_medium=RSS&at_campaign=rss",
-      "summary": "Qian Zhimin bought cryptocurrency using funds stolen from thousands of Chinese pensioners, say police.\n"
+      "title": "New consoles used to come out every five years – so where's the PlayStation 6?",
+      "url": "https://www.bbc.com/news/articles/cy7e352emrro?at_medium=RSS&at_campaign=rss",
+      "summary": "On the fifth anniversary of the PlayStation 5, the firm says its focus remains on its current console."
     },
     {
       "source": "BBC Technology",
-      "title": "Battle over Chinese chip maker rocks global car industry",
-      "url": "https://www.bbc.com/news/articles/cr43kyn9d6po?at_medium=RSS&at_campaign=rss",
-      "summary": "In an extraordinary move, the Dutch government seized control of Nexperia, triggering anger in Beijing."
+      "title": "Two popular gay dating platforms removed from Apple app store in China",
+      "url": "https://www.bbc.com/news/articles/c98n2kye01eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The removal of Blued and Finka has raised concerns amongst the LGBT community in the country."
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "AI chatbots are helping hide eating disorders and making deepfake ‘thinspiration’ ",
+        "#text": "Disney is losing over $4 million a day in revenue on the YouTube TV blackout",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/818508/chatbot-eating-disorder-mental-health",
+      "url": "https://www.theverge.com/news/818542/disney-youtube-tv-blackout-cost",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Amazon’s like-new Kindle Paperwhite Signature Edition is on sale for just $127",
+        "#text": "Pixel phones are getting notification summaries",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/818102/amazon-kindle-paperwhite-signature-edition-lego-christmas-tree-deal-sale",
+      "url": "https://www.theverge.com/tech/817644/pixel-update-notification-summaries-image-remix-messages",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Google Photos lets iPhone users edit images by describing changes",
+        "#text": "Google is introducing its own version of Apple’s private AI cloud compute",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/818346/google-photos-ios-help-me-edit-update",
+      "url": "https://www.theverge.com/news/818364/google-private-ai-compute",
       "summary": "(要約準備中)"
     }
   ]
