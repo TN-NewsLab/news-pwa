@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2025-11-12T06:56:29.101Z",
+  "updatedAt": "2025-11-12T13:51:11.201Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Suicide bombing in Islamabad kills 12, says Pakistan's interior minister",
-      "url": "https://www.bbc.com/news/articles/cp3x6102p3ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Mohsin Naqvi says the bomber tried to gain entry to a court complex but was unable to get inside."
+      "title": "Israeli settlers set fire to Palestinian warehouse and land as West Bank attacks surge",
+      "url": "https://www.bbc.com/news/articles/c78zygz4xg9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Several Palestinians were also injured when settlers launched arson attacks targeting an industrial area, a Bedouin village, and farmland east of Tulkarm."
     },
     {
       "source": "BBC World",
-      "title": "'There was a state of terror': Sudan hospital worker describes fleeing before alleged massacre",
-      "url": "https://www.bbc.com/news/articles/cqx31ezjr04o?at_medium=RSS&at_campaign=rss",
-      "summary": "\"I have lost the people whose faces I used to see smiling,\" says Abdu-Rabbu Ahmed after escaping el-Fasher."
+      "title": "Trump says he has 'obligation' to sue BBC over speech edit",
+      "url": "https://www.bbc.com/news/articles/ce9d5m54350o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president indicates he will go ahead with a lawsuit against the BBC over how his speech was presented by Panorama."
     },
     {
       "source": "BBC World",
-      "title": "US aircraft carrier group arrives in Caribbean",
-      "url": "https://www.bbc.com/news/articles/c4gkypezze8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US Navy's Gerald R Ford aircraft carrier is considered the world's largest warship. "
+      "title": "Fog helps Russian forces push deeper into key Ukrainian city of Pokrovsk ",
+      "url": "https://www.bbc.com/news/articles/cx276px3280o?at_medium=RSS&at_campaign=rss",
+      "summary": "A video has gone viral showing Russian soldiers openly driving into the city on civilian cars and motorbikes."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Disney is losing over $4 million a day in revenue on the YouTube TV blackout",
+        "#text": "The first Toy Story 5 teaser threatens the toys with a tablet",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/818542/disney-youtube-tv-blackout-cost",
+      "url": "https://www.theverge.com/news/818762/toy-story-5-pixar-disney-first-teaser-trailer",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Pixel phones are getting notification summaries",
+        "#text": "Insta360’s new accessories turn its Ace Pro 2 into an instant camera",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/817644/pixel-update-notification-summaries-image-remix-messages",
+      "url": "https://www.theverge.com/news/817622/insta360-ace-pro-2-action-camera-pocket-printer-xplorer-grip-pro-kit",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Google is introducing its own version of Apple’s private AI cloud compute",
+        "#text": "Samsung&#8217;s new 27-inch portable display has a three-hour battery life",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/818364/google-private-ai-compute",
+      "url": "https://www.theverge.com/news/818738/samsung-movingstyle-portable-display-tv-availability",
       "summary": "(要約準備中)"
     }
   ]
