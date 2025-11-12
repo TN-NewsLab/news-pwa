@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2025-11-12T13:51:11.201Z",
+  "updatedAt": "2025-11-12T18:51:44.310Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Italy investigates claim that tourists paid to go to Bosnia to kill besieged civilians",
+      "url": "https://www.bbc.com/news/articles/c3epygq5272o?at_medium=RSS&at_campaign=rss",
+      "summary": "Italians and others are alleged to have paid large sums to fire at Bosnians risking their lives in besieged Sarajevo."
+    },
+    {
+      "source": "BBC World",
+      "title": "Major corruption scandal engulfs top Zelensky allies",
+      "url": "https://www.bbc.com/news/articles/cy8vw62j3g9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Ukrainian president has called for the justice and energy ministers to be removed from their posts. "
+    },
     {
       "source": "BBC World",
       "title": "Israeli settlers set fire to Palestinian warehouse and land as West Bank attacks surge",
@@ -8,22 +20,16 @@
       "summary": "Several Palestinians were also injured when settlers launched arson attacks targeting an industrial area, a Bedouin village, and farmland east of Tulkarm."
     },
     {
-      "source": "BBC World",
-      "title": "Trump says he has 'obligation' to sue BBC over speech edit",
-      "url": "https://www.bbc.com/news/articles/ce9d5m54350o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president indicates he will go ahead with a lawsuit against the BBC over how his speech was presented by Panorama."
-    },
-    {
-      "source": "BBC World",
-      "title": "Fog helps Russian forces push deeper into key Ukrainian city of Pokrovsk ",
-      "url": "https://www.bbc.com/news/articles/cx276px3280o?at_medium=RSS&at_campaign=rss",
-      "summary": "A video has gone viral showing Russian soldiers openly driving into the city on civilian cars and motorbikes."
+      "source": "BBC Technology",
+      "title": "£220 ‘for a cut-up sock' - Apple's new iPhone Pocket ridiculed online",
+      "url": "https://www.bbc.com/news/articles/cn97ndgpnq7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Many took aim at the high price online, while others made fun of its striking likeness to a piece of footwear."
     },
     {
       "source": "BBC Technology",
-      "title": "UK seeking to curb AI child sex abuse imagery with tougher testing",
-      "url": "https://www.bbc.com/news/articles/cn8xq677l9xo?at_medium=RSS&at_campaign=rss",
-      "summary": "A new law will allow authorised testers to assess AI models for their ability to generate abuse material "
+      "title": "Danish man given suspended sentence for sharing nude film scenes on Reddit",
+      "url": "https://www.bbc.com/news/articles/c201yq43k66o?at_medium=RSS&at_campaign=rss",
+      "summary": "Police said the man shared 347 clips of naked actors on the social media site, which were viewed 4.2 million times."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "On the fifth anniversary of the PlayStation 5, the firm says its focus remains on its current console."
     },
     {
-      "source": "BBC Technology",
-      "title": "Two popular gay dating platforms removed from Apple app store in China",
-      "url": "https://www.bbc.com/news/articles/c98n2kye01eo?at_medium=RSS&at_campaign=rss",
-      "summary": "The removal of Blued and Finka has raised concerns amongst the LGBT community in the country."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "The first Toy Story 5 teaser threatens the toys with a tablet",
+        "#text": "Valve has stopped manufacturing its Index VR headset",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/818762/toy-story-5-pixar-disney-first-teaser-trailer",
+      "url": "https://www.theverge.com/news/817967/valve-index-vr-headset-stopped-manufacturing-frame",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Insta360’s new accessories turn its Ace Pro 2 into an instant camera",
+        "#text": "Valve has no news about Steam Deck 2",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/817622/insta360-ace-pro-2-action-camera-pocket-printer-xplorer-grip-pro-kit",
+      "url": "https://www.theverge.com/news/818313/valve-has-no-news-about-a-steam-deck-2",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Samsung&#8217;s new 27-inch portable display has a three-hour battery life",
+        "#text": "We tried Valve’s new VR headset, PC, and controller — ask us anything!",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/818738/samsung-movingstyle-portable-display-tv-availability",
+      "url": "https://www.theverge.com/games/818113/valve-steam-frame-machine-controller-vr-headset-pc-ask-us-anything-ama",
       "summary": "(要約準備中)"
     }
   ]
