@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-11-12T18:51:44.310Z",
+  "updatedAt": "2025-11-13T03:40:55.740Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,15 +9,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Major corruption scandal engulfs top Zelensky allies",
-      "url": "https://www.bbc.com/news/articles/cy8vw62j3g9o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Ukrainian president has called for the justice and energy ministers to be removed from their posts. "
+      "title": "What we know about new Epstein emails that mention Trump",
+      "url": "https://www.bbc.com/news/articles/c3rj0d97ynvo?at_medium=RSS&at_campaign=rss",
+      "summary": "In emails released by Democrats, Epstein says Trump \"knew about the girls\". The White House says they are an attempt to \"smear\" the president."
     },
     {
       "source": "BBC World",
-      "title": "Israeli settlers set fire to Palestinian warehouse and land as West Bank attacks surge",
-      "url": "https://www.bbc.com/news/articles/c78zygz4xg9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Several Palestinians were also injured when settlers launched arson attacks targeting an industrial area, a Bedouin village, and farmland east of Tulkarm."
+      "title": "Major corruption scandal engulfs top Zelensky allies",
+      "url": "https://www.bbc.com/news/articles/cy8vw62j3g9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Ukrainian president has called for the justice and energy ministers to be removed from their posts. "
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Valve has stopped manufacturing its Index VR headset",
+        "#text": "Sony is making a Horizon MMO — here’s the video and details",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/817967/valve-index-vr-headset-stopped-manufacturing-frame",
+      "url": "https://www.theverge.com/news/819657/horizon-steel-frontiers-mmo-sony-ncsoft-playstation",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Valve has no news about Steam Deck 2",
+        "#text": "The best budget robot vacuums",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/818313/valve-has-no-news-about-a-steam-deck-2",
+      "url": "https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "We tried Valve’s new VR headset, PC, and controller — ask us anything!",
+        "#text": "The Steam Frame has two speakers on each side of your face for vibration cancellation",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/818113/valve-steam-frame-machine-controller-vr-headset-pc-ask-us-anything-ama",
+      "url": "https://www.theverge.com/news/818599/valve-steam-frame-headset-speakers-head-strap-vibration-cancellation",
       "summary": "(要約準備中)"
     }
   ]
