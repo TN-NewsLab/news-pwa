@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2025-11-13T06:56:22.514Z",
+  "updatedAt": "2025-11-13T13:46:45.540Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Italy investigates claims of tourists paying to shoot civilians in Bosnia in 1990s",
-      "url": "https://www.bbc.com/news/articles/c3epygq5272o?at_medium=RSS&at_campaign=rss",
-      "summary": "Italians and others are alleged to have paid large sums to fire at Bosnians risking their lives in besieged Sarajevo."
+      "title": "Epstein email says Andrew had photo taken with Virginia Giuffre",
+      "url": "https://www.bbc.com/news/articles/cglgj08erywo?at_medium=RSS&at_campaign=rss",
+      "summary": "The message sent by Epstein reads: \"Yes she [Giuffre] was on my plane and yes she had her picture taken with Andrew\""
     },
     {
       "source": "BBC World",
@@ -15,13 +15,19 @@
     },
     {
       "source": "BBC World",
-      "title": "Major corruption scandal engulfs top Zelensky allies",
-      "url": "https://www.bbc.com/news/articles/cy8vw62j3g9o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Ukrainian president has called for the justice and energy ministers to be removed from their posts. "
+      "title": "Anthony Zurcher: Democrats left bruised after historic shutdown yields little",
+      "url": "https://www.bbc.com/news/articles/cz917nvj7qeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump emerges from the shutdown having made little in the way of substantive concessions to Democrats in Congress."
     },
     {
       "source": "BBC Technology",
-      "title": "£220 ‘for a cut-up sock' - Apple's new iPhone Pocket ridiculed online",
+      "title": "PC gaming giant Valve unveils new console to rival Xbox and PlayStation",
+      "url": "https://www.bbc.com/news/articles/cd679n9lnx5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Steam Machine is a console designed to allow gamers to play PC games on their TV."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "£220 'for a cut-up sock' - Apple's new iPhone Pocket ridiculed online",
       "url": "https://www.bbc.com/news/articles/cn97ndgpnq7o?at_medium=RSS&at_campaign=rss",
       "summary": "Many took aim at the high price online, while others made fun of its striking likeness to a piece of footwear."
     },
@@ -32,36 +38,30 @@
       "summary": "Police said the man shared 347 clips of naked actors on the social media site, which were viewed 4.2 million times."
     },
     {
-      "source": "BBC Technology",
-      "title": "New consoles used to come out every five years – so where's the PlayStation 6?",
-      "url": "https://www.bbc.com/news/articles/cy7e352emrro?at_medium=RSS&at_campaign=rss",
-      "summary": "On the fifth anniversary of the PlayStation 5, the firm says its focus remains on its current console."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Sony is making a Horizon MMO — here’s the video and details",
+        "#text": "Spotify’s new audiobook recap feature uses AI to remind you of the story so far",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/819657/horizon-steel-frontiers-mmo-sony-ncsoft-playstation",
+      "url": "https://www.theverge.com/news/819476/spotify-audiobook-ai-recaps-short-summary",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The best budget robot vacuums",
+        "#text": "Valve just built the Xbox that Microsoft is dreaming of",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop",
+      "url": "https://www.theverge.com/tech/819844/valve-steam-machine-xbox-console-steamos-competition-notepad",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The Steam Frame has two speakers on each side of your face for vibration cancellation",
+        "#text": "DJI’s Neo 2 selfie drone launches globally, but not in the US",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/818599/valve-steam-frame-headset-speakers-head-strap-vibration-cancellation",
+      "url": "https://www.theverge.com/news/819109/dji-neo-2-selfie-drone-global-launch",
       "summary": "(要約準備中)"
     }
   ]
