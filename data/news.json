@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-11-13T13:46:45.540Z",
+  "updatedAt": "2025-11-13T18:54:27.067Z",
   "top": [
     {
       "source": "BBC World",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Spotify’s new audiobook recap feature uses AI to remind you of the story so far",
+        "#text": "Mozilla announces an AI ‘window’ for Firefox",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/819476/spotify-audiobook-ai-recaps-short-summary",
+      "url": "https://www.theverge.com/news/820196/mozilla-firefox-ai-window-browser",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Valve just built the Xbox that Microsoft is dreaming of",
+        "#text": "The Fire TV Stick 4K Max is back down to $35, its best price in a year",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/819844/valve-steam-machine-xbox-console-steamos-competition-notepad",
+      "url": "https://www.theverge.com/tech/820121/amazon-fire-tv-stick-4k-max-early-black-friday-deal-sale",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "DJI’s Neo 2 selfie drone launches globally, but not in the US",
+        "#text": "World Labs is betting on ‘world generation’ as the next AI frontier",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/819109/dji-neo-2-selfie-drone-global-launch",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/820016/world-labs-is-betting-on-world-generation-as-the-next-ai-frontier",
       "summary": "(要約準備中)"
     }
   ]
