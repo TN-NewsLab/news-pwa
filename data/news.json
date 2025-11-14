@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-11-14T13:45:55.537Z",
+  "updatedAt": "2025-11-14T18:53:57.884Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,15 +9,15 @@
     },
     {
       "source": "BBC World",
-      "title": "BBC apologises to Trump over Panorama edit but refuses to pay compensation",
-      "url": "https://www.bbc.com/news/articles/c874nw4g2zzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Lawyers for the US president have threatened to sue the corporation for $1bn (£759m)."
+      "title": "Trump to order investigation into Epstein's alleged ties to Clinton and banks ",
+      "url": "https://www.bbc.com/news/articles/cj97x2lere0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump said on social media he was seeking investigations into Clinton, Larry Summers as well as JP Morgan and other major banks."
     },
     {
       "source": "BBC World",
-      "title": "US calls for international action to cut weapons supply to Sudan paramilitaries",
-      "url": "https://www.bbc.com/news/articles/c17p1nwy7q8o?at_medium=RSS&at_campaign=rss",
-      "summary": "\"They're committing acts of sexual violence and atrocities,\" says the US secretary of state, \"and it needs to end immediately\"."
+      "title": "South Africa to investigate 'mystery' of planeload of Palestinians",
+      "url": "https://www.bbc.com/news/articles/c3dn3g4jdxjo?at_medium=RSS&at_campaign=rss",
+      "summary": "It is not clear who chartered the plane carrying the Palestinians from Kenya to South Africa. "
     },
     {
       "source": "BBC Technology",
@@ -27,41 +27,41 @@
     },
     {
       "source": "BBC Technology",
+      "title": "Call of Duty is back, and it's got a battle on its hands",
+      "url": "https://www.bbc.com/news/articles/cy9pwgqvr7go?at_medium=RSS&at_campaign=rss",
+      "summary": "The annual instalment of the massive series faces new challenges from competitor Battlefield 6."
+    },
+    {
+      "source": "BBC Technology",
       "title": "PC gaming giant Valve unveils new console to rival Xbox and PlayStation",
       "url": "https://www.bbc.com/news/articles/cd679n9lnx5o?at_medium=RSS&at_campaign=rss",
       "summary": "The Steam Machine is a console designed to allow gamers to play PC games on their TV."
     },
     {
-      "source": "BBC Technology",
-      "title": "£220 'for a cut-up sock' - Apple's new iPhone Pocket ridiculed online",
-      "url": "https://www.bbc.com/news/articles/cn97ndgpnq7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Many took aim at the high price online, while others made fun of its striking likeness to a piece of footwear."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Valve made Microsoft&#8217;s dream console",
+        "#text": "Fortnite is coming to the Xbox PC store",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/podcast/820889/vergecast-steam-machines-neo-robot-fire-tv-piracy",
+      "url": "https://www.theverge.com/news/821177/fortnite-xbox-on-pc-app-store-epic-games-play-anywhere-crew-game-pass",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Valve is making microSD cards the next game cartridges",
+        "#text": "Superman, Sinners, and other 4K Blu-rays are just $12.99 ahead of Black Friday",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/818602/valve-steam-deck-machine-frame-microsd-card-game-cartridges",
+      "url": "https://www.theverge.com/tech/821035/superman-sinners-4k-blu-ray-black-friday-deal-sale",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "WhatsApp is launching third-party chat integration in Europe",
+        "#text": "Apple’s last-gen AirPods Pro 2 are down to their lowest price to date",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/820858/whatsapp-third-party-messaging-date-eu-e2ee",
+      "url": "https://www.theverge.com/gadgets/821049/apple-airpods-pro-2-walmart-black-friday-deal-sale",
       "summary": "(要約準備中)"
     }
   ]
