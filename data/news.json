@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2025-11-14T06:56:05.182Z",
+  "updatedAt": "2025-11-14T13:45:55.537Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Epstein email says Andrew had photo taken with Virginia Giuffre",
-      "url": "https://www.bbc.com/news/articles/cglgj08erywo?at_medium=RSS&at_campaign=rss",
-      "summary": "The message sent by Epstein reads: \"Yes she [Giuffre] was on my plane and yes she had her picture taken with Andrew\""
+      "title": "Russian drone slams into block of flats in deadly wave of strikes across Kyiv",
+      "url": "https://www.bbc.com/news/articles/cn4jn94gyllo?at_medium=RSS&at_campaign=rss",
+      "summary": "Six people are killed in Kyiv, and Ukraine targets one of Russia's biggest oil ports on the Black Sea coast."
     },
     {
       "source": "BBC World",
-      "title": "What we know about new Epstein emails that mention Trump",
-      "url": "https://www.bbc.com/news/articles/c3rj0d97ynvo?at_medium=RSS&at_campaign=rss",
-      "summary": "In emails released by Democrats, Epstein says Trump \"knew about the girls\". The White House says they are an attempt to \"smear\" the president."
+      "title": "BBC apologises to Trump over Panorama edit but refuses to pay compensation",
+      "url": "https://www.bbc.com/news/articles/c874nw4g2zzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Lawyers for the US president have threatened to sue the corporation for $1bn (£759m)."
     },
     {
       "source": "BBC World",
-      "title": "Germany agrees new military service plan to boost troop numbers",
-      "url": "https://www.bbc.com/news/articles/c4gpkerdn9qo?at_medium=RSS&at_campaign=rss",
-      "summary": "The new military service plan will mandate all 18-year-old men to fill out a questionnaire on their suitability to serve. "
+      "title": "US calls for international action to cut weapons supply to Sudan paramilitaries",
+      "url": "https://www.bbc.com/news/articles/c17p1nwy7q8o?at_medium=RSS&at_campaign=rss",
+      "summary": "\"They're committing acts of sexual violence and atrocities,\" says the US secretary of state, \"and it needs to end immediately\"."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "AI firm claims Chinese spies used its tech to automate cyber attacks",
+      "url": "https://www.bbc.com/news/articles/cx2lzmygr84o?at_medium=RSS&at_campaign=rss",
+      "summary": "The company claimed in a blog post this was the \"first reported AI-orchestrated cyber espionage campaign\"."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "Many took aim at the high price online, while others made fun of its striking likeness to a piece of footwear."
     },
     {
-      "source": "BBC Technology",
-      "title": "Danish man given suspended sentence for sharing nude film scenes on Reddit",
-      "url": "https://www.bbc.com/news/articles/c201yq43k66o?at_medium=RSS&at_campaign=rss",
-      "summary": "Police said the man shared 347 clips of naked actors on the social media site, which were viewed 4.2 million times."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "What insiders anonymously think about the AI race",
+        "#text": "Valve made Microsoft&#8217;s dream console",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/column/820664/cerebral-valley-conference-ai-anonymous-survey",
+      "url": "https://www.theverge.com/podcast/820889/vergecast-steam-machines-neo-robot-fire-tv-piracy",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The best instant cameras you can buy right now",
+        "#text": "Valve is making microSD cards the next game cartridges",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak",
+      "url": "https://www.theverge.com/games/818602/valve-steam-deck-machine-frame-microsd-card-game-cartridges",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Apple TV is getting MLS games at no extra cost",
+        "#text": "WhatsApp is launching third-party chat integration in Europe",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/820595/apple-tv-mls-games-bundle-no-extra-cost-subscription-season-pass",
+      "url": "https://www.theverge.com/news/820858/whatsapp-third-party-messaging-date-eu-e2ee",
       "summary": "(要約準備中)"
     }
   ]
