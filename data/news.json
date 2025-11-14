@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-11-13T18:54:27.067Z",
+  "updatedAt": "2025-11-14T03:39:01.814Z",
   "top": [
     {
       "source": "BBC World",
@@ -15,9 +15,9 @@
     },
     {
       "source": "BBC World",
-      "title": "Anthony Zurcher: Democrats left bruised after historic shutdown yields little",
-      "url": "https://www.bbc.com/news/articles/cz917nvj7qeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump emerges from the shutdown having made little in the way of substantive concessions to Democrats in Congress."
+      "title": "Germany agrees new military service plan to boost troop numbers",
+      "url": "https://www.bbc.com/news/articles/c4gpkerdn9qo?at_medium=RSS&at_campaign=rss",
+      "summary": "The new military service plan will mandate all 18-year-old men to fill out a questionnaire on their suitability to serve. "
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Mozilla announces an AI ‘window’ for Firefox",
+        "#text": "What insiders anonymously think about the AI race",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/820196/mozilla-firefox-ai-window-browser",
+      "url": "https://www.theverge.com/column/820664/cerebral-valley-conference-ai-anonymous-survey",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The Fire TV Stick 4K Max is back down to $35, its best price in a year",
+        "#text": "The best instant cameras you can buy right now",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/820121/amazon-fire-tv-stick-4k-max-early-black-friday-deal-sale",
+      "url": "https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "World Labs is betting on ‘world generation’ as the next AI frontier",
+        "#text": "Apple TV is getting MLS games at no extra cost",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/820016/world-labs-is-betting-on-world-generation-as-the-next-ai-frontier",
+      "url": "https://www.theverge.com/news/820595/apple-tv-mls-games-bundle-no-extra-cost-subscription-season-pass",
       "summary": "(要約準備中)"
     }
   ]
