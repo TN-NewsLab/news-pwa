@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-11-15T06:50:15.618Z",
+  "updatedAt": "2025-11-15T13:31:22.227Z",
   "top": [
     {
       "source": "BBC World",
@@ -15,9 +15,9 @@
     },
     {
       "source": "BBC World",
-      "title": "US justice department investigates Epstein's alleged ties to Clinton and banks after Trump request",
-      "url": "https://www.bbc.com/news/articles/cj97x2lere0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Democrats are accusing Trump of using the justice department to deflect from his previous relationship with Epstein. "
+      "title": "Nine killed in accidental blast at police station in Indian-administered Kashmir, officials say",
+      "url": "https://www.bbc.com/news/articles/cnvel2gvqeqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Police say the powerful blast severely damaged the police station and engulfed vehicles in flames."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "The Steam Machine feels like the TV gaming PC I’ve always wanted",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/games/818606/valve-steam-machine-tv-gaming-pc-wanted",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "Pluribus’ third episode throws a bomb into things",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/entertainment/820523/pluribus-episode-3-discussion",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "YouTube TV, ESPN, and Disney: the latest on the blackout that’s now over",
         "@_type": "html"
       },
       "url": "https://www.theverge.com/news/817403/youtube-tv-disney-espn-blackout-updates",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Disney and ESPN are back on YouTube TV",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/news/821581/disney-youtube-tv-deal-agreement-espn",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "The best early Black Friday deals we’ve found so far on laptops, TVs, and more",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025",
       "summary": "(要約準備中)"
     }
   ]
