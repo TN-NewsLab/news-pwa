@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-11-15T13:31:22.227Z",
+  "updatedAt": "2025-11-15T18:47:26.461Z",
   "top": [
     {
       "source": "BBC World",
@@ -15,9 +15,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Nine killed in accidental blast at police station in Indian-administered Kashmir, officials say",
-      "url": "https://www.bbc.com/news/articles/cnvel2gvqeqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Police say the powerful blast severely damaged the police station and engulfed vehicles in flames."
+      "title": "Thousands march outside COP30 summit in call for action",
+      "url": "https://www.bbc.com/news/articles/cy40z22qqwwo?at_medium=RSS&at_campaign=rss",
+      "summary": "This is the first time since 2021 that protesters have been allowed to demonstrate outside the UN talks."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Can technology fix fashion's sizing crisis?",
+      "url": "https://www.bbc.com/news/articles/cjekg1pd9j4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC looks into whether artificial intelligence (AI) can help people who struggle when clothes are oddly sized."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "The annual instalment of the massive series faces new challenges from competitor Battlefield 6."
     },
     {
-      "source": "BBC Technology",
-      "title": "PC gaming giant Valve unveils new console to rival Xbox and PlayStation",
-      "url": "https://www.bbc.com/news/articles/cd679n9lnx5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Steam Machine is a console designed to allow gamers to play PC games on their TV."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "The Steam Machine feels like the TV gaming PC I’ve always wanted",
+        "#text": "Here are 25 of our favorite outdoorsy deals from REI’s massive Holiday Sale",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/818606/valve-steam-machine-tv-gaming-pc-wanted",
+      "url": "https://www.theverge.com/gadgets/821397/best-rei-holiday-sale-2025-deals",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Pluribus’ third episode throws a bomb into things",
+        "#text": "Possessor(s) is a fast-paced action game that gets off to a slow start",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/820523/pluribus-episode-3-discussion",
+      "url": "https://www.theverge.com/games/821117/possessors-review-pc-ps5",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "YouTube TV, ESPN, and Disney: the latest on the blackout that’s now over",
+        "#text": "How to find music you will love without the algorithm",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/817403/youtube-tv-disney-espn-blackout-updates",
+      "url": "https://www.theverge.com/report/821614/discover-music-without-algorithms",
       "summary": "(要約準備中)"
     }
   ]
