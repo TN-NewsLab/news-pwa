@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2025-11-14T18:53:57.884Z",
+  "updatedAt": "2025-11-15T03:31:55.396Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Trump says he will take legal action against BBC over Panorama edit",
+      "url": "https://www.bbc.com/news/articles/c891jp9j79do?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president confirmed he will sue the broadcaster for at least $1bn over the Panorama edit of his speech. "
+    },
     {
       "source": "BBC World",
       "title": "Russian drone slams into block of flats in deadly wave of strikes across Kyiv",
@@ -9,15 +15,9 @@
     },
     {
       "source": "BBC World",
-      "title": "Trump to order investigation into Epstein's alleged ties to Clinton and banks ",
+      "title": "US justice department investigates Epstein's alleged ties to Clinton and banks after Trump request",
       "url": "https://www.bbc.com/news/articles/cj97x2lere0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump said on social media he was seeking investigations into Clinton, Larry Summers as well as JP Morgan and other major banks."
-    },
-    {
-      "source": "BBC World",
-      "title": "South Africa to investigate 'mystery' of planeload of Palestinians",
-      "url": "https://www.bbc.com/news/articles/c3dn3g4jdxjo?at_medium=RSS&at_campaign=rss",
-      "summary": "It is not clear who chartered the plane carrying the Palestinians from Kenya to South Africa. "
+      "summary": "Democrats are accusing Trump of using the justice department to deflect from his previous relationship with Epstein. "
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Fortnite is coming to the Xbox PC store",
+        "#text": "YouTube TV, ESPN, and Disney: the latest on the blackout that’s now over",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/821177/fortnite-xbox-on-pc-app-store-epic-games-play-anywhere-crew-game-pass",
+      "url": "https://www.theverge.com/news/817403/youtube-tv-disney-espn-blackout-updates",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Superman, Sinners, and other 4K Blu-rays are just $12.99 ahead of Black Friday",
+        "#text": "Disney and ESPN are back on YouTube TV",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/821035/superman-sinners-4k-blu-ray-black-friday-deal-sale",
+      "url": "https://www.theverge.com/news/821581/disney-youtube-tv-deal-agreement-espn",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Apple’s last-gen AirPods Pro 2 are down to their lowest price to date",
+        "#text": "The best early Black Friday deals we’ve found so far on laptops, TVs, and more",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/821049/apple-airpods-pro-2-walmart-black-friday-deal-sale",
+      "url": "https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025",
       "summary": "(要約準備中)"
     }
   ]
