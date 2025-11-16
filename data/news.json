@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2025-11-15T18:47:26.461Z",
+  "updatedAt": "2025-11-16T03:44:32.017Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Feud erupts between Trump and longtime ally Marjorie Taylor Greene",
+      "url": "https://www.bbc.com/news/articles/c9wv4dx05q5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Georgia congresswoman has criticised Trump's foreign policy and handling of Jeffrey Epstein files. "
+    },
+    {
+      "source": "BBC World",
+      "title": "Clashes erupt as thousands protest against government in Mexico",
+      "url": "https://www.bbc.com/news/articles/cn8vm30rr78o?at_medium=RSS&at_campaign=rss",
+      "summary": "Police say 100 officers were injured in the protest, which came weeks after Carlos Manzo, mayor of Uruapan, was killed."
+    },
     {
       "source": "BBC World",
       "title": "Trump says he will take legal action against BBC over Panorama edit",
       "url": "https://www.bbc.com/news/articles/c891jp9j79do?at_medium=RSS&at_campaign=rss",
       "summary": "The US president confirmed he intends to sue the broadcaster for at least $1bn over the Panorama edit of a 2021 speech. "
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump rolls back tariffs on dozens of food products",
-      "url": "https://www.bbc.com/news/articles/cdjr4xw83eko?at_medium=RSS&at_campaign=rss",
-      "summary": "The executive order allowing products like coffee and bananas to escape tariffs comes as the Trump administration faces mounting pressure over rising prices."
-    },
-    {
-      "source": "BBC World",
-      "title": "Thousands march outside COP30 summit in call for action",
-      "url": "https://www.bbc.com/news/articles/cy40z22qqwwo?at_medium=RSS&at_campaign=rss",
-      "summary": "This is the first time since 2021 that protesters have been allowed to demonstrate outside the UN talks."
     },
     {
       "source": "BBC Technology",
@@ -40,6 +40,15 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "Tim Cook could step down as Apple CEO next year",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/news/821691/tim-cook-step-down-apple-ceo-next-year",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "Here are 25 of our favorite outdoorsy deals from REI’s massive Holiday Sale",
         "@_type": "html"
       },
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/games/821117/possessors-review-pc-ps5",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "How to find music you will love without the algorithm",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/report/821614/discover-music-without-algorithms",
       "summary": "(要約準備中)"
     }
   ]
