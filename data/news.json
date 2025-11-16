@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-11-16T06:57:06.359Z",
+  "updatedAt": "2025-11-16T13:36:27.904Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Feud erupts between Trump and longtime ally Marjorie Taylor Greene",
+      "title": "Feud erupts between Trump and ally Marjorie Taylor Greene ahead of Epstein files vote",
       "url": "https://www.bbc.com/news/articles/c9wv4dx05q5o?at_medium=RSS&at_campaign=rss",
       "summary": "The Georgia congresswoman has criticised Trump's foreign policy and handling of Jeffrey Epstein files. "
     },
@@ -15,9 +15,9 @@
     },
     {
       "source": "BBC World",
-      "title": "Trump says he will take legal action against BBC over Panorama edit",
-      "url": "https://www.bbc.com/news/articles/c891jp9j79do?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president confirmed he intends to sue the broadcaster for at least $1bn over the Panorama edit of a 2021 speech. "
+      "title": "At least four dead after migrant boats sink in Mediterranean",
+      "url": "https://www.bbc.com/news/articles/cgkz5k5erzgo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Libyan Red Crescent says two boats carrying nearly 100 migrants attempting to reach Europe capsized."
     },
     {
       "source": "BBC Technology",
@@ -27,15 +27,24 @@
     },
     {
       "source": "BBC Technology",
-      "title": "AI firm claims Chinese spies used its tech to automate cyber attacks",
-      "url": "https://www.bbc.com/news/articles/cx2lzmygr84o?at_medium=RSS&at_campaign=rss",
-      "summary": "The company claimed in a blog post this was the \"first reported AI-orchestrated cyber espionage campaign\"."
+      "title": "YouTuber Jack Doherty arrested in Miami on drug possession charges",
+      "url": "https://www.bbc.com/news/articles/c620yzjpxlvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The influencer, who has over 15 million subscribers on YouTube, is known for filming provocative videos involving pranks and stunts."
     },
     {
       "source": "BBC Technology",
-      "title": "Call of Duty is back, and it's got a battle on its hands",
-      "url": "https://www.bbc.com/news/articles/cy9pwgqvr7go?at_medium=RSS&at_campaign=rss",
-      "summary": "The annual instalment of the massive series faces new challenges from competitor Battlefield 6."
+      "title": "Data centre in the shed reduces energy bills to £40",
+      "url": "https://www.bbc.com/news/articles/c0rpy7envr5o?at_medium=RSS&at_campaign=rss",
+      "summary": "\"It's fantastic because it's eco-friendly...We're not burning any gases,\" says Terrence Bridges. "
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "How soapy micro dramas became Hollywood&#8217;s next big bet",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/column/821345/micro-dramas-how-hollywood",
+      "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/gadgets/821397/best-rei-holiday-sale-2025-deals",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Possessor(s) is a fast-paced action game that gets off to a slow start",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/games/821117/possessors-review-pc-ps5",
       "summary": "(要約準備中)"
     }
   ]
