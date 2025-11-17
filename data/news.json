@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2025-11-17T06:57:35.793Z",
+  "updatedAt": "2025-11-17T13:44:56.743Z",
   "top": [
     {
       "source": "BBC World",
       "title": "Trump calls on House Republicans to vote to release Epstein files",
       "url": "https://www.bbc.com/news/articles/cvgv653v1vjo?at_medium=RSS&at_campaign=rss",
-      "summary": "\"We have nothing to hide,\" Trump writes on Truth Social, after previously fighting a proposal to make more of the Epstein files public. "
+      "summary": "\"We have nothing to hide,\" the US president writes after previously resisting publishing the documents."
     },
     {
       "source": "BBC World",
-      "title": "Two US marines implicated in killing family in notorious Iraq war shooting, expert tells BBC",
-      "url": "https://www.bbc.com/news/articles/c2emyz0zpxko?at_medium=RSS&at_campaign=rss",
-      "summary": "New evidence raises doubts about the longest US war crimes investigation of the Iraq war and how US forces are held to account.  "
+      "title": "Bangladesh's ousted leader Sheikh Hasina sentenced to death",
+      "url": "https://www.bbc.com/news/articles/cpwvg99e8vdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The former prime minister was tried by a special tribunal after 1,400 died during a crackdown on unrest in 2024. "
     },
     {
       "source": "BBC World",
-      "title": "Mysterious drones have been spotted at night at airports across Europe. How worried should we be?",
-      "url": "https://www.bbc.com/news/articles/crkl3d6pegpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Drones have been found across Western Europe near airports, military bases and power plants, as part of a suspected programme of 'hybrid warfare'"
+      "title": "Ukraine to import US liquefied natural gas via Greece",
+      "url": "https://www.bbc.com/news/articles/c0ex0y0p31jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Vital supplies are due to start flowing into the war-ravaged country this winter via a Balkan pipeline."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Sky Sports killed off its female-focused Halo brand after just three days",
+        "#text": "MSI’s $380 QD-OLED gaming monitor is one of 2025’s best deals so far",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/821807/sky-sports-halo-women-tiktok",
+      "url": "https://www.theverge.com/gadgets/820451/msi-qd-oled-1440p-gaming-monitor-deal-sale-black-friday",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "You need to listen to the searing noise pop album Forever in Your Heart",
+        "#text": "X launches Chat, its new encrypted DMs",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/821782/you-need-to-listen-to-the-searing-noise-pop-album-forever-in-your-heart",
+      "url": "https://www.theverge.com/news/821950/x-chat-encrypted-dms-video-calls",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Stereogum soldiers on in the era of streaming and AI",
+        "#text": "Google is collecting troves of data from downgraded Nest thermostats",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/821767/stereogum-scott-lapatine-independent-music-media-streaming-ai",
+      "url": "https://www.theverge.com/news/820600/google-nest-learning-thermostat-downgraded-data-collection",
       "summary": "(要約準備中)"
     }
   ]
