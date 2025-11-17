@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2025-11-17T13:44:56.743Z",
+  "updatedAt": "2025-11-17T18:53:26.595Z",
   "top": [
     {
       "source": "BBC World",
       "title": "Trump calls on House Republicans to vote to release Epstein files",
       "url": "https://www.bbc.com/news/articles/cvgv653v1vjo?at_medium=RSS&at_campaign=rss",
-      "summary": "\"We have nothing to hide,\" the US president writes after previously resisting publishing the documents."
+      "summary": "\"We have nothing to hide,\" the US president writes - a reversal after previously resisting publishing the documents."
     },
     {
       "source": "BBC World",
-      "title": "Bangladesh's ousted leader Sheikh Hasina sentenced to death",
-      "url": "https://www.bbc.com/news/articles/cpwvg99e8vdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The former prime minister was tried by a special tribunal after 1,400 died during a crackdown on unrest in 2024. "
+      "title": "Louvre closes gallery due to structural issue",
+      "url": "https://www.bbc.com/news/articles/cpd2gwwx101o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Campana Gallery, which host Greek ceramics, will remain closed as beams supporting the floor above are checked."
     },
     {
       "source": "BBC World",
-      "title": "Ukraine to import US liquefied natural gas via Greece",
-      "url": "https://www.bbc.com/news/articles/c0ex0y0p31jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Vital supplies are due to start flowing into the war-ravaged country this winter via a Balkan pipeline."
+      "title": "Sheikh Hasina: The pro-democracy icon who became an autocrat",
+      "url": "https://www.bbc.com/news/articles/cg3ee303yxpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Sheikh Hasina is credited for the country's economic progress but also accused of authoritarianism."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "British hacker must repay £4m after hijacking celebrity Twitter accounts",
+      "url": "https://www.bbc.com/news/articles/c709ppwpw1wo?at_medium=RSS&at_campaign=rss",
+      "summary": "Joseph O'Connor, from Liverpool, hacked more than 130 accounts in July 2020 to promote a Bitcoin scam."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "The 60 day pilot will use signals from mobile phone masts and satellites in space to create a more reliable connection."
     },
     {
-      "source": "BBC Technology",
-      "title": "Keyless car theft devices used by criminals sell for £20k online",
-      "url": "https://www.bbc.com/news/articles/c74jgvp1x49o?at_medium=RSS&at_campaign=rss",
-      "summary": "It is not illegal currently to own the gadgets but the government has promised to ban them."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "MSI’s $380 QD-OLED gaming monitor is one of 2025’s best deals so far",
+        "#text": "The best e-reader to buy right now",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/820451/msi-qd-oled-1440p-gaming-monitor-deal-sale-black-friday",
+      "url": "https://www.theverge.com/23769068/best-ebook-readers",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "X launches Chat, its new encrypted DMs",
+        "#text": "Google&#8217;s AI Mode can now help you visualize your travel plans",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/821950/x-chat-encrypted-dms-video-calls",
+      "url": "https://www.theverge.com/news/822240/google-ai-mode-travel-plans-canvas",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Google is collecting troves of data from downgraded Nest thermostats",
+        "#text": "Netgear&#8217;s $499.99 5G hotspot lets you swap eSIMs at will",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/820600/google-nest-learning-thermostat-downgraded-data-collection",
+      "url": "https://www.theverge.com/news/822256/netgear-nighthawk-5g-m7-esim-marketplace-launch",
       "summary": "(要約準備中)"
     }
   ]
