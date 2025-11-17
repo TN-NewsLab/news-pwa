@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2025-11-16T18:48:40.634Z",
+  "updatedAt": "2025-11-17T03:43:01.505Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Two US marines implicated in killing family in notorious Iraq war shooting, expert tells BBC",
+      "url": "https://www.bbc.com/news/articles/c2emyz0zpxko?at_medium=RSS&at_campaign=rss",
+      "summary": "New evidence raises doubts about the longest US war crimes investigation of the Iraq war and how US forces are held to account.  "
+    },
+    {
+      "source": "BBC World",
+      "title": "Mysterious drones have been spotted at night at airports across Europe. How worried should we be?",
+      "url": "https://www.bbc.com/news/articles/crkl3d6pegpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Drones have been found across Western Europe near airports, military bases and power plants, as part of a suspected programme of 'hybrid warfare'"
+    },
     {
       "source": "BBC World",
       "title": "Feud erupts between Trump and ally Marjorie Taylor Greene ahead of Epstein files vote",
@@ -8,60 +20,48 @@
       "summary": "The Georgia congresswoman has criticised Trump's foreign policy and handling of Jeffrey Epstein files. "
     },
     {
-      "source": "BBC World",
-      "title": "Man arrested over deadly Delhi car bomb attack",
-      "url": "https://www.bbc.com/news/articles/clyk0nd1nq6o?at_medium=RSS&at_campaign=rss",
-      "summary": "The man is accused of being an accomplice to the perpetrator of the blast, which killed eight people and wounded 20 others."
-    },
-    {
-      "source": "BBC World",
-      "title": "Iran begins cloud seeding to induce rain amid historic drought",
-      "url": "https://www.bbc.com/news/articles/cj4172yl0l1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran’s largest lake has largely dried out and people are resorting to praying for rain in some areas"
+      "source": "BBC Technology",
+      "title": "How my on-air 'brain fog' moment sparked a big debate",
+      "url": "https://www.bbc.com/news/articles/c4gpkenx9dzo?at_medium=RSS&at_campaign=rss",
+      "summary": "When the BBC's Zoe Kleinman spoke about going through perimenopause she got a huge response."
     },
     {
       "source": "BBC Technology",
-      "title": "Sky Sports axes 'sexist' TikTok channel Halo after three days",
-      "url": "https://www.bbc.com/news/articles/cdrz8g7evyxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The female-focused TikTok channel was dubbed \"patronising\" and \"sexist\" by social media users."
+      "title": "Formula 1 tech used to rev-up train wi-fi speeds in new pilot",
+      "url": "https://www.bbc.com/news/articles/cqjwkdez71ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The 60 day pilot will use signals from mobile phone masts and satellites in space to create a more reliable connection."
     },
     {
       "source": "BBC Technology",
-      "title": "YouTuber Jack Doherty arrested in Miami on drug possession charges",
-      "url": "https://www.bbc.com/news/articles/c620yzjpxlvo?at_medium=RSS&at_campaign=rss",
-      "summary": "The influencer, who has over 15 million subscribers on YouTube, is known for filming provocative videos involving pranks and stunts."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Data centre in the shed reduces energy bills to £40",
-      "url": "https://www.bbc.com/news/articles/c0rpy7envr5o?at_medium=RSS&at_campaign=rss",
-      "summary": "\"It's fantastic because it's eco-friendly...We're not burning any gases,\" says Terrence Bridges. "
+      "title": "Keyless car theft devices used by criminals sell for £20k online",
+      "url": "https://www.bbc.com/news/articles/c74jgvp1x49o?at_medium=RSS&at_campaign=rss",
+      "summary": "It is not illegal currently to own the gadgets but the government has promised to ban them."
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The best gifts for dads that have everything (but deserve more)",
+        "#text": "Sky Sports killed off its female-focused Halo brand after just three days",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/780847/best-dad-gift-ideas",
+      "url": "https://www.theverge.com/news/821807/sky-sports-halo-women-tiktok",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "How LimeWire ended the Napster music revolution",
+        "#text": "You need to listen to the searing noise pop album Forever in Your Heart",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/podcast/820818/limewire-music-piracy-version-history",
+      "url": "https://www.theverge.com/entertainment/821782/you-need-to-listen-to-the-searing-noise-pop-album-forever-in-your-heart",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The Asus Falcata is an ambitious split ergo gaming keyboard that falls short",
+        "#text": "Stereogum soldiers on in the era of streaming and AI",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/821355/asus-falcata-review-hall-effect-switches-split-ergo-gaming-keyboard",
+      "url": "https://www.theverge.com/entertainment/821767/stereogum-scott-lapatine-independent-music-media-streaming-ai",
       "summary": "(要約準備中)"
     }
   ]
