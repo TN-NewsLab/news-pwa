@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2025-11-17T18:53:26.595Z",
+  "updatedAt": "2025-11-18T03:37:35.298Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Trump calls on House Republicans to vote to release Epstein files",
-      "url": "https://www.bbc.com/news/articles/cvgv653v1vjo?at_medium=RSS&at_campaign=rss",
-      "summary": "\"We have nothing to hide,\" the US president writes - a reversal after previously resisting publishing the documents."
+      "title": "Trump's plan for Gaza backed by UN Security Council",
+      "url": "https://www.bbc.com/news/articles/c0rpkgq4wllo?at_medium=RSS&at_campaign=rss",
+      "summary": "Included in the 20-point peace plan is the establishment of an International Stabilisation Force (ISF), which would work to demilitarise the territory."
     },
     {
       "source": "BBC World",
-      "title": "Louvre closes gallery due to structural issue",
-      "url": "https://www.bbc.com/news/articles/cpd2gwwx101o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Campana Gallery, which host Greek ceramics, will remain closed as beams supporting the floor above are checked."
+      "title": "A Chinese firm bought an insurer for CIA agents - part of Beijing's trillion dollar spending spree",
+      "url": "https://www.bbc.com/news/articles/c4g311jn1m9o?at_medium=RSS&at_campaign=rss",
+      "summary": "When an insurer for FBI and CIA agents was sold to a Chinese entity, it led the US to tighten investment laws."
     },
     {
       "source": "BBC World",
-      "title": "Sheikh Hasina: The pro-democracy icon who became an autocrat",
-      "url": "https://www.bbc.com/news/articles/cg3ee303yxpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Sheikh Hasina is credited for the country's economic progress but also accused of authoritarianism."
+      "title": "Canada narrowly approves Carney's first federal budget",
+      "url": "https://www.bbc.com/news/articles/cp8531xvy26o?at_medium=RSS&at_campaign=rss",
+      "summary": "The approval of the fiscal plan - the second largest in Canada's history - allows the prime minister's minority government to avert an early election."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "The best e-reader to buy right now",
+        "#text": "Google is fighting the defamation battle Meta caved on",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/23769068/best-ebook-readers",
+      "url": "https://www.theverge.com/news/822636/google-robby-starbuck-defamation-lawsuit-ai-chatbot",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Google&#8217;s AI Mode can now help you visualize your travel plans",
+        "#text": "The best foldable phone you can buy",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/822240/google-ai-mode-travel-plans-canvas",
+      "url": "https://www.theverge.com/tech/635839/best-foldable-phone",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Netgear&#8217;s $499.99 5G hotspot lets you swap eSIMs at will",
+        "#text": "OpenAI is finally letting employees donate their equity to charity",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/822256/netgear-nighthawk-5g-m7-esim-marketplace-launch",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/822496/openai-employee-equity-donation-charity-rounds-share-valuation",
       "summary": "(要約準備中)"
     }
   ]
