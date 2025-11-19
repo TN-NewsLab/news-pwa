@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-11-19T03:37:55.101Z",
+  "updatedAt": "2025-11-19T06:55:59.176Z",
   "top": [
     {
       "source": "BBC World",
@@ -15,7 +15,7 @@
     },
     {
       "source": "BBC World",
-      "title": "Cristiano Ronaldo to visit White House on same day as Saudi crown prince",
+      "title": "Cristiano Ronaldo attends White House dinner alongside Saudi crown prince",
       "url": "https://www.bbc.com/news/articles/c993e74pxd7o?at_medium=RSS&at_campaign=rss",
       "summary": "The Portuguese player is being paid handsomely to be part of the gulf state's modernisation plan."
     },
@@ -40,6 +40,15 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "Meross’ radar presence sensor ditches the cord and adds Matter-over-Thread support",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/news/823265/meross-matter-thread-smart-presence-sensor-ms605-radar-mmwave",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "Cloudflare explains Tuesday’s outage that temporarily took down ChatGPT",
         "@_type": "html"
       },
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/23674658/best-android-phone",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "EA will skip next year&#8217;s F1 game and release update DLC instead",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/news/823675/ea-f1-25-2026-2027-dlc-expansion-update-game",
       "summary": "(要約準備中)"
     }
   ]
