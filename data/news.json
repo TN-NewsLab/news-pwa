@@ -1,23 +1,35 @@
 {
-  "updatedAt": "2025-11-18T18:55:50.328Z",
+  "updatedAt": "2025-11-19T03:37:55.101Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Bodies of missing mum and child found in freezers in Austria",
-      "url": "https://www.bbc.com/news/articles/c740290l8gzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Public prosecutor Hansjörg Mayr says two men, aged 55 and 53, are being held on \"strong suspicion of murder\"."
+      "title": "Congress approves bill to release Epstein files that will head to Trump's desk",
+      "url": "https://www.bbc.com/news/articles/cdxr1r34ev9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Once Trump signs the measure, the justice department will have 30 days to release the materials. "
     },
     {
       "source": "BBC World",
-      "title": "French energy giant Total faces war crimes allegations over Mozambique massacre",
-      "url": "https://www.bbc.com/news/articles/c4gw119ynlxo?at_medium=RSS&at_campaign=rss",
-      "summary": "TotalEnergies denies responsibility for the actions of local security forces involved in dozens of killings."
+      "title": "Lebanon says Israeli strike killed 13 people near Palestinian refugee camp",
+      "url": "https://www.bbc.com/news/articles/c0l73j781y9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Israeli military says it targeted Hamas members \"operating in a training compound\", which Hamas rejected as \"fabrication and lies\"."
     },
     {
       "source": "BBC World",
-      "title": "Ex-Harvard president Larry Summers steps back from public role after Epstein email release",
-      "url": "https://www.bbc.com/news/articles/cddr199d3z0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The former US treasury secretary says he is \"ashamed\" of his emails to the late sex offender."
+      "title": "Cristiano Ronaldo to visit White House on same day as Saudi crown prince",
+      "url": "https://www.bbc.com/news/articles/c993e74pxd7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Portuguese player is being paid handsomely to be part of the gulf state's modernisation plan."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Judge rules Meta doesn't have monopoly after Instagram, WhatsApp acquisitions",
+      "url": "https://www.bbc.com/news/articles/crklgrpdke8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The decision allows Instagram's parent company to avoid the prospect of the company breaking up"
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Baby Shark: How a 90-second clip created a $400m business",
+      "url": "https://www.bbc.com/news/articles/cn8xzgw623go?at_medium=RSS&at_campaign=rss",
+      "summary": "Shares in the firm behind the highly-addictive children's song rose by more than 9% in their stock market debut."
     },
     {
       "source": "BBC Technology",
@@ -26,42 +38,30 @@
       "summary": "One of the world's most popular gaming platforms has faced criticism for its child safety record."
     },
     {
-      "source": "BBC Technology",
-      "title": "Cloudflare apologises for outage which took down X and ChatGPT",
-      "url": "https://www.bbc.com/news/articles/c629pny4gl7o?at_medium=RSS&at_campaign=rss",
-      "summary": "\"We apologise to our customers and the Internet in general\" the web infrastructure company said."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Man who cryogenically froze late wife sparks debate by dating new partner",
-      "url": "https://www.bbc.com/news/articles/c78z2m43ykjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Gui Junmin froze his dead spouse as a sign of his devotion - but it's now emerged he is dating again."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Apple&#8217;s custom Wi-Fi chip gives the iPhone 17 a notable boost, according to speed tests",
+        "#text": "Cloudflare explains Tuesday’s outage that temporarily took down ChatGPT",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/823198/ookla-speedtest-iphone-17-apple-custom-n1-networking-chip",
+      "url": "https://www.theverge.com/news/823711/cloudflare-outage-postmortem",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "A massive Cloudflare outage brought down X, ChatGPT, and even Downdetector",
+        "#text": "The best Android phones",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/822869/cloudflare-is-down-outage-x-twitter-downdetector",
+      "url": "https://www.theverge.com/23674658/best-android-phone",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Meta is not a monopolist, judge rules",
+        "#text": "EA will skip next year&#8217;s F1 game and release update DLC instead",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/823191/meta-ftc-antitrust-trial-ruling",
+      "url": "https://www.theverge.com/news/823675/ea-f1-25-2026-2027-dlc-expansion-update-game",
       "summary": "(要約準備中)"
     }
   ]
