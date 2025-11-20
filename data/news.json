@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2025-11-20T13:41:58.874Z",
+  "updatedAt": "2025-11-20T18:55:43.857Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "US military officials in Kyiv as Europe warns against reported Russia peace plan",
-      "url": "https://www.bbc.com/news/articles/cvgdgrqwnq9o?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes after reports the US and Russia have prepared a 28-point peace plan, allegedly with major concessions from Ukraine."
+      "title": "Zelensky to speak with Trump after US proposes Russia-Ukraine peace plan",
+      "url": "https://www.bbc.com/news/articles/cly1ypqlle0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The plan was reportedly drafted by US and Russian officials, without Ukraine's involvement. "
     },
     {
       "source": "BBC World",
-      "title": "Ukrainian teen saboteurs recruited on Telegram to attack their own country",
-      "url": "https://www.bbc.com/news/articles/c8r08zmkjlzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Russia is using Telegram to recruit Ukrainian children and teenagers to carry out sabotage and bombings according to the Ukrainian government."
+      "title": "Bush lauds Dick Cheney as a 'thinker and listener' at funeral",
+      "url": "https://www.bbc.com/news/articles/c93x3er4l9zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Cheney died aged 84 from complications of pneumonia and cardiac and vascular disease in early November. "
     },
     {
       "source": "BBC World",
-      "title": "Trump signs bill ordering US justice department to release Epstein files",
-      "url": "https://www.bbc.com/news/articles/cly2y40lj5go?at_medium=RSS&at_campaign=rss",
-      "summary": "The bill gives the US Justice Department 30 days to release all the files in a searchable format."
+      "title": "COP30 climate talks evacuated after fire breaks out",
+      "url": "https://www.bbc.com/news/articles/ce9d9p5jrjgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Thousands of people are attending the UN climate talks in Brazil."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Vinted blocks 'sickening' sexually explicit ads ",
+      "url": "https://www.bbc.com/news/articles/cn515p22nxno?at_medium=RSS&at_campaign=rss",
+      "summary": "The online marketplace removed adverts which included a video a user said depicted a pornographic scene."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "One of the pioneers in the current AI boom, he has had disagreements with fellow engineers over the future of the technology."
     },
     {
-      "source": "BBC Technology",
-      "title": "Nvidia shares rise after strong results ease 'AI bubble' concerns",
-      "url": "https://www.bbc.com/news/articles/cly4y2enywro?at_medium=RSS&at_campaign=rss",
-      "summary": "The chip maker says revenue for the three months to October jumped 62% to $57bn."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "The FCC wants to roll back steps meant to stop a repeat of a massive telecom hack",
+        "#text": "Windows handhelds are getting the new Xbox Full Screen Experience tomorrow",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/824508/fcc-telecom-salt-typhoon-hack",
+      "url": "https://www.theverge.com/news/825405/microsoft-xbox-full-screen-experience-available-windows-handhelds",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Camera support could be the boost Matter needs",
+        "#text": "The Oura Ring 4 has dropped to its lowest price yet for Black Friday",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/821707/matter-smart-home-standard-supports-cameras-apple-ring-google-nest",
+      "url": "https://www.theverge.com/gadgets/825315/oura-ring-4-black-friday-deal-sale-2025",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Windows on Arm is now ready for gaming thanks to some big changes",
+        "#text": "Perplexity brings its Comet browser to Android",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/824783/windows-on-arm-snapdragon-control-panel-gaming-driver-compatibility-improvements",
+      "url": "https://www.theverge.com/news/825221/perplexity-comet-ai-browser-launch-android",
       "summary": "(要約準備中)"
     }
   ]
