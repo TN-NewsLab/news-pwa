@@ -18,28 +18,31 @@ self.addEventListener('install', (event) => {
   );
 });
 
-// self.addEventListener('fetch', (event) => {
-//   event.respondWith(
-//     caches.match(event.request).then((response) => {
-//       return response || fetch(event.request);
-//     })
-//   );
-// });
+self.addEventListener('fetch', event => {
 
-self.addEventListener('fetch', (event) => {
+  // POST / PUT / DELETE / PATCH はキャッシュ禁止
+  if (event.request.method !== 'GET') {
+    return;
+  }
+
   event.respondWith(
-    fetch(event.request)
-      .then((response) => {
-        // オンライン成功 → キャッシュ更新
-        const clone = response.clone();
-        caches.open('news-cache-v2').then((cache) => {
-          cache.put(event.request, clone);
-        });
-        return response;
-      })
-      .catch(() => {
-        // オフライン時 → キャッシュから取得
-        return caches.match(event.request);
-      })
+    caches.open('news-cache-v2').then(cache => {
+      return cache.match(event.request).then(cached => {
+
+        // 常にネットワークを優先
+        const fetchPromise = fetch(event.request)
+          .then(networkResponse => {
+            // 成功したらキャッシュ更新
+            cache.put(event.request, networkResponse.clone());
+            return networkResponse;
+          })
+          .catch(() => {
+            // ネットワーク失敗 → キャッシュへ
+            return cached;
+          });
+
+        return cached || fetchPromise;
+      });
+    })
   );
 });

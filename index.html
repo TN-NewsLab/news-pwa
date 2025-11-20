@@ -1,42 +1,43 @@
-<!DOCTYPE html>
+</div!DOCTYPE html>
 <html lang="ja">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Family News</title>
+  <title>TN-NewsLab</title>
   <link rel="manifest" href="manifest.json">
   <link rel="stylesheet" href="style.css">
   <link rel="apple-touch-icon" sizes="180x180" href="assets/icon-180.png">
   <link rel="apple-touch-icon" sizes="152x152" href="assets/icon-152.png">
   <link rel="apple-touch-icon" sizes="120x120" href="assets/icon-120.png">
+  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap" rel="stylesheet">
  </head>
 
 <body>
-  <h1>Today's news picks</h1>
+  <div class="page-wrapper">
+    <h1 class="page-title">Today&#39;s news picks</h1>
 
-  <div class="event-banner">
-  <p>今日の最新ニュース😀</p>
+    <div class="tag-bar">
+        <button class="tag-button is-active" data-tag="all">すべて</button>
+        <button class="tag-button" data-tag="AI">AI</button>
+        <button class="tag-button" data-tag="経済">経済</button>
+        <button class="tag-button" data-tag="その他">その他</button>
+    </div>
+  
+    <div class="event-banner">
+
+    <p>今日の最新ニュース😀</p>
+    </div>
+    <div id="news-list"></div>
+    <div id="news-container"></div>
   </div>
 
-  <section id="AI">
-    <h2>🤖 AIニュース</h2>
-    <div id="ai-list"></div>
-  </section>
-
-  <section id="経済">
-    <h2>💹 経済ニュース</h2>
-    <div id="biz-list"></div>
-  </section>
-
-  <script src="script.js"></script>
-
-  <script>
+<script src="script.js"></script>
+<script>
   if ('serviceWorker' in navigator) {
     navigator.serviceWorker.register('service-worker.js')
       .then(reg => console.log('SW OK:', reg))
       .catch(err => console.log('SW NG:', err));
   }
-  </script>
-
+</script>
 </body>
 </html>

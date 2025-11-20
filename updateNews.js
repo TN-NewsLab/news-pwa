@@ -1,11 +1,14 @@
 import axios from "axios";
 import fs from "fs";
+import dotenv from "dotenv";
 
-const API_KEY = "2ff7e068b52f45f69a03034c801a2a6f"; // ←前回と同じキーでOK
+dotenv.config();
+
+const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
 
 // 汎用ニュース取得関数
 async function fetchNews(category, country = "jp", pageSize = 3) {
-  const URL = `https://newsapi.org/v2/top-headlines?category=${category}&country=${country}&pageSize=${pageSize}&apiKey=${API_KEY}`;
+  const URL = `https://newsapi.org/v2/top-headlines?category=${category}&country=${country}&pageSize=${pageSize}&apiKey=${OPENAI_API_KEY}`;
   const res = await axios.get(URL);
   return res.data.articles.map(a => ({
     title: a.title,
@@ -31,8 +34,11 @@ async function updateNews() {
     }
 
     // データ更新
-    data.AI = aiNews;
-    data.経済 = economyNews;
+    data.updatedAt = new Date().toISOString();
+    data.categories = {
+      AI: aiNews,
+      Economy: economyNews
+    };
 
     // ファイル保存
     fs.writeFileSync("./data/news.json", JSON.stringify(data, null, 2));

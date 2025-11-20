@@ -1,116 +1,231 @@
 /* --- ベース設定 --- */
 body {
-  background-color: #f4f6f8;   /* 明るめグレー背景 */
-  color: #222;                /* 読みやすい濃グレー文字 */
-  font-family: 'Segoe UI', 'Roboto', sans-serif;
-  margin: 0;
-  padding: 20px;
+  background-color: #f5f7fa;
+  color: #1f2937;
+  font-family: 'Noto Sans JP', 'Lato', sans-serif;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 16px;
 }
 
-/* --- 見出し --- */
-h1 {
-  color: #2b4c7e;             /* 知的な青みグレー */
-  border-bottom: 2px solid #2b4c7e;
-  padding-bottom: 0.4em;
-  margin-bottom: 1em;
+/* タイトル専用フォント */
+.page-title {
+    font-family: 'Lato', sans-serif;       /* Google Fonts */
+    font-weight: 900;                      /* Black 900 */
+    letter-spacing: 0.5px;
+    font-size: 28px;
+    margin-bottom: 48px;
 }
 
-/* --- セクションタイトルに軽い下線 --- */
-section h2 {
-  border-bottom: 1px solid #d1d5db;
-  padding-bottom: 0.4em;
-  margin-bottom: 0.8em;
-  color: #1e293b;
-  font-weight: 600;
+/* --- セクションタイトル --- */
+.section-title {
+  background-color: #1a18b1f8;
+  color: #ffffff;
+  padding: 6px 14px;     /* スッキリ広め */
+  border-radius: 0px;
+  font-size: 1.2rem;     
+  font-weight: 700;      
+  margin: 24px 0 12px;   /* PC・スマホ双方で綺麗に見える */
 }
 
-/* --- ニュースカード --- */
-.card {
+/* --- ニュースカード（統一版） --- */
+.news-card {
   background: #ffffff;
-  border: 1px solid #e1e4e8;
-  border-radius: 10px;
-  padding: 1.2em 1.4em;
-  margin-bottom: 1.2em;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
-}
-
-.card:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 6px 14px rgba(0,0,0,0.08);
-}
-
-/* --- カード内タイトル --- */
-.card h3 {
-  font-size: 1.1em;
-  font-weight: 600;
-  color: #1e293b;
-  margin: 0 0 0.4em 0;
-  letter-spacing: 0.01em;
-}
-
-/* --- 本文 --- */
-.card p {
-  font-size: 0.93em;
-  color: #4b5563;
-  line-height: 1.5;
-  margin: 0.3em 0;
-}
-
-/* --- リンク --- */
-.card a {
-  display: inline-block;
-  margin-top: 0.6em;
-  color: #2563eb;
-  font-weight: 500;
-  text-decoration: none;
-  transition: color 0.2s ease, transform 0.2s ease;
-}
-.card a:hover {
-  color: #1d4ed8;
-  transform: translateX(4px);
-  text-decoration: underline;
-}
-
-/* --- カテゴリラベル --- */
-.tag {
-  display: inline-block;
-  background: #e0f2fe;
-  color: #0369a1;
-  font-size: 0.75em;
-  font-weight: 600;
-  padding: 0.25em 0.6em;
+  border: 1px solid #e5e7eb;
   border-radius: 6px;
-  margin-bottom: 0.5em;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
+  padding: 20px;
+  margin-bottom: 18px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
 }
 
-/* --- バースデーバナー --- */
-.event-banner {
-  background: linear-gradient(135deg, #d9e8ff, #f0f6ff);
-  border: 1px solid #a8c7ff;
-  color: #2b4c7e;
-  text-align: center;
-  padding: 1.2em;
-  border-radius: 12px;
-  margin-bottom: 1.5em;
-  font-size: 1.1em;
-  box-shadow: 0 2px 10px rgba(100,140,255,0.15);
+.page-wrapper {
+    max-width: 900px;     /* PCだけ中央に寄せる */
+    margin: 0 auto;       /* 中央寄せ */
+    padding: 0 0px;       /* スマホでの余白確保 */
+    padding-bottom: 40px  /* 一番下が詰まらず、長いニュースでも読みやすい */
 }
 
-/* --- メタ情報（日付・出典） --- */
-.meta {
-  font-size: 0.8em;
-  color: #6b7280;
-  margin-top: 0.5em;
+.news-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
+
+/* --- タイトル（title） --- */
+.news-title {
+  font-size: 1.15em;
+  font-weight: 700;
+  margin: 0 0 8px 0;
+  color: #111827;
+}
+
+/* --- 要約（summary） --- */
+.news-summary {
+  font-size: 0.90em;
+  color: #1a1e22;
+  line-height: 1.5;
+  margin: 0 0 10px 0;
+}
+
+/* --- メタ情報（日付・ソース） --- */
+.news-meta {
+  font-size: 0.88em;
+  color: #2b2e35;
+  margin-bottom: 10px;
+}
+
+/* --- リンク（続きを読む） --- */
+.news-link {
+  display: inline-block;
+  color: #2563eb;
+  font-weight: 600;
+  text-decoration: none;
+  margin-top: 4px;
+}
+
+.news-link:hover {
+  text-decoration: underline;
+  color: #1d4ed8;
+}
+
+/* PC（幅 601px 以上）だけタイトルを中央寄せ＆サイズ変更 */
+@media (min-width: 601px) {
+  .page-title {
+    text-align: center;
+    font-size: 38px;
+    margin-top: 48px;      /* 上の余白 */
+    margin-bottom: 48px;   /* 下の余白 */
+  }
+}
+
+/* ------------------------- */
+/* 📱 スマホ最適化（〜600px） */
+/* ------------------------- */
+@media (max-width: 600px) {
+
+  body {
+    padding: 12px;
+  }
+
+  /* スマホ表示時にタイトル下へ横線を追加 */
+  .page-title {
+    border-bottom: 1px solid #d1d5db;
+    padding-bottom: 20px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    text-align: center;
+    font-size: 26px;
+  }
+
+  /* スマホ専用：青いバー（セクションタイトル）を細くする */
+  .section-title {
+    padding: 6px 14px;
+  }
+
+}
+
+  .news-card {
+    padding: 20px;
+    margin-bottom: 16px;
+    border-radius: 6px;
+  }
+
+  .news-title {
+    font-size: 1.05em;
+    margin-bottom: 6px;
+  }
+
+  .news-summary {
+    font-size: 0.90em;
+    line-height: 1.45;
+    margin-bottom: 8px;
+  }
+
+  .news-meta {
+    font-size: 0.88em;
+    margin-bottom: 8px;
+  }
+
+  .news-link {
+    font-size: 0.90em;
+    margin-top: 4px;
+  }
+
+  .tag-bar {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    padding-bottom: 4px;
+    gap: 6px;
+  }
+
+  .tag-button {
+    white-space: nowrap;
+    font-size: 0.85em;
+    padding: 5px 10px;
+  }
+}
+
+/* タグバー全体 */
+.tag-bar {
   display: flex;
-  gap: 1em;
-  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 12px 0 16px;
 }
-.meta .date::before {
-  content: "📅 ";
+
+/* タグボタン */
+.tag-button {
+  border: 1px solid #d0d7de;
+  background-color: #ffffff;
+  border-radius: 999px;
+  padding: 6px 12px;
+  font-size: 0.9em;
+  cursor: pointer;
 }
-.meta .source::before {
-  content: "📰 ";
+
+/* 選択中のタグ */
+.tag-button.is-active {
+  background-color: #2563eb;
+  border-color: #2563eb;
+  color: #ffffff;
 }
+
+/* カード内の小さなタグ表示 */
+.news-tag {
+    display: inline-block;
+    padding: 2px 6px;
+    font-size: 0.75rem;  
+    border-radius: 0px;
+    border: 1px solid transparent;
+    font-weight: 500;
+    line-height: 1.1;            /* ← これで高さが暴れない */
+}
+
+/* すべて */
+.tag-all {
+    background-color: #1e3a8a;
+    border-color: #1e3a8a;
+    color: white;
+}
+
+/* AI */
+.tag-ai {
+    background-color: #d32f2f;
+    border-color: #d32f2f;
+    color: white;
+}
+
+/* 経済 */
+.tag-economy {
+    background-color: #2e7d32;
+    border-color: #2e7d32;
+    color: white;
+}
+
+/* その他 */
+.tag-other {
+    background-color: #6b7280;
+    border-color: #6b7280;
+    color: white;
+}
+
