@@ -1,67 +1,67 @@
 {
-  "updatedAt": "2025-11-20T06:55:23.513Z",
+  "updatedAt": "2025-11-20T13:41:58.874Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Trump signs bill ordering justice department to release Epstein files",
+      "title": "US military officials in Kyiv as Europe warns against reported Russia peace plan",
+      "url": "https://www.bbc.com/news/articles/cvgdgrqwnq9o?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes after reports the US and Russia have prepared a 28-point peace plan, allegedly with major concessions from Ukraine."
+    },
+    {
+      "source": "BBC World",
+      "title": "Ukrainian teen saboteurs recruited on Telegram to attack their own country",
+      "url": "https://www.bbc.com/news/articles/c8r08zmkjlzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Russia is using Telegram to recruit Ukrainian children and teenagers to carry out sabotage and bombings according to the Ukrainian government."
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump signs bill ordering US justice department to release Epstein files",
       "url": "https://www.bbc.com/news/articles/cly2y40lj5go?at_medium=RSS&at_campaign=rss",
       "summary": "The bill gives the US Justice Department 30 days to release all the files in a searchable format."
     },
     {
-      "source": "BBC World",
-      "title": "US military officials in Ukraine for talks on ending war",
-      "url": "https://www.bbc.com/news/articles/cvgdgrqwnq9o?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes amid reports the US and Russia have prepared a 28-point peace plan, allegedly containing major concessions for Ukraine."
-    },
-    {
-      "source": "BBC World",
-      "title": "Turkey set to host COP31 after reaching compromise with Australia",
-      "url": "https://www.bbc.com/news/articles/cx242yj380no?at_medium=RSS&at_campaign=rss",
-      "summary": "Australia will now support the Turkish bid to host the climate talks in return for their minister chairing them. "
+      "source": "BBC Technology",
+      "title": "Deepfake 'nudify' site fined £55,000 over lack of age checks",
+      "url": "https://www.bbc.com/news/articles/c0qpq5q9712o?at_medium=RSS&at_campaign=rss",
+      "summary": "The regulator said it had also opened new investigations into 20 porn sites over suspected online safety breaches."
     },
     {
       "source": "BBC Technology",
-      "title": "Nvidia shares jump after revenue and outlook top estimates",
+      "title": "Why an AI 'godfather' is quitting Meta after 12 years",
+      "url": "https://www.bbc.com/news/articles/cdx4x47w8p1o?at_medium=RSS&at_campaign=rss",
+      "summary": "One of the pioneers in the current AI boom, he has had disagreements with fellow engineers over the future of the technology."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Nvidia shares rise after strong results ease 'AI bubble' concerns",
       "url": "https://www.bbc.com/news/articles/cly4y2enywro?at_medium=RSS&at_campaign=rss",
       "summary": "The chip maker says revenue for the three months to October jumped 62% to $57bn."
     },
     {
-      "source": "BBC Technology",
-      "title": "Ford boss: 'Now is not the time to tax electric vehicles'",
-      "url": "https://www.bbc.com/news/articles/c5yp1ky55g1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ford's UK boss says it is \"not the right time\" to tax electric vehicles when demand has already stalled."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Instagram to start closing Australian teen accounts ahead of social media ban",
-      "url": "https://www.bbc.com/news/articles/cz919xyx7weo?at_medium=RSS&at_campaign=rss",
-      "summary": "Under-sixteens will be banned from major social media plaforms from 10 December."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Here’s the Trump executive order that would ban state AI laws",
+        "#text": "The FCC wants to roll back steps meant to stop a repeat of a massive telecom hack",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/824608/trump-executive-order-ai-state-laws",
+      "url": "https://www.theverge.com/policy/824508/fcc-telecom-salt-typhoon-hack",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The best iPhones",
+        "#text": "Camera support could be the boost Matter needs",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide",
+      "url": "https://www.theverge.com/tech/821707/matter-smart-home-standard-supports-cameras-apple-ring-google-nest",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Netflix signs a three year deal to stream MLB live events and games",
+        "#text": "Windows on Arm is now ready for gaming thanks to some big changes",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/824513/mlb-netflix-nbc-peacock-espn",
+      "url": "https://www.theverge.com/news/824783/windows-on-arm-snapdragon-control-panel-gaming-driver-compatibility-improvements",
       "summary": "(要約準備中)"
     }
   ]
