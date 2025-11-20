@@ -1,67 +1,67 @@
 {
-  "updatedAt": "2025-11-19T18:51:57.849Z",
+  "updatedAt": "2025-11-20T03:36:00.276Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Children among 25 killed in one of Russia's deadliest strikes on western Ukraine",
-      "url": "https://www.bbc.com/news/articles/cy0yere4k0zo?at_medium=RSS&at_campaign=rss",
-      "summary": "Two blocks of flats were destroyed by cruise missiles in the city of Ternopil, Ukraine's air force says."
+      "title": "Trump signs bill ordering justice department to release Epstein files",
+      "url": "https://www.bbc.com/news/articles/cly2y40lj5go?at_medium=RSS&at_campaign=rss",
+      "summary": "The bill gives the US Justice Department 30 days to release all the files in a searchable format."
     },
     {
       "source": "BBC World",
-      "title": "I won't be silenced, says French anti-drugs activist after murders of two brothers",
-      "url": "https://www.bbc.com/news/articles/cz6n6j0d3xpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Drugs gangs have a grip on Marseille, but Amine Kessaci says he has \"no choice but to fight\" after the violent deaths of his brothers."
+      "title": "US military officials in Ukraine for talks on ending war",
+      "url": "https://www.bbc.com/news/articles/cvgdgrqwnq9o?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes amid reports the US and Russia have prepared a 28-point peace plan, allegedly containing major concessions for Ukraine."
     },
     {
       "source": "BBC World",
-      "title": "All 267 passengers and crew rescued after South Korean ferry runs aground",
-      "url": "https://www.bbc.com/news/articles/cx2p2l4j8vjo?at_medium=RSS&at_campaign=rss",
-      "summary": "The vessel remains stuck on a reef and unable to move, but there is no risk of sinking, the Coast Guard said."
+      "title": "Turkey set to host COP31 after reaching compromise with Australia",
+      "url": "https://www.bbc.com/news/articles/cx242yj380no?at_medium=RSS&at_campaign=rss",
+      "summary": "Australia will now support the Turkish bid to host the climate talks in return for their minister chairing them. "
     },
     {
       "source": "BBC Technology",
-      "title": "Instagram owner Meta tells Australian teens accounts will close",
+      "title": "Nvidia shares jump after revenue and outlook top estimates",
+      "url": "https://www.bbc.com/news/articles/cly4y2enywro?at_medium=RSS&at_campaign=rss",
+      "summary": "The chip maker says revenue for the three months to October jumped 62% to $57bn."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Ford boss: 'Now is not the time to tax electric vehicles'",
+      "url": "https://www.bbc.com/news/articles/c5yp1ky55g1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ford's UK boss says it is \"not the right time\" to tax electric vehicles when demand has already stalled."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Instagram to start closing Australian teen accounts ahead of social media ban",
       "url": "https://www.bbc.com/news/articles/cz919xyx7weo?at_medium=RSS&at_campaign=rss",
       "summary": "Under-sixteens will be banned from major social media plaforms from 10 December."
     },
     {
-      "source": "BBC Technology",
-      "title": "Judge rules Meta doesn't have monopoly after Instagram, WhatsApp acquisitions",
-      "url": "https://www.bbc.com/news/articles/crklgrpdke8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The decision allows Instagram's parent company to avoid the prospect of the company breaking up"
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Baby Shark: How a 90-second clip created a $400m business",
-      "url": "https://www.bbc.com/news/articles/cn8xzgw623go?at_medium=RSS&at_campaign=rss",
-      "summary": "Shares in the firm behind the highly-addictive children's song rose by more than 9% in their stock market debut."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "The Verge’s 2025 holiday gift guide for tinkerers",
+        "#text": "Here’s the Trump executive order that would ban state AI laws",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/800444/best-tool-gift-ideas-2025",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/824608/trump-executive-order-ai-state-laws",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Lawmakers want to let users sue over harmful social media algorithms",
+        "#text": "The best iPhones",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/824054/algorithm-accountability-act-section-230",
+      "url": "https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Watch how Apple 3D prints Watches by blasting powdered titanium with lasers",
+        "#text": "Netflix signs a three year deal to stream MLB live events and games",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/823988/apple-watch-3d-printing-process",
+      "url": "https://www.theverge.com/news/824513/mlb-netflix-nbc-peacock-espn",
       "summary": "(要約準備中)"
     }
   ]
