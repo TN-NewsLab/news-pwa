@@ -3,7 +3,8 @@ async function loadNews() {
   container.innerHTML = "<p>読み込み中...</p>";
 
   try {
-    const res = await fetch("http://127.0.0.1:8010/news");
+    //const res = await fetch("http://127.0.0.1:8010/news");
+    const res = await fetch("data/summary.json");
     const data = await res.json();
 
     container.innerHTML = ""; // 初期化
