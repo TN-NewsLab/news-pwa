@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2025-11-21T13:37:57.401Z",
+  "updatedAt": "2025-11-21T18:38:59.495Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Russia yet to receive anything official from US on Ukraine peace plan, Kremlin says",
-      "url": "https://www.bbc.com/news/articles/czrkg3gx6d6o?at_medium=RSS&at_campaign=rss",
-      "summary": "The draft provisions come across as heavily slanted towards Moscow, but Volodymyr Zelensky says he is ready to work with the US."
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump's growing impatience to end Ukraine war is a concern for Kyiv",
-      "url": "https://www.bbc.com/news/articles/ce3w1zeerywo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US is working to a quick timetable to push through the deal, which appears to heavily reflect many of Moscow's demands."
+      "title": "Steve Rosenberg: Kremlin tight-lipped on leaked plan - but advises Kyiv to accept",
+      "url": "https://www.bbc.com/news/articles/c5y9k0mrm2ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Russia and Ukraine may be about to enter a period of intense diplomacy, writes the BBC's Russia editor."
     },
     {
       "source": "BBC World",
       "title": "Anti-Hamas armed groups seek future role under Gaza peace plan",
       "url": "https://www.bbc.com/news/articles/cvgmgjx1jego?at_medium=RSS&at_campaign=rss",
       "summary": "Several groups - some of them backed by Israel - are ranged against Hamas in Gaza, with complex and overlapping ties."
+    },
+    {
+      "source": "BBC World",
+      "title": "At least five killed in Bangladesh earthquake",
+      "url": "https://www.bbc.com/news/articles/cvgke7e2jx8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The epicentre of the earthquake was about 30 kilometres (18.6 miles) from the capital, Dhaka."
     },
     {
       "source": "BBC Technology",
@@ -27,41 +27,41 @@
     },
     {
       "source": "BBC Technology",
+      "title": "Teens plead not guilty over TfL cyber-attack",
+      "url": "https://www.bbc.com/news/articles/cvgjxlgyx87o?at_medium=RSS&at_campaign=rss",
+      "summary": "Thalha Jubair, 19, and Owen Flowers, 18,  are charged with conspiring to commit unauthorised acts."
+    },
+    {
+      "source": "BBC Technology",
       "title": "Graduate jobs under threat from AI, PwC boss says",
       "url": "https://www.bbc.com/news/articles/cm272510e6jo?at_medium=RSS&at_campaign=rss",
       "summary": "The accountancy giant says artificial intelligence will eventually lead to fewer entry-level positions at the firm."
     },
     {
-      "source": "BBC Technology",
-      "title": "Streaming platform Twitch added to Australia's teen social media ban",
-      "url": "https://www.bbc.com/news/articles/cx2n2955g10o?at_medium=RSS&at_campaign=rss",
-      "summary": "It joins other platforms including Facebook, Instagram, TikTok and Snapchat in the ban that starts next month."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "AirDropping stuff from a Pixel phone rules so much",
+        "#text": "Who is AI nostalgia slop even for?",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/825696/pixel-10-pro-airdrop-quick-share-hands-on",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/825498/openai-sora-video-slop-nostalgia-mister-rogers",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Apple’s new limited edition iPhone grip is all about accessibility",
+        "#text": "Hoto’s slick new leaf blower looks ready to blast away leaves or alien invaders",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/826081/apple-hikawa-iphone-grip-stand-accessibility-limited-edition",
+      "url": "https://www.theverge.com/news/826189/hoto-cordless-leaf-blower-720-cfm-120-mph",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The new silicon valley (literally)",
+        "#text": "Apple’s cheapest iPad is already $70 off for Black Friday",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/features/825207/semiconductor-chip-manufacturing-new-silicon-valley",
+      "url": "https://www.theverge.com/tech/825254/ipad-a16-black-friday-deal-sale-2025",
       "summary": "(要約準備中)"
     }
   ]
