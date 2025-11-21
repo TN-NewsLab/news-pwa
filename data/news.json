@@ -1,67 +1,67 @@
 {
-  "updatedAt": "2025-11-20T06:55:23.513Z",
+  "updatedAt": "2025-11-20T18:55:43.857Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Trump signs bill ordering justice department to release Epstein files",
-      "url": "https://www.bbc.com/news/articles/cly2y40lj5go?at_medium=RSS&at_campaign=rss",
-      "summary": "The bill gives the US Justice Department 30 days to release all the files in a searchable format."
+      "title": "Zelensky to speak with Trump after US proposes Russia-Ukraine peace plan",
+      "url": "https://www.bbc.com/news/articles/cly1ypqlle0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The plan was reportedly drafted by US and Russian officials, without Ukraine's involvement. "
     },
     {
       "source": "BBC World",
-      "title": "US military officials in Ukraine for talks on ending war",
-      "url": "https://www.bbc.com/news/articles/cvgdgrqwnq9o?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes amid reports the US and Russia have prepared a 28-point peace plan, allegedly containing major concessions for Ukraine."
+      "title": "Bush lauds Dick Cheney as a 'thinker and listener' at funeral",
+      "url": "https://www.bbc.com/news/articles/c93x3er4l9zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Cheney died aged 84 from complications of pneumonia and cardiac and vascular disease in early November. "
     },
     {
       "source": "BBC World",
-      "title": "Turkey set to host COP31 after reaching compromise with Australia",
-      "url": "https://www.bbc.com/news/articles/cx242yj380no?at_medium=RSS&at_campaign=rss",
-      "summary": "Australia will now support the Turkish bid to host the climate talks in return for their minister chairing them. "
+      "title": "COP30 climate talks evacuated after fire breaks out",
+      "url": "https://www.bbc.com/news/articles/ce9d9p5jrjgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Thousands of people are attending the UN climate talks in Brazil."
     },
     {
       "source": "BBC Technology",
-      "title": "Nvidia shares jump after revenue and outlook top estimates",
-      "url": "https://www.bbc.com/news/articles/cly4y2enywro?at_medium=RSS&at_campaign=rss",
-      "summary": "The chip maker says revenue for the three months to October jumped 62% to $57bn."
+      "title": "Vinted blocks 'sickening' sexually explicit ads ",
+      "url": "https://www.bbc.com/news/articles/cn515p22nxno?at_medium=RSS&at_campaign=rss",
+      "summary": "The online marketplace removed adverts which included a video a user said depicted a pornographic scene."
     },
     {
       "source": "BBC Technology",
-      "title": "Ford boss: 'Now is not the time to tax electric vehicles'",
-      "url": "https://www.bbc.com/news/articles/c5yp1ky55g1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ford's UK boss says it is \"not the right time\" to tax electric vehicles when demand has already stalled."
+      "title": "Deepfake 'nudify' site fined £55,000 over lack of age checks",
+      "url": "https://www.bbc.com/news/articles/c0qpq5q9712o?at_medium=RSS&at_campaign=rss",
+      "summary": "The regulator said it had also opened new investigations into 20 porn sites over suspected online safety breaches."
     },
     {
       "source": "BBC Technology",
-      "title": "Instagram to start closing Australian teen accounts ahead of social media ban",
-      "url": "https://www.bbc.com/news/articles/cz919xyx7weo?at_medium=RSS&at_campaign=rss",
-      "summary": "Under-sixteens will be banned from major social media plaforms from 10 December."
+      "title": "Why an AI 'godfather' is quitting Meta after 12 years",
+      "url": "https://www.bbc.com/news/articles/cdx4x47w8p1o?at_medium=RSS&at_campaign=rss",
+      "summary": "One of the pioneers in the current AI boom, he has had disagreements with fellow engineers over the future of the technology."
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Here’s the Trump executive order that would ban state AI laws",
+        "#text": "Windows handhelds are getting the new Xbox Full Screen Experience tomorrow",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/824608/trump-executive-order-ai-state-laws",
+      "url": "https://www.theverge.com/news/825405/microsoft-xbox-full-screen-experience-available-windows-handhelds",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The best iPhones",
+        "#text": "The Oura Ring 4 has dropped to its lowest price yet for Black Friday",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide",
+      "url": "https://www.theverge.com/gadgets/825315/oura-ring-4-black-friday-deal-sale-2025",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Netflix signs a three year deal to stream MLB live events and games",
+        "#text": "Perplexity brings its Comet browser to Android",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/824513/mlb-netflix-nbc-peacock-espn",
+      "url": "https://www.theverge.com/news/825221/perplexity-comet-ai-browser-launch-android",
       "summary": "(要約準備中)"
     }
   ]
