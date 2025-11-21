@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2025-11-21T06:58:26.759Z",
+  "updatedAt": "2025-11-21T13:37:57.401Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Zelensky ready for 'honest work' with US to end Ukraine war",
-      "url": "https://www.bbc.com/news/articles/cly1ypqlle0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Kyiv says it is willing to engage with a US-backed draft peace plan aimed at ending the war with Russia. "
+      "title": "Russia yet to receive anything official from US on Ukraine peace plan, Kremlin says",
+      "url": "https://www.bbc.com/news/articles/czrkg3gx6d6o?at_medium=RSS&at_campaign=rss",
+      "summary": "The draft provisions come across as heavily slanted towards Moscow, but Volodymyr Zelensky says he is ready to work with the US."
     },
     {
       "source": "BBC World",
-      "title": "Trump calls Democrats' message to troops seditious behaviour, punishable by death",
-      "url": "https://www.bbc.com/news/articles/cx2p2dz9zk2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump's comments came after a group of Democrats urged US service members to refuse unlawful commands."
+      "title": "Trump's growing impatience to end Ukraine war is a concern for Kyiv",
+      "url": "https://www.bbc.com/news/articles/ce3w1zeerywo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US is working to a quick timetable to push through the deal, which appears to heavily reflect many of Moscow's demands."
     },
     {
       "source": "BBC World",
-      "title": "At least 41 dead as relentless rains flood Vietnam",
-      "url": "https://www.bbc.com/news/articles/ceq0q3e2j17o?at_medium=RSS&at_campaign=rss",
-      "summary": "The coastal cities of Hoi An and Nha Trang, and a key coffee-producing belt, are among the worst-hit."
+      "title": "Anti-Hamas armed groups seek future role under Gaza peace plan",
+      "url": "https://www.bbc.com/news/articles/cvgmgjx1jego?at_medium=RSS&at_campaign=rss",
+      "summary": "Several groups - some of them backed by Israel - are ranged against Hamas in Gaza, with complex and overlapping ties."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Grok’s Elon Musk worship is getting weird",
+        "#text": "AirDropping stuff from a Pixel phone rules so much",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/825675/groks-elon-musk-worship-is-getting-weird",
+      "url": "https://www.theverge.com/tech/825696/pixel-10-pro-airdrop-quick-share-hands-on",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The best early Black Friday deals we’ve found so far on laptops, TVs, and more",
+        "#text": "Apple’s new limited edition iPhone grip is all about accessibility",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025",
+      "url": "https://www.theverge.com/news/826081/apple-hikawa-iphone-grip-stand-accessibility-limited-edition",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Google&#8217;s new AI image creator took my shirt off",
+        "#text": "The new silicon valley (literally)",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/825667/google-nano-banana-pro-test",
+      "url": "https://www.theverge.com/features/825207/semiconductor-chip-manufacturing-new-silicon-valley",
       "summary": "(要約準備中)"
     }
   ]
