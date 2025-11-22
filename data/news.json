@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2025-11-22T12:53:11.371Z",
+  "updatedAt": "2025-11-22T18:40:21.205Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Ukraine's allies voice concerns over US plan to end war",
+      "url": "https://www.bbc.com/news/articles/clydg8w7kxvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Leaders from Europe, Canada and Japan say the plan needs \"additional work\" but includes elements \"essential for a just and lasting peace\"."
+    },
     {
       "source": "BBC World",
       "title": "What we know about leaked US draft plan to end Russia's Ukraine war",
@@ -12,12 +18,6 @@
       "title": "Trump ally Marjorie Taylor Greene to quit Congress after Epstein files feud",
       "url": "https://www.bbc.com/news/articles/cj4qx1lenvjo?at_medium=RSS&at_campaign=rss",
       "summary": "A falling out with the US president erupted amid her relentless calls to release documents on the late paedophile."
-    },
-    {
-      "source": "BBC World",
-      "title": "Five takeaways from Trump and Mamdani's surprisingly cordial meeting",
-      "url": "https://www.bbc.com/news/articles/cvgqd42gl0qo?at_medium=RSS&at_campaign=rss",
-      "summary": "It was billed as potentially the political showdown of the year - instead, both men gave one another praise. "
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "‘Jmail’ is like any other inbox, except this one has Jeffrey Epstein’s emails",
+        "#text": "Sony’s entire DualSense lineup is $20 off, including the limited edition models",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/826901/jeffrey-epstein-files-emails-gmail-jmail",
+      "url": "https://www.theverge.com/gadgets/826320/ps5-dualsense-wireless-controller-black-friday-deal-sale-2025",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Google denies &#8216;misleading&#8217; reports of Gmail using your emails to train AI",
+        "#text": "Spotify simplifies importing playlists from other streaming services",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/826902/gmail-ai-training-data-opt-out",
+      "url": "https://www.theverge.com/news/825646/spotify-playlist-import",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Judge wants to fix Google’s ad tech monopoly before it’s too late",
+        "#text": "The absolute best Black Friday deals we’ve found (so far)",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/826796/google-ad-tech-closing-arguments",
+      "url": "https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025",
       "summary": "(要約準備中)"
     }
   ]
