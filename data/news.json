@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2025-11-22T18:40:21.205Z",
+  "updatedAt": "2025-11-23T02:30:06.373Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Ukraine's allies voice concerns over US plan to end war",
+      "title": "Trump says US plan to end Ukraine war not 'final offer' for Kyiv",
       "url": "https://www.bbc.com/news/articles/clydg8w7kxvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Leaders from Europe, Canada and Japan say the plan needs \"additional work\" but includes elements \"essential for a just and lasting peace\"."
+      "summary": "US President Donald Trump says the plan is not his \"final offer\" for Kyiv, and security officials are set to meet in Geneva on Sunday."
     },
     {
       "source": "BBC World",
-      "title": "What we know about leaked US draft plan to end Russia's Ukraine war",
-      "url": "https://www.bbc.com/news/articles/cde6yld78d6o?at_medium=RSS&at_campaign=rss",
-      "summary": "There are 28 key points and while several on the face of it could be acceptable to Ukraine, others cross Kyiv's red lines."
+      "title": "UN climate talks fail to secure new fossil fuel promises",
+      "url": "https://www.bbc.com/news/articles/c75vn7yel73o?at_medium=RSS&at_campaign=rss",
+      "summary": "Nearly 200 countries attended COP30, which aimed to commit the world to take more action on climate change."
     },
     {
       "source": "BBC World",
-      "title": "Trump ally Marjorie Taylor Greene to quit Congress after Epstein files feud",
-      "url": "https://www.bbc.com/news/articles/cj4qx1lenvjo?at_medium=RSS&at_campaign=rss",
-      "summary": "A falling out with the US president erupted amid her relentless calls to release documents on the late paedophile."
+      "title": "'We worry more about food' say Venezuelans living under threat of US military action",
+      "url": "https://www.bbc.com/news/articles/c3e0jnww2e9o?at_medium=RSS&at_campaign=rss",
+      "summary": "While the US escalates a military threat in nearby waters, Venezuelans say the real enemy of the people is a sharp rise in food prices."
     },
     {
       "source": "BBC Technology",
@@ -40,6 +40,15 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "Shocker: Elon Musk spends a lot of time on X posting bad political takes",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/tech/827125/elon-musk-x-posts-politics-himself",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "Sony’s entire DualSense lineup is $20 off, including the limited edition models",
         "@_type": "html"
       },
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/news/825646/spotify-playlist-import",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "The absolute best Black Friday deals we’ve found (so far)",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025",
       "summary": "(要約準備中)"
     }
   ]
