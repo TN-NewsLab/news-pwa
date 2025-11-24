@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-11-24T06:46:36.966Z",
+  "updatedAt": "2025-11-24T13:02:26.427Z",
   "top": [
     {
       "source": "BBC World",
@@ -15,9 +15,9 @@
     },
     {
       "source": "BBC World",
-      "title": "Hunting down those who kill people to sell their body parts for 'magic charms'",
-      "url": "https://www.bbc.com/news/articles/cx2y2le8lx1o?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Africa Eye uncovers two so-called \"juju\" practitioners, who offer to obtain body parts for ritual purposes."
+      "title": "Machu Picchu hit by a row over tourist buses",
+      "url": "https://www.bbc.com/news/articles/ce8g8wrd61zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Protests have taken place over the coaches that take visitors up to the world heritage site in Peru."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "DOGE is no more, and in its wake, only chaos",
+        "#text": "OnePlus 15R will get a late launch next month",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/827390/doge-is-no-more-and-in-its-wake-only-chaos",
+      "url": "https://www.theverge.com/news/827430/oneplus-15r-will-get-a-late-launch-next-month",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "About This Account reveals the scale of X’s foreign troll problem",
+        "#text": "Why college students prefer News Daddy over The New York Times",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/827298/about-this-account-reveals-the-scale-of-xs-foreign-troll-problem",
+      "url": "https://www.theverge.com/cs/features/818380/college-students-news-sources-tiktok-instagram-newsdaddy",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Some of the best Nintendo Switch games are up to $30 off for Black Friday",
+        "#text": "Microsoft is speeding up and decluttering File Explorer in Windows 11",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/826416/best-nintendo-black-friday-deals-switch-games-amiibo-sale-2025",
+      "url": "https://www.theverge.com/news/827414/microsoft-file-explorer-windows-11-preload-context-menu-declutter",
       "summary": "(要約準備中)"
     }
   ]
