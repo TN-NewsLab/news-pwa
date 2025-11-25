@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2025-11-24T18:45:50.954Z",
+  "updatedAt": "2025-11-25T02:16:56.308Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Zelensky warns against giving away territory as latest Ukraine talks end",
+      "title": "Zelensky welcomes amendments to proposed peace plan",
       "url": "https://www.bbc.com/news/articles/cpd6qd10l94o?at_medium=RSS&at_campaign=rss",
       "summary": "There was optimism following the talks in Geneva, but no details emerged on how to bridge the huge divide between Moscow and Kyiv over territory and security guarantees."
+    },
+    {
+      "source": "BBC World",
+      "title": "Belgian airports to be hit by 'major disruption' amid austerity strike",
+      "url": "https://www.bbc.com/news/articles/c0jew0lyv98o?at_medium=RSS&at_campaign=rss",
+      "summary": "Three days of industrial action are set to affect public services and transport across the country."
     },
     {
       "source": "BBC World",
       "title": "Reggae legend Jimmy Cliff dies, aged 81",
       "url": "https://www.bbc.com/news/articles/cj4qdren425o?at_medium=RSS&at_campaign=rss",
       "summary": "The musician was known for hits like You Can Get It If You Really Want and I Can See Clearly Now."
-    },
-    {
-      "source": "BBC World",
-      "title": "Machu Picchu hit by a row over tourist buses",
-      "url": "https://www.bbc.com/news/articles/ce8g8wrd61zo?at_medium=RSS&at_campaign=rss",
-      "summary": "Protests have taken place over the coaches that take visitors up to the world heritage site in Peru."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Aqara&#8217;s $99 Wi-Fi smart lock is a good-looking budget option",
+        "#text": "The best noise-canceling headphones to buy right now",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/827784/aqara-wifi-b50-smart-lock-lowes-budget-friendly",
+      "url": "https://www.theverge.com/21345733/best-noise-canceling-headphones",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Some of our favorite gifts will cost you less than $25",
+        "#text": "RAM prices are so out of control that stores are selling it like lobster",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/780844/best-gifts-under-25-2025",
+      "url": "https://www.theverge.com/news/828337/ram-memory-shortage-crunch-market-prices-central-micro-center",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "You can grab a year of Disney Plus and Hulu for just $5 a month for Black Friday",
+        "#text": "UN climate negotiations burned up and then fizzled out",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/827649/disney-plus-hulu-black-friday-deal-sale-2025",
+      "url": "https://www.theverge.com/report/828270/un-climate-change-negotiations-fizzle",
       "summary": "(要約準備中)"
     }
   ]
