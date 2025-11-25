@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-11-25T13:02:32.905Z",
+  "updatedAt": "2025-11-25T18:44:51.584Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,15 +9,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Controversial US-backed Gaza Humanitarian Foundation ends aid operations",
-      "url": "https://www.bbc.com/news/articles/cj01jr13277o?at_medium=RSS&at_campaign=rss",
-      "summary": "Hundreds of Palestinians were killed while seeking food amid chaotic scenes near GHF's sites."
+      "title": "Israel receives coffin that Hamas says contains Gaza hostage's body",
+      "url": "https://www.bbc.com/news/articles/c17x0xjqj21o?at_medium=RSS&at_campaign=rss",
+      "summary": "The remains will be transferred to Israeli forces, who will take them to Israel's forensic medicine institute for identification."
     },
     {
       "source": "BBC World",
-      "title": "Trump says he will visit China in April after call with Xi",
-      "url": "https://www.bbc.com/news/articles/ckgdr1vlz7ko?at_medium=RSS&at_campaign=rss",
-      "summary": "The two leaders discussed trade, Ukraine and Taiwan in their first phone call since meeting in South Korea last month."
+      "title": "Ex-wife of Dubai royal says she fears arrest as custody battle escalates",
+      "url": "https://www.bbc.com/news/articles/cj01j710rmmo?at_medium=RSS&at_campaign=rss",
+      "summary": "Zeynab Javadli's ex-husband has lodged a criminal complaint with Dubai police, accusing her of kidnapping their three daughters."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Car influencers love Chinese EVs — and China loves them back",
+        "#text": "Wyze’s new security camera watches your yard from inside your home",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/transportation/828155/car-influencer-china-ev-youtube-influencer-pay-play",
+      "url": "https://www.theverge.com/news/829005/wyze-window-security-cam-hd-enhanced-night-vision",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Huawei Mate 80 Pro Max has the world’s brightest phone screen",
+        "#text": "Bose and Sony headphones are up to $200 off in the run-up to Black Friday",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/828543/huawei-mate-80-pro-max-dual-layer-oled-display-8000-nits",
+      "url": "https://www.theverge.com/gadgets/827914/best-early-black-friday-headphone-earbud-deals-2025",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "You won’t want to hide Ikea’s colorful new Bluetooth speakers",
+        "#text": "Apple’s AirPods 4 are on sale starting at just $69 for Black Friday",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/827516/ikea-bluetooth-speaker-solskydd-kulglass-lamp-spotify-tap",
+      "url": "https://www.theverge.com/gadgets/828725/apple-airpods-4-anc-black-friday-deal-sale-2025",
       "summary": "(要約準備中)"
     }
   ]
