@@ -1,67 +1,67 @@
 {
-  "updatedAt": "2025-11-25T06:47:54.944Z",
+  "updatedAt": "2025-11-25T13:02:32.905Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Zelensky welcomes amendments to proposed peace plan",
-      "url": "https://www.bbc.com/news/articles/cpd6qd10l94o?at_medium=RSS&at_campaign=rss",
-      "summary": "There was optimism following the talks in Geneva, but no details emerged on how to bridge the huge divide between Moscow and Kyiv over territory and security guarantees."
-    },
-    {
-      "source": "BBC World",
-      "title": "Russia and Ukraine trade deadly strikes overnight",
+      "title": "Ukraine calls for Trump-Zelensky meeting in US this week",
       "url": "https://www.bbc.com/news/articles/cy95jvw57v2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The attacks hit several residential buildings in Kyiv and killed two people, while Russia's Rostov region reported three deaths."
+      "summary": "It comes as US and Russian officials are set to hold talks in Abu Dhabi."
     },
     {
       "source": "BBC World",
-      "title": "Belgian airports to be hit by 'major disruption' amid austerity strike",
-      "url": "https://www.bbc.com/news/articles/c0jew0lyv98o?at_medium=RSS&at_campaign=rss",
-      "summary": "Three days of industrial action are set to affect public services and transport across the country."
+      "title": "Controversial US-backed Gaza Humanitarian Foundation ends aid operations",
+      "url": "https://www.bbc.com/news/articles/cj01jr13277o?at_medium=RSS&at_campaign=rss",
+      "summary": "Hundreds of Palestinians were killed while seeking food amid chaotic scenes near GHF's sites."
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump says he will visit China in April after call with Xi",
+      "url": "https://www.bbc.com/news/articles/ckgdr1vlz7ko?at_medium=RSS&at_campaign=rss",
+      "summary": "The two leaders discussed trade, Ukraine and Taiwan in their first phone call since meeting in South Korea last month."
     },
     {
       "source": "BBC Technology",
-      "title": "Vinted blocks 'sickening' sexually explicit ads ",
-      "url": "https://www.bbc.com/news/articles/cn515p22nxno?at_medium=RSS&at_campaign=rss",
-      "summary": "The online marketplace removed adverts which included a video a user said depicted a pornographic scene."
+      "title": "Ofcom vows to name and shame platforms over online sexism",
+      "url": "https://www.bbc.com/news/articles/cly52dd9lnmo?at_medium=RSS&at_campaign=rss",
+      "summary": "But critics say the regulator's new measures need to be the law rather than guidelines to make the internet safer for women and girls."
     },
     {
       "source": "BBC Technology",
-      "title": "Teens plead not guilty over TfL cyber-attack",
-      "url": "https://www.bbc.com/news/articles/cvgjxlgyx87o?at_medium=RSS&at_campaign=rss",
-      "summary": "Thalha Jubair, 19, and Owen Flowers, 18,  are charged with conspiring to commit unauthorised acts."
+      "title": "Cryptology firm cancels elections after losing encryption key ",
+      "url": "https://www.bbc.com/news/articles/c62vl05rz0ko?at_medium=RSS&at_campaign=rss",
+      "summary": "The International Association for Cryptologic Research - created to study secure communication - said it was an \"honest human mistake.\""
     },
     {
       "source": "BBC Technology",
-      "title": "Graduate jobs under threat from AI, PwC boss says",
-      "url": "https://www.bbc.com/news/articles/cm272510e6jo?at_medium=RSS&at_campaign=rss",
-      "summary": "The accountancy giant says artificial intelligence will eventually lead to fewer entry-level positions at the firm."
+      "title": "Scammers hacked her phone and stole thousands - so how did they get her details?",
+      "url": "https://www.bbc.com/news/articles/czrk7gxk2l6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Sue Shore told the BBC how scammers targeted her - and we found her information had been leaked online."
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The best noise-canceling headphones to buy right now",
+        "#text": "Car influencers love Chinese EVs — and China loves them back",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/21345733/best-noise-canceling-headphones",
+      "url": "https://www.theverge.com/transportation/828155/car-influencer-china-ev-youtube-influencer-pay-play",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "RAM prices are so out of control that stores are selling it like lobster",
+        "#text": "Huawei Mate 80 Pro Max has the world’s brightest phone screen",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/828337/ram-memory-shortage-crunch-market-prices-central-micro-center",
+      "url": "https://www.theverge.com/news/828543/huawei-mate-80-pro-max-dual-layer-oled-display-8000-nits",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "UN climate negotiations burned up and then fizzled out",
+        "#text": "You won’t want to hide Ikea’s colorful new Bluetooth speakers",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/report/828270/un-climate-change-negotiations-fizzle",
+      "url": "https://www.theverge.com/news/827516/ikea-bluetooth-speaker-solskydd-kulglass-lamp-spotify-tap",
       "summary": "(要約準備中)"
     }
   ]
