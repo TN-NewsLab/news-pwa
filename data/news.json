@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2025-11-26T06:47:16.808Z",
+  "updatedAt": "2025-11-26T13:03:59.838Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Ukraine says 'understanding' reached on US peace plan, as Trump envoy to meet Putin",
-      "url": "https://www.bbc.com/news/articles/cy95jvw57v2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Kyiv and Washington have moved closer to agreeing the shape of a deal to end the fighting, with Putin to be consulted next week."
+      "title": "At least four dead as fire engulfs Hong Kong tower blocks",
+      "url": "https://www.bbc.com/news/articles/cvg165d7ppvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Pictures show the flames spreading on bamboo scaffolding on the outside of the high-rise buildings in the Tai Po district."
     },
     {
       "source": "BBC World",
-      "title": "Italian parliament unanimously votes to make femicide a crime",
-      "url": "https://www.bbc.com/news/articles/c1dzp050yn2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The gender-motivated murder of a woman will now be covered by a distinct clause in Italian law - punishable by a life sentence. "
+      "title": "Trump defends Witkoff after leak appears to show envoy coaching Russia",
+      "url": "https://www.bbc.com/news/articles/c3r7xr94ln8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president said he had not heard the audio, but that it sounded like \"standard\" negotiations."
     },
     {
       "source": "BBC World",
-      "title": "Russian mercenaries accused of cold-blooded killings in Mali - BBC speaks to eyewitnesses",
-      "url": "https://www.bbc.com/news/articles/crmx7x3yjyko?at_medium=RSS&at_campaign=rss",
-      "summary": "Refugees have given the BBC a harrowing account of atrocities committed by the Russian paramilitary force. "
+      "title": "No real intent in Moscow to engage in peace talks, says von der Leyen",
+      "url": "https://www.bbc.com/news/articles/c208wjpv4r9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The European Commission chief said the EU would stand with Ukraine and support it \"in every way\". "
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Nvidia plays down Google chip threat concerns",
+      "url": "https://www.bbc.com/news/articles/c7vme6rrqz5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The world's most valuable company said it was still \"a generation ahead of the industry\"."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "The International Association for Cryptologic Research - created to study secure communication - said it was an \"honest human mistake.\""
     },
     {
-      "source": "BBC Technology",
-      "title": "Scammers hacked her phone and stole thousands - so how did they get her details?",
-      "url": "https://www.bbc.com/news/articles/czrk7gxk2l6o?at_medium=RSS&at_campaign=rss",
-      "summary": "Sue Shore told the BBC how scammers targeted her - and we found her information had been leaked online."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Qualcomm reveals its not-so-elite Snapdragon 8 Gen 5",
+        "#text": "First there was nothing, then there was Hoto and Fanttik",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/828959/qualcomm-snapdragon-8-gen-5",
+      "url": "https://www.theverge.com/report/829265/hoto-fanttik-profile-origins-xiaomi-aukey-tiktok",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Campbell’s promises its soups are not made with 3D printed meat",
+        "#text": "Poco partners with Bose to put a subwoofer in its latest phone",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/829516/campbells-3d-printed-chicken-soup",
+      "url": "https://www.theverge.com/news/829419/poco-f8-ultra-bose-speakers-stereo-subwoofer",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "House overhauls KOSA in a new kids online safety package",
+        "#text": "Uber’s robotaxi service in UAE now includes fully driverless vehicles",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/829492/house-energy-commerce-kids-online-safety-package",
+      "url": "https://www.theverge.com/news/828685/uber-weride-robotaxi-fully-driverless-uae",
       "summary": "(要約準備中)"
     }
   ]
