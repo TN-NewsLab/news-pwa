@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2025-11-26T13:03:59.838Z",
+  "updatedAt": "2025-11-26T18:41:14.870Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "At least four dead as fire engulfs Hong Kong tower blocks",
+      "title": "At least 36 dead as fire engulfs Hong Kong tower blocks",
       "url": "https://www.bbc.com/news/articles/cvg165d7ppvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Pictures show the flames spreading on bamboo scaffolding on the outside of the high-rise buildings in the Tai Po district."
+      "summary": "Firefighters are struggling to put out the flames and say they are unsure when the blaze will be fully contained."
+    },
+    {
+      "source": "BBC World",
+      "title": "What we know about the Hong Kong apartment fires",
+      "url": "https://www.bbc.com/news/articles/cdxe9r7wjgro?at_medium=RSS&at_campaign=rss",
+      "summary": "The death toll continues to rise and hundreds are missing, as firefighters struggle to put out the fire."
     },
     {
       "source": "BBC World",
       "title": "Trump defends Witkoff after leak appears to show envoy coaching Russia",
       "url": "https://www.bbc.com/news/articles/c3r7xr94ln8o?at_medium=RSS&at_campaign=rss",
       "summary": "The US president said he had not heard the audio, but that it sounded like \"standard\" negotiations."
-    },
-    {
-      "source": "BBC World",
-      "title": "No real intent in Moscow to engage in peace talks, says von der Leyen",
-      "url": "https://www.bbc.com/news/articles/c208wjpv4r9o?at_medium=RSS&at_campaign=rss",
-      "summary": "The European Commission chief said the EU would stand with Ukraine and support it \"in every way\". "
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "First there was nothing, then there was Hoto and Fanttik",
+        "#text": "Microsoft’s latest 13-inch Surface Laptop is down to $549.99, a new record low price",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/report/829265/hoto-fanttik-profile-origins-xiaomi-aukey-tiktok",
+      "url": "https://www.theverge.com/gadgets/830182/microsoft-surface-laptop-black-friday-2025-deal-sale",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Poco partners with Bose to put a subwoofer in its latest phone",
+        "#text": "Fanttik&#8217;s portable tire inflator has hit an all-time low for Black Friday",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/829419/poco-f8-ultra-bose-speakers-stereo-subwoofer",
+      "url": "https://www.theverge.com/gadgets/829971/fanttik-x8-tire-inflator-black-friday-deal-sale",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Uber’s robotaxi service in UAE now includes fully driverless vehicles",
+        "#text": "The Verge’s 2025 holiday gift guide",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/828685/uber-weride-robotaxi-fully-driverless-uae",
+      "url": "https://www.theverge.com/tech/809421/holiday-gift-guide-2025",
       "summary": "(要約準備中)"
     }
   ]
