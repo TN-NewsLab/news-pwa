@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2025-11-25T18:44:51.584Z",
+  "updatedAt": "2025-11-26T02:17:21.331Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Ukraine calls for Trump-Zelensky meeting in US this week",
+      "title": "Ukraine says 'understanding' reached with US on peace plan, as Trump says his envoy will meet Putin",
       "url": "https://www.bbc.com/news/articles/cy95jvw57v2o?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes as US and Russian officials are set to hold talks in Abu Dhabi."
+      "summary": "President Trump says the original peace plan has been \"fine-tuned\", and that he will send his envoy Steve Witkoff to Moscow."
     },
     {
       "source": "BBC World",
-      "title": "Israel receives coffin that Hamas says contains Gaza hostage's body",
-      "url": "https://www.bbc.com/news/articles/c17x0xjqj21o?at_medium=RSS&at_campaign=rss",
-      "summary": "The remains will be transferred to Israeli forces, who will take them to Israel's forensic medicine institute for identification."
+      "title": "Italian parliament unanimously votes to make femicide a crime",
+      "url": "https://www.bbc.com/news/articles/c1dzp050yn2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The gender-motivated murder of a woman will now be covered by a distinct clause in Italian law - punishable by a life sentence. "
     },
     {
       "source": "BBC World",
-      "title": "Ex-wife of Dubai royal says she fears arrest as custody battle escalates",
-      "url": "https://www.bbc.com/news/articles/cj01j710rmmo?at_medium=RSS&at_campaign=rss",
-      "summary": "Zeynab Javadli's ex-husband has lodged a criminal complaint with Dubai police, accusing her of kidnapping their three daughters."
+      "title": "Russian mercenaries accused of cold-blooded killings in Mali - BBC speaks to eyewitnesses",
+      "url": "https://www.bbc.com/news/articles/crmx7x3yjyko?at_medium=RSS&at_campaign=rss",
+      "summary": "Refugees have given the BBC a harrowing account of atrocities committed by the Russian paramilitary force. "
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Wyze’s new security camera watches your yard from inside your home",
+        "#text": "Campbell’s promises its soups are not made with 3D printed meat",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/829005/wyze-window-security-cam-hd-enhanced-night-vision",
+      "url": "https://www.theverge.com/news/829516/campbells-3d-printed-chicken-soup",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Bose and Sony headphones are up to $200 off in the run-up to Black Friday",
+        "#text": "House overhauls KOSA in a new kids online safety package",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/827914/best-early-black-friday-headphone-earbud-deals-2025",
+      "url": "https://www.theverge.com/news/829492/house-energy-commerce-kids-online-safety-package",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Apple’s AirPods 4 are on sale starting at just $69 for Black Friday",
+        "#text": "David Sacks tried to kill state AI laws — and it blew up in his face",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/828725/apple-airpods-4-anc-black-friday-deal-sale-2025",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/829179/david-sacks-ai-executive-order",
       "summary": "(要約準備中)"
     }
   ]
