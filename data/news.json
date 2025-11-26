@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2025-11-26T02:17:21.331Z",
+  "updatedAt": "2025-11-26T06:47:16.808Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Ukraine says 'understanding' reached with US on peace plan, as Trump says his envoy will meet Putin",
+      "title": "Ukraine says 'understanding' reached on US peace plan, as Trump envoy to meet Putin",
       "url": "https://www.bbc.com/news/articles/cy95jvw57v2o?at_medium=RSS&at_campaign=rss",
-      "summary": "President Trump says the original peace plan has been \"fine-tuned\", and that he will send his envoy Steve Witkoff to Moscow."
+      "summary": "Kyiv and Washington have moved closer to agreeing the shape of a deal to end the fighting, with Putin to be consulted next week."
     },
     {
       "source": "BBC World",
@@ -40,6 +40,15 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "Qualcomm reveals its not-so-elite Snapdragon 8 Gen 5",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/news/828959/qualcomm-snapdragon-8-gen-5",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "Campbell’s promises its soups are not made with 3D printed meat",
         "@_type": "html"
       },
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/news/829492/house-energy-commerce-kids-online-safety-package",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "David Sacks tried to kill state AI laws — and it blew up in his face",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/829179/david-sacks-ai-executive-order",
       "summary": "(要約準備中)"
     }
   ]
