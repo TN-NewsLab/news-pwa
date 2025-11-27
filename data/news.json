@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2025-11-27T13:02:08.341Z",
+  "updatedAt": "2025-11-27T18:42:20.485Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "At least 65 dead and hundreds missing after fire engulfs Hong Kong tower blocks",
-      "url": "https://www.bbc.com/news/articles/cvg165d7ppvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Three people have been arrested and a corruption investigation has been launched into the city's worst fire in 70 years."
+      "title": "Firefighters search for hundreds still missing in devastating Hong Kong tower blocks fire",
+      "url": "https://www.bbc.com/news/articles/c62n3enz9klo?at_medium=RSS&at_campaign=rss",
+      "summary": "Dozens of people have died and hundreds remain unaccounted for after Wednesday's blaze."
     },
     {
       "source": "BBC World",
@@ -15,9 +15,9 @@
     },
     {
       "source": "BBC World",
-      "title": "US suspends immigration requests for Afghans after National Guard shooting",
-      "url": "https://www.bbc.com/news/articles/cgex957qg97o?at_medium=RSS&at_campaign=rss",
-      "summary": "The alleged gunman in the Washington shooting is an Afghan national who entered the US in September 2021. "
+      "title": "Putin doubles down on demands for Ukrainian territory ahead of talks with US in Moscow",
+      "url": "https://www.bbc.com/news/articles/cp84nl57v0lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Russian president accuses Kyiv of wanting to fight \"to the last Ukrainian\" - which he says Russia is also \"in principle\" ready to do."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "My favorite e-reader is at its lowest price ever for Black Friday",
+        "#text": "Philips Hue’s Festavia string lights are up to $158 off just in time for Christmas",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/828242/kobo-libra-colour-e-reader-black-friday-deal-sale-2025",
+      "url": "https://www.theverge.com/gadgets/826881/philips-hue-festavia-govee-christmas-lights-black-friday-deal-2025",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Pluribus gets even more lonely — and dangerous — in episode 5",
+        "#text": "How Microsoft’s developers are using AI",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/829885/pluribus-episode-5-discussion-apple-tv",
+      "url": "https://www.theverge.com/tech/831379/microsoft-developer-ai-usage-stats-notepad",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "My AI shopping assistants are stuck in the past",
+        "#text": "Watch how Apple made its new puppet-packed holiday ad",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/830450/ai-shopping-assistants-are-stuck-in-the-past",
+      "url": "https://www.theverge.com/news/831431/apple-a-critter-carol-holiday-ad-puppets-practical-effects",
       "summary": "(要約準備中)"
     }
   ]
