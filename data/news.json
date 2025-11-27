@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-11-26T18:41:14.870Z",
+  "updatedAt": "2025-11-27T02:14:18.242Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "At least 36 dead as fire engulfs Hong Kong tower blocks",
+      "title": "At least 44 dead and hundreds missing after fire engulfs Hong Kong tower blocks",
       "url": "https://www.bbc.com/news/articles/cvg165d7ppvo?at_medium=RSS&at_campaign=rss",
       "summary": "Firefighters are struggling to put out the flames and say they are unsure when the blaze will be fully contained."
     },
@@ -15,9 +15,9 @@
     },
     {
       "source": "BBC World",
-      "title": "Trump defends Witkoff after leak appears to show envoy coaching Russia",
-      "url": "https://www.bbc.com/news/articles/c3r7xr94ln8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president said he had not heard the audio, but that it sounded like \"standard\" negotiations."
+      "title": "'I am devastated': Hong Kong residents in disbelief after fire destroys blocks of flats",
+      "url": "https://www.bbc.com/news/articles/cvgjnlx1g6yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Efforts to control the blaze are continuing as locals wait for news of missing loved ones."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Microsoft’s latest 13-inch Surface Laptop is down to $549.99, a new record low price",
+        "#text": "The best Apple Watch to buy",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/830182/microsoft-surface-laptop-black-friday-2025-deal-sale",
+      "url": "https://www.theverge.com/23037217/best-apple-watch-series-se-ultra",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Fanttik&#8217;s portable tire inflator has hit an all-time low for Black Friday",
+        "#text": "The best Black Friday deals we’ve found on TVs, laptops, and more",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/829971/fanttik-x8-tire-inflator-black-friday-deal-sale",
+      "url": "https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The Verge’s 2025 holiday gift guide",
+        "#text": "Stranger Things 5 begins with a frantic race to the finish line",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/809421/holiday-gift-guide-2025",
+      "url": "https://www.theverge.com/entertainment/830518/stranger-things-5-review-part-one",
       "summary": "(要約準備中)"
     }
   ]
