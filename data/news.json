@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2025-11-27T06:47:22.835Z",
+  "updatedAt": "2025-11-27T13:02:08.341Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "At least 44 dead and hundreds missing after fire engulfs Hong Kong tower blocks",
+      "title": "At least 65 dead and hundreds missing after fire engulfs Hong Kong tower blocks",
       "url": "https://www.bbc.com/news/articles/cvg165d7ppvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Firefighters are struggling to put out the flames and say they are unsure when the blaze will be fully contained."
+      "summary": "Three people have been arrested and a corruption investigation has been launched into the city's worst fire in 70 years."
     },
     {
       "source": "BBC World",
-      "title": "'I am devastated': Hong Kong residents in disbelief after fire destroys blocks of flats",
-      "url": "https://www.bbc.com/news/articles/cvgjnlx1g6yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Efforts to control the blaze are continuing as locals wait for news of missing loved ones."
+      "title": "Video shows speed fire spreads in Hong Kong tower block",
+      "url": "https://www.bbc.com/news/videos/c3w7e2p48l7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Footage geolocated by BBC Verify show the blaze taking hold in Wang Cheong House."
     },
     {
       "source": "BBC World",
-      "title": "Watch: Dawn aerial footage reveals scale of Hong Kong apartment blaze",
-      "url": "https://www.bbc.com/news/videos/c1e4ld1830yo?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 800 firefighters were still tackling the blaze at Wang Fuk Court this morning."
+      "title": "US suspends immigration requests for Afghans after National Guard shooting",
+      "url": "https://www.bbc.com/news/articles/cgex957qg97o?at_medium=RSS&at_campaign=rss",
+      "summary": "The alleged gunman in the Washington shooting is an Afghan national who entered the US in September 2021. "
+    },
+    {
+      "source": "BBC Technology",
+      "title": "OBR calls in cyber expert over botched release of Budget analysis",
+      "url": "https://www.bbc.com/news/articles/cgmn991pz9jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Rachel Reeves's statement was thrown into chaos after journalists were able to access the document early."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "But critics say the regulator's new measures need to be the law rather than guidelines to make the internet safer for women and girls."
     },
     {
-      "source": "BBC Technology",
-      "title": "Cryptology firm cancels elections after losing encryption key ",
-      "url": "https://www.bbc.com/news/articles/c62vl05rz0ko?at_medium=RSS&at_campaign=rss",
-      "summary": "The International Association for Cryptologic Research - created to study secure communication - said it was an \"honest human mistake.\""
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "The best Apple Watch to buy",
+        "#text": "My favorite e-reader is at its lowest price ever for Black Friday",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/23037217/best-apple-watch-series-se-ultra",
+      "url": "https://www.theverge.com/gadgets/828242/kobo-libra-colour-e-reader-black-friday-deal-sale-2025",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The best Black Friday deals we’ve found on TVs, laptops, and more",
+        "#text": "Pluribus gets even more lonely — and dangerous — in episode 5",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025",
+      "url": "https://www.theverge.com/tech/829885/pluribus-episode-5-discussion-apple-tv",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Stranger Things 5 begins with a frantic race to the finish line",
+        "#text": "My AI shopping assistants are stuck in the past",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/830518/stranger-things-5-review-part-one",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/830450/ai-shopping-assistants-are-stuck-in-the-past",
       "summary": "(要約準備中)"
     }
   ]
