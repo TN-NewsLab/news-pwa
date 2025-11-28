@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2025-11-28T13:00:19.385Z",
+  "updatedAt": "2025-11-28T18:42:38.650Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Hong Kong tower blocks fire death toll rises to 128",
+      "title": "Zelensky's top adviser resigns after Ukrainian anti-corruption raid on his home",
+      "url": "https://www.bbc.com/news/articles/ckg9nd2wddno?at_medium=RSS&at_campaign=rss",
+      "summary": "Andriy Yermak, 54, has been the Ukrainian president's chief of staff throughout Russia's full-scale war."
+    },
+    {
+      "source": "BBC World",
+      "title": "Eight more arrested over fire in Hong Kong that killed at least 128 people",
       "url": "https://www.bbc.com/news/articles/c79xd17dre3o?at_medium=RSS&at_campaign=rss",
       "summary": "Authorities say 89 bodies are unidentified and 79 people remain injured after Wednesday's blaze."
     },
     {
       "source": "BBC World",
-      "title": "Trump says US will pause migration from 'third-world countries'",
-      "url": "https://www.bbc.com/news/articles/cdxweyy157go?at_medium=RSS&at_campaign=rss",
-      "summary": "The president did not name which countries would be affected, but vowed to remove anyone \"not a net asset\" to the US."
+      "title": "Afghans in US issue plea to Trump after Washington DC shooting",
+      "url": "https://www.bbc.com/news/articles/c0q5w8l88dvo?at_medium=RSS&at_campaign=rss",
+      "summary": "People who left Afghanistan urge the US president not to toughen his stance after an attack allegedly carried out by an Afghan national."
     },
     {
-      "source": "BBC World",
-      "title": "National Guard member dies after shooting in Washington DC ",
-      "url": "https://www.bbc.com/news/articles/cwyx4y6007lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Sarah Beckstrom, 20, succumbed to her injuries, while a second guardsman remains in critical condition, Donald Trump says."
+      "source": "BBC Technology",
+      "title": "Barcelona distances itself from sponsor's cryptocurrency after backlash",
+      "url": "https://www.bbc.com/news/articles/c20gkkl1546o?at_medium=RSS&at_campaign=rss",
+      "summary": "Experts say the deal may put fans at risk as the Catalan club tries to relieve its financial woes."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "The world's most valuable company said it was still \"a generation ahead of the industry\"."
     },
     {
-      "source": "BBC Technology",
-      "title": "Ofcom vows to name and shame platforms over online sexism",
-      "url": "https://www.bbc.com/news/articles/cly52dd9lnmo?at_medium=RSS&at_campaign=rss",
-      "summary": "But critics say the regulator's new measures need to be the law rather than guidelines to make the internet safer for women and girls."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "The US dodged a bullet this Atlantic hurricane season",
+        "#text": "The 159 best Black Friday deals we’ve found so far — a ton of tech is over half off",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/829505/atlantic-hurricane-season-end-political-climate-disaster",
+      "url": "https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Epic CEO Tim Sweeney says Steam should drop its ‘Made with AI’ tags",
+        "#text": "The Oura Ring 4 is still at its lowest price ever for Black Friday",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/831747/tim-sweeney-epic-ceo-steam-game-stores-made-with-ai",
+      "url": "https://www.theverge.com/gadgets/832303/oura-ring-4-smart-wearable-black-friday-deal-sale-2025",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "You can save 50 percent on robovacs from Roborock and Eufy for Black Friday",
+        "#text": "Hallmark’s Mario and Toad Christmas ornaments are less than $10 for Black Friday",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/828157/best-black-friday-robot-vacuum-mop-deals-sale-2025",
+      "url": "https://www.theverge.com/gadgets/832239/black-friday-mario-toad-nintendo-christmas-ornaments-deal-sale-2025",
       "summary": "(要約準備中)"
     }
   ]
