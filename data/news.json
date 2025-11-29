@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-11-29T02:13:36.070Z",
+  "updatedAt": "2025-11-29T06:44:00.617Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,15 +9,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Zelensky's top adviser resigns after Ukrainian anti-corruption raid on his home",
-      "url": "https://www.bbc.com/news/articles/ckg9nd2wddno?at_medium=RSS&at_campaign=rss",
-      "summary": "Andriy Yermak, 54, has been the Ukrainian president's chief of staff throughout Russia's full-scale war."
+      "title": "Planes grounded after Airbus discovers solar radiation could impact systems",
+      "url": "https://www.bbc.com/news/articles/c8e9d13x2z7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The issue is thought to affect 6,000 planes, which will need to undergo an urgent software update or have computers replaced."
     },
     {
       "source": "BBC World",
-      "title": "Eight more arrested over fire in Hong Kong that killed at least 128 people",
-      "url": "https://www.bbc.com/news/articles/c79xd17dre3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Authorities say 89 bodies are unidentified and 79 people remain injured after Wednesday's blaze."
+      "title": "Zelensky's top adviser resigns after Ukrainian anti-corruption raid on his home",
+      "url": "https://www.bbc.com/news/articles/ckg9nd2wddno?at_medium=RSS&at_campaign=rss",
+      "summary": "Andriy Yermak, 54, has been the Ukrainian president's chief of staff throughout Russia's full-scale war."
     },
     {
       "source": "BBC Technology",
@@ -40,7 +40,16 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "The 184 best Black Friday deals you can still shop — a ton of tech is over half off",
+        "#text": "Philips Hue’s Festavia string lights are nearly $60 off (and still available) for Black Friday",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/gadgets/826881/philips-hue-festavia-govee-christmas-lights-black-friday-deal-2025",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "The 192 best Black Friday deals you can still shop — a ton of tech is over half off",
         "@_type": "html"
       },
       "url": "https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas",
@@ -49,19 +58,10 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "These laptops are still steeply discounted for Black Friday — many are over $400 off",
+        "#text": "The Verge’s guide to Black Friday 2025",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/828617/best-black-friday-laptop-deals-macbook-surface-gaming-notebooks-2025",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Ninja’s versatile Creami ice cream maker hits an all-time low for Black Friday",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/gadgets/832870/black-friday-ninja-swirl-creami-ice-cream-maker-deal-sale-2025",
+      "url": "https://www.theverge.com/tech/808624/black-friday-cyber-monday-guide-2025",
       "summary": "(要約準備中)"
     }
   ]
