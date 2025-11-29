@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2025-11-29T12:56:50.300Z",
+  "updatedAt": "2025-11-29T18:41:53.052Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Consider airspace around Venezuela closed, Trump says ",
+      "url": "https://www.bbc.com/news/articles/c741mpdyw9no?at_medium=RSS&at_campaign=rss",
+      "summary": "The US cannot legally close another country's airspace, but Trump's comments could deter airlines from operating in Venezuela.  "
+    },
+    {
+      "source": "BBC World",
+      "title": "Flooding in southern Asia leaves 600 dead",
+      "url": "https://www.bbc.com/news/articles/c5y9ejley9do?at_medium=RSS&at_campaign=rss",
+      "summary": "The region is hit by some of the worst floods in years, with millions affected in Indonesia, Malaysia, Thailand and Sri Lanka."
+    },
     {
       "source": "BBC World",
       "title": "Fall of Zelensky's top aide - reboot for Kyiv or costly shake-up?",
       "url": "https://www.bbc.com/news/articles/cz0nljm4y74o?at_medium=RSS&at_campaign=rss",
-      "summary": "A widening corruption scandal has forced the resignation of Ukraine's second most powerful person."
-    },
-    {
-      "source": "BBC World",
-      "title": "Russian strikes cause power outages for more than 600,000 in Ukraine",
-      "url": "https://www.bbc.com/news/articles/cx2gylngx7go?at_medium=RSS&at_campaign=rss",
-      "summary": "The overnight attack kills at least three and injures dozens more."
-    },
-    {
-      "source": "BBC World",
-      "title": "US halts all asylum claim decisions after National Guard shooting",
-      "url": "https://www.bbc.com/news/articles/cdxweyy157go?at_medium=RSS&at_campaign=rss",
-      "summary": "The directive comes hours after Donald Trump said the US will pause migration from \"third-world countries\". "
+      "summary": "A widening corruption scandal forced Ukraine's second most powerful person, Andriy Yermak, to resign."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "All the places I used my Trump Mobile wireless service this week",
+        "#text": "Disney Plus, Hulu, and HBO Max are all over 60 percent off for Black Friday",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/829414/trump-mobile-mvno-wireless-service-test",
+      "url": "https://www.theverge.com/gadgets/829306/best-black-friday-streaming-deals-hulu-disney-plus-paramount-hbo-max-2025",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The 194 best Black Friday deals you can still shop — a ton of tech is over half off",
+        "#text": "Buying a $100 Apple gift card will earn you a $15 Amazon credit",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas",
+      "url": "https://www.theverge.com/gadgets/833566/buying-a-100-apple-gift-card-will-earn-you-15-amazon-credit",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The best Black Friday deals you can still get on AirTags, iPad, and other Apple gear",
+        "#text": "We handpicked 12 great gaming laptops that are hundreds off for Black Friday",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/827826/best-black-friday-apple-deals-sale-2025",
+      "url": "https://www.theverge.com/gadgets/833307/best-gaming-laptop-nvidia-rtx-black-friday-deal-sale",
       "summary": "(要約準備中)"
     }
   ]
