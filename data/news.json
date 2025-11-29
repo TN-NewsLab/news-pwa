@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2025-11-29T06:44:00.617Z",
+  "updatedAt": "2025-11-29T12:56:50.300Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "US halts all asylum claim decisions in wake of National Guard shooting",
+      "title": "Fall of Zelensky's top aide - reboot for Kyiv or costly shake-up?",
+      "url": "https://www.bbc.com/news/articles/cz0nljm4y74o?at_medium=RSS&at_campaign=rss",
+      "summary": "A widening corruption scandal has forced the resignation of Ukraine's second most powerful person."
+    },
+    {
+      "source": "BBC World",
+      "title": "Russian strikes cause power outages for more than 600,000 in Ukraine",
+      "url": "https://www.bbc.com/news/articles/cx2gylngx7go?at_medium=RSS&at_campaign=rss",
+      "summary": "The overnight attack kills at least three and injures dozens more."
+    },
+    {
+      "source": "BBC World",
+      "title": "US halts all asylum claim decisions after National Guard shooting",
       "url": "https://www.bbc.com/news/articles/cdxweyy157go?at_medium=RSS&at_campaign=rss",
-      "summary": "The directive comes hours after President Trump said the US will pause migration from \"third-world countries\". "
-    },
-    {
-      "source": "BBC World",
-      "title": "Planes grounded after Airbus discovers solar radiation could impact systems",
-      "url": "https://www.bbc.com/news/articles/c8e9d13x2z7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The issue is thought to affect 6,000 planes, which will need to undergo an urgent software update or have computers replaced."
-    },
-    {
-      "source": "BBC World",
-      "title": "Zelensky's top adviser resigns after Ukrainian anti-corruption raid on his home",
-      "url": "https://www.bbc.com/news/articles/ckg9nd2wddno?at_medium=RSS&at_campaign=rss",
-      "summary": "Andriy Yermak, 54, has been the Ukrainian president's chief of staff throughout Russia's full-scale war."
+      "summary": "The directive comes hours after Donald Trump said the US will pause migration from \"third-world countries\". "
     },
     {
       "source": "BBC Technology",
@@ -40,16 +40,16 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Philips Hue’s Festavia string lights are nearly $60 off (and still available) for Black Friday",
+        "#text": "All the places I used my Trump Mobile wireless service this week",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/826881/philips-hue-festavia-govee-christmas-lights-black-friday-deal-2025",
+      "url": "https://www.theverge.com/tech/829414/trump-mobile-mvno-wireless-service-test",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The 192 best Black Friday deals you can still shop — a ton of tech is over half off",
+        "#text": "The 194 best Black Friday deals you can still shop — a ton of tech is over half off",
         "@_type": "html"
       },
       "url": "https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas",
@@ -58,10 +58,10 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "The Verge’s guide to Black Friday 2025",
+        "#text": "The best Black Friday deals you can still get on AirTags, iPad, and other Apple gear",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/808624/black-friday-cyber-monday-guide-2025",
+      "url": "https://www.theverge.com/gadgets/827826/best-black-friday-apple-deals-sale-2025",
       "summary": "(要約準備中)"
     }
   ]
