@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2025-11-30T06:45:29.411Z",
+  "updatedAt": "2025-11-30T12:55:57.569Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Venezuela calls Trump airspace closure warning 'colonialist threat'",
-      "url": "https://www.bbc.com/news/articles/c741mpdyw9no?at_medium=RSS&at_campaign=rss",
-      "summary": "US President Donald Trump says airspace over Venezuela should be considered closed \"in its entirety\" as tensions mount between the two countries."
-    },
-    {
-      "source": "BBC World",
-      "title": "Hundreds dead and missing in flooding across South East Asia",
+      "title": "Death toll from Indonesia flooding rises to 442",
       "url": "https://www.bbc.com/news/articles/c5y9ejley9do?at_medium=RSS&at_campaign=rss",
-      "summary": "The region is hit by some of the worst floods in years, with millions affected in Indonesia, Malaysia and Thailand."
+      "summary": "Hundreds have been killed across South East Asia, with monsoons exacerbated by cyclones also affecting Thailand and Malaysia."
     },
     {
       "source": "BBC World",
-      "title": "Four killed in shooting at child's birthday party in California",
-      "url": "https://www.bbc.com/news/articles/cvg81p61dnmo?at_medium=RSS&at_campaign=rss",
-      "summary": "Police say 10 others are injured in what they believe is a \"targeted\" shooting, with children among the victims."
+      "title": "Benjamin Netanyahu seeks pardon from Israel's president",
+      "url": "https://www.bbc.com/news/articles/c4gv76r5qpvo?at_medium=RSS&at_campaign=rss",
+      "summary": "\"An immediate end to the trial would greatly help lower the flames and promote broad reconciliation,\" Israel's PM says."
+    },
+    {
+      "source": "BBC World",
+      "title": "Venezuela condemns Trump's threat to close country's airspace",
+      "url": "https://www.bbc.com/news/articles/c741mpdyw9no?at_medium=RSS&at_campaign=rss",
+      "summary": "The US says it is fighting drugs smuggling, but Venezuela says Donald Trump's aim is to topple President Nicolás Maduro. "
     },
     {
       "source": "BBC Technology",
@@ -40,6 +40,15 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "The absolute best Cyber Monday deals you can already shop",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/gadgets/833101/cyber-monday-best-early-deals-2025",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "The 201 Black Friday deals you can still get",
         "@_type": "html"
       },
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/gadgets/833697/anker-prime-charger-67w-3-port",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "The best gaming headset I tried this year is $60 off for Black Friday",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/gadgets/829932/wireless-pc-gaming-headset-fractal-scape-deal-sale-black-friday",
       "summary": "(要約準備中)"
     }
   ]
