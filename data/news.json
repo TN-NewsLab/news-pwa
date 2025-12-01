@@ -1,11 +1,17 @@
 {
-  "updatedAt": "2025-12-01T13:05:16.970Z",
+  "updatedAt": "2025-12-01T18:50:25.674Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Four dead in Russian attack as diplomatic efforts to end war continue",
+      "title": "Four dead in Russian attack as diplomatic efforts to end Ukraine war continue",
       "url": "https://www.bbc.com/news/articles/c1m8nmx75evo?at_medium=RSS&at_campaign=rss",
       "summary": "As US negotiating teams continue to hold talks with Moscow and Kyiv, Russia's attacks on Ukraine continue."
+    },
+    {
+      "source": "BBC World",
+      "title": "Appeals court disqualifies ex-Trump lawyer Alina Habba as New Jersey prosecutor",
+      "url": "https://www.bbc.com/news/articles/cewjg272dq9o?at_medium=RSS&at_campaign=rss",
+      "summary": "An appeals court disqualified Alina Habba, Trump's former personal attorney, from serving as US Attorney for New Jersey. "
     },
     {
       "source": "BBC World",
@@ -14,10 +20,10 @@
       "summary": "Anti-government demonstrators are likely to have been targeted with camite, our investigation finds."
     },
     {
-      "source": "BBC World",
-      "title": "UK MP Tulip Siddiq given jail sentence in Bangladesh after trial in her absence",
-      "url": "https://www.bbc.com/news/articles/c4g9dyd84lwo?at_medium=RSS&at_campaign=rss",
-      "summary": "The former minister and niece of Bangladesh's ousted former leader, who received a two-year sentence, says the charges are politically motivated."
+      "source": "BBC Technology",
+      "title": "Jorja Smith's record label hits out at 'AI clone' song",
+      "url": "https://www.bbc.com/news/articles/cwyvjye18e9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The label claims Haven's dance hit I Run was made using AI trained on the award-winning singer's voice."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "Experts say the deal may put fans at risk as the Catalan club tries to relieve its financial woes."
     },
     {
-      "source": "BBC Technology",
-      "title": "OBR calls in cyber expert over botched release of Budget analysis",
-      "url": "https://www.bbc.com/news/articles/cgmn991pz9jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Rachel Reeves's statement was thrown into chaos after journalists were able to access the document early."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "A nationwide internet age verification plan is sweeping Congress",
+        "#text": "The Nintendo Switch 2 got its first-ever discount during Cyber Monday",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/830877/app-store-age-verification-act-pinterest-endorsement",
+      "url": "https://www.theverge.com/gadgets/834775/nintendo-switch-2-walmart-cyber-monday-deal-sale",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "These great Cyber Monday tech deals will likely be gone tomorrow",
+        "#text": "Today is your last chance to score Cyber Monday deals on Disney Plus, Hulu, and HBO Max",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/834422/cyber-monday-2025-best-deals-tech-gadgets-gift-ideas",
+      "url": "https://www.theverge.com/gadgets/834862/best-cyber-monday-streaming-deals-disney-plus-hulu-paramount-hbo-max-2025",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Apple’s M2 MacBook Air is just $599 during Cyber Monday",
+        "#text": "Amazon and Google’s new cloud link could make it easier to deal with outages",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/834693/apple-m2-macbook-air-cyber-monday-deal-sale",
+      "url": "https://www.theverge.com/news/835077/google-cloud-aws-multicloud-link-backup",
       "summary": "(要約準備中)"
     }
   ]
