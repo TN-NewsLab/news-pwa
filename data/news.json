@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2025-12-01T06:49:50.372Z",
+  "updatedAt": "2025-12-01T13:05:16.970Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Four dead in Russian attack as diplomatic efforts to end war continue",
+      "url": "https://www.bbc.com/news/articles/c1m8nmx75evo?at_medium=RSS&at_campaign=rss",
+      "summary": "As US negotiating teams continue to hold talks with Moscow and Kyiv, Russia's attacks on Ukraine continue."
+    },
     {
       "source": "BBC World",
       "title": "WW1 toxic compound sprayed on Georgian protesters, BBC evidence suggests",
@@ -9,15 +15,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Ukraine talks 'productive' but more work needed, Rubio says",
-      "url": "https://www.bbc.com/news/articles/cd9z2e3exk9o?at_medium=RSS&at_campaign=rss",
-      "summary": "American and Ukrainian delegations meet in Florida to discuss the outlines of a peace deal with Russia."
+      "title": "UK MP Tulip Siddiq given jail sentence in Bangladesh after trial in her absence",
+      "url": "https://www.bbc.com/news/articles/c4g9dyd84lwo?at_medium=RSS&at_campaign=rss",
+      "summary": "The former minister and niece of Bangladesh's ousted former leader, who received a two-year sentence, says the charges are politically motivated."
     },
     {
-      "source": "BBC World",
-      "title": "'I saw them driving over injured people' - the terrifying escape from war in Sudan",
-      "url": "https://www.bbc.com/news/articles/cpvdn8pmmd1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC visits a camp where people are taking refuge after the fall of el-Fasher city. "
+      "source": "BBC Technology",
+      "title": "Virgin Media fined £24m for leaving vulnerable customers 'at risk of harm'",
+      "url": "https://www.bbc.com/news/articles/ce8qv9319zlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ofcom has fined Virgin Media after an investigation found it had left thousands of vulnerable telecare customers at risk. "
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "Rachel Reeves's statement was thrown into chaos after journalists were able to access the document early."
     },
     {
-      "source": "BBC Technology",
-      "title": "Nvidia plays down Google chip threat concerns",
-      "url": "https://www.bbc.com/news/articles/c7vme6rrqz5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The world's most valuable company said it was still \"a generation ahead of the industry\"."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Here are 50 standout deals under $100 we’re eyeing for Cyber Monday",
+        "#text": "A nationwide internet age verification plan is sweeping Congress",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/833655/cyber-monday-best-cheap-tech-deals-under-100-2025",
+      "url": "https://www.theverge.com/policy/830877/app-store-age-verification-act-pinterest-endorsement",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The best Cyber Monday deals on Apple MacBooks, AirTags, iPads, and more",
+        "#text": "These great Cyber Monday tech deals will likely be gone tomorrow",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/827826/best-black-friday-apple-deals-sale-2025",
+      "url": "https://www.theverge.com/gadgets/834422/cyber-monday-2025-best-deals-tech-gadgets-gift-ideas",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The absolute best Cyber Monday deals you can already shop",
+        "#text": "Apple’s M2 MacBook Air is just $599 during Cyber Monday",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/833101/cyber-monday-best-early-deals-2025",
+      "url": "https://www.theverge.com/gadgets/834693/apple-m2-macbook-air-cyber-monday-deal-sale",
       "summary": "(要約準備中)"
     }
   ]
