@@ -28,7 +28,8 @@ async function loadNews() {
         summary: a.summary || "",
         source: a.source || "unknown",
         tag: "その他",                // デフォルトタグ
-        url: a.url || "#",            // URL が無いので # に
+        // url: a.url || "#",            // URL が無いので # に
+        url: a.url || a.link || "#",  // ← 追加した！重要！
         publishedAt: a.timestamp || ""// placeholder の timestamp を使用
       };
 
