@@ -1,68 +1,68 @@
-{
-  "updatedAt": "2025-11-21T06:58:26.759Z",
-  "top": [
-    {
-      "source": "BBC World",
-      "title": "Zelensky ready for 'honest work' with US to end Ukraine war",
-      "url": "https://www.bbc.com/news/articles/cly1ypqlle0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Kyiv says it is willing to engage with a US-backed draft peace plan aimed at ending the war with Russia. "
+[
+  {
+    "source": "BBC World",
+    "title": "Zelensky ready for 'honest work' with US to end Ukraine war",
+    "url": "https://www.bbc.com/news/articles/cly1ypqlle0o?at_medium=RSS&at_campaign=rss",
+    "summary": "Kyiv says it is willing to engage with a US-backed draft peace plan aimed at ending the war with Russia. "
+  },
+  {
+    "source": "BBC World",
+    "title": "Trump calls Democrats' message to troops seditious behaviour, punishable by death",
+    "url": "https://www.bbc.com/news/articles/cx2p2dz9zk2o?at_medium=RSS&at_campaign=rss",
+    "summary": "Trump's comments came after a group of Democrats urged US service members to refuse unlawful commands."
+  },
+  {
+    "source": "BBC World",
+    "title": "At least 41 dead as relentless rains flood Vietnam",
+    "url": "https://www.bbc.com/news/articles/ceq0q3e2j17o?at_medium=RSS&at_campaign=rss",
+    "summary": "The coastal cities of Hoi An and Nha Trang, and a key coffee-producing belt, are among the worst-hit."
+  },
+  {
+    "source": "BBC Technology",
+    "title": "Vinted blocks 'sickening' sexually explicit ads ",
+    "url": "https://www.bbc.com/news/articles/cn515p22nxno?at_medium=RSS&at_campaign=rss",
+    "summary": "The online marketplace removed adverts which included a video a user said depicted a pornographic scene."
+  },
+  {
+    "source": "BBC Technology",
+    "title": "Graduate jobs under threat from AI, PwC boss says",
+    "url": "https://www.bbc.com/news/articles/cm272510e6jo?at_medium=RSS&at_campaign=rss",
+    "summary": "The accountancy giant says artificial intelligence will eventually lead to fewer entry-level positions at the firm."
+  },
+  {
+    "source": "BBC Technology",
+    "title": "Streaming platform Twitch added to Australia's teen social media ban",
+    "url": "https://www.bbc.com/news/articles/cx2n2955g10o?at_medium=RSS&at_campaign=rss",
+    "summary": "It joins other platforms including Facebook, Instagram, TikTok and Snapchat in the ban that starts next month."
+  },
+  {
+    "source": "The Verge",
+    "title": {
+      "#text": "Grok’s Elon Musk worship is getting weird",
+      "@_type": "html"
     },
-    {
-      "source": "BBC World",
-      "title": "Trump calls Democrats' message to troops seditious behaviour, punishable by death",
-      "url": "https://www.bbc.com/news/articles/cx2p2dz9zk2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump's comments came after a group of Democrats urged US service members to refuse unlawful commands."
+    "url": "https://www.theverge.com/ai-artificial-intelligence/825675/groks-elon-musk-worship-is-getting-weird",
+    "summary": "(要約準備中)",
+    "summary_error": true
+  },
+  {
+    "source": "The Verge",
+    "title": {
+      "#text": "The best early Black Friday deals we’ve found so far on laptops, TVs, and more",
+      "@_type": "html"
     },
-    {
-      "source": "BBC World",
-      "title": "At least 41 dead as relentless rains flood Vietnam",
-      "url": "https://www.bbc.com/news/articles/ceq0q3e2j17o?at_medium=RSS&at_campaign=rss",
-      "summary": "The coastal cities of Hoi An and Nha Trang, and a key coffee-producing belt, are among the worst-hit."
+    "url": "https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025",
+    "summary": "(要約準備中)",
+    "summary_error": true
+  },
+  {
+    "source": "The Verge",
+    "title": {
+      "#text": "Google&#8217;s new AI image creator took my shirt off",
+      "@_type": "html"
     },
-    {
-      "source": "BBC Technology",
-      "title": "Vinted blocks 'sickening' sexually explicit ads ",
-      "url": "https://www.bbc.com/news/articles/cn515p22nxno?at_medium=RSS&at_campaign=rss",
-      "summary": "The online marketplace removed adverts which included a video a user said depicted a pornographic scene."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Graduate jobs under threat from AI, PwC boss says",
-      "url": "https://www.bbc.com/news/articles/cm272510e6jo?at_medium=RSS&at_campaign=rss",
-      "summary": "The accountancy giant says artificial intelligence will eventually lead to fewer entry-level positions at the firm."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Streaming platform Twitch added to Australia's teen social media ban",
-      "url": "https://www.bbc.com/news/articles/cx2n2955g10o?at_medium=RSS&at_campaign=rss",
-      "summary": "It joins other platforms including Facebook, Instagram, TikTok and Snapchat in the ban that starts next month."
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Grok’s Elon Musk worship is getting weird",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/825675/groks-elon-musk-worship-is-getting-weird",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "The best early Black Friday deals we’ve found so far on laptops, TVs, and more",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Google&#8217;s new AI image creator took my shirt off",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/news/825667/google-nano-banana-pro-test",
-      "summary": "(要約準備中)"
-    }
-  ]
-}
+    "url": "https://www.theverge.com/news/825667/google-nano-banana-pro-test",
+    "summary": "(要約準備中)",
+    "summary_error": true
+  }
+]

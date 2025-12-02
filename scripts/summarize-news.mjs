@@ -1,6 +1,8 @@
 // /scripts/summarize-news.mjs
 import dotenv from "dotenv";
 dotenv.config();
+console.log("ENV KEY LOADED:", process.env.OPENAI_API_KEY?.slice(0,10));
+
 import fs from "node:fs/promises";
 import path from "node:path";
 import OpenAI from "openai";
@@ -14,7 +16,7 @@ const MAX_ITEMS = process.argv.includes("--max")
   : 20;                              // まとめてやりすぎない
 const DRY_RUN = process.argv.includes("--dry"); // 変更を書き戻さない
 const CONCURRENCY = 3;               // 同時実行上限（控えめ）
-const MODEL = "gpt-4.1-mini";        // コスパ系モデル例（後で変更可）
+const MODEL = "gpt-4o-mini";        // コスパ系モデル例（後で変更可）
 const TIMEOUT_MS = 60_000;
 
 // === 文章スタイル（日本語・3行） ===
@@ -53,19 +55,15 @@ async function summarizeOne(item) {
   const timer = setTimeout(() => controller.abort(), TIMEOUT_MS);
 
   try {
-    const res = await openai.responses.create({
-      model: MODEL,
-      input: [
+    const completion = await openai.chat.completions.create({
+      model: MODEL,  // gpt-4o-miniに変更
+      messages: [
         { role: "system", content: systemPrompt },
         { role: "user", content: userPrompt }
       ],
-      // 将来JSON構造化する場合は Structured Outputs を検討（後述）
     }, { signal: controller.signal });
 
-    // SDKの標準レスポンスからテキスト抽出
-    const text = res.output_text?.trim?.() 
-      ?? res.content?.[0]?.text?.trim?.() 
-      ?? "";
+    const text = completion.choices?.[0]?.message?.content?.trim() || "";
     if (!text) throw new Error("空の応答");
 
     // ガード：3行に整形
@@ -77,7 +75,6 @@ async function summarizeOne(item) {
 
     return lines.join("\n");
   } catch (err) {
-    // シンプルな指数バックオフ
     console.error("summarize error:", err?.message || err);
     throw err;
   } finally {
@@ -90,11 +87,14 @@ async function main() {
   //const items = JSON.parse(raw);
   let json = JSON.parse(raw);
   // 配列でなければ、articles配列などを抽出
-  const items = Array.isArray(json) ? json : (json.articles || json.items || []);
+  const items = Array.isArray(json)
+    ? json
+    : (json.top || json.articles || json.items || []);
 
   // 対象の選定：summary未生成 or 古いもの
   const targets = items
-    .filter(it => !it.summary)
+    //.filter(it => !it.summary)
+    .filter(it => !it.summary || it.summary === "(要約準備中)")
     .slice(0, MAX_ITEMS);
 
   if (targets.length === 0) {
