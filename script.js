@@ -3,10 +3,7 @@ async function loadNews() {
   container.innerHTML = "<p>読み込み中...</p>";
 
   try {
-    // const res = await fetch("http://127.0.0.1:8010/news", {
-    //    cache: "no-store"      // 古いJSONが表示される問題を防ぐ
-    //    });
-    const res = await fetch("data/summary.json", { cache: "no-store" });
+    const res = await fetch("data/summary_v2.json", { cache: "no-store" });
 
     const rawData = await res.json();
 
