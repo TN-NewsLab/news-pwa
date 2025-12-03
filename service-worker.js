@@ -1,11 +1,12 @@
-const CACHE_NAME = 'news-pwa-cache-v1';
+const CACHE_NAME = 'news-pwa-cache-v2';
 
 const urlsToCache = [
   './',
   './index.html',
   './style.css',
-  './script.js',
-  './data/news.json',
+  './script_v2.js',
+  // './data/news.json',
+  './data/summary_v2.json',
 ];
 
 self.addEventListener('install', (event) => {
