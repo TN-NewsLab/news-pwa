@@ -3,7 +3,9 @@ async function loadNews() {
   container.innerHTML = "<p>読み込み中...</p>";
 
   try {
-    const res = await fetch("data/summary_v2.json", { cache: "no-store" });
+    // const res = await fetch("data/summary_v2.json", { cache: "no-store" });
+    const timestamp = Date.now();
+    const res = await fetch(`data/summary.json?v=${timestamp}`);
 
     const rawData = await res.json();
 

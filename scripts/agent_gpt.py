@@ -3,6 +3,7 @@ import feedparser
 import json
 from openai import OpenAI
 from dotenv import load_dotenv
+from datetime import datetime, timezone, timedelta
 
 # 1) .env 読み込み
 load_dotenv()
@@ -23,16 +24,13 @@ RSS_SOURCES = {
         "source": "BBC",
         "url": "https://feeds.bbci.co.uk/news/world/rss.xml"
     },
-    # "international": {
-    #     "source": "BBC",
-    #     "url": "http://feeds.bbci.co.uk/news/rss.xml"
-    # },
     "japan_politics": {
         "source": "NHK",
         "url": "https://www3.nhk.or.jp/rss/news/cat3.xml"
     }
 }
 
+# ********** RSS取得 **********
 def fetch_rss(url):
     feed = feedparser.parse(url)
     # 記事が空でない時だけ1件
@@ -66,6 +64,7 @@ def fetch_rss_ai_multiple(url, max_items=2):
     combined = priority_items + normal_items
     return combined[:max_items]
 
+# ********** title・summary抽出 / 3行要約 **********
 def summarize(text, title=""):
     if not text or text.strip() == "":
         prompt = (
@@ -99,6 +98,62 @@ def summarize(text, title=""):
     # それでもダメなら、とりあえず文字列化して返す
     return str(content)
 
+ # ********** カテゴリ判定 **********
+def classify_category(title, summary, initial_category):
+    text = (title + " " + summary).lower()
+
+    # --- AI キーワード ---
+    ai_keywords = [
+        "ai", "artificial intelligence", "gpt", "chatgpt",
+        "openai", "neural", "model", "llm", "gemini",
+        "anthropic", "deepseek", "生成ai", "機械学習"
+    ]
+
+    # --- 経済 キーワード ---
+    economy_keywords = [
+        "stock", "market", "shares", "inflation", "finance",
+        "経済", "企業", "株", "景気", "賃金", "資金", "金利"
+    ]
+
+    # --- ① AI判定 ---
+    if any(k in text for k in ai_keywords):
+        return "AI"
+
+    # --- ② 経済判定 ---
+    if any(k in text for k in economy_keywords):
+        return "経済"
+
+    # --- ③ どちらでもない場合 → その他 ---
+    return "その他"
+
+# ********** timestamp生成 **********
+def format_timestamp(entry):
+    """
+    RSSのpubDateをJSTの 'YYYY-MM-DD HH:MM' に統一。
+    pubDateが無ければ現在時刻を使用。
+    """
+    try:
+        if hasattr(entry, "published"):
+            dt = feedparser._parse_date(entry.published)
+        elif hasattr(entry, "updated"):
+            dt = feedparser._parse_date(entry.updated)
+        else:
+            dt = None
+    except:
+        dt = None
+
+    # pubDate取得失敗 → 今の日時を使う
+    if dt is None:
+        dt_obj = datetime.now(timezone.utc)
+    else:
+        dt_obj = datetime(*dt[:6], tzinfo=timezone.utc)
+
+    # JSTへ変換
+    jst = dt_obj.astimezone(timezone(timedelta(hours=9)))
+
+    # フォーマット
+    return jst.strftime("%Y-%m-%d %H:%M")
+
 def main():
     output_items = []
 
@@ -126,12 +181,16 @@ def main():
             print(f"🧠 [{info['source']}] 要約中...")
             summary = summarize(description, title)
 
+            category_final = classify_category(title, summary, category)
+
+            timestamp = format_timestamp(entry)
+
             output_items.append({
                 "source": info['source'],
                 "title": title,
                 "summary": summary,
                 "link": link,
-                "category": category
+                "category": category_final
             })
 
     output = {"news": output_items}
