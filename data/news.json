@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2025-12-03T13:05:29.780Z",
+  "updatedAt": "2025-12-03T18:47:32.906Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Trump says he does not want Somalis in US as ICE plans Minnesota operation",
-      "url": "https://www.bbc.com/news/articles/c208x9v68w3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The president says the US will \"go the wrong way if we keep taking in garbage into our country\"."
+      "title": "What latest Ukraine talks reveal about Putin's state of mind",
+      "url": "https://www.bbc.com/news/articles/cpq4e21nr5vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Russia's president looks determined to continue his war in Ukraine - even as the country's economic problems grow."
     },
     {
       "source": "BBC World",
-      "title": "Crisis looms in Israel over ultra-Orthodox conscription bill",
-      "url": "https://www.bbc.com/news/articles/cly580gkd9ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Lawmakers are considering a draft bill to end the exemption granted to ultra-Orthodox men enrolled in full-time religious study."
+      "title": "Israel says Rafah crossing to open soon to let Palestinians leave Gaza via Egypt",
+      "url": "https://www.bbc.com/news/articles/cpwk7xen544o?at_medium=RSS&at_campaign=rss",
+      "summary": "Egypt denies it is co-ordinating with Israel to reopen the crossing, insisting that passage should be in both directions."
     },
     {
       "source": "BBC World",
@@ -21,47 +21,47 @@
     },
     {
       "source": "BBC Technology",
+      "title": "New homes delayed by 'energy-hungry' data centres",
+      "url": "https://www.bbc.com/news/articles/c0mpr1mvwj3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The London Assembly found the growth of new data centres temporarily halted building some houses in 2022."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Production halted at Chinese factory making 'childlike' sex dolls",
+      "url": "https://www.bbc.com/news/articles/ckgzqxjzjyqo?at_medium=RSS&at_campaign=rss",
+      "summary": "The issue is in the spotlight after Shein announced a global ban on the sale of sex dolls with a childlike appearance."
+    },
+    {
+      "source": "BBC Technology",
       "title": "India scraps order to pre-install state-run cyber safety app on smartphones",
       "url": "https://www.bbc.com/news/articles/clydg2re4d1o?at_medium=RSS&at_campaign=rss",
       "summary": "The order to make the registration mandatory had led to a major backlash from several cyber experts. "
     },
     {
-      "source": "BBC Technology",
-      "title": "Bank of England warns of AI bubble risk",
-      "url": "https://www.bbc.com/news/articles/cx2e0y3913jo?at_medium=RSS&at_campaign=rss",
-      "summary": "The central bank says US stock price valuations are their most stretched since the dotcom bubble burst."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Dell family to seed Trump accounts for kids with $250 ",
-      "url": "https://www.bbc.com/news/articles/cyvgq184vgqo?at_medium=RSS&at_campaign=rss",
-      "summary": "The donation will help seed new Trump-branded investment accounts."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "We played Metroid Prime 4, ask us anything",
+        "#text": "The best fitness trackers and watches we’ve tested",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/836580/metroid-prime-4-ask-me-anything",
+      "url": "https://www.theverge.com/22985108/best-fitness-tracker",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Spotify Wrapped 2025 turns listening into a competition",
+        "#text": "The ugly Pebble 2 Duo is the smartwatch for me",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/837127/spotify-wrapped-party-2025-music-competition",
+      "url": "https://www.theverge.com/gadgets/837388/pebble-2-duo-review",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Mirumi the furry companion robot is now available on Kickstarter",
+        "#text": "Anyone can try to edit Grokipedia 0.2 but Grok is running the show",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/836762/yukai-engineering-mirumi-furry-companion-robot-preorder-available-kickstarter",
+      "url": "https://www.theverge.com/report/837431/grokipedia-update-editing-mess",
       "summary": "(要約準備中)"
     }
   ]
