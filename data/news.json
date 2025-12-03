@@ -1,39 +1,68 @@
 {
-  "news": [
+  "updatedAt": "2025-12-03T02:19:06.085Z",
+  "top": [
     {
-      "source": "VentureBeat",
-      "title": "Arcee aims to reboot U.S. open source AI with new Trinity models released under Apache 2.0",
-      "summary": "2025年には、中国の研究所がオープンウェイト言語モデルの最前線をリードし、アメリカの企業Arcee AIもTrinity MiniとTrinity Nanoを発表しました。これらのモデルは、米国で完全にトレーニングされ、商業利用が許可されたオープンソースライセンスでリリースされ、使いやすさを重視しています。Arceeは、Trinity Largeという420Bパラメータの新モデルを開発中で、米国主導のオープンなAI開発の重要性を示しています。",
-      "link": "https://venturebeat.com/ai/arcee-aims-to-reboot-u-s-open-source-ai-with-new-trinity-models-released",
-      "category": "ai"
+      "source": "BBC World",
+      "title": "Kremlin signals no breakthrough after Ukraine talks with US",
+      "url": "https://www.bbc.com/news/articles/cwyv0ex7v8ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Kremlin officials describe the five hours of talks as \"constructive\" but say \"a lot of work lies ahead\"."
     },
     {
-      "source": "VentureBeat",
-      "title": "DeepSeek just dropped two insanely powerful AI models that rival GPT-5 and they're totally free",
-      "summary": "中国のAIスタートアップDeepSeekが、OpenAIのGPT-5やGoogleのGemini-3.0-Proを上回る能力を持つ新しいAIモデルを発表しました。このモデルは、長文や複雑なタスクにおける計算コストを大幅に削減し、数学やプログラミングのコンペティションで優れた成績を収めています。DeepSeekは、これらのモデルをオープンソースとして提供することで、AI市場における競争環境が変化する可能性を示唆しています。",
-      "link": "https://venturebeat.com/ai/deepseek-just-dropped-two-insanely-powerful-ai-models-that-rival-gpt-5-and",
-      "category": "ai"
+      "source": "BBC World",
+      "title": "Ukrainians in war-ravaged Donbas weigh prospects of peace deal",
+      "url": "https://www.bbc.com/news/articles/cpq47derx2vo?at_medium=RSS&at_campaign=rss",
+      "summary": "While many Ukrainians believe they have sacrificed too much for their country to lose territory to Russia, others are desperate for the war to end."
     },
     {
-      "source": "Bloomberg",
-      "title": "China Adds Tax to Condoms as It Works to Boost Birth Rates",
-      "summary": "中国は、避妊薬や器具（コンドームを含む）に対して、30年ぶりに付加価値税を課すことを決定しました。これは、出生率の低下を逆転させるための最新の取り組みです。出生率の減少は、経済のさらなる停滞を脅かしています。",
-      "link": "https://www.bloomberg.com/news/articles/2025-12-02/china-adds-tax-to-condoms-as-it-works-to-boost-birth-rates",
-      "category": "economy"
+      "source": "BBC World",
+      "title": "US Navy admiral ordered second  deadly Venezuela boat strike, White House says",
+      "url": "https://www.bbc.com/news/articles/c0r95q9kv1go?at_medium=RSS&at_campaign=rss",
+      "summary": "The strikes, authorised by Defence Secretary Pete Hegseth, have raised fresh legality questions - but the White House says laws have been followed."
     },
     {
-      "source": "BBC",
-      "title": "Putin and Trump's envoy set for key Ukraine talks in Moscow",
-      "summary": "スティーブ・ウィトコフがクレムリンで会談を行う。ホワイトハウスは、進展に対して「楽観的」と発表した。新たな合意の可能性が期待されている。",
-      "link": "https://www.bbc.com/news/articles/ce8ng3yjenpo?at_medium=RSS&at_campaign=rss",
-      "category": "world"
+      "source": "BBC Technology",
+      "title": "YouTuber Marques Brownlee shutting down phone wallpaper app",
+      "url": "https://www.bbc.com/news/articles/cze81xe3r4yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The app, which was criticised at launch for its $11.99 (£9) a month fee, will close on 31 December."
     },
     {
-      "source": "NHK",
-      "title": "「新語・流行語大賞」 2025年の年間大賞は",
-      "summary": "2023年の「新語・流行語大賞」が発表され、年間大賞は高市総理大臣の「働いて働いて働いて働いて働いてまいります／女性首相」に決定しました。高市氏は女性初の総理大臣として注目され、言葉が広く支持を受けました。この選出は、社会の働き方や女性の地位向上を反映したものと言えます。",
-      "link": "http://www3.nhk.or.jp/news/html/20251201/k10014990491000.html",
-      "category": "japan_politics"
+      "source": "BBC Technology",
+      "title": "Fashion house Valentino criticised over 'disturbing' AI handbag ads",
+      "url": "https://www.bbc.com/news/articles/cwyvjyvn83go?at_medium=RSS&at_campaign=rss",
+      "summary": "Social media users have called the luxury Italian fashion brand's artificial intelligence-made adverts \"cheap\" and \"lazy\"."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "'First of its kind' scanner to study blast trauma",
+      "url": "https://www.bbc.com/news/articles/c23e0k41kxeo?at_medium=RSS&at_campaign=rss",
+      "summary": "It will be able to monitor changes in brain function just minutes after weapon use, scientists say."
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "The Polaroid Flip, my favorite retro instant camera, is cheaper than ever",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/gadgets/836984/polaroid-flip-cyber-week-2025-deal-sale",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "Indiegogo is launching ‘Express Crowdfunding’ so creators can ship things sooner",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/news/836886/indiegogo-express-crowdfunding-ayaneo-shipping",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "Google is experimentally replacing news headlines with AI clickbait nonsense",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/ai-artificial-intelligence/835839/google-discover-ai-headlines-clickbait-nonsense",
+      "summary": "(要約準備中)"
     }
   ]
 }
