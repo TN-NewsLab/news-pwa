@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2025-12-02T18:49:07.801Z",
+  "updatedAt": "2025-12-03T02:19:06.085Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Putin and Trump's envoy set for key Ukraine talks in Moscow",
-      "url": "https://www.bbc.com/news/articles/ce8ng3yjenpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Steve Witkoff will hold talks at the Kremlin, after the White House said it was \"optimistic\" about a breakthrough."
+      "title": "Kremlin signals no breakthrough after Ukraine talks with US",
+      "url": "https://www.bbc.com/news/articles/cwyv0ex7v8ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Kremlin officials describe the five hours of talks as \"constructive\" but say \"a lot of work lies ahead\"."
     },
     {
       "source": "BBC World",
@@ -21,6 +21,12 @@
     },
     {
       "source": "BBC Technology",
+      "title": "YouTuber Marques Brownlee shutting down phone wallpaper app",
+      "url": "https://www.bbc.com/news/articles/cze81xe3r4yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The app, which was criticised at launch for its $11.99 (£9) a month fee, will close on 31 December."
+    },
+    {
+      "source": "BBC Technology",
       "title": "Fashion house Valentino criticised over 'disturbing' AI handbag ads",
       "url": "https://www.bbc.com/news/articles/cwyvjyvn83go?at_medium=RSS&at_campaign=rss",
       "summary": "Social media users have called the luxury Italian fashion brand's artificial intelligence-made adverts \"cheap\" and \"lazy\"."
@@ -32,36 +38,30 @@
       "summary": "It will be able to monitor changes in brain function just minutes after weapon use, scientists say."
     },
     {
-      "source": "BBC Technology",
-      "title": "Jorja Smith's record label hits out at 'AI clone' song",
-      "url": "https://www.bbc.com/news/articles/cwyvjye18e9o?at_medium=RSS&at_campaign=rss",
-      "summary": "The label claims Haven's dance hit I Run was made using AI trained on the award-winning singer's voice."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "These terrific Cyber Monday deals are still available for $100 or less",
+        "#text": "The Polaroid Flip, my favorite retro instant camera, is cheaper than ever",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/836602/cyber-monday-best-cheap-tech-deals-under-100-still-available-2025",
+      "url": "https://www.theverge.com/gadgets/836984/polaroid-flip-cyber-week-2025-deal-sale",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Apple Music Replay 2025 is back with new listening stats",
+        "#text": "Indiegogo is launching ‘Express Crowdfunding’ so creators can ship things sooner",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/836613/apple-music-replay-2025-listening-stats-launch",
+      "url": "https://www.theverge.com/news/836886/indiegogo-express-crowdfunding-ayaneo-shipping",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Anker’s new desktop docking station has a removable USB-C hub you can take with you",
+        "#text": "Google is experimentally replacing news headlines with AI clickbait nonsense",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/836550/anker-nano-docking-station-removable-hub-usb-c-hdmi-displayport",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/835839/google-discover-ai-headlines-clickbait-nonsense",
       "summary": "(要約準備中)"
     }
   ]
