@@ -1,37 +1,42 @@
 [
   {
     "source": "VentureBeat",
-    "title": "Arcee aims to reboot U.S. open source AI with new Trinity models released under Apache 2.0",
-    "summary": "2025年には、中国の研究所がオープンウェイト言語モデルの最前線をリードし、アメリカの企業Arcee AIもTrinity MiniとTrinity Nanoを発表しました。これらのモデルは、米国で完全にトレーニングされ、商業利用が許可されたオープンソースライセンスでリリースされ、使いやすさを重視しています。Arceeは、Trinity Largeという420Bパラメータの新モデルを開発中で、米国主導のオープンなAI開発の重要性を示しています。",
-    "link": "https://venturebeat.com/ai/arcee-aims-to-reboot-u-s-open-source-ai-with-new-trinity-models-released",
-    "category": "ai"
+    "title": "Workspace Studio aims to solve the real agent problem: Getting employees to use them",
+    "summary": "企業がAIエージェントを従業員に利用させるのが難しい中、GoogleはGoogle Workspace Studioを一般公開し、従業員がAIエージェントをデザインし管理できるようにしました。これにより、業務アプリケーションにAIを統合することが容易になり、競争が激化する中でMicrosoft Copilotと対抗します。Workspace Studioは、テンプレートを使用してエージェントを簡単に作成でき、GmailやDriveといったWorkspaceアプリと深く統合され、企業のニーズに合わせたサポートを提供できます。",
+    "link": "https://venturebeat.com/ai/workspace-studio-aims-to-solve-the-real-agent-problem-getting-employees-to",
+    "category": "AI",
+    "publishedAt": "2025-12-04 17:37"
   },
   {
     "source": "VentureBeat",
-    "title": "DeepSeek just dropped two insanely powerful AI models that rival GPT-5 and they're totally free",
-    "summary": "中国のAIスタートアップDeepSeekが、OpenAIのGPT-5やGoogleのGemini-3.0-Proを上回る能力を持つ新しいAIモデルを発表しました。このモデルは、長文や複雑なタスクにおける計算コストを大幅に削減し、数学やプログラミングのコンペティションで優れた成績を収めています。DeepSeekは、これらのモデルをオープンソースとして提供することで、AI市場における競争環境が変化する可能性を示唆しています。",
-    "link": "https://venturebeat.com/ai/deepseek-just-dropped-two-insanely-powerful-ai-models-that-rival-gpt-5-and",
-    "category": "ai"
+    "title": "Amazon's new AI can code for days without human help. What does that mean for software engineers?",
+    "summary": "Amazon Web Services (AWS) has introduced a new class of AI systems called \"frontier agents\" that can autonomously handle complex software development tasks without human intervention. The three specialized agents—Kiro for software development, AWS Security Agent for application security, and AWS DevOps Agent for IT operations—aim to enhance productivity by maintaining context and learning from codebases. This initiative positions AWS in a competitive landscape against tech giants like Google and Microsoft, highlighting the potential for AI to significantly transform software engineering practices.",
+    "link": "https://venturebeat.com/ai/amazons-new-ai-can-code-for-days-without-human-help-what-does-that-mean-for",
+    "category": "AI",
+    "publishedAt": "2025-12-04 17:37"
   },
   {
     "source": "Bloomberg",
-    "title": "China Adds Tax to Condoms as It Works to Boost Birth Rates",
-    "summary": "中国は、避妊薬や器具（コンドームを含む）に対して、30年ぶりに付加価値税を課すことを決定しました。これは、出生率の低下を逆転させるための最新の取り組みです。出生率の減少は、経済のさらなる停滞を脅かしています。",
-    "link": "https://www.bloomberg.com/news/articles/2025-12-02/china-adds-tax-to-condoms-as-it-works-to-boost-birth-rates",
-    "category": "economy"
+    "title": "Stocks Rise as Optimism Builds for Year-End Rally: Markets Wrap",
+    "summary": "木曜日、欧州とアジアの株式市場が好調で、米国の先物も上昇を維持しました。トレーダーたちは、連邦準備制度（FRB）の利下げが年末に向けてのグローバルな株の rally を促進すると見込んでいます。市場の期待感が高まる中で、投資家は楽観的な姿勢を維持しています。",
+    "link": "https://www.bloomberg.com/news/articles/2025-12-03/stock-market-today-dow-s-p-live-updates",
+    "category": "経済",
+    "publishedAt": "2025-12-04 17:38"
   },
   {
     "source": "BBC",
-    "title": "Putin and Trump's envoy set for key Ukraine talks in Moscow",
-    "summary": "スティーブ・ウィトコフがクレムリンで会談を行う。ホワイトハウスは、進展に対して「楽観的」と発表した。新たな合意の可能性が期待されている。",
-    "link": "https://www.bbc.com/news/articles/ce8ng3yjenpo?at_medium=RSS&at_campaign=rss",
-    "category": "world"
+    "title": "Previously unseen images of Epstein's island released",
+    "summary": "新たな画像が公開される中、米国政府が保有する文書の一般公開に関する締切が迫っています。これにより、注目が集まっています。文書の内容が明らかになることで、さまざまな影響が予想されます。",
+    "link": "https://www.bbc.com/news/articles/c4g5rrlve33o?at_medium=RSS&at_campaign=rss",
+    "category": "その他",
+    "publishedAt": "2025-12-04 17:38"
   },
   {
     "source": "NHK",
-    "title": "「新語・流行語大賞」 2025年の年間大賞は",
-    "summary": "2023年の「新語・流行語大賞」が発表され、年間大賞は高市総理大臣の「働いて働いて働いて働いて働いてまいります／女性首相」に決定しました。高市氏は女性初の総理大臣として注目され、言葉が広く支持を受けました。この選出は、社会の働き方や女性の地位向上を反映したものと言えます。",
-    "link": "http://www3.nhk.or.jp/news/html/20251201/k10014990491000.html",
-    "category": "japan_politics"
+    "title": "日本版GPS衛星「みちびき5号機」 7日の打ち上げ延期 JAXA",
+    "summary": "日本版GPS衛星「みちびき」の打ち上げが、鹿児島県の種子島宇宙センターから予定されていた7日に延期されました。JAXAはロケットの搭載機器に確認が必要な問題が見つかったためだと発表しました。新しい打ち上げ予定日はまだ決まっていません。",
+    "link": "http://www3.nhk.or.jp/news/html/20251203/k10014993171000.html",
+    "category": "その他",
+    "publishedAt": "2025-12-04 17:38"
   }
 ]
