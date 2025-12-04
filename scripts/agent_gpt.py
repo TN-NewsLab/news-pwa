@@ -5,6 +5,9 @@ from openai import OpenAI
 from dotenv import load_dotenv
 from datetime import datetime, timezone, timedelta
 
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DATA_PATH = os.path.join(BASE_DIR, "..", "data", "summary_v2.json")
+
 # 1) .env 読み込み
 load_dotenv()
 API_KEY = os.getenv("OPENAI_API_KEY")
@@ -196,7 +199,7 @@ def main():
 
     output = output_items
 
-    with open("../data/summary_v2.json", "w", encoding="utf-8") as f:
+    with open(DATA_PATH, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
     print("\n✅ 複数ニュースまとめて summary.json を生成しました！")
