@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2025-12-03T18:47:32.906Z",
+  "updatedAt": "2025-12-04T02:19:51.333Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Ukraine and US negotiators to meet in Florida after Moscow talks, White House says",
+      "url": "https://www.bbc.com/news/articles/c7731n5z6d3o?at_medium=RSS&at_campaign=rss",
+      "summary": "US special envoy Steve Witkoff will meet senior Ukrainian negotiator, Rustem Umerov, for talks in Miami on Thursday."
+    },
     {
       "source": "BBC World",
       "title": "What latest Ukraine talks reveal about Putin's state of mind",
@@ -12,12 +18,6 @@
       "title": "Israel says Rafah crossing to open soon to let Palestinians leave Gaza via Egypt",
       "url": "https://www.bbc.com/news/articles/cpwk7xen544o?at_medium=RSS&at_campaign=rss",
       "summary": "Egypt denies it is co-ordinating with Israel to reopen the crossing, insisting that passage should be in both directions."
-    },
-    {
-      "source": "BBC World",
-      "title": "Former EU top diplomat Mogherini accused in fraud investigation",
-      "url": "https://www.bbc.com/news/articles/c2lvzrve5lqo?at_medium=RSS&at_campaign=rss",
-      "summary": "The inquiry centres on allegations of favouritism in EU funding for a training programme at a school headed by Federica Mogherini."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "The best fitness trackers and watches we’ve tested",
+        "#text": "Antigravity’s 360-degree drone is here to help you forget DJI",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/22985108/best-fitness-tracker",
+      "url": "https://www.theverge.com/news/837922/antigravity-360-us-release-price-best-buy",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The ugly Pebble 2 Duo is the smartwatch for me",
+        "#text": "BMW iX3 first drive: a ‘New Class’ is in session",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/837388/pebble-2-duo-review",
+      "url": "https://www.theverge.com/transportation/837394/bmw-ix3-first-drive-neue-klasse-specs-price",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Anyone can try to edit Grokipedia 0.2 but Grok is running the show",
+        "#text": "Satellites keep photobombing the Hubble telescope, and it’s getting worse",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/report/837431/grokipedia-update-editing-mess",
+      "url": "https://www.theverge.com/news/837652/hubble-telescope-satellite-light-pollution",
       "summary": "(要約準備中)"
     }
   ]
