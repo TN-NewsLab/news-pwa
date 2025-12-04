@@ -1,67 +1,67 @@
 {
-  "updatedAt": "2025-12-03T06:48:23.174Z",
+  "updatedAt": "2025-12-03T18:47:32.906Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Kremlin signals no Ukraine breakthrough after Putin talks with US",
-      "url": "https://www.bbc.com/news/articles/cwyv0ex7v8ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Five hours of talks between Putin and US negotiators were “constructive”, Kremlin officials say, but “a lot of work lies ahead”. "
+      "title": "What latest Ukraine talks reveal about Putin's state of mind",
+      "url": "https://www.bbc.com/news/articles/cpq4e21nr5vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Russia's president looks determined to continue his war in Ukraine - even as the country's economic problems grow."
     },
     {
       "source": "BBC World",
-      "title": "Ukrainians in war-ravaged Donbas weigh prospects of peace deal",
-      "url": "https://www.bbc.com/news/articles/cpq47derx2vo?at_medium=RSS&at_campaign=rss",
-      "summary": "While many Ukrainians believe they have sacrificed too much for their country to lose territory to Russia, others are desperate for the war to end."
+      "title": "Israel says Rafah crossing to open soon to let Palestinians leave Gaza via Egypt",
+      "url": "https://www.bbc.com/news/articles/cpwk7xen544o?at_medium=RSS&at_campaign=rss",
+      "summary": "Egypt denies it is co-ordinating with Israel to reopen the crossing, insisting that passage should be in both directions."
     },
     {
       "source": "BBC World",
-      "title": "US Navy admiral ordered second  deadly Venezuela boat strike, White House says",
-      "url": "https://www.bbc.com/news/articles/c0r95q9kv1go?at_medium=RSS&at_campaign=rss",
-      "summary": "The strikes, authorised by Defence Secretary Pete Hegseth, have raised fresh legality questions - but the White House says laws have been followed."
+      "title": "Former EU top diplomat Mogherini accused in fraud investigation",
+      "url": "https://www.bbc.com/news/articles/c2lvzrve5lqo?at_medium=RSS&at_campaign=rss",
+      "summary": "The inquiry centres on allegations of favouritism in EU funding for a training programme at a school headed by Federica Mogherini."
     },
     {
       "source": "BBC Technology",
-      "title": "YouTuber Marques Brownlee shutting down phone wallpaper app",
-      "url": "https://www.bbc.com/news/articles/cze81xe3r4yo?at_medium=RSS&at_campaign=rss",
-      "summary": "The app, which was criticised at launch for its $11.99 (£9) a month fee, will close on 31 December."
+      "title": "New homes delayed by 'energy-hungry' data centres",
+      "url": "https://www.bbc.com/news/articles/c0mpr1mvwj3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The London Assembly found the growth of new data centres temporarily halted building some houses in 2022."
     },
     {
       "source": "BBC Technology",
-      "title": "Fashion house Valentino criticised over 'disturbing' AI handbag ads",
-      "url": "https://www.bbc.com/news/articles/cwyvjyvn83go?at_medium=RSS&at_campaign=rss",
-      "summary": "Social media users have called the luxury Italian fashion brand's artificial intelligence-made adverts \"cheap\" and \"lazy\"."
+      "title": "Production halted at Chinese factory making 'childlike' sex dolls",
+      "url": "https://www.bbc.com/news/articles/ckgzqxjzjyqo?at_medium=RSS&at_campaign=rss",
+      "summary": "The issue is in the spotlight after Shein announced a global ban on the sale of sex dolls with a childlike appearance."
     },
     {
       "source": "BBC Technology",
-      "title": "'First of its kind' scanner to study blast trauma",
-      "url": "https://www.bbc.com/news/articles/c23e0k41kxeo?at_medium=RSS&at_campaign=rss",
-      "summary": "It will be able to monitor changes in brain function just minutes after weapon use, scientists say."
+      "title": "India scraps order to pre-install state-run cyber safety app on smartphones",
+      "url": "https://www.bbc.com/news/articles/clydg2re4d1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The order to make the registration mandatory had led to a major backlash from several cyber experts. "
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The Polaroid Flip, my favorite retro instant camera, is cheaper than ever",
+        "#text": "The best fitness trackers and watches we’ve tested",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/836984/polaroid-flip-cyber-week-2025-deal-sale",
+      "url": "https://www.theverge.com/22985108/best-fitness-tracker",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Indiegogo is launching ‘Express Crowdfunding’ so creators can ship things sooner",
+        "#text": "The ugly Pebble 2 Duo is the smartwatch for me",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/836886/indiegogo-express-crowdfunding-ayaneo-shipping",
+      "url": "https://www.theverge.com/gadgets/837388/pebble-2-duo-review",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Google is experimentally replacing news headlines with AI clickbait nonsense",
+        "#text": "Anyone can try to edit Grokipedia 0.2 but Grok is running the show",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/835839/google-discover-ai-headlines-clickbait-nonsense",
+      "url": "https://www.theverge.com/report/837431/grokipedia-update-editing-mess",
       "summary": "(要約準備中)"
     }
   ]
