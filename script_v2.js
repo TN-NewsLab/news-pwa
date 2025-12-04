@@ -13,7 +13,7 @@ async function loadNews() {
     // ----------------------------------------
     // ① 今の summary.json は「配列」なので、そのまま受け取る
     // ----------------------------------------
-    const articles = Array.isArray(rawData.news) ? rawData.news : [];
+    const articles = Array.isArray(rawData) ? rawData : [];
 
     // ----------------------------------------
     // ② 1件ずつカードを作って追加
