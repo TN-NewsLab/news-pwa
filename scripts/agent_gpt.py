@@ -194,7 +194,7 @@ def main():
                 "publishedAt": timestamp
             })
 
-    output = {"news": output_items}
+    output = output_items
 
     with open("../data/summary_v2.json", "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
