@@ -190,7 +190,8 @@ def main():
                 "title": title,
                 "summary": summary,
                 "link": link,
-                "category": category_final
+                "category": category_final,
+                "publishedAt": timestamp
             })
 
     output = {"news": output_items}

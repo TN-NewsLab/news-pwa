@@ -28,10 +28,10 @@ async function loadNews() {
         title: a.title || "No title",
         summary: a.summary || "",
         source: a.source || "unknown",
-        tag: "その他",                // デフォルトタグ
-        // url: a.url || "#",            // URL が無いので # に
+        tag: convertCategoryName(a.category) || "その他",
         url: a.url || a.link || "#",  // ← 追加した！重要！
-        publishedAt: a.timestamp || ""// placeholder の timestamp を使用
+        // publishedAt: a.timestamp || ""// placeholder の timestamp を使用
+        publishedAt: a.publishedAt || ""
       };
 
       section.appendChild(createNewsCard(safeArticle));
