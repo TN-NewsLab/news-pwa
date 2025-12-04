@@ -1,12 +1,6 @@
 {
-  "updatedAt": "2025-12-04T06:48:14.461Z",
+  "updatedAt": "2025-12-04T13:06:04.366Z",
   "top": [
-    {
-      "source": "BBC World",
-      "title": "Ukraine and US negotiators to meet in Florida after Moscow talks, White House says",
-      "url": "https://www.bbc.com/news/articles/c7731n5z6d3o?at_medium=RSS&at_campaign=rss",
-      "summary": "US special envoy Steve Witkoff will meet senior Ukrainian negotiator, Rustem Umerov, for talks in Miami on Thursday."
-    },
     {
       "source": "BBC World",
       "title": "Oil, defence and geopolitics: Why Putin is visiting Modi in Delhi",
@@ -15,9 +9,21 @@
     },
     {
       "source": "BBC World",
-      "title": "South Korea developing app that shows real-time location of stalkers",
-      "url": "https://www.bbc.com/news/articles/cp84y7jx2pzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Critics have voiced concern over the pervasiveness of stalking and violence against women in South Korea."
+      "title": "Ukraine and US negotiators to meet in Florida after Moscow talks, White House says",
+      "url": "https://www.bbc.com/news/articles/c7731n5z6d3o?at_medium=RSS&at_campaign=rss",
+      "summary": "US special envoy Steve Witkoff will meet senior Ukrainian negotiator, Rustem Umerov, for talks in Miami on Thursday."
+    },
+    {
+      "source": "BBC World",
+      "title": "Previously unseen images of Epstein's island released ",
+      "url": "https://www.bbc.com/news/articles/c4g5rrlve33o?at_medium=RSS&at_campaign=rss",
+      "summary": "The new images come as a deadline for the broader release of documents held by the US government looms. "
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Porn site fined £1m over age checks has never responded to Ofcom",
+      "url": "https://www.bbc.com/news/articles/c93nll07z3go?at_medium=RSS&at_campaign=rss",
+      "summary": "The regulator tells the BBC it has been emailing AVS Group Ltd without reply since July."
     },
     {
       "source": "BBC Technology",
@@ -32,10 +38,22 @@
       "summary": "The issue is in the spotlight after Shein announced a global ban on the sale of sex dolls with a childlike appearance."
     },
     {
-      "source": "BBC Technology",
-      "title": "India scraps order to pre-install state-run cyber safety app on smartphones",
-      "url": "https://www.bbc.com/news/articles/clydg2re4d1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The order to make the registration mandatory had led to a major backlash from several cyber experts. "
+      "source": "The Verge",
+      "title": {
+        "#text": "Get ready for an AI country music explosion",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/ai-artificial-intelligence/829964/country-music-ai",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "Apple removed a Night mode photo feature from the iPhone 17 Pro",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/news/838002/apple-iphone-17-pro-night-portrait-mode-removed",
+      "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
@@ -44,24 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/news/837922/antigravity-360-us-release-price-best-buy",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "BMW iX3 first drive: a ‘New Class’ is in session",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/transportation/837394/bmw-ix3-first-drive-neue-klasse-specs-price",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Satellites keep photobombing the Hubble telescope, and it’s getting worse",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/news/837652/hubble-telescope-satellite-light-pollution",
       "summary": "(要約準備中)"
     }
   ]
