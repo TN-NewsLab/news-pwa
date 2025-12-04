@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2025-12-04T13:06:04.366Z",
+  "updatedAt": "2025-12-04T18:48:48.614Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Putin says Russia disagrees with parts of US plan to end Ukraine war",
+      "url": "https://www.bbc.com/news/articles/cgexgwr1wrro?at_medium=RSS&at_campaign=rss",
+      "summary": "The Russian leader's comments come as US and Ukrainian negotiators are due to hold a new round of talks."
+    },
     {
       "source": "BBC World",
       "title": "Oil, defence and geopolitics: Why Putin is visiting Modi in Delhi",
@@ -9,15 +15,9 @@
     },
     {
       "source": "BBC World",
-      "title": "Ukraine and US negotiators to meet in Florida after Moscow talks, White House says",
-      "url": "https://www.bbc.com/news/articles/c7731n5z6d3o?at_medium=RSS&at_campaign=rss",
-      "summary": "US special envoy Steve Witkoff will meet senior Ukrainian negotiator, Rustem Umerov, for talks in Miami on Thursday."
-    },
-    {
-      "source": "BBC World",
-      "title": "Previously unseen images of Epstein's island released ",
-      "url": "https://www.bbc.com/news/articles/c4g5rrlve33o?at_medium=RSS&at_campaign=rss",
-      "summary": "The new images come as a deadline for the broader release of documents held by the US government looms. "
+      "title": "Ireland among countries boycotting Eurovision after Israel allowed to compete",
+      "url": "https://www.bbc.com/news/articles/cde6d8wyp79o?at_medium=RSS&at_campaign=rss",
+      "summary": "There had been calls for Israel to be excluded over the conduct of the war in Gaza."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Get ready for an AI country music explosion",
+        "#text": "Google’s AI model is getting really good at spoofing phone photos",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/829964/country-music-ai",
+      "url": "https://www.theverge.com/report/837971/google-nano-banana-pro-realistic-phone-photos",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Apple removed a Night mode photo feature from the iPhone 17 Pro",
+        "#text": "Ray-Ban’s Meta smart glasses are even cheaper than they were on Black Friday",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/838002/apple-iphone-17-pro-night-portrait-mode-removed",
+      "url": "https://www.theverge.com/tech/838261/ray-ban-meta-smart-glasses-cyber-week-2025-deal-sale",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Antigravity’s 360-degree drone is here to help you forget DJI",
+        "#text": "Amazon is reportedly ready to drop its USPS deal if negotiations fall through",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/837922/antigravity-360-us-release-price-best-buy",
+      "url": "https://www.theverge.com/news/838255/amazon-usps-delivery-contract-2026",
       "summary": "(要約準備中)"
     }
   ]
