@@ -196,7 +196,7 @@ def main():
 
     output = {"news": output_items}
 
-    with open("summary.json", "w", encoding="utf-8") as f:
+    with open("../data/summary_v2.json", "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
     print("\n✅ 複数ニュースまとめて summary.json を生成しました！")
