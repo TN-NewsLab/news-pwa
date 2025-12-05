@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-12-04T18:48:48.614Z",
+  "updatedAt": "2025-12-05T02:19:33.757Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Putin says Russia disagrees with parts of US plan to end Ukraine war",
+      "title": "Putin says Russia will take Donbas by force or Ukraine's troops will withdraw",
       "url": "https://www.bbc.com/news/articles/cgexgwr1wrro?at_medium=RSS&at_campaign=rss",
       "summary": "The Russian leader's comments come as US and Ukrainian negotiators are due to hold a new round of talks."
     },
@@ -17,7 +17,7 @@
       "source": "BBC World",
       "title": "Ireland among countries boycotting Eurovision after Israel allowed to compete",
       "url": "https://www.bbc.com/news/articles/cde6d8wyp79o?at_medium=RSS&at_campaign=rss",
-      "summary": "There had been calls for Israel to be excluded over the conduct of the war in Gaza."
+      "summary": "There had been calls for Israel's exclusion over the war in Gaza, as well as unfair voting accusations."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Google’s AI model is getting really good at spoofing phone photos",
+        "#text": "The best noise-canceling headphones to buy right now",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/report/837971/google-nano-banana-pro-realistic-phone-photos",
+      "url": "https://www.theverge.com/21345733/best-noise-canceling-headphones",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Ray-Ban’s Meta smart glasses are even cheaper than they were on Black Friday",
+        "#text": "Apple announces even more major executive turnover",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/838261/ray-ban-meta-smart-glasses-cyber-week-2025-deal-sale",
+      "url": "https://www.theverge.com/news/838712/apple-policy-lead-lisa-jackson-retiring",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Amazon is reportedly ready to drop its USPS deal if negotiations fall through",
+        "#text": "Nintendo’s Switch 2 Mario Kart bundle is on sale at Amazon again for $50 off",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/838255/amazon-usps-delivery-contract-2026",
+      "url": "https://www.theverge.com/gadgets/836519/nintendo-switch-2-mario-kart-world-bundle-walmart-deal",
       "summary": "(要約準備中)"
     }
   ]
