@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2025-12-05T06:48:42.784Z",
+  "updatedAt": "2025-12-05T13:02:14.564Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Putin says Russia will take Donbas by force or Ukraine's troops will withdraw",
-      "url": "https://www.bbc.com/news/articles/cgexgwr1wrro?at_medium=RSS&at_campaign=rss",
-      "summary": "The Russian leader's comments come as US and Ukrainian negotiators are due to hold a new round of talks."
+      "title": "Putin says Russia ready to supply 'uninterrupted' fuel to India ",
+      "url": "https://www.bbc.com/news/articles/c4g482m3yyzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Deals have been signed in civil nuclear energy and critical minerals during the Russian PM's stay in India."
     },
     {
       "source": "BBC World",
-      "title": "Admiral testified Hegseth did not give 'kill them all' order, US lawmakers say",
-      "url": "https://www.bbc.com/news/articles/cwyxjd6pxzro?at_medium=RSS&at_campaign=rss",
-      "summary": "The admiral who gave the order for a second strike on an alleged drug boat briefed lawmakers about the incident, as the military confirmed another attack."
+      "title": "Germany votes to bring back voluntary military service programme for 18-year-olds",
+      "url": "https://www.bbc.com/news/articles/ckg9drg8pg1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The shift in its approach to its military follows a push to create Europe's strongest conventional army."
     },
     {
       "source": "BBC World",
-      "title": "Arrest over fire petition stirs public debate in Hong Kong",
-      "url": "https://www.bbc.com/news/articles/cd6x2ppjv4go?at_medium=RSS&at_campaign=rss",
-      "summary": "Miles Kwan was detained after he launched a petition demanding answers from Hong Kong authorities."
+      "title": "Deep-sea mining tests impact over a third of seabed animals - scientists",
+      "url": "https://www.bbc.com/news/articles/cedx2p8gnx9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The findings contribute to a controversial debate that pits green technology against the environment."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Elon Musk's X fined €120m over 'deceptive' blue ticks",
+      "url": "https://www.bbc.com/news/articles/c4g9kejzvw0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The European Commission says the social media site is opening its users up to scams and impersonations."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "The London Assembly found the growth of new data centres temporarily halted building some houses in 2022."
     },
     {
-      "source": "BBC Technology",
-      "title": "Production halted at Chinese factory making 'childlike' sex dolls",
-      "url": "https://www.bbc.com/news/articles/ckgzqxjzjyqo?at_medium=RSS&at_campaign=rss",
-      "summary": "The issue is in the spotlight after Shein announced a global ban on the sale of sex dolls with a childlike appearance."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "The best noise-canceling headphones to buy right now",
+        "#text": "EU fines X $140 million over ‘deceptive’ blue checkmarks",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/21345733/best-noise-canceling-headphones",
+      "url": "https://www.theverge.com/news/645154/eu-fines-x-dsa-violations-xai-elon-musk",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Apple announces even more major executive turnover",
+        "#text": "Facebook and Instagram have a new hub to help get hijacked accounts back",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/838712/apple-policy-lead-lisa-jackson-retiring",
+      "url": "https://www.theverge.com/news/838814/facebook-instagram-hijacked-accounts-hub",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Nintendo’s Switch 2 Mario Kart bundle is on sale at Amazon again for $50 off",
+        "#text": "Microsoft finally has a better looking Run dialog for Windows 11",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/836519/nintendo-switch-2-mario-kart-world-bundle-walmart-deal",
+      "url": "https://www.theverge.com/news/838798/microsoft-windows-11-run-dialog-new-ui-dark-mode",
       "summary": "(要約準備中)"
     }
   ]
