@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-12-05T13:02:14.564Z",
+  "updatedAt": "2025-12-05T18:43:33.768Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,19 +9,19 @@
     },
     {
       "source": "BBC World",
-      "title": "Germany votes to bring back voluntary military service programme for 18-year-olds",
+      "title": "Germany votes to bring in voluntary military service programme for 18-year-olds",
       "url": "https://www.bbc.com/news/articles/ckg9drg8pg1o?at_medium=RSS&at_campaign=rss",
       "summary": "The shift in its approach to its military follows a push to create Europe's strongest conventional army."
     },
     {
       "source": "BBC World",
-      "title": "Deep-sea mining tests impact over a third of seabed animals - scientists",
-      "url": "https://www.bbc.com/news/articles/cedx2p8gnx9o?at_medium=RSS&at_campaign=rss",
-      "summary": "The findings contribute to a controversial debate that pits green technology against the environment."
+      "title": "Olympian and other Eritreans freed after 18 years without trial, relatives tell the BBC",
+      "url": "https://www.bbc.com/news/articles/cx2500jkd41o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ex-cyclist Zeragaber Gebrehiwot, who attended the 1980 Moscow Games, is among 13 released from a notorious jail."
     },
     {
       "source": "BBC Technology",
-      "title": "Elon Musk's X fined €120m over 'deceptive' blue ticks",
+      "title": "US hits out at EU's 'suffocating regulations' after it fines Elon Musk's X ",
       "url": "https://www.bbc.com/news/articles/c4g9kejzvw0o?at_medium=RSS&at_campaign=rss",
       "summary": "The European Commission says the social media site is opening its users up to scams and impersonations."
     },
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "EU fines X $140 million over ‘deceptive’ blue checkmarks",
+        "#text": "The Luigi Mangione trial is all about narrative control",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/645154/eu-fines-x-dsa-violations-xai-elon-musk",
+      "url": "https://www.theverge.com/policy/839054/luigi-mangione-evidence-suppression-new-york-internet-fandom-media",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Facebook and Instagram have a new hub to help get hijacked accounts back",
+        "#text": "Netflix is buying Warner Bros: All of the latest updates",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/838814/facebook-instagram-hijacked-accounts-hub",
+      "url": "https://www.theverge.com/news/839007/netflix-warner-acquisition",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Microsoft finally has a better looking Run dialog for Windows 11",
+        "#text": "OpenAI’s GPT-5.2 ‘code red’ response to Google is coming next week",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/838798/microsoft-windows-11-run-dialog-new-ui-dark-mode",
+      "url": "https://www.theverge.com/report/838857/openai-gpt-5-2-release-date-code-red-google-response",
       "summary": "(要約準備中)"
     }
   ]
