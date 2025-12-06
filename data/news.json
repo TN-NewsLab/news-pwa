@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2025-12-06T12:57:05.039Z",
+  "updatedAt": "2025-12-06T18:41:18.720Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Russia bombards Ukraine as US says progress made in talks with Kyiv",
+      "title": "Russia hits Ukraine as US reports progress in talks with Kyiv",
       "url": "https://www.bbc.com/news/articles/clydxj7my84o?at_medium=RSS&at_campaign=rss",
-      "summary": "President Zelensky says an attack on a rail hub near Kyiv was \"meaningless from a military point of view\"."
+      "summary": "France's president condemns the attack and announces talks in London on Monday with Ukrainian, British and German leaders."
     },
     {
       "source": "BBC World",
-      "title": "At least 11 killed in South Africa mass shooting",
-      "url": "https://www.bbc.com/news/articles/cwyvkrkl2jlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Gunmen stormed a hostel near Pretoria and opened fire, killing 11 people including a three-year-old."
+      "title": "Deadly attack on kindergarten reported in Sudan ",
+      "url": "https://www.bbc.com/news/articles/cpd61d0jl6no?at_medium=RSS&at_campaign=rss",
+      "summary": "Drone strikes on a town in South Kordofan on Thursday are said to have killed at least 50 people.  "
     },
     {
       "source": "BBC World",
-      "title": "Deadly border fighting breaks out between Pakistan and Afghanistan",
-      "url": "https://www.bbc.com/news/articles/cn09zp87pz8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Both sides accuse the other of starting the overnight fighting and breaching a fragile ceasefire agreed in October."
+      "title": "'We've lost everything': Australia wildfire rips through homes",
+      "url": "https://www.bbc.com/news/videos/cr4de0x2xqvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Multiple homes were left damaged after a wildfire swept through a coastal area north of Sydney."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "The Verge’s 2025 holiday gift guide",
+        "#text": "The Nintendo Switch 2 and Ninja’s Creami are the best deals of the week",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/809421/holiday-gift-guide-2025",
+      "url": "https://www.theverge.com/gadgets/839309/nintendo-switch-2-ninja-creami-mac-mini-best-deals-sale",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Welcome to the big leagues, Netflix",
+        "#text": "The tech world is sleeping on the most exciting Bluetooth feature in years",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/839480/netflix-warner-bros-acquisition-hbo-theatrical-releases-layoffs",
+      "url": "https://www.theverge.com/report/839245/auracast-marketing-jbl-lg-samsung-google",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Chamberlain blocks smart home integrations with its garage door openers — again",
+        "#text": "Mad Men&#8217;s special effects foreman hasn&#8217;t seen the infamous 4K remaster",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/839294/chamberlain-myq-garage-door-opener-update-blocks-aftermarket-controllers",
+      "url": "https://www.theverge.com/entertainment/839591/man-men-shannon-thompson-interview",
       "summary": "(要約準備中)"
     }
   ]
