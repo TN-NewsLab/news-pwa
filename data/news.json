@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-12-05T18:43:33.768Z",
+  "updatedAt": "2025-12-06T02:13:31.481Z",
   "top": [
     {
       "source": "BBC World",
@@ -15,9 +15,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Olympian and other Eritreans freed after 18 years without trial, relatives tell the BBC",
-      "url": "https://www.bbc.com/news/articles/cx2500jkd41o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ex-cyclist Zeragaber Gebrehiwot, who attended the 1980 Moscow Games, is among 13 released from a notorious jail."
+      "title": "US Supreme Court agrees to hear case challenging birthright citizenship",
+      "url": "https://www.bbc.com/news/articles/c208j0wrzrvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Donald Trump's controversial executive order to end birthright citizenship had been rejected by lower courts."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Twitch star QTCinderella says she wishes she never started streaming",
+      "url": "https://www.bbc.com/news/articles/c3v1dd01x65o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Streamer Awards organiser said the negatives of her online role made it hard to enjoy the job."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "The regulator tells the BBC it has been emailing AVS Group Ltd without reply since July."
     },
     {
-      "source": "BBC Technology",
-      "title": "New homes delayed by 'energy-hungry' data centres",
-      "url": "https://www.bbc.com/news/articles/c0mpr1mvwj3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The London Assembly found the growth of new data centres temporarily halted building some houses in 2022."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "The Luigi Mangione trial is all about narrative control",
+        "#text": "The Verge’s 2025 holiday gift guide",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/839054/luigi-mangione-evidence-suppression-new-york-internet-fandom-media",
+      "url": "https://www.theverge.com/tech/809421/holiday-gift-guide-2025",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Netflix is buying Warner Bros: All of the latest updates",
+        "#text": "Welcome to the big leagues, Netflix",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/839007/netflix-warner-acquisition",
+      "url": "https://www.theverge.com/entertainment/839480/netflix-warner-bros-acquisition-hbo-theatrical-releases-layoffs",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "OpenAI’s GPT-5.2 ‘code red’ response to Google is coming next week",
+        "#text": "Chamberlain blocks smart home integrations with its garage door openers — again",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/report/838857/openai-gpt-5-2-release-date-code-red-google-response",
+      "url": "https://www.theverge.com/tech/839294/chamberlain-myq-garage-door-opener-update-blocks-aftermarket-controllers",
       "summary": "(要約準備中)"
     }
   ]
