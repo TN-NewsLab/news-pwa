@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2025-12-07T12:55:20.497Z",
+  "updatedAt": "2025-12-07T18:40:50.415Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "New US security strategy aligns with Russia's vision, Moscow says",
+      "url": "https://www.bbc.com/news/articles/cpvd01g2kwwo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Kremlin welcomes the starkly worded document, which does not cast Russia as a threat to the US."
+    },
     {
       "source": "BBC World",
       "title": "Benin coup attempt foiled by loyalist troops, interior minister says",
       "url": "https://www.bbc.com/news/articles/c62v7n9wzkyo?at_medium=RSS&at_campaign=rss",
-      "summary": "A presidential adviser has told the BBC that President Talon is safe and is at the French embassy."
+      "summary": "A presidential adviser tells the BBC that President Patrice Talon is in a safe location."
     },
     {
       "source": "BBC World",
-      "title": "Nightclub fire in India's Goa kills 25 people including staff and tourists",
+      "title": "Nightclub fire in India's Goa kills 25 staff and tourists",
       "url": "https://www.bbc.com/news/articles/cdj82d0nd4eo?at_medium=RSS&at_campaign=rss",
       "summary": "Eyewitnesses described scenes of panic in one of Goa's bustling nightlife areas."
-    },
-    {
-      "source": "BBC World",
-      "title": "Ukrainian city hit by 'massive' strike as peace talks in US conclude",
-      "url": "https://www.bbc.com/news/articles/cz680jx511no?at_medium=RSS&at_campaign=rss",
-      "summary": "Russia carried out strikes on Kremenchuk, while its defence ministry said it had shot down 77 Ukrainian drones in several locations. "
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Apple’s chip chief might be the next exec to leave",
+        "#text": "A very human vision for going all-in on AI",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/839700/apples-chip-chief-might-be-the-next-exec-to-leave",
+      "url": "https://www.theverge.com/podcast/839718/sublime-ai-taste-curation-vergecast",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The Nintendo Switch 2 and Ninja’s Creami are the best deals of the week",
+        "#text": "What Google Glass got right — and really, really wrong",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/839309/nintendo-switch-2-ninja-creami-mac-mini-best-deals-sale",
+      "url": "https://www.theverge.com/podcast/839712/google-glass-smart-glasses-version-history",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The tech world is sleeping on the most exciting Bluetooth feature in years",
+        "#text": "A love letter to glory days of iPhone gaming",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/report/839245/auracast-marketing-jbl-lg-samsung-google",
+      "url": "https://www.theverge.com/games/839050/simogo-legacy-collection-review-switch-steam",
       "summary": "(要約準備中)"
     }
   ]
