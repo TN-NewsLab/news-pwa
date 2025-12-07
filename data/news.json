@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2025-12-06T18:41:18.720Z",
+  "updatedAt": "2025-12-07T02:29:27.552Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Russia hits Ukraine as US reports progress in talks with Kyiv",
-      "url": "https://www.bbc.com/news/articles/clydxj7my84o?at_medium=RSS&at_campaign=rss",
-      "summary": "France's president condemns the attack and announces talks in London on Monday with Ukrainian, British and German leaders."
+      "title": "Zelensky signals progress in talks with US on peace plan ",
+      "url": "https://www.bbc.com/news/articles/cz680jx511no?at_medium=RSS&at_campaign=rss",
+      "summary": "The Ukrainian leader says he is \"determined\" to continue working with the US, as Russian strikes continue."
     },
     {
       "source": "BBC World",
@@ -40,6 +40,15 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "Apple’s chip chief might be the next exec to leave",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/news/839700/apples-chip-chief-might-be-the-next-exec-to-leave",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "The Nintendo Switch 2 and Ninja’s Creami are the best deals of the week",
         "@_type": "html"
       },
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/report/839245/auracast-marketing-jbl-lg-samsung-google",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Mad Men&#8217;s special effects foreman hasn&#8217;t seen the infamous 4K remaster",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/entertainment/839591/man-men-shannon-thompson-interview",
       "summary": "(要約準備中)"
     }
   ]
