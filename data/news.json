@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2025-12-08T13:04:12.619Z",
+  "updatedAt": "2025-12-08T18:47:03.300Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Zelensky due at Downing Street for high-level Ukraine talks ",
+      "title": "Ukraine's European allies press for more security guarantees",
       "url": "https://www.bbc.com/news/articles/c2k4z9nwz4yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Sir Keir Starmer will also welcome the leaders of France and Germany as Europe looks to respond to a US-led push for a peace deal."
+      "summary": "Volodymyr Zelensky and the leaders of France, Germany and the UK held talks in London to discuss the latest US efforts to end the war in Ukraine."
+    },
+    {
+      "source": "BBC World",
+      "title": "European leaders walk tightrope between backing Ukraine and keeping US on board",
+      "url": "https://www.bbc.com/news/articles/c8r3v5mmyp8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Europe's leaders are trying to avoid alienating Donald Trump while fighting for Ukrainian sovereignty and future continental stability."
     },
     {
       "source": "BBC World",
       "title": "Thousands flee Thai-Cambodia border after deadly clashes",
       "url": "https://www.bbc.com/news/articles/cr7l0rjz05eo?at_medium=RSS&at_campaign=rss",
       "summary": "At least five people have been killed in the most serious confrontation between both sides since July."
-    },
-    {
-      "source": "BBC World",
-      "title": "Jeremy Bowen: Syria feels lighter without the Assads' crushing weight - but now there are new problems",
-      "url": "https://www.bbc.com/news/articles/cy7v53366ejo?at_medium=RSS&at_campaign=rss",
-      "summary": "One year into his rule Syria's leader has won over Trump and much of the West, but at home people know his weaknesses."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "How the creator economy destroyed the internet",
+        "#text": "Lenovo’s next gaming laptop may have a rollable OLED screen that stretches ultrawide",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/cs/features/810002/influencers-creator-economy-special-series",
+      "url": "https://www.theverge.com/news/840124/lenovo-rollable-legion-pro-gaming-laptop-rumor",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Stop, Shop, and Scroll",
+        "#text": "It’s ugly, it’s beautiful, it’s how you know a game might be a classic",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/cs/features/836456/influencers-tiktok-debt-shopaganda",
+      "url": "https://www.theverge.com/entertainment/840080/square-enix-hd2d-games-octopath-dragon-quest",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "You need to watch the modern horror masterpiece, His House",
+        "#text": "ICEBlock developer sues Trump administration over App Store removal",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/839753/watch-modern-horror-masterpiece-his-house",
+      "url": "https://www.theverge.com/news/840164/iceblock-joshua-aaron-sues-trump-administration-apple-app-store-removeal",
       "summary": "(要約準備中)"
     }
   ]
