@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-12-07T18:40:50.415Z",
+  "updatedAt": "2025-12-08T02:21:04.676Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,9 +9,9 @@
     },
     {
       "source": "BBC World",
-      "title": "Benin coup attempt foiled by loyalist troops, interior minister says",
+      "title": "Benin coup thwarted by loyalist troops, president tells nation ",
       "url": "https://www.bbc.com/news/articles/c62v7n9wzkyo?at_medium=RSS&at_campaign=rss",
-      "summary": "A presidential adviser tells the BBC that President Patrice Talon is in a safe location."
+      "summary": "Patrice Talon says the situation is \"totally under control\" not long after explosions were heard in Cotonou."
     },
     {
       "source": "BBC World",
@@ -21,47 +21,47 @@
     },
     {
       "source": "BBC Technology",
+      "title": "Trump says $72bn Netflix-Warner Bros deal 'could be a problem'",
+      "url": "https://www.bbc.com/news/articles/cn815egjqjpo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president said Netflix's market share \"could be a problem\" if the planned deal goes ahead."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Japan is facing a dementia crisis – can technology help?",
+      "url": "https://www.bbc.com/news/articles/c4g9e34yzvgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Elderly people aged 65 and over now make up nearly 30% of Japan's population."
+    },
+    {
+      "source": "BBC Technology",
       "title": "Twitch star QTCinderella says she wishes she never started streaming",
       "url": "https://www.bbc.com/news/articles/c3v1dd01x65o?at_medium=RSS&at_campaign=rss",
       "summary": "The Streamer Awards organiser said the negatives of her online role made it hard to enjoy the job."
     },
     {
-      "source": "BBC Technology",
-      "title": "US hits out at EU's 'suffocating regulations' after it fines Elon Musk's X ",
-      "url": "https://www.bbc.com/news/articles/c4g9kejzvw0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The European Commission says the social media site is opening its users up to scams and impersonations."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Porn site fined £1m over age checks has never responded to Ofcom",
-      "url": "https://www.bbc.com/news/articles/c93nll07z3go?at_medium=RSS&at_campaign=rss",
-      "summary": "The regulator tells the BBC it has been emailing AVS Group Ltd without reply since July."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "A very human vision for going all-in on AI",
+        "#text": "You need to watch the modern horror masterpiece, His House",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/podcast/839718/sublime-ai-taste-curation-vergecast",
+      "url": "https://www.theverge.com/entertainment/839753/watch-modern-horror-masterpiece-his-house",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "What Google Glass got right — and really, really wrong",
+        "#text": "Netflix CEO made a visit to the White House before buying Warner Bros.",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/podcast/839712/google-glass-smart-glasses-version-history",
+      "url": "https://www.theverge.com/news/839749/netflix-ceo-visit-white-house-warner-bros",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "A love letter to glory days of iPhone gaming",
+        "#text": "X cuts off the European Commission’s ad account after being fined €120 million",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/839050/simogo-legacy-collection-review-switch-steam",
+      "url": "https://www.theverge.com/news/839742/x-cuts-off-the-european-commissions-ad-account",
       "summary": "(要約準備中)"
     }
   ]
