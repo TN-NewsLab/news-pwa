@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-12-08T06:50:53.472Z",
+  "updatedAt": "2025-12-08T13:04:12.619Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,15 +9,21 @@
     },
     {
       "source": "BBC World",
+      "title": "Thousands flee Thai-Cambodia border after deadly clashes",
+      "url": "https://www.bbc.com/news/articles/cr7l0rjz05eo?at_medium=RSS&at_campaign=rss",
+      "summary": "At least five people have been killed in the most serious confrontation between both sides since July."
+    },
+    {
+      "source": "BBC World",
       "title": "Jeremy Bowen: Syria feels lighter without the Assads' crushing weight - but now there are new problems",
       "url": "https://www.bbc.com/news/articles/cy7v53366ejo?at_medium=RSS&at_campaign=rss",
       "summary": "One year into his rule Syria's leader has won over Trump and much of the West, but at home people know his weaknesses."
     },
     {
-      "source": "BBC World",
-      "title": "New US security strategy aligns with Russia's vision, Moscow says",
-      "url": "https://www.bbc.com/news/articles/cpvd01g2kwwo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Kremlin welcomes the starkly worded document, which does not cast Russia as a threat to the US."
+      "source": "BBC Technology",
+      "title": "Elon Musk's X bans European Commission from making ads after €120m fine",
+      "url": "https://www.bbc.com/news/articles/c0589g0dqq7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The EU regulator had fined the social media platform over its \"deceptive\" blue tick badges."
     },
     {
       "source": "BBC Technology",
@@ -32,10 +38,22 @@
       "summary": "Elderly people aged 65 and over now make up nearly 30% of Japan's population."
     },
     {
-      "source": "BBC Technology",
-      "title": "Twitch star QTCinderella says she wishes she never started streaming",
-      "url": "https://www.bbc.com/news/articles/c3v1dd01x65o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Streamer Awards organiser said the negatives of her online role made it hard to enjoy the job."
+      "source": "The Verge",
+      "title": {
+        "#text": "How the creator economy destroyed the internet",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/cs/features/810002/influencers-creator-economy-special-series",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "Stop, Shop, and Scroll",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/cs/features/836456/influencers-tiktok-debt-shopaganda",
+      "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
@@ -44,24 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/entertainment/839753/watch-modern-horror-masterpiece-his-house",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Netflix CEO made a visit to the White House before buying Warner Bros.",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/news/839749/netflix-ceo-visit-white-house-warner-bros",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "X cuts off the European Commission’s ad account after being fined €120 million",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/news/839742/x-cuts-off-the-european-commissions-ad-account",
       "summary": "(要約準備中)"
     }
   ]
