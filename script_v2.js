@@ -78,7 +78,7 @@ function createNewsCard(article) {
 
   // 💡 タグ名に応じてクラスを付与
   const tagClass =
-      tag === "AI" ? "tag-ai" :
+      tag === "AIニュース" ? "tag-ai" :
       tag === "経済" ? "tag-economy" :
       tag === "その他" ? "tag-other" :
       "tag-all";
