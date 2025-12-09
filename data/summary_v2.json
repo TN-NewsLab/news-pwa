@@ -1,42 +1,42 @@
 [
   {
     "source": "VentureBeat",
-    "title": "Workspace Studio aims to solve the real agent problem: Getting employees to use them",
-    "summary": "企業がAIエージェントを従業員に利用させるのが難しい中、GoogleはGoogle Workspace Studioを一般公開し、従業員がAIエージェントをデザインし管理できるようにしました。これにより、業務アプリケーションにAIを統合することが容易になり、競争が激化する中でMicrosoft Copilotと対抗します。Workspace Studioは、テンプレートを使用してエージェントを簡単に作成でき、GmailやDriveといったWorkspaceアプリと深く統合され、企業のニーズに合わせたサポートを提供できます。",
-    "link": "https://venturebeat.com/ai/workspace-studio-aims-to-solve-the-real-agent-problem-getting-employees-to",
+    "title": "Z.ai debuts open source GLM-4.6V, a native tool-calling vision model for multimodal reasoning",
+    "summary": "Zhipu AIが新たに発表したGLM-4.6Vシリーズは、マルチモーダル推論やフロントエンド自動化に最適化されたオープンソースのビジョン-言語モデルで、1060億と90億の2つのモデルを含んでいます。主な革新はネイティブ機能呼び出しを導入し、視覚入力を直接ツールに利用できることです。このシリーズは128,000トークンのコンテキスト長を持ち、多数のベンチマークで優れた性能を示し、エンタープライズ利用に適したMITライセンスのもとで配布されています。",
+    "link": "https://venturebeat.com/ai/z-ai-debuts-open-source-glm-4-6v-a-native-tool-calling-vision-model-for",
     "category": "AI",
-    "publishedAt": "2025-12-04 17:37"
+    "publishedAt": "2025-12-09 15:55"
   },
   {
     "source": "VentureBeat",
-    "title": "Amazon's new AI can code for days without human help. What does that mean for software engineers?",
-    "summary": "Amazon Web Services (AWS) has introduced a new class of AI systems called \"frontier agents\" that can autonomously handle complex software development tasks without human intervention. The three specialized agents—Kiro for software development, AWS Security Agent for application security, and AWS DevOps Agent for IT operations—aim to enhance productivity by maintaining context and learning from codebases. This initiative positions AWS in a competitive landscape against tech giants like Google and Microsoft, highlighting the potential for AI to significantly transform software engineering practices.",
-    "link": "https://venturebeat.com/ai/amazons-new-ai-can-code-for-days-without-human-help-what-does-that-mean-for",
+    "title": "Anthropic's Claude Code can now read your Slack messages and write code for you",
+    "summary": "Anthropicは、プログラミングエージェント「Claude Code」をSlackに統合し、エンジニアが職場のコミュニケーションプラットフォーム上でコーディングタスクを容易に委任できるようにしました。この新機能は、Claude Codeの急成長を背景に、企業のワークフローにさらなる埋め込みを目指す取り組みの一環であり、導入からわずか6ヶ月で年間収益10億ドルを達成したと報告されています。また、統合によって問題の特定から解決までのプロセスを迅速化し、エンジニアリングチームにとって生産性向上が期待されています。",
+    "link": "https://venturebeat.com/ai/anthropics-claude-code-can-now-read-your-slack-messages-and-write-code-for",
     "category": "AI",
-    "publishedAt": "2025-12-04 17:37"
+    "publishedAt": "2025-12-09 15:55"
   },
   {
     "source": "Bloomberg",
-    "title": "Stocks Rise as Optimism Builds for Year-End Rally: Markets Wrap",
-    "summary": "木曜日、欧州とアジアの株式市場が好調で、米国の先物も上昇を維持しました。トレーダーたちは、連邦準備制度（FRB）の利下げが年末に向けてのグローバルな株の rally を促進すると見込んでいます。市場の期待感が高まる中で、投資家は楽観的な姿勢を維持しています。",
-    "link": "https://www.bloomberg.com/news/articles/2025-12-03/stock-market-today-dow-s-p-live-updates",
+    "title": "Pound Rises, FTSE 100 Set to Hold Steady",
+    "summary": "ポンドが上昇し、FTSE 100指数は安定を保つ見通しです。外国為替市場でのポンドの価値の上昇は、経済指標や企業の業績改善を反映していると考えられます。投資家は、株式市場の動向を注視しつつ、安定した市場環境に期待しているようです。",
+    "link": "https://www.bloomberg.com/news/live-blog/2025-12-09/ftse-100-live-pound-bonds-oil-prices-gilts-what-s-moving-uk-markets-right-now-markets-today",
     "category": "経済",
-    "publishedAt": "2025-12-04 17:38"
+    "publishedAt": "2025-12-09 15:55"
   },
   {
     "source": "BBC",
-    "title": "Previously unseen images of Epstein's island released",
-    "summary": "新たな画像が公開される中、米国政府が保有する文書の一般公開に関する締切が迫っています。これにより、注目が集まっています。文書の内容が明らかになることで、さまざまな影響が予想されます。",
-    "link": "https://www.bbc.com/news/articles/c4g5rrlve33o?at_medium=RSS&at_campaign=rss",
-    "category": "その他",
-    "publishedAt": "2025-12-04 17:38"
+    "title": "Ukraine prepares new peace plan as Zelensky rules out giving up land",
+    "summary": "キエフは、ロシアへの領土譲渡を含む米国の取引提案に抵抗しようとしています。彼らは、国家の主権と領土の一体性を守ることを重視しています。こうした動きは、ウクライナの国立安全保障において重要な局面を迎えています。",
+    "link": "https://www.bbc.com/news/articles/cg7vdd115vjo?at_medium=RSS&at_campaign=rss",
+    "category": "AI",
+    "publishedAt": "2025-12-09 15:55"
   },
   {
     "source": "NHK",
-    "title": "日本版GPS衛星「みちびき5号機」 7日の打ち上げ延期 JAXA",
-    "summary": "日本版GPS衛星「みちびき」の打ち上げが、鹿児島県の種子島宇宙センターから予定されていた7日に延期されました。JAXAはロケットの搭載機器に確認が必要な問題が見つかったためだと発表しました。新しい打ち上げ予定日はまだ決まっていません。",
-    "link": "http://www3.nhk.or.jp/news/html/20251203/k10014993171000.html",
+    "title": "青森 使用済み核燃料の再処理工場 燃料プールから約650L溢水",
+    "summary": "日本原燃は、青森県の再処理工場で地震の影響により、使用済み核燃料の保管プールから約650リットルの放射性物質を含む水があふれたと発表しました。回収作業は翌朝までに完了し、影響はなかったとしています。現在、周辺環境や人への放射線の影響は確認されていません。",
+    "link": "http://www3.nhk.or.jp/news/html/20251209/k10014998821000.html",
     "category": "その他",
-    "publishedAt": "2025-12-04 17:38"
+    "publishedAt": "2025-12-09 15:56"
   }
 ]
