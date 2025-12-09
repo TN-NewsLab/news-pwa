@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2025-12-09T13:05:48.244Z",
+  "updatedAt": "2025-12-09T18:44:23.848Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Trump criticises 'decaying' European countries and 'weak' leaders",
+      "url": "https://www.bbc.com/news/articles/clydlwldkvko?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president says European countries have failed to control migration or take decisive action to end Ukraine's war with Russia."
+    },
     {
       "source": "BBC World",
       "title": "Ukrainians raise flag to show BBC the fight goes on in city claimed by Russia",
@@ -9,15 +15,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Ukraine prepares new peace plan as Zelensky rules out giving up land ",
-      "url": "https://www.bbc.com/news/articles/cg7vdd115vjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Kyiv is seeking to resist a US push for a deal which would see territory handed over to Russia."
-    },
-    {
-      "source": "BBC World",
       "title": "Congress ups pressure to release boat strike video with threat to Hegseth's travel budget",
       "url": "https://www.bbc.com/news/articles/c773de38p2go?at_medium=RSS&at_campaign=rss",
       "summary": "US lawmakers could withhold Pentagon travel funds until unedited video of a controversial incident is made public."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Google unveils plans to try again with smart glasses in 2026",
+      "url": "https://www.bbc.com/news/articles/cwyx83n00k6o?at_medium=RSS&at_campaign=rss",
+      "summary": "It is a significant turnaround for the tech giant after its first attempt - Google Glass - was pulled in 2015."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "Nvidia had been at the centre of a geopolitical tug-of-war between the US and China in recent months."
     },
     {
-      "source": "BBC Technology",
-      "title": "Elon Musk's X bans European Commission from making ads after €120m fine",
-      "url": "https://www.bbc.com/news/articles/c0589g0dqq7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The EU regulator had fined the social media platform over its \"deceptive\" blue tick badges."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "The war on disinformation is a losing battle",
+        "#text": "Facebook&#8217;s redesign is making it more like Instagram",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/features/839853/disinformation-wars-censorship-right-wing",
+      "url": "https://www.theverge.com/news/841036/facebook-redesign-instagram-photos-feed-algorithm",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Trump says Nvidia can sell more powerful AI chips to China",
+        "#text": "Australia boots kids under 16 off social media: how platforms are responding",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/840557/nvidia-h200-ai-chips-china-exports-us",
+      "url": "https://www.theverge.com/report/840822/australia-social-media-ban-under-16-response",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "RAM is ruining everything",
+        "#text": "RAM price hikes: the latest on the global memory shortage",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/report/839506/ram-shortage-price-increases-pc-gaming-smartphones",
+      "url": "https://www.theverge.com/news/839353/pc-ram-shortage-pricing-spike-news",
       "summary": "(要約準備中)"
     }
   ]
