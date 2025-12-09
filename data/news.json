@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2025-12-08T18:47:03.300Z",
+  "updatedAt": "2025-12-09T02:19:46.740Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Ukraine's European allies press for more security guarantees",
+      "title": "Critical moment to ramp up support for Ukraine, European allies say",
       "url": "https://www.bbc.com/news/articles/c2k4z9nwz4yo?at_medium=RSS&at_campaign=rss",
       "summary": "Volodymyr Zelensky and the leaders of France, Germany and the UK held talks in London to discuss the latest US efforts to end the war in Ukraine."
     },
@@ -15,9 +15,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Thousands flee Thai-Cambodia border after deadly clashes",
-      "url": "https://www.bbc.com/news/articles/cr7l0rjz05eo?at_medium=RSS&at_campaign=rss",
-      "summary": "At least five people have been killed in the most serious confrontation between both sides since July."
+      "title": "Dozens injured after magnitude 7.5 quake strikes northern Japan",
+      "url": "https://www.bbc.com/news/articles/c7091k5pg31o?at_medium=RSS&at_campaign=rss",
+      "summary": "Authorities have warned that a stronger tremor could occur in the coming days.  "
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Trump gives Nvidia green light to sell advanced AI chips to China",
+      "url": "https://www.bbc.com/news/articles/ckg9q635q6po?at_medium=RSS&at_campaign=rss",
+      "summary": "Nvidia had been at the centre of a geopolitical tug-of-war between the US and China in recent months."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "The planned deal would cement Netflix in its position as the world's biggest subscription streaming service."
     },
     {
-      "source": "BBC Technology",
-      "title": "Japan is facing a dementia crisis – can technology help?",
-      "url": "https://www.bbc.com/news/articles/c4g9e34yzvgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Elderly people aged 65 and over now make up nearly 30% of Japan's population."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Lenovo’s next gaming laptop may have a rollable OLED screen that stretches ultrawide",
+        "#text": "Here are the best Apple Watch deals available right now",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/840124/lenovo-rollable-legion-pro-gaming-laptop-rumor",
+      "url": "https://www.theverge.com/21289209/best-apple-watch-deals",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "It’s ugly, it’s beautiful, it’s how you know a game might be a classic",
+        "#text": "The best robot vacuum and mop to buy right now",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/840080/square-enix-hd2d-games-octopath-dragon-quest",
+      "url": "https://www.theverge.com/tech/625409/best-robot-vacuum-mops",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "ICEBlock developer sues Trump administration over App Store removal",
+        "#text": "The best iPad deals you can get right now",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/840164/iceblock-joshua-aaron-sues-trump-administration-apple-app-store-removeal",
+      "url": "https://www.theverge.com/21280354/best-ipad-deals-apple",
       "summary": "(要約準備中)"
     }
   ]
