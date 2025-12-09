@@ -2,41 +2,41 @@
   {
     "source": "VentureBeat",
     "title": "Z.ai debuts open source GLM-4.6V, a native tool-calling vision model for multimodal reasoning",
-    "summary": "Zhipu AIが新たに発表したGLM-4.6Vシリーズは、マルチモーダル推論やフロントエンド自動化に最適化されたオープンソースのビジョン-言語モデルで、1060億と90億の2つのモデルを含んでいます。主な革新はネイティブ機能呼び出しを導入し、視覚入力を直接ツールに利用できることです。このシリーズは128,000トークンのコンテキスト長を持ち、多数のベンチマークで優れた性能を示し、エンタープライズ利用に適したMITライセンスのもとで配布されています。",
+    "summary": "中国のAIスタートアップZhipu AIが新たにGLM-4.6Vシリーズを発表し、マルチモーダル推論やフロントエンドの自動化に最適化されたオープンソースのビジョンランゲージモデルを提供しています。大規模な106Bパラメータモデルと小型の9Bパラメータモデルの2種類があり、特にビジュアルツールのナティブな利用が特徴です。これにより、長いコンテキストを処理し、エッジデバイスでの効率的な展開が可能な性能を持つことが示されました。",
     "link": "https://venturebeat.com/ai/z-ai-debuts-open-source-glm-4-6v-a-native-tool-calling-vision-model-for",
     "category": "AI",
-    "publishedAt": "2025-12-09 15:55"
+    "publishedAt": "2025-12-09 17:35"
   },
   {
     "source": "VentureBeat",
     "title": "Anthropic's Claude Code can now read your Slack messages and write code for you",
-    "summary": "Anthropicは、プログラミングエージェント「Claude Code」をSlackに統合し、エンジニアが職場のコミュニケーションプラットフォーム上でコーディングタスクを容易に委任できるようにしました。この新機能は、Claude Codeの急成長を背景に、企業のワークフローにさらなる埋め込みを目指す取り組みの一環であり、導入からわずか6ヶ月で年間収益10億ドルを達成したと報告されています。また、統合によって問題の特定から解決までのプロセスを迅速化し、エンジニアリングチームにとって生産性向上が期待されています。",
+    "summary": "Anthropicが、プログラミングエージェント「Claude Code」をSlackに統合し、エンジニアが業務のコミュニケーションをしながら直接コーディングタスクを委任できるベータ版を発表しました。Claude Codeは、発表からわずか6ヶ月で年収10億ドルを超え、企業のワークフローに深く組み込まれることを目指しています。この新機能は、問題の発見から解決までの距離を短縮し、エンジニアリングプロセスを効率化すると共に、スキルセットの減退に対する懸念も招いています。",
     "link": "https://venturebeat.com/ai/anthropics-claude-code-can-now-read-your-slack-messages-and-write-code-for",
     "category": "AI",
-    "publishedAt": "2025-12-09 15:55"
+    "publishedAt": "2025-12-09 17:35"
   },
   {
     "source": "Bloomberg",
-    "title": "Pound Rises, FTSE 100 Set to Hold Steady",
-    "summary": "ポンドが上昇し、FTSE 100指数は安定を保つ見通しです。外国為替市場でのポンドの価値の上昇は、経済指標や企業の業績改善を反映していると考えられます。投資家は、株式市場の動向を注視しつつ、安定した市場環境に期待しているようです。",
-    "link": "https://www.bloomberg.com/news/live-blog/2025-12-09/ftse-100-live-pound-bonds-oil-prices-gilts-what-s-moving-uk-markets-right-now-markets-today",
+    "title": "Stocks Rise Modestly as Fed Rate Caution Lingers: Markets Wrap",
+    "summary": "株式市場は小幅な上昇を見せ、債券利回りは月曜日の高水準付近で推移しました。投資家たちはリスクを伴う連邦準備制度理事会の決定を前に、大きな賭けを避けました。市場は慎重な姿勢を維持しています。",
+    "link": "https://www.bloomberg.com/news/articles/2025-12-08/stock-market-today-dow-s-p-live-updates",
     "category": "経済",
-    "publishedAt": "2025-12-09 15:55"
+    "publishedAt": "2025-12-09 17:35"
   },
   {
     "source": "BBC",
     "title": "Ukraine prepares new peace plan as Zelensky rules out giving up land",
-    "summary": "キエフは、ロシアへの領土譲渡を含む米国の取引提案に抵抗しようとしています。彼らは、国家の主権と領土の一体性を守ることを重視しています。こうした動きは、ウクライナの国立安全保障において重要な局面を迎えています。",
+    "summary": "キエフは、ロシアに領土を譲るという米国の提案に抵抗しようとしている。ウクライナは、主権と領土保全を重視している。交渉の進展が注視されている。",
     "link": "https://www.bbc.com/news/articles/cg7vdd115vjo?at_medium=RSS&at_campaign=rss",
     "category": "AI",
-    "publishedAt": "2025-12-09 15:55"
+    "publishedAt": "2025-12-09 17:35"
   },
   {
     "source": "NHK",
-    "title": "青森 使用済み核燃料の再処理工場 燃料プールから約650L溢水",
-    "summary": "日本原燃は、青森県の再処理工場で地震の影響により、使用済み核燃料の保管プールから約650リットルの放射性物質を含む水があふれたと発表しました。回収作業は翌朝までに完了し、影響はなかったとしています。現在、周辺環境や人への放射線の影響は確認されていません。",
-    "link": "http://www3.nhk.or.jp/news/html/20251209/k10014998821000.html",
+    "title": "福島第一原発 津波注意報で停止した処理水放出を再開",
+    "summary": "東京電力は福島県沿岸に津波注意報が発表されたため、一時停止していた福島第一原発からの処理水の放出を再開しました。再開は9日午後2時半過ぎに行われました。これにより、処理水の管理が続けられることになります。",
+    "link": "http://www3.nhk.or.jp/news/html/20251209/k10014998921000.html",
     "category": "その他",
-    "publishedAt": "2025-12-09 15:56"
+    "publishedAt": "2025-12-09 17:35"
   }
 ]
