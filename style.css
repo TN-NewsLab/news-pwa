@@ -154,22 +154,39 @@ body {
     margin-top: 4px;
   }
 
-  .tag-bar {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);  /* ← 4等分 */
-    gap: 6px;        /* 隙間がほしい場合、好みで調整 */
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
-    padding-bottom: 4px;
-  }
+ /* ============================== */
+/* 📌 カテゴリタブ（Grid版・完成形） */
+/* ============================== */
 
-  .tag-button {
-    text-align: center;
-    white-space: nowrap;
-    font-size: 0.85em;
-    padding: 6px 12px;
-    border-radius: 0;
-  }
+.tag-bar {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 6px;
+  padding-bottom: 4px;
+}
+
+/* すべてのボタン */
+.tag-button {
+  margin: 0;                        /* ← 隙間の正体を消す！ */
+  padding: 6px 12px;
+  text-align: center;
+  white-space: nowrap;
+  font-size: 0.85em;
+
+  border: 1px solid #dcdcdc;        /* ← 細い薄グレーに変更 */
+  border-radius: 4px;               /* ← お好みで 0 でも OK */
+  background-color: #ffffff;
+  cursor: pointer;
+
+  box-sizing: border-box;           /* ← 幅ズレ防止 */
+}
+
+/* 選択中（is-active） */
+.tag-button.is-active {
+  background-color: #2563eb;
+  color: #ffffff;
+  border-color: #2563eb;
+}
 
 /* カード内の小さなタグ表示 */
 .news-tag {
