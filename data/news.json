@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2025-12-10T13:06:17.747Z",
+  "updatedAt": "2025-12-10T18:46:14.568Z",
   "top": [
-    {
-      "source": "BBC World",
-      "title": "Sperm from donor with cancer-causing gene was used to conceive almost 200 children",
-      "url": "https://www.bbc.com/news/articles/ckgmy90z991o?at_medium=RSS&at_campaign=rss",
-      "summary": "Some children have already died and only a minority who inherit the mutation will escape cancer in their lifetimes."
-    },
     {
       "source": "BBC World",
       "title": "US could ask foreign tourists for five-year social media history before entry",
       "url": "https://www.bbc.com/news/articles/c1dz0g2ykpeo?at_medium=RSS&at_campaign=rss",
-      "summary": "The plan would affect people from countries, including the UK, which can fill out a form in lieu of a visa."
+      "summary": "The plan would affect people from countries, including the UK, who can fill out a form in lieu of a visa."
     },
     {
       "source": "BBC World",
-      "title": "Nobel Peace Prize winner will be in Oslo but won't make awards ceremony",
-      "url": "https://www.bbc.com/news/articles/cwyv5gw95ypo?at_medium=RSS&at_campaign=rss",
-      "summary": "Venezuelan opposition leader María Corina Machado, who lives in hiding, is reportedly safe and on her way to Oslo."
+      "title": "Ukraine at critical moment, European leaders say after Trump call",
+      "url": "https://www.bbc.com/news/articles/c5y20p7xweko?at_medium=RSS&at_campaign=rss",
+      "summary": "\"Intensive work\" is continuing, the leaders of Britain, France and Germany say after a joint call with Donald Trump."
+    },
+    {
+      "source": "BBC World",
+      "title": "Iceland becomes fifth country to boycott Eurovision",
+      "url": "https://www.bbc.com/news/articles/cjwy9n786n0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Iceland joins Spain, Ireland, Slovenia and the Netherlands in saying it will boycott the 2026 contest."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Porn company starts new age checks after £1m Ofcom fine",
+      "url": "https://www.bbc.com/news/articles/c0mpx9yn831o?at_medium=RSS&at_campaign=rss",
+      "summary": "The media regulator Ofcom said AVS Group Ltd had started age checks on some of its porn websites."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "The survey found people in the UK spent on average four hours and 30 minutes online every day in 2025"
     },
     {
-      "source": "BBC Technology",
-      "title": "Kids locked out of social media apps after Australia's world-first ban",
-      "url": "https://www.bbc.com/news/articles/cgl6gkd7pz6o?at_medium=RSS&at_campaign=rss",
-      "summary": "The new law requires tech platforms to ensure that Australians aged under 16 don't hold accounts."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "ChatGPT can now use Adobe apps to edit your photos and PDFs for free",
+        "#text": "Meta might charge for a future AI model",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/841369/chatgpt-apps-adobe-photoshop-acrobat-express",
+      "url": "https://www.theverge.com/news/841809/meta-avocado-ai-model-charge-open-source-mark-zuckerberg",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The AI industry’s biggest week: Google’s rise, RL mania, and a party boat",
+        "#text": "The 27 best gifts for travelers who are always on the move",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/column/841207/ai-neurips-2025",
+      "url": "https://www.theverge.com/gadgets/799419/best-gifts-for-travelers-2025",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Call of Duty won’t release Modern Warfare or Black Ops back-to-back anymore",
+        "#text": "Android users can now share a live video on 911 calls",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/841290/activision-call-of-duty-modern-warefare-black-ops-back-to-back",
+      "url": "https://www.theverge.com/news/841503/android-emergency-live-video",
       "summary": "(要約準備中)"
     }
   ]
