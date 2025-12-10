@@ -20,8 +20,8 @@ RSS_SOURCES = {
         "url": "https://venturebeat.com/category/ai/feed/"
     },
     "economy": {
-        "source": "Bloomberg",
-        "url": "https://www.bloomberg.com/feeds/markets/news.rss"
+        "source": "NHK",
+        "url": "https://www3.nhk.or.jp/rss/news/cat5.xml"
     },
     "world": {
         "source": "BBC",
