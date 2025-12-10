@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2025-12-09T18:44:23.848Z",
+  "updatedAt": "2025-12-10T02:21:58.976Z",
   "top": [
     {
       "source": "BBC World",
       "title": "Trump criticises 'decaying' European countries and 'weak' leaders",
       "url": "https://www.bbc.com/news/articles/clydlwldkvko?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president says European countries have failed to control migration or take decisive action to end Ukraine's war with Russia."
+      "summary": "The UK praises Europe's \"strength\" after Trump says countries fail to control migration or take action to end the Ukraine war. "
     },
     {
       "source": "BBC World",
-      "title": "Ukrainians raise flag to show BBC the fight goes on in city claimed by Russia",
-      "url": "https://www.bbc.com/news/articles/cd6x3vv7y60o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine barely has a hold on Pokrovsk, but its forces are keen to show they are still resisting Russia's advance."
+      "title": "Nobel officials unsure when Peace Prize winner will arrive for ceremony",
+      "url": "https://www.bbc.com/news/articles/c208vd511ljo?at_medium=RSS&at_campaign=rss",
+      "summary": "Venezuela's opposition leader María Corina Machado is in hiding, and her current whereabouts are still unknown."
     },
     {
       "source": "BBC World",
       "title": "Congress ups pressure to release boat strike video with threat to Hegseth's travel budget",
       "url": "https://www.bbc.com/news/articles/c773de38p2go?at_medium=RSS&at_campaign=rss",
       "summary": "US lawmakers could withhold Pentagon travel funds until unedited video of a controversial incident is made public."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "UK spending half an hour longer online than in pandemic, says Ofcom",
+      "url": "https://www.bbc.com/news/articles/c39prelx2mxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The survey found people in the UK spent on average four hours and 30 minutes online every day in 2025"
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "It is examining whether the tech giant did not offer \"appropriate compensation\" to web publishers."
     },
     {
-      "source": "BBC Technology",
-      "title": "Trump gives Nvidia green light to sell advanced AI chips to China",
-      "url": "https://www.bbc.com/news/articles/ckg9q635q6po?at_medium=RSS&at_campaign=rss",
-      "summary": "Nvidia had been at the centre of a geopolitical tug-of-war between the US and China in recent months."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Facebook&#8217;s redesign is making it more like Instagram",
+        "#text": "The AI industry’s biggest week: Google’s rise, RL mania, and a party boat",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/841036/facebook-redesign-instagram-photos-feed-algorithm",
+      "url": "https://www.theverge.com/column/841207/ai-neurips-2025",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Australia boots kids under 16 off social media: how platforms are responding",
+        "#text": "Call of Duty won’t release Modern Warfare or Black Ops back to back anymore",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/report/840822/australia-social-media-ban-under-16-response",
+      "url": "https://www.theverge.com/news/841290/activision-call-of-duty-modern-warefare-black-ops-back-to-back",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "RAM price hikes: the latest on the global memory shortage",
+        "#text": "Both sides of the aisle hate the AI moratorium",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/839353/pc-ram-shortage-pricing-spike-news",
+      "url": "https://www.theverge.com/column/841161/ai-moratorium-midterm-elections-republicans",
       "summary": "(要約準備中)"
     }
   ]
