@@ -90,6 +90,9 @@ body {
 
 /* PC（幅 601px 以上）だけタイトルを中央寄せ＆サイズ変更 */
 @media (min-width: 601px) {
+  .tag-button {
+    max-width: 140px;   /* 好みで120〜160くらいに調整可能 */
+  }
   .page-title {
     text-align: center;
     font-size: 38px;
@@ -177,7 +180,6 @@ body {
 
 /* タグボタン */
 .tag-button {
-  
   border: 1px solid #d0d7de;
   background-color: #ffffff;
   border-radius: 999px;
