@@ -159,6 +159,8 @@ body {
   }
 
   .tag-button {
+    flex: 1;          /* 全部のボタンを均等幅にする */
+    text-align: center;
     white-space: nowrap;
     font-size: 0.85em;
     padding: 5px 10px;
