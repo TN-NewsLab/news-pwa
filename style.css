@@ -155,7 +155,8 @@ body {
   }
 
   .tag-bar {
-    display: flex;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);  /* ← 4等分 */
     gap: 6px;        /* 隙間がほしい場合、好みで調整 */
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
@@ -163,11 +164,11 @@ body {
   }
 
   .tag-button {
-    flex: 1;          /* 全部のボタンを均等幅にする */
     text-align: center;
     white-space: nowrap;
     font-size: 0.85em;
-    padding: 5px 10px;
+    padding: 6px 12px;
+    border-radius: 0;
   }
 
 /* タグバー全体 */
