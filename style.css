@@ -152,10 +152,11 @@ body {
   }
 
   .tag-bar {
+    display: flex;
+    gap: 6px;        /* 隙間がほしい場合、好みで調整 */
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
     padding-bottom: 4px;
-    gap: 6px;
   }
 
   .tag-button {
@@ -165,7 +166,6 @@ body {
     font-size: 0.85em;
     padding: 5px 10px;
   }
-}
 
 /* タグバー全体 */
 .tag-bar {
@@ -177,6 +177,7 @@ body {
 
 /* タグボタン */
 .tag-button {
+  
   border: 1px solid #d0d7de;
   background-color: #ffffff;
   border-radius: 999px;
