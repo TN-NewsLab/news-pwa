@@ -1,42 +1,42 @@
 [
   {
     "source": "VentureBeat",
-    "title": "Z.ai debuts open source GLM-4.6V, a native tool-calling vision model for multimodal reasoning",
-    "summary": "中国のAIスタートアップZhipu AIが新たにGLM-4.6Vシリーズを発表し、マルチモーダル推論やフロントエンドの自動化に最適化されたオープンソースのビジョンランゲージモデルを提供しています。大規模な106Bパラメータモデルと小型の9Bパラメータモデルの2種類があり、特にビジュアルツールのナティブな利用が特徴です。これにより、長いコンテキストを処理し、エッジデバイスでの効率的な展開が可能な性能を持つことが示されました。",
-    "link": "https://venturebeat.com/ai/z-ai-debuts-open-source-glm-4-6v-a-native-tool-calling-vision-model-for",
+    "title": "Mistral launches powerful Devstral 2 coding model including open source, laptop-friendly version",
+    "summary": "フランスのAIスタートアップMistralは、最新のDevstral 2モデルを発表し、特にソフトウェア開発に最適化された新たなAIツールを提供しています。このモデルは、オフラインで動作可能であり、エンタープライズ向けと個人開発者向けに設計されています。また、Mistralのライセンス構造は、一部の大企業には制限があるため、使用条件を注意深く確認する必要があります。",
+    "link": "https://venturebeat.com/ai/mistral-launches-powerful-devstral-2-coding-model-including-open-source",
     "category": "AI",
-    "publishedAt": "2025-12-09 17:35"
+    "publishedAt": "2025-12-10 11:53"
   },
   {
     "source": "VentureBeat",
-    "title": "Anthropic's Claude Code can now read your Slack messages and write code for you",
-    "summary": "Anthropicが、プログラミングエージェント「Claude Code」をSlackに統合し、エンジニアが業務のコミュニケーションをしながら直接コーディングタスクを委任できるベータ版を発表しました。Claude Codeは、発表からわずか6ヶ月で年収10億ドルを超え、企業のワークフローに深く組み込まれることを目指しています。この新機能は、問題の発見から解決までの距離を短縮し、エンジニアリングプロセスを効率化すると共に、スキルセットの減退に対する懸念も招いています。",
-    "link": "https://venturebeat.com/ai/anthropics-claude-code-can-now-read-your-slack-messages-and-write-code-for",
+    "title": "Brand-context AI: The missing requirement for marketing AI",
+    "summary": "AI has become integral to marketing, but its effectiveness is hampered by a lack of contextual intelligence, leading to outputs that may not align with brand or strategic goals. Successful marketing teams recognize the need for structured context, allowing AI to produce tailored and significant recommendations rather than generic content. By integrating brand identity, customer insights, and competitive signals, AI can better support decision-making and foster a more coherent strategy within organizations.",
+    "link": "https://venturebeat.com/ai/brand-context-ai-the-missing-requirement-for-marketing-ai",
     "category": "AI",
-    "publishedAt": "2025-12-09 17:35"
-  },
-  {
-    "source": "Bloomberg",
-    "title": "Stocks Rise Modestly as Fed Rate Caution Lingers: Markets Wrap",
-    "summary": "株式市場は小幅な上昇を見せ、債券利回りは月曜日の高水準付近で推移しました。投資家たちはリスクを伴う連邦準備制度理事会の決定を前に、大きな賭けを避けました。市場は慎重な姿勢を維持しています。",
-    "link": "https://www.bloomberg.com/news/articles/2025-12-08/stock-market-today-dow-s-p-live-updates",
-    "category": "経済",
-    "publishedAt": "2025-12-09 17:35"
-  },
-  {
-    "source": "BBC",
-    "title": "Ukraine prepares new peace plan as Zelensky rules out giving up land",
-    "summary": "キエフは、ロシアに領土を譲るという米国の提案に抵抗しようとしている。ウクライナは、主権と領土保全を重視している。交渉の進展が注視されている。",
-    "link": "https://www.bbc.com/news/articles/cg7vdd115vjo?at_medium=RSS&at_campaign=rss",
-    "category": "AI",
-    "publishedAt": "2025-12-09 17:35"
+    "publishedAt": "2025-12-10 11:53"
   },
   {
     "source": "NHK",
-    "title": "福島第一原発 津波注意報で停止した処理水放出を再開",
-    "summary": "東京電力は福島県沿岸に津波注意報が発表されたため、一時停止していた福島第一原発からの処理水の放出を再開しました。再開は9日午後2時半過ぎに行われました。これにより、処理水の管理が続けられることになります。",
-    "link": "http://www3.nhk.or.jp/news/html/20251209/k10014998921000.html",
+    "title": "Android・iPhone両方に影響 「スマホ法」で何が変わる？",
+    "summary": "今月18日から「スマホ法」の運用が本格的に開始され、スマートフォンの使い方が変わる可能性があります。この法律の具体的な内容や影響について、おはBizの渡部圭司キャスターが解説します。新たなルールにより、利用者のスマートフォンの利用方法に変化が訪れるでしょう。",
+    "link": "http://www3.nhk.or.jp/news/html/20251210/k10014999721000.html",
     "category": "その他",
-    "publishedAt": "2025-12-09 17:35"
+    "publishedAt": "2025-12-10 11:53"
+  },
+  {
+    "source": "BBC",
+    "title": "Trump criticises 'decaying' European countries and 'weak' leaders",
+    "summary": "英国は、トランプが諸国の移民管理やウクライナ戦争の解決に対する行動を批判した後、欧州の「強さ」を称賛しました。トランプの発言に対抗する形で、ヨーロッパの団結を評価するコメントがなされました。この状況は、国際政治における協力と共通の課題への取り組みの重要性を浮き彫りにしています。",
+    "link": "https://www.bbc.com/news/articles/clydlwldkvko?at_medium=RSS&at_campaign=rss",
+    "category": "その他",
+    "publishedAt": "2025-12-10 11:53"
+  },
+  {
+    "source": "NHK",
+    "title": "ノーベル賞 坂口さんと北川さんが日本大使館の祝賀会に出席",
+    "summary": "大阪大学の坂口志文さんと京都大学の北川進さんが、今年のノーベル生理学・医学賞と化学賞を受賞しました。二人は授賞式を前にスウェーデンの日本大使館で開催された祝賀会に出席しました。そこで、彼らは受賞への感謝の言葉を述べました。",
+    "link": "http://www3.nhk.or.jp/news/html/20251210/k10014999571000.html",
+    "category": "その他",
+    "publishedAt": "2025-12-10 11:53"
   }
 ]
