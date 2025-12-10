@@ -2,41 +2,41 @@
   {
     "source": "VentureBeat",
     "title": "Mistral launches powerful Devstral 2 coding model including open source, laptop-friendly version",
-    "summary": "フランスのAIスタートアップMistralは、最新のDevstral 2モデルを発表し、特にソフトウェア開発に最適化された新たなAIツールを提供しています。このモデルは、オフラインで動作可能であり、エンタープライズ向けと個人開発者向けに設計されています。また、Mistralのライセンス構造は、一部の大企業には制限があるため、使用条件を注意深く確認する必要があります。",
+    "summary": "フランスのAIスタートアップMistralは、エンタープライズ向けと開発者向けに新しいオープンソースモデル「Devstral 2」を発表し、特にソフトウェア開発に最適化されたモデルを提供しています。このリリースには、プライベートでオフライン実行可能な小型モデルも含まれ、使用が制限される大規模企業向けのライセンスが適用されています。Mistralは、開放性とパフォーマンスを兼ね備えたモデルを通じて、開発者に選択肢を提供し、特に厳格なデータ管理が求められる業界に対するソリューションを提供しています。",
     "link": "https://venturebeat.com/ai/mistral-launches-powerful-devstral-2-coding-model-including-open-source",
     "category": "AI",
-    "publishedAt": "2025-12-10 11:53"
+    "publishedAt": "2025-12-10 14:40"
   },
   {
     "source": "VentureBeat",
     "title": "Brand-context AI: The missing requirement for marketing AI",
-    "summary": "AI has become integral to marketing, but its effectiveness is hampered by a lack of contextual intelligence, leading to outputs that may not align with brand or strategic goals. Successful marketing teams recognize the need for structured context, allowing AI to produce tailored and significant recommendations rather than generic content. By integrating brand identity, customer insights, and competitive signals, AI can better support decision-making and foster a more coherent strategy within organizations.",
+    "summary": "AI is increasingly integrated into marketing, but often fails to deliver meaningful results due to a lack of contextual understanding. The focus is shifting from mere content production to enhancing decision-making quality by grounding AI in structured brand and competitive context. Companies that effectively connect insights from various domains can leverage AI as a strategic partner, improving alignment and decision-making across marketing teams.",
     "link": "https://venturebeat.com/ai/brand-context-ai-the-missing-requirement-for-marketing-ai",
     "category": "AI",
-    "publishedAt": "2025-12-10 11:53"
+    "publishedAt": "2025-12-10 14:40"
   },
   {
     "source": "NHK",
-    "title": "Android・iPhone両方に影響 「スマホ法」で何が変わる？",
-    "summary": "今月18日から「スマホ法」の運用が本格的に開始され、スマートフォンの使い方が変わる可能性があります。この法律の具体的な内容や影響について、おはBizの渡部圭司キャスターが解説します。新たなルールにより、利用者のスマートフォンの利用方法に変化が訪れるでしょう。",
-    "link": "http://www3.nhk.or.jp/news/html/20251210/k10014999721000.html",
+    "title": "アサヒグループHD 11月ビール販売 2割以上減 サイバー攻撃影響",
+    "summary": "アサヒグループホールディングスは、サイバー攻撃によるシステム障害の影響で、11月のビール売上が前年同月比で2割以上減少したと発表しました。受注システムは再開されたものの、流通が正常に戻るまでには時間がかかる見込みです。これにより、業績に与える影響が懸念されています。",
+    "link": "http://www3.nhk.or.jp/news/html/20251210/k10014999881000.html",
     "category": "その他",
-    "publishedAt": "2025-12-10 11:53"
+    "publishedAt": "2025-12-10 14:41"
   },
   {
     "source": "BBC",
     "title": "Trump criticises 'decaying' European countries and 'weak' leaders",
-    "summary": "英国は、トランプが諸国の移民管理やウクライナ戦争の解決に対する行動を批判した後、欧州の「強さ」を称賛しました。トランプの発言に対抗する形で、ヨーロッパの団結を評価するコメントがなされました。この状況は、国際政治における協力と共通の課題への取り組みの重要性を浮き彫りにしています。",
+    "summary": "イギリスが、トランプ氏が国々の移民管理やウクライナ戦争終結への行動不充分を指摘した後、ヨーロッパの「強さ」を称賛した。イギリスは、欧州の団結と問題解決能力に自信を示している。これは、国際的な問題への対応力を強調する意図がある。",
     "link": "https://www.bbc.com/news/articles/clydlwldkvko?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2025-12-10 11:53"
+    "publishedAt": "2025-12-10 14:41"
   },
   {
     "source": "NHK",
-    "title": "ノーベル賞 坂口さんと北川さんが日本大使館の祝賀会に出席",
-    "summary": "大阪大学の坂口志文さんと京都大学の北川進さんが、今年のノーベル生理学・医学賞と化学賞を受賞しました。二人は授賞式を前にスウェーデンの日本大使館で開催された祝賀会に出席しました。そこで、彼らは受賞への感謝の言葉を述べました。",
-    "link": "http://www3.nhk.or.jp/news/html/20251210/k10014999571000.html",
+    "title": "ノーベル博物館 日本からの受賞者寄贈の記念品など展示",
+    "summary": "ストックホルムのノーベル博物館では、日本の受賞者からの寄贈品を含む歴代受賞者の関連資料が展示されています。授賞式を前に、多くの観光客が訪れ賑わっています。博物館は文化的な交流の場として注目されています。",
+    "link": "http://www3.nhk.or.jp/news/html/20251210/k10014999581000.html",
     "category": "その他",
-    "publishedAt": "2025-12-10 11:53"
+    "publishedAt": "2025-12-10 14:41"
   }
 ]
