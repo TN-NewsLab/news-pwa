@@ -1,12 +1,6 @@
 {
-  "updatedAt": "2025-12-10T06:49:14.631Z",
+  "updatedAt": "2025-12-10T13:06:17.747Z",
   "top": [
-    {
-      "source": "BBC World",
-      "title": "Trump criticises 'decaying' European countries and 'weak' leaders",
-      "url": "https://www.bbc.com/news/articles/clydlwldkvko?at_medium=RSS&at_campaign=rss",
-      "summary": "The UK praises Europe's \"strength\" after Trump says countries fail to control migration or take action to end the Ukraine war. "
-    },
     {
       "source": "BBC World",
       "title": "Sperm from donor with cancer-causing gene was used to conceive almost 200 children",
@@ -15,27 +9,42 @@
     },
     {
       "source": "BBC World",
-      "title": "Chaos in Brazil Congress during push to cut Bolsonaro's sentence",
-      "url": "https://www.bbc.com/news/articles/cvg8m5lj2lzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Scuffles broke out during a vote linked to attempts to reduce the former president's jail term."
+      "title": "US could ask foreign tourists for five-year social media history before entry",
+      "url": "https://www.bbc.com/news/articles/c1dz0g2ykpeo?at_medium=RSS&at_campaign=rss",
+      "summary": "The plan would affect people from countries, including the UK, which can fill out a form in lieu of a visa."
+    },
+    {
+      "source": "BBC World",
+      "title": "Nobel Peace Prize winner will be in Oslo but won't make awards ceremony",
+      "url": "https://www.bbc.com/news/articles/cwyv5gw95ypo?at_medium=RSS&at_campaign=rss",
+      "summary": "Venezuelan opposition leader María Corina Machado, who lives in hiding, is reportedly safe and on her way to Oslo."
     },
     {
       "source": "BBC Technology",
-      "title": "UK spending half an hour longer online than in pandemic, says Ofcom",
+      "title": "McDonald's pulls AI Christmas ad after backlash",
+      "url": "https://www.bbc.com/news/articles/czdgrnvp082o?at_medium=RSS&at_campaign=rss",
+      "summary": "McDonald's said the moment served as \"an important learning\" as it explored \"the effective use of AI\"."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "People spending even more time online now than during the pandemic",
       "url": "https://www.bbc.com/news/articles/c39prelx2mxo?at_medium=RSS&at_campaign=rss",
       "summary": "The survey found people in the UK spent on average four hours and 30 minutes online every day in 2025"
     },
     {
       "source": "BBC Technology",
-      "title": "Google unveils plans to try again with smart glasses in 2026",
-      "url": "https://www.bbc.com/news/articles/cwyx83n00k6o?at_medium=RSS&at_campaign=rss",
-      "summary": "It is a significant turnaround for the tech giant after its first attempt - Google Glass - was pulled in 2015."
+      "title": "Kids locked out of social media apps after Australia's world-first ban",
+      "url": "https://www.bbc.com/news/articles/cgl6gkd7pz6o?at_medium=RSS&at_campaign=rss",
+      "summary": "The new law requires tech platforms to ensure that Australians aged under 16 don't hold accounts."
     },
     {
-      "source": "BBC Technology",
-      "title": "EU investigates Google over AI-generated summaries in search results",
-      "url": "https://www.bbc.com/news/articles/crl95eg33k1o?at_medium=RSS&at_campaign=rss",
-      "summary": "It is examining whether the tech giant did not offer \"appropriate compensation\" to web publishers."
+      "source": "The Verge",
+      "title": {
+        "#text": "ChatGPT can now use Adobe apps to edit your photos and PDFs for free",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/news/841369/chatgpt-apps-adobe-photoshop-acrobat-express",
+      "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
@@ -49,19 +58,10 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Call of Duty won’t release Modern Warfare or Black Ops back to back anymore",
+        "#text": "Call of Duty won’t release Modern Warfare or Black Ops back-to-back anymore",
         "@_type": "html"
       },
       "url": "https://www.theverge.com/news/841290/activision-call-of-duty-modern-warefare-black-ops-back-to-back",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Both sides of the aisle hate the AI moratorium",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/column/841161/ai-moratorium-midterm-elections-republicans",
       "summary": "(要約準備中)"
     }
   ]
