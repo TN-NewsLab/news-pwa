@@ -167,17 +167,17 @@ body {
 
 /* すべてのボタン */
 .tag-button {
+  display: block;         /* ← 横幅をセルいっぱいに広げる */
+  width: 100%;            /* ← これが決め手！ */
   margin: 0;                        /* ← 隙間の正体を消す！ */
   padding: 6px 12px;
   text-align: center;
   white-space: nowrap;
-  font-size: 0.85em;
-
+  
   border: 1px solid #dcdcdc;        /* ← 細い薄グレーに変更 */
-  border-radius: 4px;               /* ← お好みで 0 でも OK */
+  border-radius: 0px;               /* ← お好みで 0 でも OK */
   background-color: #ffffff;
   cursor: pointer;
-
   box-sizing: border-box;           /* ← 幅ズレ防止 */
 }
 
