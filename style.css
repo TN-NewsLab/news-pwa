@@ -88,18 +88,18 @@ body {
   color: #1d4ed8;
 }
 
-/* PC（幅 601px 以上）だけタイトルを中央寄せ＆サイズ変更 */
+/* //PC（幅 601px 以上）だけタイトルを中央寄せ＆サイズ変更 //
 @media (min-width: 601px) {
   .tag-button {
-    max-width: 140px;   /* 好みで120〜160くらいに調整可能 */
+    max-width: 140px;   // 好みで120〜160くらいに調整可能 //
   }
   .page-title {
     text-align: center;
     font-size: 38px;
-    margin-top: 48px;      /* 上の余白 */
-    margin-bottom: 48px;   /* 下の余白 */
+    margin-top: 48px;      // 上の余白 //
+    margin-bottom: 48px;   // 下の余白 //
   }
-}
+} */
 
 /* ------------------------- */
 /* 📱 スマホ最適化（〜600px） */
