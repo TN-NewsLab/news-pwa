@@ -2,41 +2,41 @@
   {
     "source": "VentureBeat",
     "title": "Mistral launches powerful Devstral 2 coding model including open source, laptop-friendly version",
-    "summary": "フランスのAIスタートアップMistralは、2025年12月に新しいソフトウェア開発向けのモデルを発表しました。特に、1230億パラメータのDevstral 2と24億パラメータのDevstral Small 2を含む新しいモデルセットは、オープンソースとして公開され、異なるライセンス条件で提供されています。これにより、各種企業や開発者が利用できる選択肢が増え、特にデータプライバシーが重視される環境での利用が期待されています。",
+    "summary": "フランスのAIスタートアップMistralは、企業やインディー開発者向けの新しいモデル、Devstral 2とDevstral Small 2を発表し、オープンソースの推進を強化しています。これらのモデルは特にソフトウェア開発タスクに最適化されており、プライベートに実行可能で、CLIツールVibeも併せて提供されています。Mistralのライセンス構造は異なる収益制限を持ち、大企業向けには制約があるため、個人開発者や小規模企業には利便性が高い選択肢となっています。",
     "link": "https://venturebeat.com/ai/mistral-launches-powerful-devstral-2-coding-model-including-open-source",
     "category": "AI",
-    "publishedAt": "2025-12-10 15:03"
+    "publishedAt": "2025-12-10 15:24"
   },
   {
     "source": "VentureBeat",
     "title": "Brand-context AI: The missing requirement for marketing AI",
-    "summary": "AIはマーケティングにおいて重要な役割を果たしているが、ブランドや戦略に合った成果を出せていない。成功するためには、AIに対してコンテキスト情報を提供し、マーケティングチームが共通の理解を持つことが必要である。AIは作業のスピードや精度を提供する一方で、戦略やクリエイティブな判断は人間が担うことで、より効果的なマーケティングが実現できる。",
+    "summary": "AIはマーケティングチームの業務に重要な役割を果たしているが、効果的な意思決定にはコンテキストが欠かせない。データを縦割りで管理するのではなく、横の視点で顧客洞察や競争状況を統合することで、AIはより信頼性の高い出力が得られる。最終的には、ブランドコンテキストに基づいたAIが、マーケティング戦略の質を向上させ、企業の成長を促進する。",
     "link": "https://venturebeat.com/ai/brand-context-ai-the-missing-requirement-for-marketing-ai",
     "category": "AI",
-    "publishedAt": "2025-12-10 15:03"
+    "publishedAt": "2025-12-10 15:24"
   },
   {
     "source": "NHK",
-    "title": "アサヒグループHD11月ビール事業販売2割以上減 サイバー攻撃で",
-    "summary": "アサヒグループホールディングスは、サイバー攻撃の影響で11月のビール売上が前年同月比で20%減少したと発表しました。システムに基づく受注は再開されたものの、流通の正常化には時間がかかる見込みです。業績への影響が懸念されている状況です。",
-    "link": "http://www3.nhk.or.jp/news/html/20251210/k10014999881000.html",
+    "title": "定数削減法案 高市首相“採決時期など 国会に委ねられる”",
+    "summary": "高市総理大臣は衆議院議員の定数削減法案について、立憲民主党からの質問に対し、国会での協議による審議日程や採決のタイミングが重要であると述べました。今の国会で法案が成立するかどうかは、今後の議論次第となります。総理大臣は、具体的な期限について答えることを避けました。",
+    "link": "http://www3.nhk.or.jp/news/html/20251210/k10014999811000.html",
     "category": "その他",
-    "publishedAt": "2025-12-10 15:03"
+    "publishedAt": "2025-12-10 15:24"
   },
   {
     "source": "BBC",
     "title": "Trump criticises 'decaying' European countries and 'weak' leaders",
-    "summary": "英国は、トランプが他国の移民管理やウクライナ戦争の終了に対する行動を批判した後、ヨーロッパの「強さ」を称賛した。英国の見解では、ヨーロッパは困難な状況にもかかわらず団結している。トランプの発言とは裏腹に、欧州の結束が重要であると強調された。",
+    "summary": "英国は、トランプが各国が移民を制御できず、ウクライナ戦争を終わらせる行動を取っていないと批判した後、ヨーロッパの「強さ」を称賛しました。これは、ヨーロッパが団結し、課題に立ち向かう力を示しているとの評価です。英国の発言は、トランプの意見とは対照的な立場を示しています。",
     "link": "https://www.bbc.com/news/articles/clydlwldkvko?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2025-12-10 15:03"
+    "publishedAt": "2025-12-10 15:24"
   },
   {
     "source": "NHK",
-    "title": "ノーベル博物館 日本からの受賞者寄贈の記念品など展示",
-    "summary": "ストックホルムのノーベル博物館では、日本からの受賞者が寄贈した記念品が展示されています。授賞式を前に、多くの観光客が訪れ賑わいを見せています。歴代受賞者に関連する品々が観光の目玉となっています。",
-    "link": "http://www3.nhk.or.jp/news/html/20251210/k10014999581000.html",
+    "title": "中国で日本関連のイベント 延期や中止の動き続く",
+    "summary": "日中関係の悪化に伴い、中国で日本関連のイベントが延期や中止される動きが続いています。これにより、日本と中国の文化交流が影響を受けています。両国の関係改善が求められています。",
+    "link": "http://www3.nhk.or.jp/news/html/20251210/k10014999951000.html",
     "category": "その他",
-    "publishedAt": "2025-12-10 15:03"
+    "publishedAt": "2025-12-10 15:24"
   }
 ]
