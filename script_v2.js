@@ -122,8 +122,8 @@ function setupTagFilter() {
 function convertCategoryName(key) {
   const map = {
     "AI": "AIニュース",
-    "Economy": "経済ニュース",
-    "Politics": "政治ニュース"
+    "経済": "経済ニュース",
+    "その他": "その他ニュース"
   };
   return map[key] || key;
 }
