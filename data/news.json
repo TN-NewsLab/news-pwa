@@ -1,67 +1,67 @@
 {
-  "updatedAt": "2025-12-10T06:49:14.631Z",
+  "updatedAt": "2025-12-10T18:46:14.568Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Trump criticises 'decaying' European countries and 'weak' leaders",
-      "url": "https://www.bbc.com/news/articles/clydlwldkvko?at_medium=RSS&at_campaign=rss",
-      "summary": "The UK praises Europe's \"strength\" after Trump says countries fail to control migration or take action to end the Ukraine war. "
+      "title": "US could ask foreign tourists for five-year social media history before entry",
+      "url": "https://www.bbc.com/news/articles/c1dz0g2ykpeo?at_medium=RSS&at_campaign=rss",
+      "summary": "The plan would affect people from countries, including the UK, who can fill out a form in lieu of a visa."
     },
     {
       "source": "BBC World",
-      "title": "Sperm from donor with cancer-causing gene was used to conceive almost 200 children",
-      "url": "https://www.bbc.com/news/articles/ckgmy90z991o?at_medium=RSS&at_campaign=rss",
-      "summary": "Some children have already died and only a minority who inherit the mutation will escape cancer in their lifetimes."
+      "title": "Ukraine at critical moment, European leaders say after Trump call",
+      "url": "https://www.bbc.com/news/articles/c5y20p7xweko?at_medium=RSS&at_campaign=rss",
+      "summary": "\"Intensive work\" is continuing, the leaders of Britain, France and Germany say after a joint call with Donald Trump."
     },
     {
       "source": "BBC World",
-      "title": "Chaos in Brazil Congress during push to cut Bolsonaro's sentence",
-      "url": "https://www.bbc.com/news/articles/cvg8m5lj2lzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Scuffles broke out during a vote linked to attempts to reduce the former president's jail term."
+      "title": "Iceland becomes fifth country to boycott Eurovision",
+      "url": "https://www.bbc.com/news/articles/cjwy9n786n0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Iceland joins Spain, Ireland, Slovenia and the Netherlands in saying it will boycott the 2026 contest."
     },
     {
       "source": "BBC Technology",
-      "title": "UK spending half an hour longer online than in pandemic, says Ofcom",
+      "title": "Porn company starts new age checks after £1m Ofcom fine",
+      "url": "https://www.bbc.com/news/articles/c0mpx9yn831o?at_medium=RSS&at_campaign=rss",
+      "summary": "The media regulator Ofcom said AVS Group Ltd had started age checks on some of its porn websites."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "McDonald's pulls AI Christmas ad after backlash",
+      "url": "https://www.bbc.com/news/articles/czdgrnvp082o?at_medium=RSS&at_campaign=rss",
+      "summary": "McDonald's said the moment served as \"an important learning\" as it explored \"the effective use of AI\"."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "People spending even more time online now than during the pandemic",
       "url": "https://www.bbc.com/news/articles/c39prelx2mxo?at_medium=RSS&at_campaign=rss",
       "summary": "The survey found people in the UK spent on average four hours and 30 minutes online every day in 2025"
     },
     {
-      "source": "BBC Technology",
-      "title": "Google unveils plans to try again with smart glasses in 2026",
-      "url": "https://www.bbc.com/news/articles/cwyx83n00k6o?at_medium=RSS&at_campaign=rss",
-      "summary": "It is a significant turnaround for the tech giant after its first attempt - Google Glass - was pulled in 2015."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "EU investigates Google over AI-generated summaries in search results",
-      "url": "https://www.bbc.com/news/articles/crl95eg33k1o?at_medium=RSS&at_campaign=rss",
-      "summary": "It is examining whether the tech giant did not offer \"appropriate compensation\" to web publishers."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "The AI industry’s biggest week: Google’s rise, RL mania, and a party boat",
+        "#text": "Meta might charge for a future AI model",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/column/841207/ai-neurips-2025",
+      "url": "https://www.theverge.com/news/841809/meta-avocado-ai-model-charge-open-source-mark-zuckerberg",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Call of Duty won’t release Modern Warfare or Black Ops back to back anymore",
+        "#text": "The 27 best gifts for travelers who are always on the move",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/841290/activision-call-of-duty-modern-warefare-black-ops-back-to-back",
+      "url": "https://www.theverge.com/gadgets/799419/best-gifts-for-travelers-2025",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Both sides of the aisle hate the AI moratorium",
+        "#text": "Android users can now share a live video on 911 calls",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/column/841161/ai-moratorium-midterm-elections-republicans",
+      "url": "https://www.theverge.com/news/841503/android-emergency-live-video",
       "summary": "(要約準備中)"
     }
   ]
