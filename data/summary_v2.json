@@ -1,42 +1,42 @@
 [
   {
     "source": "VentureBeat",
-    "title": "Mistral launches powerful Devstral 2 coding model including open source, laptop-friendly version",
-    "summary": "フランスのAIスタートアップMistralは、企業やインディー開発者向けの新しいモデル、Devstral 2とDevstral Small 2を発表し、オープンソースの推進を強化しています。これらのモデルは特にソフトウェア開発タスクに最適化されており、プライベートに実行可能で、CLIツールVibeも併せて提供されています。Mistralのライセンス構造は異なる収益制限を持ち、大企業向けには制約があるため、個人開発者や小規模企業には利便性が高い選択肢となっています。",
-    "link": "https://venturebeat.com/ai/mistral-launches-powerful-devstral-2-coding-model-including-open-source",
+    "title": "The 70% factuality ceiling: why Google’s new ‘FACTS’ benchmark is a wake-up call for enterprise AI",
+    "summary": "GoogleのFACTS Benchmark Suiteが発表され、AIモデルの「事実性」を測定する新たな評価基準が導入されました。初期結果では、主要なモデルが70%の正確度を達成できず、特にマルチモーダルタスクでのパフォーマンスが低いことが示されています。このベンチマークは今後、企業のAI導入における重要な指標となる可能性があります。",
+    "link": "https://venturebeat.com/ai/the-70-factuality-ceiling-why-googles-new-facts-benchmark-is-a-wake-up-call",
     "category": "AI",
-    "publishedAt": "2025-12-10 15:24"
+    "publishedAt": "2025-12-11 10:11"
   },
   {
     "source": "VentureBeat",
-    "title": "Brand-context AI: The missing requirement for marketing AI",
-    "summary": "AIはマーケティングチームの業務に重要な役割を果たしているが、効果的な意思決定にはコンテキストが欠かせない。データを縦割りで管理するのではなく、横の視点で顧客洞察や競争状況を統合することで、AIはより信頼性の高い出力が得られる。最終的には、ブランドコンテキストに基づいたAIが、マーケティング戦略の質を向上させ、企業の成長を促進する。",
-    "link": "https://venturebeat.com/ai/brand-context-ai-the-missing-requirement-for-marketing-ai",
+    "title": "OpenAI report reveals a 6x productivity gap between AI power users and everyone else",
+    "summary": "AIツールは全社員に提供されているが、実際の利用には大きな格差が存在しており、特に高いAI利用率を持つ「フロンティア労働者」と一般的な従業員の間で顕著である。調査によると、積極的にAIを使う従業員は時間を大幅に節約しており、この差がキャリアの進展にも影響を与えている。一方で、形式的なAIプロジェクトが進展しない中、非公式にAIを活用している「シャドウAI」エコノミーが成長しており、AIの習慣的利用が成功の鍵となっている。",
+    "link": "https://venturebeat.com/ai/openai-report-reveals-a-6x-productivity-gap-between-ai-power-users-and",
     "category": "AI",
-    "publishedAt": "2025-12-10 15:24"
+    "publishedAt": "2025-12-11 10:11"
   },
   {
     "source": "NHK",
-    "title": "定数削減法案 高市首相“採決時期など 国会に委ねられる”",
-    "summary": "高市総理大臣は衆議院議員の定数削減法案について、立憲民主党からの質問に対し、国会での協議による審議日程や採決のタイミングが重要であると述べました。今の国会で法案が成立するかどうかは、今後の議論次第となります。総理大臣は、具体的な期限について答えることを避けました。",
-    "link": "http://www3.nhk.or.jp/news/html/20251210/k10014999811000.html",
-    "category": "その他",
-    "publishedAt": "2025-12-10 15:24"
+    "title": "企業に大胆な設備投資促す 新たな税制創設へ 政府・与党",
+    "summary": "来年度の税制改正で、政府・与党は企業の設備投資を促進するため、新しい税制を検討しています。具体的には、投資額の最大7％を法人税から差し引ける仕組みを導入する方向です。この施策により、企業の投資意欲を高める狙いがあります。",
+    "link": "http://www3.nhk.or.jp/news/html/20251210/k10015000431000.html",
+    "category": "経済",
+    "publishedAt": "2025-12-11 10:11"
   },
   {
     "source": "BBC",
-    "title": "Trump criticises 'decaying' European countries and 'weak' leaders",
-    "summary": "英国は、トランプが各国が移民を制御できず、ウクライナ戦争を終わらせる行動を取っていないと批判した後、ヨーロッパの「強さ」を称賛しました。これは、ヨーロッパが団結し、課題に立ち向かう力を示しているとの評価です。英国の発言は、トランプの意見とは対照的な立場を示しています。",
-    "link": "https://www.bbc.com/news/articles/clydlwldkvko?at_medium=RSS&at_campaign=rss",
+    "title": "Nobel Peace Prize winner's daughter accepts award on her behalf",
+    "summary": "ベネズエラの野党指導者マリア・コリーナ・マチャドが、隠れた生活を送りながらもオスロに向かっていると報じられました。彼女の訪問は、国際的な支持を求める動きの一環と考えられます。マチャドは、現政権に対抗する重要な人物とされている。",
+    "link": "https://www.bbc.com/news/articles/cwyv5gw95ypo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2025-12-10 15:24"
+    "publishedAt": "2025-12-11 10:11"
   },
   {
     "source": "NHK",
-    "title": "中国で日本関連のイベント 延期や中止の動き続く",
-    "summary": "日中関係の悪化に伴い、中国で日本関連のイベントが延期や中止される動きが続いています。これにより、日本と中国の文化交流が影響を受けています。両国の関係改善が求められています。",
-    "link": "http://www3.nhk.or.jp/news/html/20251210/k10014999951000.html",
+    "title": "ノーベル賞授賞式 坂口志文さんと北川進さんにメダル授与",
+    "summary": "2023年のノーベル賞授賞式がストックホルムで開催されました。生理学・医学賞を受賞した大阪大学の坂口志文さんと、化学賞を受賞した京都大学の北川進さんがスウェーデン国王からメダルと賞状を受け取りました。両氏の受賞は日本の研究界において大きな成果となりました。",
+    "link": "http://www3.nhk.or.jp/news/html/20251210/k10014999581000.html",
     "category": "その他",
-    "publishedAt": "2025-12-10 15:24"
+    "publishedAt": "2025-12-11 10:11"
   }
 ]
