@@ -1,12 +1,6 @@
 {
-  "updatedAt": "2025-12-11T13:07:11.182Z",
+  "updatedAt": "2025-12-11T18:48:17.258Z",
   "top": [
-    {
-      "source": "BBC World",
-      "title": "Venezuelan Nobel winner emerges to collect prize in Oslo after months in hiding",
-      "url": "https://www.bbc.com/news/articles/c0q5p43qgl1o?at_medium=RSS&at_campaign=rss",
-      "summary": "María Corina Machado speaks to the BBC after her secret journey from her home country."
-    },
     {
       "source": "BBC World",
       "title": "US seizes oil tanker off Venezuela as Caracas condemns 'act of piracy'",
@@ -15,9 +9,27 @@
     },
     {
       "source": "BBC World",
-      "title": "Indigenous deaths in custody in Australia hit highest level since 1980",
-      "url": "https://www.bbc.com/news/articles/ckgkykywp58o?at_medium=RSS&at_campaign=rss",
-      "summary": "New figures show that 33 of the 113 deaths in custody between last July and this June were Indigenous"
+      "title": "From Iran to China to Venezuela - how tanker seized by US hid true location",
+      "url": "https://www.bbc.com/news/articles/cy8jvll9j81o?at_medium=RSS&at_campaign=rss",
+      "summary": "A seized tanker accused of smuggling sanctioned oil has long hidden its true location. BBC Verify examines how. "
+    },
+    {
+      "source": "BBC World",
+      "title": "Austria bans headscarves in schools for under-14s",
+      "url": "https://www.bbc.com/news/articles/cn4djk0jj4xo?at_medium=RSS&at_campaign=rss",
+      "summary": "A similar ban for girls under 10 was struck down by the Constitutional Court for specifically targeting Muslims."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "OpenAI makes $1bn deal to bring Disney characters to ChatGPT and Sora",
+      "url": "https://www.bbc.com/news/articles/c5ydp1gdqwqo?at_medium=RSS&at_campaign=rss",
+      "summary": "The agreement will let fans generate videos and images of more than 200 Disney characters."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "'Architects of AI' named Time Magazine's Person of the Year",
+      "url": "https://www.bbc.com/news/articles/cly01mdm577o?at_medium=RSS&at_campaign=rss",
+      "summary": "Nvidia boss Jensen Huang is among the influential tech figures that adorn one of the two covers."
     },
     {
       "source": "BBC Technology",
@@ -26,42 +38,30 @@
       "summary": "The cloud computing giant's revenue miss renews questions about its financial health."
     },
     {
-      "source": "BBC Technology",
-      "title": "Porn company starts new age checks after £1m Ofcom fine",
-      "url": "https://www.bbc.com/news/articles/c0mpx9yn831o?at_medium=RSS&at_campaign=rss",
-      "summary": "The media regulator Ofcom said AVS Group Ltd had started age checks on some of its porn websites."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "McDonald's Netherlands pulls AI Christmas ad after backlash",
-      "url": "https://www.bbc.com/news/articles/czdgrnvp082o?at_medium=RSS&at_campaign=rss",
-      "summary": "McDonald's said the moment served as \"an important learning\" as it explored \"the effective use of AI\"."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "The Game Awards are losing their luster",
+        "#text": "I tested a bunch of Switch 2 screen protectors, and these are the best",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/841710/the-game-awards-2025-preview-geoff-keighley",
+      "url": "https://www.theverge.com/reviews/694948/best-switch-2-glass-screen-protector-glossy-matte",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Adobe sees a bright future as AI bet pays off",
+        "#text": "Hoto’s new PixelDrive electric screwdriver is on sale for the first time",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/842256/adobe-2025-earnings-ai-growth",
+      "url": "https://www.theverge.com/gadgets/842687/hoto-pixeldrive-electric-screwdriver-deal-sale",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Ayaneo’s first Android phone looks like a return of the Xperia Play",
+        "#text": "Google is building an experimental new browser and a new kind of web app",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/842243/ayaneo-pocket-play-gaming-phone-android-sony-xperia-play",
+      "url": "https://www.theverge.com/tech/842000/google-disco-browser-ai-experiment",
       "summary": "(要約準備中)"
     }
   ]
