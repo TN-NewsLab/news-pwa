@@ -20,7 +20,7 @@ async function loadNews() {
     //     → script.js 本来の createNewsCard をそのまま活かす
     // ----------------------------------------
     const section = document.createElement("section");
-    section.innerHTML = `<h1 class="section-title">ニュース</h1>`;
+    section.innerHTML = `<h1 class="section-title">${currentCategory}</h1>`;
 
     articles.forEach(a => {
       // publishedAt / url / category がないので安全に埋める
@@ -29,9 +29,8 @@ async function loadNews() {
         summary: a.summary || "",
         source: a.source || "unknown",
         tag: convertCategoryName(a.category) || "その他",
-        url: a.url || a.link || "#",  // ← 追加した！重要！
-        // publishedAt: a.timestamp || ""// placeholder の timestamp を使用
-        publishedAt: a.publishedAt || ""
+        url: a.url || a.link || "#",      // ← 追加した！重要！
+        publishedAt: a.publishedAt || ""  // placeholder の timestamp を使用
       };
 
       section.appendChild(createNewsCard(safeArticle));
@@ -101,6 +100,13 @@ function setupTagFilter() {
       // アクティブな見た目を更新
       buttons.forEach((btn) => btn.classList.remove("is-active"));
       button.classList.add("is-active");
+
+      // セクションタイトル（青いバー）
+      const titleEl = document.querySelector(".section-title");
+      if (titleEl) {
+        titleEl.textContent =
+          selectedTag === "all" ? "ニュース" : selectedTag;
+      }
 
       // カードの表示/非表示を切り替え
       cards.forEach((card) => {
