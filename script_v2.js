@@ -1,3 +1,5 @@
+let currentCategory = "ニュース";
+
 async function loadNews() {
   const container = document.getElementById("news-container");
   container.innerHTML = "<p>読み込み中...</p>";
