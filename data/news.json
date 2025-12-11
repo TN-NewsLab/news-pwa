@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2025-12-10T18:46:14.568Z",
+  "updatedAt": "2025-12-11T02:23:55.178Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "US could ask foreign tourists for five-year social media history before entry",
-      "url": "https://www.bbc.com/news/articles/c1dz0g2ykpeo?at_medium=RSS&at_campaign=rss",
-      "summary": "The plan would affect people from countries, including the UK, who can fill out a form in lieu of a visa."
+      "title": "Venezuelan opposition leader makes first public appearance after months in hiding",
+      "url": "https://www.bbc.com/news/articles/c0q5p43qgl1o?at_medium=RSS&at_campaign=rss",
+      "summary": " Nobel Peace Prize winner María Corina Machado, who has been in hiding since January, arrives in Oslo after a secretive journey."
     },
     {
       "source": "BBC World",
-      "title": "Ukraine at critical moment, European leaders say after Trump call",
-      "url": "https://www.bbc.com/news/articles/c5y20p7xweko?at_medium=RSS&at_campaign=rss",
-      "summary": "\"Intensive work\" is continuing, the leaders of Britain, France and Germany say after a joint call with Donald Trump."
+      "title": "US seizes oil tanker off the coast of Venezuela, Trump says",
+      "url": "https://www.bbc.com/news/articles/c1w9lg11jw0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Venezuela condemns the operation as an act of \"international piracy\", vowing never to be an \"oil colony\"."
     },
     {
       "source": "BBC World",
@@ -21,47 +21,47 @@
     },
     {
       "source": "BBC Technology",
+      "title": "Oracle shares slide as earnings fail to ease AI bubble fears",
+      "url": "https://www.bbc.com/news/articles/c9qe1e374l1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The cloud computing giant's revenue miss renews questions about its financial health."
+    },
+    {
+      "source": "BBC Technology",
       "title": "Porn company starts new age checks after £1m Ofcom fine",
       "url": "https://www.bbc.com/news/articles/c0mpx9yn831o?at_medium=RSS&at_campaign=rss",
       "summary": "The media regulator Ofcom said AVS Group Ltd had started age checks on some of its porn websites."
     },
     {
       "source": "BBC Technology",
-      "title": "McDonald's pulls AI Christmas ad after backlash",
+      "title": "McDonald's Netherlands pulls AI Christmas ad after backlash",
       "url": "https://www.bbc.com/news/articles/czdgrnvp082o?at_medium=RSS&at_campaign=rss",
       "summary": "McDonald's said the moment served as \"an important learning\" as it explored \"the effective use of AI\"."
     },
     {
-      "source": "BBC Technology",
-      "title": "People spending even more time online now than during the pandemic",
-      "url": "https://www.bbc.com/news/articles/c39prelx2mxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The survey found people in the UK spent on average four hours and 30 minutes online every day in 2025"
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Meta might charge for a future AI model",
+        "#text": "Donald Trump reminds the entire world he has no idea what 6G means",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/841809/meta-avocado-ai-model-charge-open-source-mark-zuckerberg",
+      "url": "https://www.theverge.com/policy/842087/trump-does-not-understand-6g-5g",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The 27 best gifts for travelers who are always on the move",
+        "#text": "Trump could introduce ‘mandatory’ social media reviews for travelers",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/799419/best-gifts-for-travelers-2025",
+      "url": "https://www.theverge.com/news/842129/trump-admin-us-cbp-social-media-history-travelers",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Android users can now share a live video on 911 calls",
+        "#text": "Spotify&#8217;s Prompted Playlists use AI to control your algorithm",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/841503/android-emergency-live-video",
+      "url": "https://www.theverge.com/news/842053/spotify-ai-prompted-playlists",
       "summary": "(要約準備中)"
     }
   ]
