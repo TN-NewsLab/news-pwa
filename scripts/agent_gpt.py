@@ -88,7 +88,7 @@ def summarize(text, title=""):
     if isinstance(content, str):
         return content
 
-    # content が配列（MessageContent）で返る場合
+    # content が配列（MessageContent）で返る場合（将来の仕様変更対策）
     if isinstance(content, list) and len(content) > 0:
         first = content[0]
         # text属性を持つタイプ
@@ -101,7 +101,71 @@ def summarize(text, title=""):
     # それでもダメなら、とりあえず文字列化して返す
     return str(content)
 
- # ********** カテゴリ判定 **********
+# ********** 英語タイトル＆要約 → 日本語翻訳 **********
+def translate_to_japanese(title_en: str, summary_en: str):
+    """
+    VentureBeat / BBC など英語記事専用。
+    タイトルと要約をまとめて日本語ニュース文体に翻訳する。
+    うまくパースできなければ、元の英語をそのまま返す。
+    """
+    system_prompt = (
+        "You are a professional Japanese news editor.\n"
+        "Translate the provided English title and summary into clear, natural Japanese "
+        "suitable for news readers. Preserve meaning strictly, avoid embellishment, "
+        "and maintain factual accuracy.\n"
+        "Return the result as JSON with keys: title_ja, summary_ja."
+    )
+
+    user_prompt = f"""
+Translate the following text into Japanese.
+
+Title:
+{title_en}
+
+Summary:
+{summary_en}
+""".strip()
+
+    res = client.chat.completions.create(
+        model="gpt-4o-mini",
+        messages=[
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": user_prompt}
+        ]
+    )
+
+    content = res.choices[0].message.content
+
+    if not isinstance(content, str):
+        content = str(content)
+
+    text = content.strip()
+
+    # ```json ～ ``` で返ってきた場合のケア
+    if text.startswith("```"):
+        lines = text.splitlines()
+        # コードフェンス行を削る
+        lines = [l for l in lines if not l.strip().startswith("```")]
+        text = "\n".join(lines).strip()
+
+    title_ja = title_en
+    summary_ja = summary_en
+
+    try:
+        data = json.loads(text)
+        t = data.get("title_ja")
+        s = data.get("summary_ja")
+        if isinstance(t, str) and t.strip():
+            title_ja = t.strip()
+        if isinstance(s, str) and s.strip():
+            summary_ja = s.strip()
+    except Exception as e:
+        print("⚠️ 翻訳結果のJSONパースに失敗:", e)
+        print("  返却テキスト:", text[:200], "...")
+
+    return title_ja, summary_ja
+
+# ********** カテゴリ判定 **********
 def classify_category(title, summary, initial_category):
     text = (title + " " + summary).lower()
 
@@ -166,7 +230,6 @@ def main():
         # --- AIカテゴリは 2件ロジック ---
         if category == "ai":
             entries = fetch_rss_ai_multiple(info["url"], max_items=2)
-
         else:
             # --- それ以外のカテゴリは通常1件 ---
             entry = fetch_rss(info["url"])
@@ -184,26 +247,38 @@ def main():
             print(f"🧠 [{info['source']}] 要約中...")
             summary = summarize(description, title)
 
+            # ★ 英語記事（VentureBeat / BBC）のみ日本語翻訳をかける
+            title_ja = title
+            summary_ja = summary
+            title_en = ""
+            summary_en = ""
+
+            if info["source"] in ["VentureBeat", "BBC"]:
+                title_en = title
+                summary_en = summary
+                print(f"🌐 [{info['source']}] 日本語翻訳中...")
+                title_ja, summary_ja = translate_to_japanese(title_en, summary_en)
+
+            # カテゴリ判定は従来どおり「元のタイトル＋要約」で行う
             category_final = classify_category(title, summary, category)
 
             timestamp = format_timestamp(entry)
 
             output_items.append({
                 "source": info['source'],
-                "title": title,
-                "summary": summary,
+                "title": title_ja,        # 日本語タイトル
+                "title_en": title_en,     # 英語タイトル（英語記事のみ、それ以外は空文字）
+                "summary": summary_ja,    # 日本語要約
+                "summary_en": summary_en, # 英語要約（英語記事のみ、それ以外は空文字）
                 "link": link,
                 "category": category_final,
                 "publishedAt": timestamp
             })
 
-    output = output_items
-
     with open(DATA_PATH, "w", encoding="utf-8") as f:
-        json.dump(output, f, ensure_ascii=False, indent=2)
+        json.dump(output_items, f, ensure_ascii=False, indent=2)
 
-    print("\n✅ 複数ニュースまとめて summary.json を生成しました！")
+    print(f"\n✅ 複数ニュースまとめて {os.path.basename(DATA_PATH)} を生成しました！")
 
 if __name__ == "__main__":
     main()
-
