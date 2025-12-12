@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2025-12-12T02:23:47.450Z",
+  "updatedAt": "2025-12-12T06:49:41.022Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Flood misery for Gazans awaiting next stage of peace plan",
+      "url": "https://www.bbc.com/news/articles/c2lvplrxpe9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Gazans in tents have been hit by heavy rain as failure to find last Israeli hostage risks derailing peace plan."
+    },
+    {
+      "source": "BBC World",
+      "title": "Indiana Republicans defy Trump to reject new voting map",
+      "url": "https://www.bbc.com/news/articles/cgqzzy03p59o?at_medium=RSS&at_campaign=rss",
+      "summary": "Some say they were targeted with death threats and other forms of intimidation over the vote."
+    },
     {
       "source": "BBC World",
       "title": "US sanctions six more ships after seizing oil tanker off Venezuela",
@@ -8,16 +20,10 @@
       "summary": "The White House plans to move the tanker to a US port and seize the oil on board, a move Caracas has labelled as an act of \"international piracy\"."
     },
     {
-      "source": "BBC World",
-      "title": "Tricked, abducted and abused: Inside China's schools for 'rebellious' teens",
-      "url": "https://www.bbc.com/news/articles/c5y2qd1795yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Young people tell the BBC that military-style schools deceive and abuse students they claim to help."
-    },
-    {
-      "source": "BBC World",
-      "title": "Chief of S Korea's high-stakes exam quits over 'insane' English test",
-      "url": "https://www.bbc.com/news/articles/c3w792x0ggyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Some critics say the questions were unnecessarily complex, while others argue that's their intended purpose."
+      "source": "BBC Technology",
+      "title": "Trump signs order to block states from enforcing own AI rules",
+      "url": "https://www.bbc.com/news/articles/crmddnge9yro?at_medium=RSS&at_campaign=rss",
+      "summary": "California's governor Gavin Newsom issued a strongly-worded statement in response to the executive order."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "The agreement will let fans generate videos and images of more than 200 Disney characters."
     },
     {
-      "source": "BBC Technology",
-      "title": "Reddit launches High Court challenge to Australia's social media ban for kids",
-      "url": "https://www.bbc.com/news/articles/clykk2yrl9ko?at_medium=RSS&at_campaign=rss",
-      "summary": "It said the landmark policy has serious implications for Australians' privacy and political rights."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Control’s action-RPG sequel launches in 2026",
+        "#text": "Tomb Raider announces two new games",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/841950/control-resonant-sequel-announce-ps5-xbox-steam",
+      "url": "https://www.theverge.com/games/843260/tomb-raider-catalyst-trailer-tomb-raider-atlantis",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The next Star Wars game is the spiritual successor to Knights of the Old Republic",
+        "#text": "The best Christmas gifts we love under $50",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/843188/star-wars-fate-of-the-old-republic-casey-hudson",
+      "url": "https://www.theverge.com/gadgets/802969/best-gifts-under-50-2025",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Trump signs AI executive order pushing to ban state laws",
+        "#text": "Tim Sweeney on the future of Fortnite after another win over Apple",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/841817/trump-signs-ai-executive-order-pushing-to-ban-state-laws",
+      "url": "https://www.theverge.com/news/843265/apple-epic-games-tim-sweeney-interview",
       "summary": "(要約準備中)"
     }
   ]
