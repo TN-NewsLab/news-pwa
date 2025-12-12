@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "70%の事実性の限界：Googleの新しい「FACTS」ベンチマークが企業AIに警鐘を鳴らす理由",
-    "title_en": "The 70% factuality ceiling: why Google’s new ‘FACTS’ benchmark is a wake-up call for enterprise AI",
-    "summary": "GoogleのFACTSチームとKaggleは、AIモデルの事実性を評価するためのFACTS Benchmark Suiteを発表しました。初期結果では、どのモデルも70%の精度を突破できず、特にマルチモーダルタスクのスコアが低いことが懸念されています。この評価指標は、企業や開発者がAIの信頼性を確保する上での基準として重要になるでしょう。",
-    "summary_en": "GoogleのFACTSチームとKaggleは、AIモデルの事実性を評価するためのFACTS Benchmark Suiteを発表しました。初期結果では、どのモデルも70%の精度を突破できず、特にマルチモーダルタスクのスコアが低いことが懸念されています。この評価指標は、企業や開発者がAIの信頼性を確保する上での基準として重要になるでしょう。",
-    "link": "https://venturebeat.com/ai/the-70-factuality-ceiling-why-googles-new-facts-benchmark-is-a-wake-up-call",
+    "title": "GPT-5.2の初印象：特にビジネス業務やワークフローに強力なアップデート",
+    "title_en": "GPT-5.2 first impressions: a powerful update, especially for business tasks and workflows",
+    "summary": "OpenAIがGPT-5.2を正式に発表し、深い自立的な推論やコーディングにおいては大きな進化を遂げたが、カジュアルな会話機能では物足りなさが感じられるとの反応がある。特に企業利用ではパフォーマンスの向上が確認され、GPT-5.2は複雑なタスクに対する高速処理や精度が向上している。一方で、ユーザーからは速度や柔軟性に関する批判も寄せられており、パワーユーザー向けのツールとして評価される一方で、クリエイティブな用途には他のモデルの方が優れているとの意見もある。",
+    "summary_en": "OpenAIがGPT-5.2を正式に発表し、深い自立的な推論やコーディングにおいては大きな進化を遂げたが、カジュアルな会話機能では物足りなさが感じられるとの反応がある。特に企業利用ではパフォーマンスの向上が確認され、GPT-5.2は複雑なタスクに対する高速処理や精度が向上している。一方で、ユーザーからは速度や柔軟性に関する批判も寄せられており、パワーユーザー向けのツールとして評価される一方で、クリエイティブな用途には他のモデルの方が優れているとの意見もある。",
+    "link": "https://venturebeat.com/ai/gpt-5-2-first-impressions-a-powerful-update-especially-for-business-tasks",
     "category": "AI",
-    "publishedAt": "2025-12-11 17:46"
+    "publishedAt": "2025-12-12 16:36"
   },
   {
     "source": "VentureBeat",
-    "title": "OpenAIの報告が示すAIパワーユーザーと他者の間にある6倍の生産性格差",
-    "title_en": "OpenAI report reveals a 6x productivity gap between AI power users and everyone else",
-    "summary": "新しいOpenAIの報告によると、AIの利用には大きな格差が存在し、最も使用頻度の高い従業員は平均的な同僚の6倍のメッセージを送信している。この格差は、AIを日常の習慣として使いこなす人とそうでない人の間に生じており、その結果生産性やスキルの差を生む。企業全体でも同様の分断が生じており、一部の企業はAIを戦略的に取り入れて成功している一方で、多くの企業は未だに試行段階から抜け出せていない。",
-    "summary_en": "新しいOpenAIの報告によると、AIの利用には大きな格差が存在し、最も使用頻度の高い従業員は平均的な同僚の6倍のメッセージを送信している。この格差は、AIを日常の習慣として使いこなす人とそうでない人の間に生じており、その結果生産性やスキルの差を生む。企業全体でも同様の分断が生じており、一部の企業はAIを戦略的に取り入れて成功している一方で、多くの企業は未だに試行段階から抜け出せていない。",
-    "link": "https://venturebeat.com/ai/openai-report-reveals-a-6x-productivity-gap-between-ai-power-users-and",
+    "title": "OpenAIのGPT-5.2が登場：企業が知っておくべきこと",
+    "title_en": "OpenAI's GPT-5.2 is here: what enterprises need to know",
+    "summary": "OpenAIが新たに発表した言語モデル「GPT-5.2」は、プロフェッショナル向けの知的作業に特化し、推論やコーディング能力において大きな進歩を遂げています。モデルは400,000トークンのコンテキストウィンドウと128,000トークンの最大出力を持ち、複雑なプロジェクトにも対応可能です。また、リリースは競合の圧力を受けた中で行われたが、OpenAIは事前に計画されていたと強調しています。",
+    "summary_en": "OpenAIが新たに発表した言語モデル「GPT-5.2」は、プロフェッショナル向けの知的作業に特化し、推論やコーディング能力において大きな進歩を遂げています。モデルは400,000トークンのコンテキストウィンドウと128,000トークンの最大出力を持ち、複雑なプロジェクトにも対応可能です。また、リリースは競合の圧力を受けた中で行われたが、OpenAIは事前に計画されていたと強調しています。",
+    "link": "https://venturebeat.com/ai/openais-gpt-5-2-is-here-what-enterprises-need-to-know",
     "category": "AI",
-    "publishedAt": "2025-12-11 17:46"
+    "publishedAt": "2025-12-12 16:36"
   },
   {
     "source": "NHK",
-    "title": "米関税政策 海外進出の日本製造業 “半数以上がマイナス影響”",
+    "title": "アスクル 個人情報流出は73万件余り 10月にサイバー攻撃",
     "title_en": "",
-    "summary": "アメリカの関税政策が、日本の製造業に悪影響を及ぼしているとの調査結果が発表されました。調査によれば、海外展開している日本の製造業の半数以上がマイナスの影響を受けています。政府系金融機関がこの調査をまとめました。",
+    "summary": "通販大手のアスクルは、10月に発生したサイバー攻撃の結果、73万件余りの個人情報が流出したと発表しました。流出したデータには、通販サイトを利用した顧客の電話番号が含まれています。現在、システム障害の調査が進められています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20251211/k10015001121000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20251212/k10015001821000.html",
     "category": "その他",
-    "publishedAt": "2025-12-11 17:46"
+    "publishedAt": "2025-12-12 16:36"
   },
   {
     "source": "BBC",
-    "title": "ベネズエラのノーベル受賞者が数ヶ月の隠遁生活を経てオスロで賞を受け取る",
-    "title_en": "Venezuelan Nobel winner emerges to collect prize in Oslo after months in hiding",
-    "summary": "マリア・コリーナ・マチャドがオスロでBBCに対して語ったのは、彼女の母国からの秘密の旅についてです。彼女は、政治的な抑圧や困難に直面する中での自身の経験を共有しました。彼女の発言は、ベネズエラの現状と人権問題に焦点を当てています。",
-    "summary_en": "マリア・コリーナ・マチャドがオスロでBBCに対して語ったのは、彼女の母国からの秘密の旅についてです。彼女は、政治的な抑圧や困難に直面する中での自身の経験を共有しました。彼女の発言は、ベネズエラの現状と人権問題に焦点を当てています。",
-    "link": "https://www.bbc.com/news/articles/c0q5p43qgl1o?at_medium=RSS&at_campaign=rss",
+    "title": "和平計画の次の段階を待つガザの人々に襲いかかる洪水の苦境",
+    "title_en": "Flood misery for Gazans awaiting next stage of peace plan",
+    "summary": "ガザのテントに住む人々が激しい雨に見舞われている。最後のイスラエル人人質の発見が難航しており、和平計画が危機に瀕している。これにより、地域の状況がさらに悪化する可能性がある。",
+    "summary_en": "ガザのテントに住む人々が激しい雨に見舞われている。最後のイスラエル人人質の発見が難航しており、和平計画が危機に瀕している。これにより、地域の状況がさらに悪化する可能性がある。",
+    "link": "https://www.bbc.com/news/articles/c2lvplrxpe9o?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2025-12-11 17:46"
+    "publishedAt": "2025-12-12 16:36"
   },
   {
     "source": "NHK",
-    "title": "ノーベル賞授賞式 坂口志文さんと北川進さんにメダル授与",
+    "title": "ことしの世相を表す漢字は「熊」",
     "title_en": "",
-    "summary": "2023年のノーベル賞授賞式がストックホルムで行われ、大阪大学の坂口志文さんと京都大学の北川進さんがそれぞれ生理学・医学賞と化学賞を受賞しました。二人はスウェーデン国王からメダルと賞状を贈られました。日本からの受賞者を祝う素晴らしい瞬間となりました。",
+    "summary": "2025年「今年の漢字」は京都・清水寺で発表され、全国で熊の出没や被害拡大が注目されたことから「熊」が選ばれました。応募総数約18万9千票のうち約2万3千票を集めて1位となり、パンダ返還も話題に。2位は「米」、3位は「高」で、物価高騰や女性初の総理誕生、大阪・関西万博関連の漢字も上位に入りました。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20251210/k10014999581000.html",
+    "link": "https://news.web.nhk/newsweb/na/na-k10015001831000",
     "category": "その他",
-    "publishedAt": "2025-12-11 17:46"
+    "publishedAt": "2025-12-12 16:36"
   }
 ]
