@@ -1,23 +1,35 @@
 {
-  "updatedAt": "2025-12-12T06:49:41.022Z",
+  "updatedAt": "2025-12-12T13:04:22.076Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Flood misery for Gazans awaiting next stage of peace plan",
+      "title": "Germany accuses Russia of 2024 cyber-attack and disinformation",
+      "url": "https://www.bbc.com/news/articles/cvgrrnylzzyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Russian ambassador is summoned over a cyber attack on air traffic control and attempted electoral interference. "
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump's Gaza peace plan struggles to progress as Israel and Hamas face tough choices",
       "url": "https://www.bbc.com/news/articles/c2lvplrxpe9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Gazans in tents have been hit by heavy rain as failure to find last Israeli hostage risks derailing peace plan."
+      "summary": "Getting both sides to move onto the second stage is a huge challenge for Washington, as Gazans continue to suffer the longer it takes."
     },
     {
       "source": "BBC World",
-      "title": "Indiana Republicans defy Trump to reject new voting map",
-      "url": "https://www.bbc.com/news/articles/cgqzzy03p59o?at_medium=RSS&at_campaign=rss",
-      "summary": "Some say they were targeted with death threats and other forms of intimidation over the vote."
+      "title": "Clair Obscur sweeps The Game Awards with nine wins",
+      "url": "https://www.bbc.com/news/articles/c1kpwmezkpdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The French-made role-playing game is named game of the year on a night of prizes and announcements."
     },
     {
-      "source": "BBC World",
-      "title": "US sanctions six more ships after seizing oil tanker off Venezuela",
-      "url": "https://www.bbc.com/news/articles/cz688jp90epo?at_medium=RSS&at_campaign=rss",
-      "summary": "The White House plans to move the tanker to a US port and seize the oil on board, a move Caracas has labelled as an act of \"international piracy\"."
+      "source": "BBC Technology",
+      "title": "Creative industries 'incredibly worried' about OpenAI-Disney deal ",
+      "url": "https://www.bbc.com/news/articles/c5ydp1gdqwqo?at_medium=RSS&at_campaign=rss",
+      "summary": "The $1bn deal will let fans generate videos and images of more than 200 Disney characters on ChatGPT and Sora."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Clair Obscur sweeps The Game Awards with nine wins",
+      "url": "https://www.bbc.com/news/articles/c1kpwmezkpdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The French-made role-playing game is named game of the year on a night of prizes and announcements."
     },
     {
       "source": "BBC Technology",
@@ -26,16 +38,22 @@
       "summary": "California's governor Gavin Newsom issued a strongly-worded statement in response to the executive order."
     },
     {
-      "source": "BBC Technology",
-      "title": "Crypto fraudster sentenced for 'epic' $40bn stablecoin crash",
-      "url": "https://www.bbc.com/news/articles/ckgmm92d213o?at_medium=RSS&at_campaign=rss",
-      "summary": "In August, Do Kwon pleaded guilty to conspiracy to defraud and wire fraud and apologised for his actions."
+      "source": "The Verge",
+      "title": {
+        "#text": "The Pluribus apocalypse gets a little quieter",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/entertainment/842614/pluribus-episode-7-recap-discussion",
+      "summary": "(要約準備中)"
     },
     {
-      "source": "BBC Technology",
-      "title": "OpenAI makes $1bn deal to bring Disney characters to ChatGPT and Sora",
-      "url": "https://www.bbc.com/news/articles/c5ydp1gdqwqo?at_medium=RSS&at_campaign=rss",
-      "summary": "The agreement will let fans generate videos and images of more than 200 Disney characters."
+      "source": "The Verge",
+      "title": {
+        "#text": "My defense of a $40 cable paperweight – I’m sorry",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/tech/843386/review-cable-paperweight-native-union-weighter",
+      "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
@@ -44,24 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/games/843260/tomb-raider-catalyst-trailer-tomb-raider-atlantis",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "The best Christmas gifts we love under $50",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/gadgets/802969/best-gifts-under-50-2025",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Tim Sweeney on the future of Fortnite after another win over Apple",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/news/843265/apple-epic-games-tim-sweeney-interview",
       "summary": "(要約準備中)"
     }
   ]
