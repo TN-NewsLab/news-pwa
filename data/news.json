@@ -1,67 +1,67 @@
 {
-  "updatedAt": "2025-12-11T06:50:41.938Z",
+  "updatedAt": "2025-12-12T06:49:41.022Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Venezuelan opposition leader makes first public appearance after months in hiding",
-      "url": "https://www.bbc.com/news/articles/c0q5p43qgl1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Nobel Peace Prize winner María Corina Machado, who has been in hiding since January, speaks to the BBC in Oslo after her secretive journey."
+      "title": "Flood misery for Gazans awaiting next stage of peace plan",
+      "url": "https://www.bbc.com/news/articles/c2lvplrxpe9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Gazans in tents have been hit by heavy rain as failure to find last Israeli hostage risks derailing peace plan."
     },
     {
       "source": "BBC World",
-      "title": "US seizes oil tanker off the coast of Venezuela, Trump says",
-      "url": "https://www.bbc.com/news/articles/c1w9lg11jw0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Venezuela condemns the operation as an act of \"international piracy\", vowing never to be an \"oil colony\"."
+      "title": "Indiana Republicans defy Trump to reject new voting map",
+      "url": "https://www.bbc.com/news/articles/cgqzzy03p59o?at_medium=RSS&at_campaign=rss",
+      "summary": "Some say they were targeted with death threats and other forms of intimidation over the vote."
     },
     {
       "source": "BBC World",
-      "title": "Indigenous deaths in custody in Australia hit highest level since 1980",
-      "url": "https://www.bbc.com/news/articles/ckgkykywp58o?at_medium=RSS&at_campaign=rss",
-      "summary": "New figures show that 33 of the 113 deaths in custody between last July and this June were Indigenous"
+      "title": "US sanctions six more ships after seizing oil tanker off Venezuela",
+      "url": "https://www.bbc.com/news/articles/cz688jp90epo?at_medium=RSS&at_campaign=rss",
+      "summary": "The White House plans to move the tanker to a US port and seize the oil on board, a move Caracas has labelled as an act of \"international piracy\"."
     },
     {
       "source": "BBC Technology",
-      "title": "Oracle shares slide as earnings fail to ease AI bubble fears",
-      "url": "https://www.bbc.com/news/articles/c9qe1e374l1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The cloud computing giant's revenue miss renews questions about its financial health."
+      "title": "Trump signs order to block states from enforcing own AI rules",
+      "url": "https://www.bbc.com/news/articles/crmddnge9yro?at_medium=RSS&at_campaign=rss",
+      "summary": "California's governor Gavin Newsom issued a strongly-worded statement in response to the executive order."
     },
     {
       "source": "BBC Technology",
-      "title": "Porn company starts new age checks after £1m Ofcom fine",
-      "url": "https://www.bbc.com/news/articles/c0mpx9yn831o?at_medium=RSS&at_campaign=rss",
-      "summary": "The media regulator Ofcom said AVS Group Ltd had started age checks on some of its porn websites."
+      "title": "Crypto fraudster sentenced for 'epic' $40bn stablecoin crash",
+      "url": "https://www.bbc.com/news/articles/ckgmm92d213o?at_medium=RSS&at_campaign=rss",
+      "summary": "In August, Do Kwon pleaded guilty to conspiracy to defraud and wire fraud and apologised for his actions."
     },
     {
       "source": "BBC Technology",
-      "title": "McDonald's Netherlands pulls AI Christmas ad after backlash",
-      "url": "https://www.bbc.com/news/articles/czdgrnvp082o?at_medium=RSS&at_campaign=rss",
-      "summary": "McDonald's said the moment served as \"an important learning\" as it explored \"the effective use of AI\"."
+      "title": "OpenAI makes $1bn deal to bring Disney characters to ChatGPT and Sora",
+      "url": "https://www.bbc.com/news/articles/c5ydp1gdqwqo?at_medium=RSS&at_campaign=rss",
+      "summary": "The agreement will let fans generate videos and images of more than 200 Disney characters."
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Donald Trump reminds the entire world he has no idea what 6G means",
+        "#text": "Tomb Raider announces two new games",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/842087/trump-does-not-understand-6g-5g",
+      "url": "https://www.theverge.com/games/843260/tomb-raider-catalyst-trailer-tomb-raider-atlantis",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Trump could introduce ‘mandatory’ social media reviews for travelers",
+        "#text": "The best Christmas gifts we love under $50",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/842129/trump-admin-us-cbp-social-media-history-travelers",
+      "url": "https://www.theverge.com/gadgets/802969/best-gifts-under-50-2025",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Spotify&#8217;s Prompted Playlists use AI to control your algorithm",
+        "#text": "Tim Sweeney on the future of Fortnite after another win over Apple",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/842053/spotify-ai-prompted-playlists",
+      "url": "https://www.theverge.com/news/843265/apple-epic-games-tim-sweeney-interview",
       "summary": "(要約準備中)"
     }
   ]
