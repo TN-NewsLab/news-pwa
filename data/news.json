@@ -1,11 +1,17 @@
 {
-  "updatedAt": "2025-12-12T13:04:22.076Z",
+  "updatedAt": "2025-12-12T18:47:56.643Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Germany accuses Russia of 2024 cyber-attack and disinformation",
+      "title": "Germany accuses Russia of air traffic control cyber-attack",
       "url": "https://www.bbc.com/news/articles/cvgrrnylzzyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Russian ambassador is summoned over a cyber attack on air traffic control and attempted electoral interference. "
+      "summary": "The Russian ambassador is summoned over a cyber-attack on air traffic control and attempted electoral interference. "
+    },
+    {
+      "source": "BBC World",
+      "title": "EU backs indefinite freeze on Russia's frozen cash ahead of big loan plan for Ukraine",
+      "url": "https://www.bbc.com/news/articles/c98nnd01g91o?at_medium=RSS&at_campaign=rss",
+      "summary": "After almost four years of Russia's full-scale war, Kyiv is running out of cash, and needs an estimated €135.7bn over the next two years."
     },
     {
       "source": "BBC World",
@@ -14,10 +20,10 @@
       "summary": "Getting both sides to move onto the second stage is a huge challenge for Washington, as Gazans continue to suffer the longer it takes."
     },
     {
-      "source": "BBC World",
-      "title": "Clair Obscur sweeps The Game Awards with nine wins",
-      "url": "https://www.bbc.com/news/articles/c1kpwmezkpdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The French-made role-playing game is named game of the year on a night of prizes and announcements."
+      "source": "BBC Technology",
+      "title": "Amazon pulls AI recap from Fallout TV show after it made several mistakes",
+      "url": "https://www.bbc.com/news/articles/c3r77j5nze5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The errors included getting dialogue wrong and incorrectly claiming a scene was set 100 years earlier than it was."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "The French-made role-playing game is named game of the year on a night of prizes and announcements."
     },
     {
-      "source": "BBC Technology",
-      "title": "Trump signs order to block states from enforcing own AI rules",
-      "url": "https://www.bbc.com/news/articles/crmddnge9yro?at_medium=RSS&at_campaign=rss",
-      "summary": "California's governor Gavin Newsom issued a strongly-worded statement in response to the executive order."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "The Pluribus apocalypse gets a little quieter",
+        "#text": "The best gifts for dads that have everything (but deserve more)",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/842614/pluribus-episode-7-recap-discussion",
+      "url": "https://www.theverge.com/gadgets/780847/best-dad-gift-ideas",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "My defense of a $40 cable paperweight – I’m sorry",
+        "#text": "The 34 best gifts that your teen will actually use",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/843386/review-cable-paperweight-native-union-weighter",
+      "url": "https://www.theverge.com/tech/785418/best-teen-gift-ideas-2025",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Tomb Raider announces two new games",
+        "#text": "Google Translate brings real-time speech translations to any headphones",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/843260/tomb-raider-catalyst-trailer-tomb-raider-atlantis",
+      "url": "https://www.theverge.com/news/843483/google-translate-live-speech-translations-headphones",
       "summary": "(要約準備中)"
     }
   ]
