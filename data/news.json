@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2025-12-11T18:48:17.258Z",
+  "updatedAt": "2025-12-12T02:23:47.450Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "US seizes oil tanker off Venezuela as Caracas condemns 'act of piracy'",
-      "url": "https://www.bbc.com/news/articles/c1w9lg11jw0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The move is a sharp escalation in Washington's pressure campaign against Nicolás Maduro's government."
+      "title": "US sanctions six more ships after seizing oil tanker off Venezuela",
+      "url": "https://www.bbc.com/news/articles/cz688jp90epo?at_medium=RSS&at_campaign=rss",
+      "summary": "The White House plans to move the tanker to a US port and seize the oil on board, a move Caracas has labelled as an act of \"international piracy\"."
     },
     {
       "source": "BBC World",
-      "title": "From Iran to China to Venezuela - how tanker seized by US hid true location",
-      "url": "https://www.bbc.com/news/articles/cy8jvll9j81o?at_medium=RSS&at_campaign=rss",
-      "summary": "A seized tanker accused of smuggling sanctioned oil has long hidden its true location. BBC Verify examines how. "
+      "title": "Tricked, abducted and abused: Inside China's schools for 'rebellious' teens",
+      "url": "https://www.bbc.com/news/articles/c5y2qd1795yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Young people tell the BBC that military-style schools deceive and abuse students they claim to help."
     },
     {
       "source": "BBC World",
-      "title": "Austria bans headscarves in schools for under-14s",
-      "url": "https://www.bbc.com/news/articles/cn4djk0jj4xo?at_medium=RSS&at_campaign=rss",
-      "summary": "A similar ban for girls under 10 was struck down by the Constitutional Court for specifically targeting Muslims."
+      "title": "Chief of S Korea's high-stakes exam quits over 'insane' English test",
+      "url": "https://www.bbc.com/news/articles/c3w792x0ggyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Some critics say the questions were unnecessarily complex, while others argue that's their intended purpose."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Crypto fraudster sentenced for 'epic' $40bn stablecoin crash",
+      "url": "https://www.bbc.com/news/articles/ckgmm92d213o?at_medium=RSS&at_campaign=rss",
+      "summary": "In August, Do Kwon pleaded guilty to conspiracy to defraud and wire fraud and apologised for his actions."
     },
     {
       "source": "BBC Technology",
@@ -27,41 +33,35 @@
     },
     {
       "source": "BBC Technology",
-      "title": "'Architects of AI' named Time Magazine's Person of the Year",
-      "url": "https://www.bbc.com/news/articles/cly01mdm577o?at_medium=RSS&at_campaign=rss",
-      "summary": "Nvidia boss Jensen Huang is among the influential tech figures that adorn one of the two covers."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Oracle shares slide as earnings fail to ease AI bubble fears",
-      "url": "https://www.bbc.com/news/articles/c9qe1e374l1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The cloud computing giant's revenue miss renews questions about its financial health."
+      "title": "Reddit launches High Court challenge to Australia's social media ban for kids",
+      "url": "https://www.bbc.com/news/articles/clykk2yrl9ko?at_medium=RSS&at_campaign=rss",
+      "summary": "It said the landmark policy has serious implications for Australians' privacy and political rights."
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "I tested a bunch of Switch 2 screen protectors, and these are the best",
+        "#text": "Control’s action-RPG sequel launches in 2026",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/reviews/694948/best-switch-2-glass-screen-protector-glossy-matte",
+      "url": "https://www.theverge.com/entertainment/841950/control-resonant-sequel-announce-ps5-xbox-steam",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Hoto’s new PixelDrive electric screwdriver is on sale for the first time",
+        "#text": "The next Star Wars game is the spiritual successor to Knights of the Old Republic",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/842687/hoto-pixeldrive-electric-screwdriver-deal-sale",
+      "url": "https://www.theverge.com/games/843188/star-wars-fate-of-the-old-republic-casey-hudson",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Google is building an experimental new browser and a new kind of web app",
+        "#text": "Trump signs AI executive order pushing to ban state laws",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/842000/google-disco-browser-ai-experiment",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/841817/trump-signs-ai-executive-order-pushing-to-ban-state-laws",
       "summary": "(要約準備中)"
     }
   ]
