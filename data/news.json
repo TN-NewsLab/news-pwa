@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2025-12-12T18:47:56.643Z",
+  "updatedAt": "2025-12-13T02:16:36.940Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Germany accuses Russia of air traffic control cyber-attack",
-      "url": "https://www.bbc.com/news/articles/cvgrrnylzzyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Russian ambassador is summoned over a cyber-attack on air traffic control and attempted electoral interference. "
-    },
-    {
-      "source": "BBC World",
-      "title": "EU backs indefinite freeze on Russia's frozen cash ahead of big loan plan for Ukraine",
+      "title": "EU backs indefinite freeze on Russia's frozen cash ahead of loan plan for Ukraine",
       "url": "https://www.bbc.com/news/articles/c98nnd01g91o?at_medium=RSS&at_campaign=rss",
       "summary": "After almost four years of Russia's full-scale war, Kyiv is running out of cash, and needs an estimated €135.7bn over the next two years."
     },
     {
       "source": "BBC World",
-      "title": "Trump's Gaza peace plan struggles to progress as Israel and Hamas face tough choices",
-      "url": "https://www.bbc.com/news/articles/c2lvplrxpe9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Getting both sides to move onto the second stage is a huge challenge for Washington, as Gazans continue to suffer the longer it takes."
+      "title": "New photos from Epstein estate show Trump, Andrew and Woody Allen",
+      "url": "https://www.bbc.com/news/articles/crk777lj763o?at_medium=RSS&at_campaign=rss",
+      "summary": "The photos, which do not imply wrongdoing, are part of a trove of images the House Oversight Committee received from Epstein's estate."
+    },
+    {
+      "source": "BBC World",
+      "title": "Turkish car ferry damaged in strike at Ukrainian port",
+      "url": "https://www.bbc.com/news/articles/c5yjj2epvlro?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine's president has blamed Russia for the attack as Turkey called for a suspension of strikes on shipping and ports. "
+    },
+    {
+      "source": "BBC Technology",
+      "title": "US TikTok investors in limbo as deal set to be delayed again",
+      "url": "https://www.bbc.com/news/articles/cp34442z25ko?at_medium=RSS&at_campaign=rss",
+      "summary": "A deal to sell TikTok has remained elusive, despite earlier claims that a deal was done."
     },
     {
       "source": "BBC Technology",
@@ -27,41 +33,35 @@
     },
     {
       "source": "BBC Technology",
-      "title": "Creative industries 'incredibly worried' about OpenAI-Disney deal ",
-      "url": "https://www.bbc.com/news/articles/c5ydp1gdqwqo?at_medium=RSS&at_campaign=rss",
-      "summary": "The $1bn deal will let fans generate videos and images of more than 200 Disney characters on ChatGPT and Sora."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Clair Obscur sweeps The Game Awards with nine wins",
-      "url": "https://www.bbc.com/news/articles/c1kpwmezkpdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The French-made role-playing game is named game of the year on a night of prizes and announcements."
+      "title": "Online gaming escaped Australia's social media ban - but critics say it's just as addictive",
+      "url": "https://www.bbc.com/news/articles/c93w90kqgv9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Parents and experts say gaming poses many of the same risks for kids as social media, and want them included."
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The best gifts for dads that have everything (but deserve more)",
+        "#text": "The Verge’s 2025 holiday gift guide",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/780847/best-dad-gift-ideas",
+      "url": "https://www.theverge.com/tech/809421/holiday-gift-guide-2025",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The 34 best gifts that your teen will actually use",
+        "#text": "The best instant cameras you can buy right now",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/785418/best-teen-gift-ideas-2025",
+      "url": "https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Google Translate brings real-time speech translations to any headphones",
+        "#text": "Parents call for New York governor to sign landmark AI safety bill",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/843483/google-translate-live-speech-translations-headphones",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/844062/parents-call-for-new-york-governor-to-sign-landmark-ai-safety-bill",
       "summary": "(要約準備中)"
     }
   ]
