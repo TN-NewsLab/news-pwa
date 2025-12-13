@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2025-12-13T12:57:51.106Z",
+  "updatedAt": "2025-12-13T18:41:35.272Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Cambodia shuts border crossings with Thailand as fighting continues",
-      "url": "https://www.bbc.com/news/articles/cd0kkyx3vvxo?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes despite US President Donald Trump saying both sides had agreed to a ceasefire deal."
+      "title": "Belarus frees 123 prisoners as US lifts sanctions",
+      "url": "https://www.bbc.com/news/articles/c4gpwlkklyxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Opposition activist Maria Kolesnikova is among those released in exchange for a deal with the US."
     },
     {
       "source": "BBC World",
@@ -15,9 +15,9 @@
     },
     {
       "source": "BBC World",
-      "title": "New photos from Epstein estate show Trump, Andrew and Bill Clinton",
-      "url": "https://www.bbc.com/news/articles/crk777lj763o?at_medium=RSS&at_campaign=rss",
-      "summary": "The photos, which do not imply wrongdoing, are part of a trove of images the House Oversight Committee received from Epstein's estate."
+      "title": "Israel targets senior Hamas official in deadly Gaza strike",
+      "url": "https://www.bbc.com/news/articles/cx2dklj3rxvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The strike killed Raed Saad, a senior commander in Hamas' Qassam Brigades, the Israeli military said. "
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "The Verge’s 2025 holiday gift guide",
+        "#text": "A Kinect for kids is outselling Xbox to become the hot console this holiday",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/809421/holiday-gift-guide-2025",
+      "url": "https://www.theverge.com/news/844380/nex-playground-outselling-the-xbox",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The best instant cameras you can buy right now",
+        "#text": "Slab is the first MIDI controller built exclusively for Serato Studio",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak",
+      "url": "https://www.theverge.com/tech/839732/serato-slab-midi-controller-studio",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Parents call for New York governor to sign landmark AI safety bill",
+        "#text": "This $1,500 robot cooks dinner while I work",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/844062/parents-call-for-new-york-governor-to-sign-landmark-ai-safety-bill",
+      "url": "https://www.theverge.com/tech/840599/posha-robot-chef-review",
       "summary": "(要約準備中)"
     }
   ]
