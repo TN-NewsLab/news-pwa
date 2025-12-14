@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2025-12-14T12:57:43.066Z",
+  "updatedAt": "2025-12-14T18:43:01.801Z",
   "top": [
     {
       "source": "BBC World",
       "title": "Eyewitness captures moment man tackles and disarms Bondi shooter",
       "url": "https://www.bbc.com/news/videos/c62l00q1v88o?at_medium=RSS&at_campaign=rss",
-      "summary": "New South Wales Police say that 12 people were killed in a shooting at Bondi Beach targeting the Jewish community."
+      "summary": "New South Wales Police say that 11 people were killed, plus one gunman, in a shooting at Bondi Beach targeting the Jewish community."
     },
     {
       "source": "BBC World",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "A Kinect for kids is outselling Xbox to become the hot console this holiday",
+        "#text": "Inside the high drama of the iPhone 4",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/844380/nex-playground-outselling-the-xbox",
+      "url": "https://www.theverge.com/podcast/844408/inside-the-high-drama-of-the-iphone-4",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Slab is the first MIDI controller built exclusively for Serato Studio",
+        "#text": "The end of OpenAI, and other 2026 predictions",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/839732/serato-slab-midi-controller-studio",
+      "url": "https://www.theverge.com/podcast/844401/tech-industry-2026-predictions-openai-apple",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "This $1,500 robot cooks dinner while I work",
+        "#text": "I&#8217;m finally beginning to trust Microsoft&#8217;s handheld Xbox",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/840599/posha-robot-chef-review",
+      "url": "https://www.theverge.com/games/843010/xbox-ally-x-sleep-battery-drain-two-months-later",
       "summary": "(要約準備中)"
     }
   ]
