@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2025-12-13T18:41:35.272Z",
+  "updatedAt": "2025-12-14T02:30:27.931Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Three Americans killed by IS gunman in Syria, US military says",
+      "url": "https://www.bbc.com/news/articles/c9d9vpxjp2go?at_medium=RSS&at_campaign=rss",
+      "summary": "Two US soldiers and a civilian interpreter were killed in the attack, according to the US Central Command. "
+    },
     {
       "source": "BBC World",
       "title": "Belarus frees 123 prisoners as US lifts sanctions",
@@ -12,12 +18,6 @@
       "title": "One million households without power in Ukraine after Russia attacks energy grid",
       "url": "https://www.bbc.com/news/articles/c0l9954yr9ko?at_medium=RSS&at_campaign=rss",
       "summary": "The latest overnight attacks come as US envoy Steve Witkoff prepares to hold more talks with Ukraine's president."
-    },
-    {
-      "source": "BBC World",
-      "title": "Israel targets senior Hamas official in deadly Gaza strike",
-      "url": "https://www.bbc.com/news/articles/cx2dklj3rxvo?at_medium=RSS&at_campaign=rss",
-      "summary": "The strike killed Raed Saad, a senior commander in Hamas' Qassam Brigades, the Israeli military said. "
     },
     {
       "source": "BBC Technology",
