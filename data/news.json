@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-12-14T18:43:01.801Z",
+  "updatedAt": "2025-12-15T02:28:00.221Z",
   "top": [
     {
       "source": "BBC World",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Inside the high drama of the iPhone 4",
+        "#text": "You need to listen to Sudan Archives&#8217; violin opus for the club",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/podcast/844408/inside-the-high-drama-of-the-iphone-4",
+      "url": "https://www.theverge.com/entertainment/844447/sudan-archives-the-bpm",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The end of OpenAI, and other 2026 predictions",
+        "#text": "Grok is spreading misinformation about the Bondi Beach shooting",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/podcast/844401/tech-industry-2026-predictions-openai-apple",
+      "url": "https://www.theverge.com/news/844443/grok-misinformation-bondi-beach-shooting",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "I&#8217;m finally beginning to trust Microsoft&#8217;s handheld Xbox",
+        "#text": "Absynth is back and weirder than ever after 16 years",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/843010/xbox-ally-x-sleep-battery-drain-two-months-later",
+      "url": "https://www.theverge.com/entertainment/844432/native-instruments-absynth-6-mpe-brian-eno",
       "summary": "(要約準備中)"
     }
   ]
