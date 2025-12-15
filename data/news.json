@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-12-15T06:51:45.657Z",
+  "updatedAt": "2025-12-15T13:08:31.388Z",
   "top": [
     {
       "source": "BBC World",
@@ -15,53 +15,53 @@
     },
     {
       "source": "BBC World",
-      "title": "Chile elects far-right José Antonio Kast as next president",
-      "url": "https://www.bbc.com/news/articles/c0kde07lvvro?at_medium=RSS&at_campaign=rss",
-      "summary": "Many believe Kast will be the most right-wing president since Augusto Pinochet, who oversaw a 17-year dictatorship in Chile from 1973."
+      "title": "Ukraine ceasefire talks continue as US says 'progress was made'",
+      "url": "https://www.bbc.com/news/articles/cjrjq2v7l3po?at_medium=RSS&at_campaign=rss",
+      "summary": "The discussions are centred around the peace plan presented by Kyiv to the US last week. "
     },
     {
       "source": "BBC Technology",
-      "title": "US TikTok investors in limbo as deal set to be delayed again",
-      "url": "https://www.bbc.com/news/articles/cp34442z25ko?at_medium=RSS&at_campaign=rss",
-      "summary": "A deal to sell TikTok has remained elusive, despite earlier claims that a deal was done."
+      "title": "Ofcom investigates BT and Three for failing to connect 999 calls",
+      "url": "https://www.bbc.com/news/articles/c5y2kgdq6r3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The companies have been fined in the past over outages leaving customers unable to call emergency services."
     },
     {
       "source": "BBC Technology",
-      "title": "Amazon pulls AI recap from Fallout TV show after it made several mistakes",
-      "url": "https://www.bbc.com/news/articles/c3r77j5nze5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The errors included getting dialogue wrong and incorrectly claiming a scene was set 100 years earlier than it was."
+      "title": "Grand Theft Auto game creator sacked us for trying to unionise",
+      "url": "https://www.bbc.com/news/articles/cp89990rgdno?at_medium=RSS&at_campaign=rss",
+      "summary": "Former staff at the Grand Theft Auto creator are seeking an employment tribunal over alleged \"union-busting\"."
     },
     {
       "source": "BBC Technology",
-      "title": "Online gaming escaped Australia's social media ban - but critics say it's just as addictive",
-      "url": "https://www.bbc.com/news/articles/c93w90kqgv9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Parents and experts say gaming poses many of the same risks for kids as social media, and want them included."
+      "title": "Roomba vacuum cleaner firm files for bankruptcy",
+      "url": "https://www.bbc.com/news/articles/c1lr75lp239o?at_medium=RSS&at_campaign=rss",
+      "summary": "Under the so-called pre-packaged Chapter 11 process, the main maker of its devices will take ownership of the firm."
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "iRobot files for bankruptcy",
+        "#text": "Kindle app now answers questions about the book you’re reading",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/844460/irobot-files-for-bankruptcy",
+      "url": "https://www.theverge.com/news/844538/kindle-app-ask-this-book-ai-ios",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "You need to listen to Sudan Archives&#8217; violin opus for the club",
+        "#text": "Feeding the machine",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/844447/sudan-archives-the-bpm",
+      "url": "https://www.theverge.com/cs/features/831818/ai-mercor-handshake-scale-surge-staffing-companies",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Grok is spreading misinformation about the Bondi Beach shooting",
+        "#text": "Starlink and Chinese satellites nearly collided last week",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/844443/grok-misinformation-bondi-beach-shooting",
+      "url": "https://www.theverge.com/news/844502/starlink-and-chinese-satellites-nearly-collided-last-week",
       "summary": "(要約準備中)"
     }
   ]
