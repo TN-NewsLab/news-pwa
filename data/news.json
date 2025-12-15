@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2025-12-15T13:08:31.388Z",
+  "updatedAt": "2025-12-15T18:48:52.477Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "How Bondi's Hanukkah festival turned from joy to horror within minutes",
+      "url": "https://www.bbc.com/news/articles/c8dy54e6ljqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Videos and eyewitness accounts reveal how Australia's worst mass shooting in nearly three decades unfolded. "
+    },
     {
       "source": "BBC World",
       "title": "A 10-year-old, two rabbis and a Holocaust survivor - Who are the Bondi shooting victims? ",
@@ -9,15 +15,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Hollywood director Rob Reiner and wife Michele found dead in LA home",
-      "url": "https://www.bbc.com/news/articles/cz0np02znezo?at_medium=RSS&at_campaign=rss",
-      "summary": "He directed classic films including The Princess Bride, This is Spinal Tap and When Harry Met Sally."
-    },
-    {
-      "source": "BBC World",
       "title": "Ukraine ceasefire talks continue as US says 'progress was made'",
       "url": "https://www.bbc.com/news/articles/cjrjq2v7l3po?at_medium=RSS&at_campaign=rss",
       "summary": "The discussions are centred around the peace plan presented by Kyiv to the US last week. "
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Amazon apologises after showing 15-rated film to child who rented PG movie",
+      "url": "https://www.bbc.com/news/articles/cy4xwv7vdmdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The child's was trying to watch Diary of a Wimpy Kid - but a film with \"strong sex and sex references\" played instead."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "Former staff at the Grand Theft Auto creator are seeking an employment tribunal over alleged \"union-busting\"."
     },
     {
-      "source": "BBC Technology",
-      "title": "Roomba vacuum cleaner firm files for bankruptcy",
-      "url": "https://www.bbc.com/news/articles/c1lr75lp239o?at_medium=RSS&at_campaign=rss",
-      "summary": "Under the so-called pre-packaged Chapter 11 process, the main maker of its devices will take ownership of the firm."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Kindle app now answers questions about the book you’re reading",
+        "#text": "Bungie&#8217;s delayed shooter Marathon launches in March",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/844538/kindle-app-ask-this-book-ai-ios",
+      "url": "https://www.theverge.com/news/844780/bungie-marathon-march-launch-delay",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Feeding the machine",
+        "#text": "Lidar-maker Luminar files for bankruptcy",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/cs/features/831818/ai-mercor-handshake-scale-surge-staffing-companies",
+      "url": "https://www.theverge.com/news/844755/luminar-lidar-chapter-11-bankruptcy",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Starlink and Chinese satellites nearly collided last week",
+        "#text": "Cadillac and Chevy are getting native Apple Music",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/844502/starlink-and-chinese-satellites-nearly-collided-last-week",
+      "url": "https://www.theverge.com/transportation/844697/gm-cadillac-chevy-apple-music-native",
       "summary": "(要約準備中)"
     }
   ]
