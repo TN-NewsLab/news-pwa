@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2025-12-15T02:28:00.221Z",
+  "updatedAt": "2025-12-15T06:51:45.657Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Eyewitness captures moment man tackles and disarms Bondi shooter",
-      "url": "https://www.bbc.com/news/videos/c62l00q1v88o?at_medium=RSS&at_campaign=rss",
-      "summary": "New South Wales Police say that 11 people were killed, plus one gunman, in a shooting at Bondi Beach targeting the Jewish community."
+      "title": "A 10-year-old, two rabbis and a Holocaust survivor - Who are the Bondi shooting victims? ",
+      "url": "https://www.bbc.com/news/articles/ckgz15d5718o?at_medium=RSS&at_campaign=rss",
+      "summary": "Authorities say two rabbis, a Holocaust survivor and a 10-year-old girl were among the victims."
     },
     {
       "source": "BBC World",
-      "title": "'Person of interest' detained over Brown University shooting, police say",
-      "url": "https://www.bbc.com/news/articles/ckg9ll6jpl0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Two people died and nine others were injured in the incident in Rhode Island on Saturday."
+      "title": "Hollywood director Rob Reiner and wife Michele found dead in LA home",
+      "url": "https://www.bbc.com/news/articles/cz0np02znezo?at_medium=RSS&at_campaign=rss",
+      "summary": "He directed classic films including The Princess Bride, This is Spinal Tap and When Harry Met Sally."
     },
     {
       "source": "BBC World",
-      "title": "'Never give up': Belarusian prisoners celebrate release after US lifts sanctions",
-      "url": "https://www.bbc.com/news/articles/cvg1r89m6g7o?at_medium=RSS&at_campaign=rss",
-      "summary": "\"It's a feeling of incredible happiness,\" says political prisoner Maria Kolesnikova, freed after more than five years."
+      "title": "Chile elects far-right José Antonio Kast as next president",
+      "url": "https://www.bbc.com/news/articles/c0kde07lvvro?at_medium=RSS&at_campaign=rss",
+      "summary": "Many believe Kast will be the most right-wing president since Augusto Pinochet, who oversaw a 17-year dictatorship in Chile from 1973."
     },
     {
       "source": "BBC Technology",
@@ -40,6 +40,15 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "iRobot files for bankruptcy",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/news/844460/irobot-files-for-bankruptcy",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "You need to listen to Sudan Archives&#8217; violin opus for the club",
         "@_type": "html"
       },
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/news/844443/grok-misinformation-bondi-beach-shooting",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Absynth is back and weirder than ever after 16 years",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/entertainment/844432/native-instruments-absynth-6-mpe-brian-eno",
       "summary": "(要約準備中)"
     }
   ]
