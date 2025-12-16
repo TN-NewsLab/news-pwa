@@ -1,67 +1,67 @@
 {
-  "updatedAt": "2025-12-12T06:49:41.022Z",
+  "updatedAt": "2025-12-16T02:24:32.744Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Flood misery for Gazans awaiting next stage of peace plan",
-      "url": "https://www.bbc.com/news/articles/c2lvplrxpe9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Gazans in tents have been hit by heavy rain as failure to find last Israeli hostage risks derailing peace plan."
+      "title": "A 10-year-old, two rabbis and a Holocaust survivor - Who are the Bondi shooting victims? ",
+      "url": "https://www.bbc.com/news/articles/ckgz15d5718o?at_medium=RSS&at_campaign=rss",
+      "summary": "Authorities say two rabbis, a Holocaust survivor and a 10-year-old girl were among the victims."
     },
     {
       "source": "BBC World",
-      "title": "Indiana Republicans defy Trump to reject new voting map",
-      "url": "https://www.bbc.com/news/articles/cgqzzy03p59o?at_medium=RSS&at_campaign=rss",
-      "summary": "Some say they were targeted with death threats and other forms of intimidation over the vote."
+      "title": "How Bondi's Hanukkah festival turned from joy to horror within minutes",
+      "url": "https://www.bbc.com/news/articles/c8dy54e6ljqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Videos and eyewitness accounts reveal how Australia's worst mass shooting in nearly three decades unfolded. "
     },
     {
       "source": "BBC World",
-      "title": "US sanctions six more ships after seizing oil tanker off Venezuela",
-      "url": "https://www.bbc.com/news/articles/cz688jp90epo?at_medium=RSS&at_campaign=rss",
-      "summary": "The White House plans to move the tanker to a US port and seize the oil on board, a move Caracas has labelled as an act of \"international piracy\"."
+      "title": "FBI foils New Year's Eve terror plot across southern California, officials say",
+      "url": "https://www.bbc.com/news/articles/cn41gqq8vyko?at_medium=RSS&at_campaign=rss",
+      "summary": "Four people are facing conspiracy charges after they were apprehended while planning to test explosives in the desert."
     },
     {
       "source": "BBC Technology",
-      "title": "Trump signs order to block states from enforcing own AI rules",
-      "url": "https://www.bbc.com/news/articles/crmddnge9yro?at_medium=RSS&at_campaign=rss",
-      "summary": "California's governor Gavin Newsom issued a strongly-worded statement in response to the executive order."
+      "title": "UK launches taskforce to 'break down barriers' for women in technology",
+      "url": "https://www.bbc.com/news/articles/cg7vez25ly5o?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes after the government was urged to help close the UK tech sector's gender gap in order to meet its ambitious AI goals."
     },
     {
       "source": "BBC Technology",
-      "title": "Crypto fraudster sentenced for 'epic' $40bn stablecoin crash",
-      "url": "https://www.bbc.com/news/articles/ckgmm92d213o?at_medium=RSS&at_campaign=rss",
-      "summary": "In August, Do Kwon pleaded guilty to conspiracy to defraud and wire fraud and apologised for his actions."
+      "title": "Amazon apologises after showing 15-rated film to child who rented PG movie",
+      "url": "https://www.bbc.com/news/articles/cy4xwv7vdmdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The child was trying to watch Diary of a Wimpy Kid - but a film with \"strong sex and sex references\" played instead."
     },
     {
       "source": "BBC Technology",
-      "title": "OpenAI makes $1bn deal to bring Disney characters to ChatGPT and Sora",
-      "url": "https://www.bbc.com/news/articles/c5ydp1gdqwqo?at_medium=RSS&at_campaign=rss",
-      "summary": "The agreement will let fans generate videos and images of more than 200 Disney characters."
+      "title": "Ofcom investigates BT and Three for failing to connect 999 calls",
+      "url": "https://www.bbc.com/news/articles/c5y2kgdq6r3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The companies have been fined in the past over outages leaving customers unable to call emergency services."
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Tomb Raider announces two new games",
+        "#text": "Silksong is getting a free expansion next year",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/843260/tomb-raider-catalyst-trailer-tomb-raider-atlantis",
+      "url": "https://www.theverge.com/news/845189/hollow-knight-silksong-sea-of-sorrow-dlc-expansion-switch-2",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The best Christmas gifts we love under $50",
+        "#text": "LG enters the RGB LED fray in 2026 with the Micro RGB evo TV",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/802969/best-gifts-under-50-2025",
+      "url": "https://www.theverge.com/news/844885/lg-micro-rgb-evo-led-tv-ces-2026",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Tim Sweeney on the future of Fortnite after another win over Apple",
+        "#text": "The best Apple Watch to buy",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/843265/apple-epic-games-tim-sweeney-interview",
+      "url": "https://www.theverge.com/23037217/best-apple-watch-series-se-ultra",
       "summary": "(要約準備中)"
     }
   ]
