@@ -1,18 +1,6 @@
 {
-  "updatedAt": "2025-12-16T13:06:35.346Z",
+  "updatedAt": "2025-12-16T18:48:29.660Z",
   "top": [
-    {
-      "source": "BBC World",
-      "title": "Dashcam video shows couple trying to stop gunman before being killed in Bondi attack",
-      "url": "https://www.bbc.com/news/articles/cx2341yx719o?at_medium=RSS&at_campaign=rss",
-      "summary": "Boris Gurman, 69, \"charged straight towards the danger\" and grabbed one of the attacker's guns, a witness says."
-    },
-    {
-      "source": "BBC World",
-      "title": "'Best of our country': Australian PM visits Bondi hero in hospital ",
-      "url": "https://www.bbc.com/news/articles/cvg13z47vpdo?at_medium=RSS&at_campaign=rss",
-      "summary": "\"Your heart is strong\", Anthony Albanese tells the father-of-two, calling him \"a true Australian hero\"."
-    },
     {
       "source": "BBC World",
       "title": "Ukraine struggling to keep lights on under Russian attack, says energy boss",
@@ -20,10 +8,22 @@
       "summary": "DTEK boss Maxim Timchenko says the intensity of Russian strikes is so frequent there is no time to recover."
     },
     {
+      "source": "BBC World",
+      "title": "Dashcam video shows couple trying to stop gunman before being killed in Bondi attack",
+      "url": "https://www.bbc.com/news/articles/cx2341yx719o?at_medium=RSS&at_campaign=rss",
+      "summary": "Boris Gurman, 69, \"charged straight towards the danger\" and grabbed one of the attacker's guns, a witness said."
+    },
+    {
+      "source": "BBC World",
+      "title": "Bondi Beach gunman originally from India, police say",
+      "url": "https://www.bbc.com/news/articles/cwyvxke3wgko?at_medium=RSS&at_campaign=rss",
+      "summary": "Sajid Akram had \"limited\" contact with his family in Hyderabad since moving to Australia 27 years ago, a police official said."
+    },
+    {
       "source": "BBC Technology",
-      "title": "Negotiations over US-UK tech deal stall",
+      "title": "Downing Street insists negotiations over US-UK tech deal still live",
       "url": "https://www.bbc.com/news/articles/c79x54dprngo?at_medium=RSS&at_campaign=rss",
-      "summary": "When the partnership was unveiled in September the UK government said it would \"shape the futures of millions of people\""
+      "summary": "When the partnership was unveiled in September the UK government said it would \"shape the futures of millions of people\"."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "The ‘mad rush’ to install solar panels before tax credits run out",
+        "#text": "Kindles make for even better gifts now most are on sale",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/science/844852/solar-energy-panel-installation-tax-credit-trump",
+      "url": "https://www.theverge.com/gadgets/845546/kindle-scribe-colorsoft-paperwhite-holidays-2025-deal-sale",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Silksong is getting a free expansion next year",
+        "#text": "Larry Ellison&#8217;s big dumb gift to his large adult son",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/845189/hollow-knight-silksong-sea-of-sorrow-dlc-expansion-switch-2",
+      "url": "https://www.theverge.com/entertainment/845532/larry-ellison-paramount-wb-netflix-takeover-oracle",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "LG enters the RGB LED fray in 2026 with the Micro RGB evo TV",
+        "#text": "The best deals on 4K TVs",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/844885/lg-micro-rgb-evo-led-tv-ces-2026",
+      "url": "https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl",
       "summary": "(要約準備中)"
     }
   ]
