@@ -183,8 +183,8 @@ def classify_category(title, summary, initial_category):
     ]
 
     # --- ① AI判定 ---
-    if any(k in text for k in ai_keywords):
-        return "AI"
+    # if any(k in text for k in ai_keywords):
+    #     return "AI"
 
     # --- ② 経済判定 ---
     if any(k in text for k in economy_keywords):
@@ -260,7 +260,10 @@ def main():
                 title_ja, summary_ja = translate_to_japanese(title_en, summary_en)
 
             # カテゴリ判定は従来どおり「元のタイトル＋要約」で行う
-            category_final = classify_category(title, summary, category)
+            if category == "ai":
+                category_final = "AI"
+            else:            
+                category_final = classify_category(title, summary, category)
 
             timestamp = format_timestamp(entry)
 
