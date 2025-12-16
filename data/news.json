@@ -1,12 +1,6 @@
 {
-  "updatedAt": "2025-12-15T18:48:52.477Z",
+  "updatedAt": "2025-12-16T02:24:32.744Z",
   "top": [
-    {
-      "source": "BBC World",
-      "title": "How Bondi's Hanukkah festival turned from joy to horror within minutes",
-      "url": "https://www.bbc.com/news/articles/c8dy54e6ljqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Videos and eyewitness accounts reveal how Australia's worst mass shooting in nearly three decades unfolded. "
-    },
     {
       "source": "BBC World",
       "title": "A 10-year-old, two rabbis and a Holocaust survivor - Who are the Bondi shooting victims? ",
@@ -15,15 +9,27 @@
     },
     {
       "source": "BBC World",
-      "title": "Ukraine ceasefire talks continue as US says 'progress was made'",
-      "url": "https://www.bbc.com/news/articles/cjrjq2v7l3po?at_medium=RSS&at_campaign=rss",
-      "summary": "The discussions are centred around the peace plan presented by Kyiv to the US last week. "
+      "title": "How Bondi's Hanukkah festival turned from joy to horror within minutes",
+      "url": "https://www.bbc.com/news/articles/c8dy54e6ljqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Videos and eyewitness accounts reveal how Australia's worst mass shooting in nearly three decades unfolded. "
+    },
+    {
+      "source": "BBC World",
+      "title": "FBI foils New Year's Eve terror plot across southern California, officials say",
+      "url": "https://www.bbc.com/news/articles/cn41gqq8vyko?at_medium=RSS&at_campaign=rss",
+      "summary": "Four people are facing conspiracy charges after they were apprehended while planning to test explosives in the desert."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "UK launches taskforce to 'break down barriers' for women in technology",
+      "url": "https://www.bbc.com/news/articles/cg7vez25ly5o?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes after the government was urged to help close the UK tech sector's gender gap in order to meet its ambitious AI goals."
     },
     {
       "source": "BBC Technology",
       "title": "Amazon apologises after showing 15-rated film to child who rented PG movie",
       "url": "https://www.bbc.com/news/articles/cy4xwv7vdmdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The child's was trying to watch Diary of a Wimpy Kid - but a film with \"strong sex and sex references\" played instead."
+      "summary": "The child was trying to watch Diary of a Wimpy Kid - but a film with \"strong sex and sex references\" played instead."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "The companies have been fined in the past over outages leaving customers unable to call emergency services."
     },
     {
-      "source": "BBC Technology",
-      "title": "Grand Theft Auto game creator sacked us for trying to unionise",
-      "url": "https://www.bbc.com/news/articles/cp89990rgdno?at_medium=RSS&at_campaign=rss",
-      "summary": "Former staff at the Grand Theft Auto creator are seeking an employment tribunal over alleged \"union-busting\"."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Bungie&#8217;s delayed shooter Marathon launches in March",
+        "#text": "Silksong is getting a free expansion next year",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/844780/bungie-marathon-march-launch-delay",
+      "url": "https://www.theverge.com/news/845189/hollow-knight-silksong-sea-of-sorrow-dlc-expansion-switch-2",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Lidar-maker Luminar files for bankruptcy",
+        "#text": "LG enters the RGB LED fray in 2026 with the Micro RGB evo TV",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/844755/luminar-lidar-chapter-11-bankruptcy",
+      "url": "https://www.theverge.com/news/844885/lg-micro-rgb-evo-led-tv-ces-2026",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Cadillac and Chevy are getting native Apple Music",
+        "#text": "The best Apple Watch to buy",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/transportation/844697/gm-cadillac-chevy-apple-music-native",
+      "url": "https://www.theverge.com/23037217/best-apple-watch-series-se-ultra",
       "summary": "(要約準備中)"
     }
   ]
