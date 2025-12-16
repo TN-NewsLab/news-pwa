@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2025-12-16T06:50:49.893Z",
+  "updatedAt": "2025-12-16T13:06:35.346Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "A 10-year-old, two rabbis and a Holocaust survivor - Who are the Bondi shooting victims? ",
-      "url": "https://www.bbc.com/news/articles/ckgz15d5718o?at_medium=RSS&at_campaign=rss",
-      "summary": "Authorities say two rabbis, a Holocaust survivor and a 10-year-old girl were among the victims."
+      "title": "Dashcam video shows couple trying to stop gunman before being killed in Bondi attack",
+      "url": "https://www.bbc.com/news/articles/cx2341yx719o?at_medium=RSS&at_campaign=rss",
+      "summary": "Boris Gurman, 69, \"charged straight towards the danger\" and grabbed one of the attacker's guns, a witness says."
     },
     {
       "source": "BBC World",
-      "title": "How Bondi's Hanukkah festival turned from joy to horror within minutes",
-      "url": "https://www.bbc.com/news/articles/c8dy54e6ljqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Videos and eyewitness accounts reveal how Australia's worst mass shooting in nearly three decades unfolded. "
+      "title": "'Best of our country': Australian PM visits Bondi hero in hospital ",
+      "url": "https://www.bbc.com/news/articles/cvg13z47vpdo?at_medium=RSS&at_campaign=rss",
+      "summary": "\"Your heart is strong\", Anthony Albanese tells the father-of-two, calling him \"a true Australian hero\"."
     },
     {
       "source": "BBC World",
-      "title": "FBI foils New Year's Eve terror plot across southern California, officials say",
-      "url": "https://www.bbc.com/news/articles/cn41gqq8vyko?at_medium=RSS&at_campaign=rss",
-      "summary": "Four people are facing conspiracy charges after they were apprehended while planning to test explosives in the desert."
+      "title": "Ukraine struggling to keep lights on under Russian attack, says energy boss",
+      "url": "https://www.bbc.com/news/articles/c80xjkm0283o?at_medium=RSS&at_campaign=rss",
+      "summary": "DTEK boss Maxim Timchenko says the intensity of Russian strikes is so frequent there is no time to recover."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Negotiations over US-UK tech deal stall",
+      "url": "https://www.bbc.com/news/articles/c79x54dprngo?at_medium=RSS&at_campaign=rss",
+      "summary": "When the partnership was unveiled in September the UK government said it would \"shape the futures of millions of people\""
     },
     {
       "source": "BBC Technology",
@@ -32,10 +38,13 @@
       "summary": "The child was trying to watch Diary of a Wimpy Kid - but a film with \"strong sex and sex references\" played instead."
     },
     {
-      "source": "BBC Technology",
-      "title": "Ofcom investigates BT and Three for failing to connect 999 calls",
-      "url": "https://www.bbc.com/news/articles/c5y2kgdq6r3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The companies have been fined in the past over outages leaving customers unable to call emergency services."
+      "source": "The Verge",
+      "title": {
+        "#text": "The ‘mad rush’ to install solar panels before tax credits run out",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/science/844852/solar-energy-panel-installation-tax-credit-trump",
+      "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/news/844885/lg-micro-rgb-evo-led-tv-ces-2026",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "The best Apple Watch to buy",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/23037217/best-apple-watch-series-se-ultra",
       "summary": "(要約準備中)"
     }
   ]
