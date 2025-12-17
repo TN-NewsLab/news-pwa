@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "韓国のAIスタートアップMotifが企業向けLLM訓練のための4つの重要な教訓を発表",
-    "title_en": "Korean AI startup Motif reveals 4 big lessons for training enterprise LLMs",
-    "summary": "韓国のスタートアップMotif Technologiesが新しいAIモデル「Motif-2-12.7B-Reasoning」を発表し、優れた性能を示しています。このモデルの成功は、データ配分や長文トレーニングインフラの設計、強化学習の調整に関する具体的な知見を提供することにあります。企業が独自のモデルを構築する際には、データの整合性やインフラの設計に早期に投資することが重要であると提唱されています。",
-    "summary_en": "韓国のスタートアップMotif Technologiesが新しいAIモデル「Motif-2-12.7B-Reasoning」を発表し、優れた性能を示しています。このモデルの成功は、データ配分や長文トレーニングインフラの設計、強化学習の調整に関する具体的な知見を提供することにあります。企業が独自のモデルを構築する際には、データの整合性やインフラの設計に早期に投資することが重要であると提唱されています。",
-    "link": "https://venturebeat.com/ai/korean-ai-startup-motif-reveals-4-big-lessons-for-training-enterprise-llms",
+    "title": "Zencoder、無料のAIオーケストレーションツール「Zenflow」を発表。ClaudeとOpenAIのモデルを対決させてコーディングエラーを捕捉",
+    "title_en": "Zencoder drops Zenflow, a free AI orchestration tool that pits Claude against OpenAI’s models to catch coding errors",
+    "summary": "Zencoderが新たにリリースした無料デスクトップアプリ「Zenflow」は、複数のAIエージェントを統括し、計画、実装、テスト、レビューを行う構造化されたワークフローを提供します。これにより、AI支援のソフトウェア開発における「バイブコーディング」から、より規律ある開発アプローチへと進化を促すことを目指しています。Zencoderは、他のAIツールと差別化を図るため、マルチエージェントによる相互検証やダイナミックなワークフローを重視しており、企業向けの信頼性が求められる開発シーンでの採用を目指しています。",
+    "summary_en": "Zencoderが新たにリリースした無料デスクトップアプリ「Zenflow」は、複数のAIエージェントを統括し、計画、実装、テスト、レビューを行う構造化されたワークフローを提供します。これにより、AI支援のソフトウェア開発における「バイブコーディング」から、より規律ある開発アプローチへと進化を促すことを目指しています。Zencoderは、他のAIツールと差別化を図るため、マルチエージェントによる相互検証やダイナミックなワークフローを重視しており、企業向けの信頼性が求められる開発シーンでの採用を目指しています。",
+    "link": "https://venturebeat.com/ai/zencoder-drops-zenflow-a-free-ai-orchestration-tool-that-pits-claude-against",
     "category": "AI",
-    "publishedAt": "2025-12-16 13:40"
+    "publishedAt": "2025-12-17 14:02"
   },
   {
     "source": "VentureBeat",
-    "title": "「作るべきか買うべきか」の議論は終了 — AIがそれを変えた",
-    "title_en": "Build vs buy is dead — AI just killed it",
-    "summary": "AIの進化により、ソフトウェアの開発が従来よりもアクセスしやすくなり、従業員が専門知識なしにプロトタイプを作成できるようになった。これにより、「買うべきか作るべきか」の従来の思考が逆転し、まず軽量なものを作り、その成果をもとに必要性を判断する新しいアプローチが可能になった。企業はこの変革を受け入れることで、より迅速かつ賢明な投資ができるようになり、実際のニーズに基づいた選択ができるようになる。",
-    "summary_en": "AIの進化により、ソフトウェアの開発が従来よりもアクセスしやすくなり、従業員が専門知識なしにプロトタイプを作成できるようになった。これにより、「買うべきか作るべきか」の従来の思考が逆転し、まず軽量なものを作り、その成果をもとに必要性を判断する新しいアプローチが可能になった。企業はこの変革を受け入れることで、より迅速かつ賢明な投資ができるようになり、実際のニーズに基づいた選択ができるようになる。",
-    "link": "https://venturebeat.com/ai/build-vs-buy-is-dead-ai-just-killed-it",
+    "title": "Zoom、AIの最難関試験をクリアしたと発表。批評家は隣の成果を模倣したと指摘。",
+    "title_en": "Zoom says it aced AI’s hardest exam. Critics say it copied off its neighbors.",
+    "summary": "Zoomが、AIの難関テスト「Humanity's Last Exam」で最高スコアを達成したと発表したことが、業界に驚きと疑念をもたらしている。Zoomは独自の大規模言語モデルを訓練せず、複数の既存モデルを統合する「フェデレーテッドAIアプローチ」を採用してこの成果を達成した。これに対し、AIコミュニティ内では評価が分かれ、Zoomの方法論や市場での役割について議論が巻き起こっている。",
+    "summary_en": "Zoomが、AIの難関テスト「Humanity's Last Exam」で最高スコアを達成したと発表したことが、業界に驚きと疑念をもたらしている。Zoomは独自の大規模言語モデルを訓練せず、複数の既存モデルを統合する「フェデレーテッドAIアプローチ」を採用してこの成果を達成した。これに対し、AIコミュニティ内では評価が分かれ、Zoomの方法論や市場での役割について議論が巻き起こっている。",
+    "link": "https://venturebeat.com/ai/zoom-says-it-aced-ais-hardest-exam-critics-say-it-copied-off-its-neighbors",
     "category": "AI",
-    "publishedAt": "2025-12-16 13:40"
+    "publishedAt": "2025-12-17 14:02"
   },
   {
     "source": "NHK",
-    "title": "経済同友会 新浪氏後任の代表幹事に日本IBM社長の山口明夫氏",
+    "title": "【きょうのおはBiz12月17日(水)】新宿駅再開発 鉄道各社が連携",
     "title_en": "",
-    "summary": "経済同友会は、サプリメントに関する警察の捜査を受けて辞任した新浪剛史氏の後任として、山口明夫氏を新たな代表幹事に選任しました。山口氏は「日本IBM」の社長を務めています。新たなリーダーの就任を発表しました。",
+    "summary": "「おはBiz」は、平日朝に放送される経済ニュースコーナーで、最新のビジネストレンドや働き方、役立つサービス、スタートアップ企業の情報を短くまとめて紹介しています。視聴者にとって便利な内容が詰まっています。ビジネス関連の情報を手軽に知ることができる番組です。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20251216/k10015005221000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20251217/k10015006231000.html",
     "category": "経済",
-    "publishedAt": "2025-12-16 13:40"
+    "publishedAt": "2025-12-17 14:03"
   },
   {
     "source": "BBC",
-    "title": "10歳の女の子、二人のラビ、ホロコースト生存者 - ボンディの銃撃事件の犠牲者は誰か？",
-    "title_en": "A 10-year-old, two rabbis and a Holocaust survivor - Who are the Bondi shooting victims?",
-    "summary": "当局によると、犠牲者の中には二人のラビ、ホロコースト生存者、10歳の女の子が含まれている。",
-    "summary_en": "当局によると、犠牲者の中には二人のラビ、ホロコースト生存者、10歳の女の子が含まれている。",
-    "link": "https://www.bbc.com/news/articles/ckgz15d5718o?at_medium=RSS&at_campaign=rss",
+    "title": "ダッシュカメラ映像がボンダイの攻撃で銃撃犯を止めようとしたカップルの様子を映す",
+    "title_en": "Dashcam video shows couple trying to stop gunman before being killed in Bondi attack",
+    "summary": "69歳のボリス・グルマン氏は、危険に向かって真っ直ぐ突進し、攻撃者の銃の一つを奪ったと目撃者が証言しています。彼の勇気ある行動が注目されています。詳細は不明ですが、事件の状況は緊迫していたようです。",
+    "summary_en": "ボリス・グルマンさんは、69歳でありながら危険に向かって真っ直ぐ突進し、攻撃者の一つの銃を奪ったと目撃者が証言しました。彼の勇気ある行動が注目されています。詳細は不明ですが、事件の状況は緊迫していたようです。",
+    "link": "https://www.bbc.com/news/articles/cx2341yx719o?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2025-12-16 13:40"
+    "publishedAt": "2025-12-17 14:03"
   },
   {
     "source": "NHK",
-    "title": "ローマ字表記 約70年ぶり見直し 「訓令式」から「ヘボン式」に",
+    "title": "「国宝」 米アカデミー賞2部門で候補絞り込んだリスト入り",
     "title_en": "",
-    "summary": "政府はローマ字表記を「訓令式」から「ヘボン式」に変更することを決定しました。これは、多くの人に馴染みのある表記法です。ローマ字の見直しは約70年ぶりとなります。",
+    "summary": "アメリカ・アカデミー賞のショートリストが発表され、歌舞伎を題材にした映画「国宝」が2部門で選ばれました。最終的なノミネート作品はこのリストから決定されます。映画賞の競争が期待される中、注目を集めています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20251216/k10015005321000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20251217/k10015006241000.html",
     "category": "その他",
-    "publishedAt": "2025-12-16 13:40"
+    "publishedAt": "2025-12-17 14:03"
   }
 ]

@@ -69,13 +69,24 @@ def fetch_rss_ai_multiple(url, max_items=2):
 
 # ********** title・summary抽出 / 3行要約 **********
 def summarize(text, title=""):
+    date_rule = (
+            "要約では年号（例：2023年、2025年など）を使用しないでください。"
+            "日付が必要な場合は「今年」「最近」「9月末時点」などの相対表現のみを使ってください。"
+    )
+ 
     if not text or text.strip() == "":
         prompt = (
             "次のニュースタイトルから、記事の内容を推測して3行の要約文を生成してください。\n"
+            f"{date_rule}\n"
             f"タイトル: {title}\n"
         )
     else:
-        prompt = f"次の記事を3行で要約してください：\n{text}"
+            prompt = (
+                f"{date_rule}\n"
+                f"次の記事を3行で要約してください：\n{text}"
+            )
+    # else:
+    #      prompt = f"次の記事を3行で要約してください：\n{text}"
     
     res = client.chat.completions.create(
         model="gpt-4o-mini",
