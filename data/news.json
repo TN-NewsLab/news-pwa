@@ -1,12 +1,6 @@
 {
-  "updatedAt": "2025-12-16T18:48:29.660Z",
+  "updatedAt": "2025-12-17T02:19:24.337Z",
   "top": [
-    {
-      "source": "BBC World",
-      "title": "Ukraine struggling to keep lights on under Russian attack, says energy boss",
-      "url": "https://www.bbc.com/news/articles/c80xjkm0283o?at_medium=RSS&at_campaign=rss",
-      "summary": "DTEK boss Maxim Timchenko says the intensity of Russian strikes is so frequent there is no time to recover."
-    },
     {
       "source": "BBC World",
       "title": "Dashcam video shows couple trying to stop gunman before being killed in Bondi attack",
@@ -15,9 +9,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Bondi Beach gunman originally from India, police say",
-      "url": "https://www.bbc.com/news/articles/cwyvxke3wgko?at_medium=RSS&at_campaign=rss",
-      "summary": "Sajid Akram had \"limited\" contact with his family in Hyderabad since moving to Australia 27 years ago, a police official said."
+      "title": "Rob and Michele Reiner's son Nick charged with murder in parents' deaths",
+      "url": "https://www.bbc.com/news/articles/c5yjv5md3jzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Rob Reiner, the Hollywood director, and his wife Michele were both found dead with stab wounds on Sunday. "
+    },
+    {
+      "source": "BBC World",
+      "title": "US designates Colombian cocaine gang a terrorist group",
+      "url": "https://www.bbc.com/news/articles/cpq4wgle4x5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The move is seen as a further escalation of the Trump administration's war on drugs in Latin America."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Kindles make for even better gifts now most are on sale",
+        "#text": "Even Trump’s chief of staff was ‘aghast’ at Elon Musk’s deadly USAID cuts",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/845546/kindle-scribe-colorsoft-paperwhite-holidays-2025-deal-sale",
+      "url": "https://www.theverge.com/policy/846054/elon-musk-susie-wiles-doge-usaid",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Larry Ellison&#8217;s big dumb gift to his large adult son",
+        "#text": "Arcade1Up isn&#8217;t dead, maybe",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/845532/larry-ellison-paramount-wb-netflix-takeover-oracle",
+      "url": "https://www.theverge.com/news/846034/arcade1up-basic-fun-dead-home-arcade",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The best deals on 4K TVs",
+        "#text": "How Silicon Valley turned Trump into a fellow broligarch",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl",
+      "url": "https://www.theverge.com/column/845955/donald-trump-big-tech-2025",
       "summary": "(要約準備中)"
     }
   ]
