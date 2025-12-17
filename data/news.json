@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-12-17T13:06:35.094Z",
+  "updatedAt": "2025-12-17T18:48:45.667Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,15 +9,21 @@
     },
     {
       "source": "BBC World",
-      "title": "'An unspeakable loss': Funeral takes place for rabbi killed in Bondi shooting",
-      "url": "https://www.bbc.com/news/articles/cyvg17y24jmo?at_medium=RSS&at_campaign=rss",
-      "summary": "UK-born Rabbi Schlanger mourned as someone beloved by his community and who spread \"love and joy\"."
+      "title": "Nato spending pledge is Trump's biggest foreign policy success, Rutte tells BBC",
+      "url": "https://www.bbc.com/news/articles/cx2p4vw595jo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Nato chief said it was thanks to Donald Trump that the alliance is \"stronger than it ever was\". "
     },
     {
       "source": "BBC World",
       "title": "Venezuela denounces Trump's order for ship blockade as 'warmongering threats'",
       "url": "https://www.bbc.com/news/articles/c4gej5ezyypo?at_medium=RSS&at_campaign=rss",
       "summary": "It comes a week after the US seized an oil tanker off the country's coast, intensifying pressure on Nicolás Maduro."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Fifa video game to return after four years in Netflix exclusive",
+      "url": "https://www.bbc.com/news/articles/c93w7dp42z2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The game will be made by Delphi Interactive and released in time for the 2026  World Cup."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "Osborne said it was a privilege to become managing director of OpenAI for Countries based in London."
     },
     {
-      "source": "BBC Technology",
-      "title": "UK launches taskforce to 'break down barriers' for women in technology",
-      "url": "https://www.bbc.com/news/articles/cg7vez25ly5o?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes after the government was urged to help close the UK tech sector's gender gap in order to meet its ambitious AI goals."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "In 2025, wearables made a hard pivot to AI",
+        "#text": "The Oscars will stream on YouTube in 2029",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/838876/2025-ai-wearables-smart-glasses-pendants-fitness",
+      "url": "https://www.theverge.com/news/846560/youtube-the-oscars-streaming-2029",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Tesla misled customers about self-driving features, judge rules",
+        "#text": "Maximus is more important than ever in Fallout season 2",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/846152/tesla-autopilot-marketing-deceptive-california-dmv",
+      "url": "https://www.theverge.com/entertainment/846429/fallout-season-2-maximus-aaron-moten-interview",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Even Trump’s chief of staff was ‘aghast’ at Elon Musk’s deadly USAID cuts",
+        "#text": "Tesla would have to rein in FSD under new Democratic bill",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/846054/elon-musk-susie-wiles-doge-usaid",
+      "url": "https://www.theverge.com/news/846387/level-2-operational-design-domain-markey-bill",
       "summary": "(要約準備中)"
     }
   ]
