@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-12-17T06:49:27.377Z",
+  "updatedAt": "2025-12-17T13:06:35.094Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,15 +9,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Dashcam video shows couple trying to stop gunman before being killed in Bondi attack",
-      "url": "https://www.bbc.com/news/articles/cx2341yx719o?at_medium=RSS&at_campaign=rss",
-      "summary": "Boris Gurman, 69, \"charged straight towards the danger\" and grabbed one of the attacker's guns, a witness said."
+      "title": "'An unspeakable loss': Funeral takes place for rabbi killed in Bondi shooting",
+      "url": "https://www.bbc.com/news/articles/cyvg17y24jmo?at_medium=RSS&at_campaign=rss",
+      "summary": "UK-born Rabbi Schlanger mourned as someone beloved by his community and who spread \"love and joy\"."
     },
     {
       "source": "BBC World",
-      "title": "Trump orders blockade of sanctioned oil tankers in and out of Venezuela ",
+      "title": "Venezuela denounces Trump's order for ship blockade as 'warmongering threats'",
       "url": "https://www.bbc.com/news/articles/c4gej5ezyypo?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes a week after the US seized an oil tanker off the coast of Venezuela, in a move that intensified pressure on its government."
+      "summary": "It comes a week after the US seized an oil tanker off the country's coast, intensifying pressure on Nicolás Maduro."
     },
     {
       "source": "BBC Technology",
@@ -27,15 +27,33 @@
     },
     {
       "source": "BBC Technology",
+      "title": "Former chancellor George Osborne joins OpenAI",
+      "url": "https://www.bbc.com/news/articles/cd6xz1jv4ezo?at_medium=RSS&at_campaign=rss",
+      "summary": "Osborne said it was a privilege to become managing director of OpenAI for Countries based in London."
+    },
+    {
+      "source": "BBC Technology",
       "title": "UK launches taskforce to 'break down barriers' for women in technology",
       "url": "https://www.bbc.com/news/articles/cg7vez25ly5o?at_medium=RSS&at_campaign=rss",
       "summary": "It comes after the government was urged to help close the UK tech sector's gender gap in order to meet its ambitious AI goals."
     },
     {
-      "source": "BBC Technology",
-      "title": "Amazon apologises after showing 15-rated film to child who rented PG movie",
-      "url": "https://www.bbc.com/news/articles/cy4xwv7vdmdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The child was trying to watch Diary of a Wimpy Kid - but a film with \"strong sex and sex references\" played instead."
+      "source": "The Verge",
+      "title": {
+        "#text": "In 2025, wearables made a hard pivot to AI",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/gadgets/838876/2025-ai-wearables-smart-glasses-pendants-fitness",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "Tesla misled customers about self-driving features, judge rules",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/news/846152/tesla-autopilot-marketing-deceptive-california-dmv",
+      "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
@@ -44,24 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/policy/846054/elon-musk-susie-wiles-doge-usaid",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Arcade1Up isn&#8217;t dead, maybe",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/news/846034/arcade1up-basic-fun-dead-home-arcade",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "How Silicon Valley turned Trump into a fellow broligarch",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/column/845955/donald-trump-big-tech-2025",
       "summary": "(要約準備中)"
     }
   ]
