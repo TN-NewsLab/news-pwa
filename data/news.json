@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2025-12-17T02:19:24.337Z",
+  "updatedAt": "2025-12-17T06:49:27.377Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Alleged Bondi gunman charged with 15 counts of murder",
+      "url": "https://www.bbc.com/news/articles/c98nm1ry38jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Naveed Akram, 24, faces 59 charges in total following the attack at Sydney's Bondi Beach on Sunday."
+    },
     {
       "source": "BBC World",
       "title": "Dashcam video shows couple trying to stop gunman before being killed in Bondi attack",
@@ -9,15 +15,9 @@
     },
     {
       "source": "BBC World",
-      "title": "Rob and Michele Reiner's son Nick charged with murder in parents' deaths",
-      "url": "https://www.bbc.com/news/articles/c5yjv5md3jzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Rob Reiner, the Hollywood director, and his wife Michele were both found dead with stab wounds on Sunday. "
-    },
-    {
-      "source": "BBC World",
-      "title": "US designates Colombian cocaine gang a terrorist group",
-      "url": "https://www.bbc.com/news/articles/cpq4wgle4x5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The move is seen as a further escalation of the Trump administration's war on drugs in Latin America."
+      "title": "Trump orders blockade of sanctioned oil tankers in and out of Venezuela ",
+      "url": "https://www.bbc.com/news/articles/c4gej5ezyypo?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes a week after the US seized an oil tanker off the coast of Venezuela, in a move that intensified pressure on its government."
     },
     {
       "source": "BBC Technology",
