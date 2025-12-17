@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2025-12-16T02:24:32.744Z",
+  "updatedAt": "2025-12-17T02:19:24.337Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "A 10-year-old, two rabbis and a Holocaust survivor - Who are the Bondi shooting victims? ",
-      "url": "https://www.bbc.com/news/articles/ckgz15d5718o?at_medium=RSS&at_campaign=rss",
-      "summary": "Authorities say two rabbis, a Holocaust survivor and a 10-year-old girl were among the victims."
+      "title": "Dashcam video shows couple trying to stop gunman before being killed in Bondi attack",
+      "url": "https://www.bbc.com/news/articles/cx2341yx719o?at_medium=RSS&at_campaign=rss",
+      "summary": "Boris Gurman, 69, \"charged straight towards the danger\" and grabbed one of the attacker's guns, a witness said."
     },
     {
       "source": "BBC World",
-      "title": "How Bondi's Hanukkah festival turned from joy to horror within minutes",
-      "url": "https://www.bbc.com/news/articles/c8dy54e6ljqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Videos and eyewitness accounts reveal how Australia's worst mass shooting in nearly three decades unfolded. "
+      "title": "Rob and Michele Reiner's son Nick charged with murder in parents' deaths",
+      "url": "https://www.bbc.com/news/articles/c5yjv5md3jzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Rob Reiner, the Hollywood director, and his wife Michele were both found dead with stab wounds on Sunday. "
     },
     {
       "source": "BBC World",
-      "title": "FBI foils New Year's Eve terror plot across southern California, officials say",
-      "url": "https://www.bbc.com/news/articles/cn41gqq8vyko?at_medium=RSS&at_campaign=rss",
-      "summary": "Four people are facing conspiracy charges after they were apprehended while planning to test explosives in the desert."
+      "title": "US designates Colombian cocaine gang a terrorist group",
+      "url": "https://www.bbc.com/news/articles/cpq4wgle4x5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The move is seen as a further escalation of the Trump administration's war on drugs in Latin America."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Downing Street insists negotiations over US-UK tech deal still live",
+      "url": "https://www.bbc.com/news/articles/c79x54dprngo?at_medium=RSS&at_campaign=rss",
+      "summary": "When the partnership was unveiled in September the UK government said it would \"shape the futures of millions of people\"."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "The child was trying to watch Diary of a Wimpy Kid - but a film with \"strong sex and sex references\" played instead."
     },
     {
-      "source": "BBC Technology",
-      "title": "Ofcom investigates BT and Three for failing to connect 999 calls",
-      "url": "https://www.bbc.com/news/articles/c5y2kgdq6r3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The companies have been fined in the past over outages leaving customers unable to call emergency services."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Silksong is getting a free expansion next year",
+        "#text": "Even Trump’s chief of staff was ‘aghast’ at Elon Musk’s deadly USAID cuts",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/845189/hollow-knight-silksong-sea-of-sorrow-dlc-expansion-switch-2",
+      "url": "https://www.theverge.com/policy/846054/elon-musk-susie-wiles-doge-usaid",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "LG enters the RGB LED fray in 2026 with the Micro RGB evo TV",
+        "#text": "Arcade1Up isn&#8217;t dead, maybe",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/844885/lg-micro-rgb-evo-led-tv-ces-2026",
+      "url": "https://www.theverge.com/news/846034/arcade1up-basic-fun-dead-home-arcade",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The best Apple Watch to buy",
+        "#text": "How Silicon Valley turned Trump into a fellow broligarch",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/23037217/best-apple-watch-series-se-ultra",
+      "url": "https://www.theverge.com/column/845955/donald-trump-big-tech-2025",
       "summary": "(要約準備中)"
     }
   ]
