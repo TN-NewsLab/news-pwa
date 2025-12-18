@@ -1,67 +1,67 @@
 {
-  "updatedAt": "2025-12-18T06:49:30.885Z",
+  "updatedAt": "2025-12-18T13:04:42.512Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "'Maybe she's an angel now' says aunt of 10-year-old Bondi victim",
+      "title": "Zelensky gives stark warning as EU leaders start crunch talks on Russia's frozen cash",
+      "url": "https://www.bbc.com/news/articles/c9vjlj1ezpgo?at_medium=RSS&at_campaign=rss",
+      "summary": "The leaders are deciding whether to loan tens of billions of euros in frozen Russian assets to fund Ukraine's military and economic needs."
+    },
+    {
+      "source": "BBC World",
+      "title": "French 'Doctor Death' who poisoned patients jailed for life",
+      "url": "https://www.bbc.com/news/articles/c2epv08xwz7o?at_medium=RSS&at_campaign=rss",
+      "summary": "A court finds Frédéric Péchier guilty of contaminating infusion bags with substances that caused cardiac arrest or hemorrhaging."
+    },
+    {
+      "source": "BBC World",
+      "title": "Don't let Matilda's death fuel anger, say family of Bondi victim, 10, at funeral",
       "url": "https://www.bbc.com/news/articles/cd0krr3jrkjo?at_medium=RSS&at_campaign=rss",
       "summary": "Lina Chernykh tells the BBC her niece Matilda was a joyous child who spread love everywhere she went."
     },
     {
-      "source": "BBC World",
-      "title": "Australian PM announces crackdown on hate speech after Bondi shooting",
-      "url": "https://www.bbc.com/news/articles/cgmneem1e89o?at_medium=RSS&at_campaign=rss",
-      "summary": "Measures include fresh penalties for 'those who spread hate' as well as new powers to cancel or refuse visas."
-    },
-    {
-      "source": "BBC World",
-      "title": "Rob Reiner's family breaks silence as son Nick faces judge on murder charges",
-      "url": "https://www.bbc.com/news/articles/cx239pp7gl7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Jake and Romy Reiner say they are in \"unimaginable pain\", as their brother faces first-degree murder charges over their parents' death."
+      "source": "BBC Technology",
+      "title": "One in three using AI for emotional support and conversation, UK says",
+      "url": "https://www.bbc.com/news/articles/cd6xl3ql3v0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Artificial Intelligence Security Institute (AISI) says the tech is being used by one in 25 people daily."
     },
     {
       "source": "BBC Technology",
-      "title": "Fifa video game to return after four years in Netflix exclusive",
-      "url": "https://www.bbc.com/news/articles/c93w7dp42z2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The game will be made by Delphi Interactive and released in time for the 2026  World Cup."
+      "title": "Facebook tests £9.99 monthly subscription for sharing more than two links",
+      "url": "https://www.bbc.com/news/articles/cp9kv3lezgro?at_medium=RSS&at_campaign=rss",
+      "summary": "Meta is encouraging users to verify themselves to unlock more features or engagement with their posts."
     },
     {
       "source": "BBC Technology",
-      "title": "Downing Street insists negotiations over US-UK tech deal still live",
-      "url": "https://www.bbc.com/news/articles/c79x54dprngo?at_medium=RSS&at_campaign=rss",
-      "summary": "When the partnership was unveiled in September the UK government said it would \"shape the futures of millions of people\"."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Former chancellor George Osborne joins OpenAI",
-      "url": "https://www.bbc.com/news/articles/cd6xz1jv4ezo?at_medium=RSS&at_campaign=rss",
-      "summary": "Osborne said it was a privilege to become managing director of OpenAI for Countries based in London."
+      "title": "Parents told to lead by example and turn off phones this Christmas",
+      "url": "https://www.bbc.com/news/articles/c1dz9nnp52eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The children's commissioner says children are \"crying  out\" for family time over the festive break."
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The ChatGPT app store is here",
+        "#text": "AI companies are sick of their favorite buzzword",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/847067/openai-app-store-directory-sdk-chatgpt",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/845890/ai-companies-rebrand-agi-artificial-general-intelligence",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Sony&#8217;s legal battle against Tencent&#8217;s Horizon ‘clone’ is already over",
+        "#text": "Apple opens iOS to third-party app stores in Japan",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/847080/sony-tencent-lawsuit-horizon-clone-light-of-motiram-settlement",
+      "url": "https://www.theverge.com/news/847149/apple-third-party-app-stores-payment-processing-ios-japan",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "LG and Dolby partner to release the first FlexConnect soundbar",
+        "#text": "Kuxiu’s S3 MagSafe power bank is bigger and better and probably won’t explode",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/846608/lg-dolby-flexconnect-speakers-ces-2026",
+      "url": "https://www.theverge.com/reviews/846094/kuxiu-s3-solid-state-power-bank-review",
       "summary": "(要約準備中)"
     }
   ]
