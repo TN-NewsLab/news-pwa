@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2025-12-18T02:20:05.649Z",
+  "updatedAt": "2025-12-18T06:49:30.885Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "'Maybe she's an angel now' says aunt of 10-year-old Bondi victim",
+      "url": "https://www.bbc.com/news/articles/cd0krr3jrkjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Lina Chernykh tells the BBC her niece Matilda was a joyous child who spread love everywhere she went."
+    },
+    {
+      "source": "BBC World",
+      "title": "Australian PM announces crackdown on hate speech after Bondi shooting",
+      "url": "https://www.bbc.com/news/articles/cgmneem1e89o?at_medium=RSS&at_campaign=rss",
+      "summary": "Measures include fresh penalties for 'those who spread hate' as well as new powers to cancel or refuse visas."
+    },
     {
       "source": "BBC World",
       "title": "Rob Reiner's family breaks silence as son Nick faces judge on murder charges",
       "url": "https://www.bbc.com/news/articles/cx239pp7gl7o?at_medium=RSS&at_campaign=rss",
       "summary": "Jake and Romy Reiner say they are in \"unimaginable pain\", as their brother faces first-degree murder charges over their parents' death."
-    },
-    {
-      "source": "BBC World",
-      "title": "Watch: Moment Nick Reiner is arrested after being seen in convenience store",
-      "url": "https://www.bbc.com/news/videos/cn81dzj79glo?at_medium=RSS&at_campaign=rss",
-      "summary": "Footage shows a man believed to be the 32-year-old wandering in a shop before his arrest in the deaths of his parents, Rob and Michele."
-    },
-    {
-      "source": "BBC World",
-      "title": "EU leaders face crunch decision on loaning Russia's frozen cash to Ukraine",
-      "url": "https://www.bbc.com/news/articles/c9vjlj1ezpgo?at_medium=RSS&at_campaign=rss",
-      "summary": "The leaders are to decide whether to loan tens of billions of euros in frozen Russian assets to fund Ukraine's military and economic needs."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "The ChatGPT app store is here",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/news/847067/openai-app-store-directory-sdk-chatgpt",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "Sony&#8217;s legal battle against Tencent&#8217;s Horizon ‘clone’ is already over",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/news/847080/sony-tencent-lawsuit-horizon-clone-light-of-motiram-settlement",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "LG and Dolby partner to release the first FlexConnect soundbar",
         "@_type": "html"
       },
       "url": "https://www.theverge.com/news/846608/lg-dolby-flexconnect-speakers-ces-2026",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Snapchat’s new Quick Cut stitches a video together for you",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/news/846905/snap-snapchat-quick-cut-video-editor",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "The 44 best gift ideas for mom this holiday season",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/gadgets/802964/best-mom-gift-ideas",
       "summary": "(要約準備中)"
     }
   ]
