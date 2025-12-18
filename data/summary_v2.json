@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "Zencoder、無料のAIオーケストレーションツール「Zenflow」を発表。ClaudeとOpenAIのモデルを対決させてコーディングエラーを捕捉",
-    "title_en": "Zencoder drops Zenflow, a free AI orchestration tool that pits Claude against OpenAI’s models to catch coding errors",
-    "summary": "Zencoderが新たにリリースした無料デスクトップアプリ「Zenflow」は、複数のAIエージェントを統括し、計画、実装、テスト、レビューを行う構造化されたワークフローを提供します。これにより、AI支援のソフトウェア開発における「バイブコーディング」から、より規律ある開発アプローチへと進化を促すことを目指しています。Zencoderは、他のAIツールと差別化を図るため、マルチエージェントによる相互検証やダイナミックなワークフローを重視しており、企業向けの信頼性が求められる開発シーンでの採用を目指しています。",
-    "summary_en": "Zencoderが新たにリリースした無料デスクトップアプリ「Zenflow」は、複数のAIエージェントを統括し、計画、実装、テスト、レビューを行う構造化されたワークフローを提供します。これにより、AI支援のソフトウェア開発における「バイブコーディング」から、より規律ある開発アプローチへと進化を促すことを目指しています。Zencoderは、他のAIツールと差別化を図るため、マルチエージェントによる相互検証やダイナミックなワークフローを重視しており、企業向けの信頼性が求められる開発シーンでの採用を目指しています。",
-    "link": "https://venturebeat.com/ai/zencoder-drops-zenflow-a-free-ai-orchestration-tool-that-pits-claude-against",
+    "title": "Gemini 3 Flash、コストとレイテンシを削減 — 企業向けに強力な組み合わせ",
+    "title_en": "Gemini 3 Flash arrives with reduced costs and latency — a powerful combo for enterprises",
+    "summary": "Googleの新たな言語モデル「Gemini 3 Flash」は、高速かつ低コストで提供され、企業向けに優れたマルチモーダル機能を実現します。このモデルは、迅速なアプリケーション開発を可能にし、内部の調査でも高い評価を受けています。企業はGemini 3 Flashを利用することで、以前より効率的かつ経済的にAI機能を活用できるようになります。",
+    "summary_en": "Googleの新たな言語モデル「Gemini 3 Flash」は、高速かつ低コストで提供され、企業向けに優れたマルチモーダル機能を実現します。このモデルは、迅速なアプリケーション開発を可能にし、内部の調査でも高い評価を受けています。企業はGemini 3 Flashを利用することで、以前より効率的かつ経済的にAI機能を活用できるようになります。",
+    "link": "https://venturebeat.com/technology/gemini-3-flash-arrives-with-reduced-costs-and-latency-a-powerful-combo-for",
     "category": "AI",
-    "publishedAt": "2025-12-17 14:02"
+    "publishedAt": "2025-12-18 15:39"
   },
   {
     "source": "VentureBeat",
-    "title": "Zoom、AIの最難関試験をクリアしたと発表。批評家は隣の成果を模倣したと指摘。",
-    "title_en": "Zoom says it aced AI’s hardest exam. Critics say it copied off its neighbors.",
-    "summary": "Zoomが、AIの難関テスト「Humanity's Last Exam」で最高スコアを達成したと発表したことが、業界に驚きと疑念をもたらしている。Zoomは独自の大規模言語モデルを訓練せず、複数の既存モデルを統合する「フェデレーテッドAIアプローチ」を採用してこの成果を達成した。これに対し、AIコミュニティ内では評価が分かれ、Zoomの方法論や市場での役割について議論が巻き起こっている。",
-    "summary_en": "Zoomが、AIの難関テスト「Humanity's Last Exam」で最高スコアを達成したと発表したことが、業界に驚きと疑念をもたらしている。Zoomは独自の大規模言語モデルを訓練せず、複数の既存モデルを統合する「フェデレーテッドAIアプローチ」を採用してこの成果を達成した。これに対し、AIコミュニティ内では評価が分かれ、Zoomの方法論や市場での役割について議論が巻き起こっている。",
-    "link": "https://venturebeat.com/ai/zoom-says-it-aced-ais-hardest-exam-critics-say-it-copied-off-its-neighbors",
+    "title": "ブラックボックスAIだけでは不十分：企業コンサルティングが基盤モデルに移行する理由",
+    "title_en": "Black box AI isn’t enough: Why enterprise consulting is moving to grounded models",
+    "summary": "AI技術の真の差別化は、その基盤となる業界知識にあり、特にSAPのような高額な変革プロジェクトでは、正確さが不可欠です。SAPのコンサルタント支援ツール「Joule」は、最新の業界ベストプラクティスを提供し、プロジェクトの迅速な進行をサポートするために、継続的にデータを更新しています。このツールは、個々の顧客のプロセスやシステムにも適応可能で、コンサルタントがより具体的なガイダンスを得られるようになります。",
+    "summary_en": "AI技術の真の差別化は、その基盤となる業界知識にあり、特にSAPのような高額な変革プロジェクトでは、正確さが不可欠です。SAPのコンサルタント支援ツール「Joule」は、最新の業界ベストプラクティスを提供し、プロジェクトの迅速な進行をサポートするために、継続的にデータを更新しています。このツールは、個々の顧客のプロセスやシステムにも適応可能で、コンサルタントがより具体的なガイダンスを得られるようになります。",
+    "link": "https://venturebeat.com/ai/black-box-ai-isnt-enough-why-enterprise-consulting-is-moving-to-grounded",
     "category": "AI",
-    "publishedAt": "2025-12-17 14:02"
+    "publishedAt": "2025-12-18 15:39"
   },
   {
     "source": "NHK",
-    "title": "【きょうのおはBiz12月17日(水)】新宿駅再開発 鉄道各社が連携",
+    "title": "自国 「年収の壁」協議大詰め 引き上げ方法や対象範囲調整続く",
     "title_en": "",
-    "summary": "「おはBiz」は、平日朝に放送される経済ニュースコーナーで、最新のビジネストレンドや働き方、役立つサービス、スタートアップ企業の情報を短くまとめて紹介しています。視聴者にとって便利な内容が詰まっています。ビジネス関連の情報を手軽に知ることができる番組です。",
+    "summary": "自民党と国民民主党は「年収の壁」の見直しに関する協議を進めています。両党は税制改正大綱の策定を控え、引き上げの方法や対象所得層について検討しています。協議は大詰めを迎えており、断続的な話し合いが行われています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20251217/k10015006231000.html",
-    "category": "経済",
-    "publishedAt": "2025-12-17 14:03"
+    "link": "http://www3.nhk.or.jp/news/html/20251218/k10015007151000.html",
+    "category": "その他",
+    "publishedAt": "2025-12-18 15:39"
   },
   {
     "source": "BBC",
-    "title": "ダッシュカメラ映像がボンダイの攻撃で銃撃犯を止めようとしたカップルの様子を映す",
-    "title_en": "Dashcam video shows couple trying to stop gunman before being killed in Bondi attack",
-    "summary": "69歳のボリス・グルマン氏は、危険に向かって真っ直ぐ突進し、攻撃者の銃の一つを奪ったと目撃者が証言しています。彼の勇気ある行動が注目されています。詳細は不明ですが、事件の状況は緊迫していたようです。",
-    "summary_en": "ボリス・グルマンさんは、69歳でありながら危険に向かって真っ直ぐ突進し、攻撃者の一つの銃を奪ったと目撃者が証言しました。彼の勇気ある行動が注目されています。詳細は不明ですが、事件の状況は緊迫していたようです。",
-    "link": "https://www.bbc.com/news/articles/cx2341yx719o?at_medium=RSS&at_campaign=rss",
+    "title": "『彼女は今、天使かもしれない』と10歳のボンディ犠牲者の叔母",
+    "title_en": "'Maybe she's an angel now' says aunt of 10-year-old Bondi victim",
+    "summary": "リナ・チェルニフは、姪のマチルダがどこへ行っても愛を広げる楽しい子どもだったとBBCに語った。彼女の思い出は、マチルダの明るい性格と愛情深さに満ちている。家族の絆や思い出が際立つ話である。",
+    "summary_en": "Lina Chernykhは、姪のMatildaがどこへ行っても愛を広げる楽しい子どもだったとBBCに語った。彼女の思い出は、Matildaの明るい性格と愛情深さに満ちている。家族の絆や思い出が際立つ話である。",
+    "link": "https://www.bbc.com/news/articles/cd0krr3jrkjo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2025-12-17 14:03"
+    "publishedAt": "2025-12-18 15:39"
   },
   {
     "source": "NHK",
-    "title": "「国宝」 米アカデミー賞2部門で候補絞り込んだリスト入り",
+    "title": "「OTC類似薬」自民と維新  患者の自己負担上乗せなどで隔たり",
     "title_en": "",
-    "summary": "アメリカ・アカデミー賞のショートリストが発表され、歌舞伎を題材にした映画「国宝」が2部門で選ばれました。最終的なノミネート作品はこのリストから決定されます。映画賞の競争が期待される中、注目を集めています。",
+    "summary": "市販薬に似た成分を持つOTC類似薬について、自民党と維新党の実務者は保険適用維持で合意しました。しかし、患者の自己負担に関する特別料金の割合にはまだ意見の違いがあり、調整が続いています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20251217/k10015006241000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20251218/k10015006821000.html",
     "category": "その他",
-    "publishedAt": "2025-12-17 14:03"
+    "publishedAt": "2025-12-18 15:39"
   }
 ]
