@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2025-12-18T13:04:42.512Z",
+  "updatedAt": "2025-12-18T18:48:24.843Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Zelensky gives stark warning as EU leaders start crunch talks on Russia's frozen cash",
+      "title": "Zelensky gives stark warning as EU leaders decide on Russia's frozen assets",
       "url": "https://www.bbc.com/news/articles/c9vjlj1ezpgo?at_medium=RSS&at_campaign=rss",
-      "summary": "The leaders are deciding whether to loan tens of billions of euros in frozen Russian assets to fund Ukraine's military and economic needs."
+      "summary": "The EU is deciding whether to loan tens of billions of euros of Russian money to fund Ukraine's military and economic needs."
     },
     {
       "source": "BBC World",
@@ -15,9 +15,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Don't let Matilda's death fuel anger, say family of Bondi victim, 10, at funeral",
-      "url": "https://www.bbc.com/news/articles/cd0krr3jrkjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Lina Chernykh tells the BBC her niece Matilda was a joyous child who spread love everywhere she went."
+      "title": "Trump expected to expand access to  cannabis in a major shift in drug policy",
+      "url": "https://www.bbc.com/news/articles/cp8z684r6vlo?at_medium=RSS&at_campaign=rss",
+      "summary": "The order to place cannabis in the same category as Tylenol with codeine would mark the most significant change in US drug policy since 1971. "
+    },
+    {
+      "source": "BBC Technology",
+      "title": "UK to ban deepfake AI 'nudification' apps",
+      "url": "https://www.bbc.com/news/articles/cq8dp2y0z7wo?at_medium=RSS&at_campaign=rss",
+      "summary": "A new offence looks to build on existing rules outlawing sexually explicit deepfakes and intimate image abuse."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "Meta is encouraging users to verify themselves to unlock more features or engagement with their posts."
     },
     {
-      "source": "BBC Technology",
-      "title": "Parents told to lead by example and turn off phones this Christmas",
-      "url": "https://www.bbc.com/news/articles/c1dz9nnp52eo?at_medium=RSS&at_campaign=rss",
-      "summary": "The children's commissioner says children are \"crying  out\" for family time over the festive break."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "AI companies are sick of their favorite buzzword",
+        "#text": "30 great gift ideas that should arrive in time for Christmas",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/845890/ai-companies-rebrand-agi-artificial-general-intelligence",
+      "url": "https://www.theverge.com/gadgets/846378/best-last-minute-gifts-ideas-airpods-pro-deal-sale",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Apple opens iOS to third-party app stores in Japan",
+        "#text": "Riot Games found a motherboard security flaw that helps PC cheaters",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/847149/apple-third-party-app-stores-payment-processing-ios-japan",
+      "url": "https://www.theverge.com/news/847539/riot-games-motherboard-security-flaw-pc-cheaters-anti-cheat",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Kuxiu’s S3 MagSafe power bank is bigger and better and probably won’t explode",
+        "#text": "26 practical smart home gifts that make everyday life a little easier",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/reviews/846094/kuxiu-s3-solid-state-power-bank-review",
+      "url": "https://www.theverge.com/gadgets/800449/best-practical-smart-home-gift-ideas-2025",
       "summary": "(要約準備中)"
     }
   ]
