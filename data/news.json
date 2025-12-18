@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2025-12-17T02:19:24.337Z",
+  "updatedAt": "2025-12-18T02:20:05.649Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Dashcam video shows couple trying to stop gunman before being killed in Bondi attack",
-      "url": "https://www.bbc.com/news/articles/cx2341yx719o?at_medium=RSS&at_campaign=rss",
-      "summary": "Boris Gurman, 69, \"charged straight towards the danger\" and grabbed one of the attacker's guns, a witness said."
+      "title": "Rob Reiner's family breaks silence as son Nick faces judge on murder charges",
+      "url": "https://www.bbc.com/news/articles/cx239pp7gl7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Jake and Romy Reiner say they are in \"unimaginable pain\", as their brother faces first-degree murder charges over their parents' death."
     },
     {
       "source": "BBC World",
-      "title": "Rob and Michele Reiner's son Nick charged with murder in parents' deaths",
-      "url": "https://www.bbc.com/news/articles/c5yjv5md3jzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Rob Reiner, the Hollywood director, and his wife Michele were both found dead with stab wounds on Sunday. "
+      "title": "Watch: Moment Nick Reiner is arrested after being seen in convenience store",
+      "url": "https://www.bbc.com/news/videos/cn81dzj79glo?at_medium=RSS&at_campaign=rss",
+      "summary": "Footage shows a man believed to be the 32-year-old wandering in a shop before his arrest in the deaths of his parents, Rob and Michele."
     },
     {
       "source": "BBC World",
-      "title": "US designates Colombian cocaine gang a terrorist group",
-      "url": "https://www.bbc.com/news/articles/cpq4wgle4x5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The move is seen as a further escalation of the Trump administration's war on drugs in Latin America."
+      "title": "EU leaders face crunch decision on loaning Russia's frozen cash to Ukraine",
+      "url": "https://www.bbc.com/news/articles/c9vjlj1ezpgo?at_medium=RSS&at_campaign=rss",
+      "summary": "The leaders are to decide whether to loan tens of billions of euros in frozen Russian assets to fund Ukraine's military and economic needs."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Fifa video game to return after four years in Netflix exclusive",
+      "url": "https://www.bbc.com/news/articles/c93w7dp42z2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The game will be made by Delphi Interactive and released in time for the 2026  World Cup."
     },
     {
       "source": "BBC Technology",
@@ -27,41 +33,35 @@
     },
     {
       "source": "BBC Technology",
-      "title": "UK launches taskforce to 'break down barriers' for women in technology",
-      "url": "https://www.bbc.com/news/articles/cg7vez25ly5o?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes after the government was urged to help close the UK tech sector's gender gap in order to meet its ambitious AI goals."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Amazon apologises after showing 15-rated film to child who rented PG movie",
-      "url": "https://www.bbc.com/news/articles/cy4xwv7vdmdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The child was trying to watch Diary of a Wimpy Kid - but a film with \"strong sex and sex references\" played instead."
+      "title": "Former chancellor George Osborne joins OpenAI",
+      "url": "https://www.bbc.com/news/articles/cd6xz1jv4ezo?at_medium=RSS&at_campaign=rss",
+      "summary": "Osborne said it was a privilege to become managing director of OpenAI for Countries based in London."
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Even Trump’s chief of staff was ‘aghast’ at Elon Musk’s deadly USAID cuts",
+        "#text": "LG and Dolby partner to release the first FlexConnect soundbar",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/846054/elon-musk-susie-wiles-doge-usaid",
+      "url": "https://www.theverge.com/news/846608/lg-dolby-flexconnect-speakers-ces-2026",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Arcade1Up isn&#8217;t dead, maybe",
+        "#text": "Snapchat’s new Quick Cut stitches a video together for you",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/846034/arcade1up-basic-fun-dead-home-arcade",
+      "url": "https://www.theverge.com/news/846905/snap-snapchat-quick-cut-video-editor",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "How Silicon Valley turned Trump into a fellow broligarch",
+        "#text": "The 44 best gift ideas for mom this holiday season",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/column/845955/donald-trump-big-tech-2025",
+      "url": "https://www.theverge.com/gadgets/802964/best-mom-gift-ideas",
       "summary": "(要約準備中)"
     }
   ]
