@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2025-12-19T13:02:43.821Z",
+  "updatedAt": "2025-12-19T18:45:53.601Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Putin vows no more wars if West treats Russia with respect",
+      "url": "https://www.bbc.com/news/articles/cp89p082y2xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Russia's leader said during a four-hour TV marathon that claims that an attack on Europe was planned were \"nonsense\"."
+    },
     {
       "source": "BBC World",
       "title": "EU agrees €90bn loan for Ukraine but without using Russian assets",
@@ -9,15 +15,15 @@
     },
     {
       "source": "BBC World",
-      "title": "US suspends green card lottery scheme after Brown shooting",
-      "url": "https://www.bbc.com/news/articles/c4gp4ze002mo?at_medium=RSS&at_campaign=rss",
-      "summary": "The suspect in the university shooting and the murder of an MIT professor entered the US via the scheme."
+      "title": "US justice department will not release all Epstein files by Friday deadline, official says",
+      "url": "https://www.bbc.com/news/articles/ckg9plrkl8no?at_medium=RSS&at_campaign=rss",
+      "summary": "The Friday deadline was mandated by a bill that got near-unanimous support in the US Congress."
     },
     {
-      "source": "BBC World",
-      "title": "Australia announces gun buyback scheme in wake of Bondi attack",
-      "url": "https://www.bbc.com/news/articles/cn09p4kjj4wo?at_medium=RSS&at_campaign=rss",
-      "summary": "It is the largest scheme since the Port Arthur massacre in 1996, which prompted massive gun law reform."
+      "source": "BBC Technology",
+      "title": "Will the US TikTok deal make it safer but less relevant?",
+      "url": "https://www.bbc.com/news/articles/clydp2ygrveo?at_medium=RSS&at_campaign=rss",
+      "summary": "The key to the app's success - its algorithm - is to be retrained on US data. Will that make US TikTok blander?"
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "A new offence looks to build on existing rules outlawing sexually explicit deepfakes and intimate image abuse."
     },
     {
-      "source": "BBC Technology",
-      "title": "£100 contactless card limit to be lifted",
-      "url": "https://www.bbc.com/news/articles/cx2prjr4lpko?at_medium=RSS&at_campaign=rss",
-      "summary": "Card providers can decide whether to offer unlimited payments on contactless cards."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Communities are rising up against data centers — and winning",
+        "#text": "Netflix is acquiring an avatar company as it moves into party games",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/science/841169/ai-data-center-opposition",
+      "url": "https://www.theverge.com/news/848252/netflix-avatar-company-ready-player-me-acquisition",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "There’s finally a little bit of sunshine in Pluribus",
+        "#text": "Don’t expect Trump Media’s nuclear fusion power plant to generate electricity soon",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/streaming/847287/pluribus-episode-8-recap-discussion-apple-tv",
+      "url": "https://www.theverge.com/report/848205/nuclear-fusion-energy-trump-media-tae",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Semi-solid state MagSafe power banks arrive from the founder of Hyper",
+        "#text": "The best Christmas gifts for gamers and movie lovers",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/847925/bmx-hyper-semi-solid-state-power-banks",
+      "url": "https://www.theverge.com/gadgets/780850/gaming-entertainment-gifts-ideas-2025",
       "summary": "(要約準備中)"
     }
   ]
