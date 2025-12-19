@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2025-12-18T18:48:24.843Z",
+  "updatedAt": "2025-12-19T02:23:17.980Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Zelensky gives stark warning as EU leaders decide on Russia's frozen assets",
-      "url": "https://www.bbc.com/news/articles/c9vjlj1ezpgo?at_medium=RSS&at_campaign=rss",
-      "summary": "The EU is deciding whether to loan tens of billions of euros of Russian money to fund Ukraine's military and economic needs."
+      "title": "Police issue arrest warrant for suspect in Brown University attack, sources say",
+      "url": "https://www.bbc.com/news/articles/cx2e14z2j9jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Investigators are also searching for a car they believe was rented by the suspect in the shooting that killed two students and injured nine."
     },
     {
       "source": "BBC World",
-      "title": "French 'Doctor Death' who poisoned patients jailed for life",
-      "url": "https://www.bbc.com/news/articles/c2epv08xwz7o?at_medium=RSS&at_campaign=rss",
-      "summary": "A court finds Frédéric Péchier guilty of contaminating infusion bags with substances that caused cardiac arrest or hemorrhaging."
+      "title": "Violence breaks out in Bangladesh after death of youth protest leader",
+      "url": "https://www.bbc.com/news/articles/c623rzzenmyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Sharif Osman Hadi was a prominent figure in the movement that ousted former prime minister Sheik Hasina."
     },
     {
       "source": "BBC World",
-      "title": "Trump expected to expand access to  cannabis in a major shift in drug policy",
-      "url": "https://www.bbc.com/news/articles/cp8z684r6vlo?at_medium=RSS&at_campaign=rss",
-      "summary": "The order to place cannabis in the same category as Tylenol with codeine would mark the most significant change in US drug policy since 1971. "
+      "title": "Ex-Nascar driver and his family among seven killed in US plane crash ",
+      "url": "https://www.bbc.com/news/articles/c741r9ve3z7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Officials confirmed Greg Biffle, his wife and two children were among those who boarded the small plane that crashed at a regional airport in North Carolina."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "TikTok owner signs agreements to avoid US  ban",
+      "url": "https://www.bbc.com/news/articles/cgexp1q8wn1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The deals would end years of efforts by Washington to force ByteDance to sell its US operations."
     },
     {
       "source": "BBC Technology",
@@ -27,41 +33,35 @@
     },
     {
       "source": "BBC Technology",
-      "title": "One in three using AI for emotional support and conversation, UK says",
-      "url": "https://www.bbc.com/news/articles/cd6xl3ql3v0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Artificial Intelligence Security Institute (AISI) says the tech is being used by one in 25 people daily."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Facebook tests £9.99 monthly subscription for sharing more than two links",
-      "url": "https://www.bbc.com/news/articles/cp9kv3lezgro?at_medium=RSS&at_campaign=rss",
-      "summary": "Meta is encouraging users to verify themselves to unlock more features or engagement with their posts."
+      "title": "£100 contactless card limit to be lifted",
+      "url": "https://www.bbc.com/news/articles/cx2prjr4lpko?at_medium=RSS&at_campaign=rss",
+      "summary": "Card providers can decide whether to offer unlimited payments on contactless cards."
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "30 great gift ideas that should arrive in time for Christmas",
+        "#text": "TikTok ban: all the news on the app’s shutdown and return in the US",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/846378/best-last-minute-gifts-ideas-airpods-pro-deal-sale",
+      "url": "https://www.theverge.com/23651507/tiktok-ban-us-news",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Riot Games found a motherboard security flaw that helps PC cheaters",
+        "#text": "The TikTok US sale is finally happening",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/847539/riot-games-motherboard-security-flaw-pc-cheaters-anti-cheat",
+      "url": "https://www.theverge.com/news/847858/tiktok-sale-deal-memo-january-close",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "26 practical smart home gifts that make everyday life a little easier",
+        "#text": "Threads wants to be the app you can’t wait to open in the morning",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/800449/best-practical-smart-home-gift-ideas-2025",
+      "url": "https://www.theverge.com/column/847806/head-of-threads-interview",
       "summary": "(要約準備中)"
     }
   ]
