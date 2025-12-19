@@ -1,52 +1,52 @@
 [
   {
-    "source": "VentureBeat",
-    "title": "Gemini 3 Flash、コストとレイテンシを削減 — 企業向けに強力な組み合わせ",
-    "title_en": "Gemini 3 Flash arrives with reduced costs and latency — a powerful combo for enterprises",
-    "summary": "Googleの新たな言語モデル「Gemini 3 Flash」は、高速かつ低コストで提供され、企業向けに優れたマルチモーダル機能を実現します。このモデルは、迅速なアプリケーション開発を可能にし、内部の調査でも高い評価を受けています。企業はGemini 3 Flashを利用することで、以前より効率的かつ経済的にAI機能を活用できるようになります。",
-    "summary_en": "Googleの新たな言語モデル「Gemini 3 Flash」は、高速かつ低コストで提供され、企業向けに優れたマルチモーダル機能を実現します。このモデルは、迅速なアプリケーション開発を可能にし、内部の調査でも高い評価を受けています。企業はGemini 3 Flashを利用することで、以前より効率的かつ経済的にAI機能を活用できるようになります。",
-    "link": "https://venturebeat.com/technology/gemini-3-flash-arrives-with-reduced-costs-and-latency-a-powerful-combo-for",
+    "source": "Bloomberg",
+    "title": "ミシガン州、オラクルとOpenAIの大型データセンターへの電力供給承認",
+    "title_en": "",
+    "summary": "ミシガン州の規制当局は、オラクルとOpenAIが計画する総出力1.4ギガワットの大型データセンターに、公益事業会社DTEエナジーが電力を供給する契約を全会一致で承認しました。契約は電力網と一般利用者を保護する内容で、費用はオラクルが負担する仕組みです。",
+    "summary_en": "",
+    "link": "https://www.bloomberg.com/jp/news/articles/2025-12-19/T7HE44KIUPYY00?srnd=jp-homepage",
     "category": "AI",
-    "publishedAt": "2025-12-18 15:39"
+    "publishedAt": "2025-12-19 17:34"
   },
   {
     "source": "VentureBeat",
-    "title": "ブラックボックスAIだけでは不十分：企業コンサルティングが基盤モデルに移行する理由",
-    "title_en": "Black box AI isn’t enough: Why enterprise consulting is moving to grounded models",
-    "summary": "AI技術の真の差別化は、その基盤となる業界知識にあり、特にSAPのような高額な変革プロジェクトでは、正確さが不可欠です。SAPのコンサルタント支援ツール「Joule」は、最新の業界ベストプラクティスを提供し、プロジェクトの迅速な進行をサポートするために、継続的にデータを更新しています。このツールは、個々の顧客のプロセスやシステムにも適応可能で、コンサルタントがより具体的なガイダンスを得られるようになります。",
-    "summary_en": "AI技術の真の差別化は、その基盤となる業界知識にあり、特にSAPのような高額な変革プロジェクトでは、正確さが不可欠です。SAPのコンサルタント支援ツール「Joule」は、最新の業界ベストプラクティスを提供し、プロジェクトの迅速な進行をサポートするために、継続的にデータを更新しています。このツールは、個々の顧客のプロセスやシステムにも適応可能で、コンサルタントがより具体的なガイダンスを得られるようになります。",
-    "link": "https://venturebeat.com/ai/black-box-ai-isnt-enough-why-enterprise-consulting-is-moving-to-grounded",
+    "title": "Anthropic、企業向け「エージェントスキル」を発表し、OpenAIに挑戦",
+    "title_en": "Anthropic launches enterprise ‘Agent Skills’ and opens the standard, challenging OpenAI in workplace AI",
+    "summary": "Anthropicは、自社の「エージェントスキル」技術をオープンスタンダードとして公開し、企業向けのAIアシスタントの能力向上を図る戦略を発表しました。新たに管理ツールとパートナー企業のスキルディレクトリも公開され、大手企業がすでにこの技術を法務や財務などで活用していることが明らかになっています。この取り組みは、AIアシスタントの専門的な作業を効率的に行うための産業標準の確立を目指しており、業界全体にも影響を与えていると注目されています。",
+    "summary_en": "Anthropicは、自社の「Agent Skills」技術をオープンスタンダードとして公開し、企業向けのAIアシスタントの能力向上を図る戦略を発表しました。新たに管理ツールとパートナー企業のスキルディレクトリも公開し、大手企業がすでにこの技術を法務や財務などで活用していることが明らかになっています。この取り組みは、AIアシスタントの専門的な作業を効率的に行うための産業標準の確立を目指しており、業界全体にも影響を与えていると注目されています。",
+    "link": "https://venturebeat.com/technology/anthropic-launches-enterprise-agent-skills-and-opens-the-standard",
     "category": "AI",
-    "publishedAt": "2025-12-18 15:39"
+    "publishedAt": "2025-12-19 17:34"
   },
   {
     "source": "NHK",
-    "title": "自国 「年収の壁」協議大詰め 引き上げ方法や対象範囲調整続く",
+    "title": "【詳しく】日銀 植田総裁が会見 今後も利上げ目指す考え示す",
     "title_en": "",
-    "summary": "自民党と国民民主党は「年収の壁」の見直しに関する協議を進めています。両党は税制改正大綱の策定を控え、引き上げの方法や対象所得層について検討しています。協議は大詰めを迎えており、断続的な話し合いが行われています。",
+    "summary": "日銀は金融政策決定会合で利上げを決定しました。植田総裁は、経済や物価の改善に応じて政策金利を引き上げる意向を明らかにしました。今後も経済状況を注視しながら利上げを進めていく考えです。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20251218/k10015007151000.html",
-    "category": "その他",
-    "publishedAt": "2025-12-18 15:39"
+    "link": "http://www3.nhk.or.jp/news/html/20251219/k10015008201000.html",
+    "category": "経済",
+    "publishedAt": "2025-12-19 17:34"
   },
   {
     "source": "BBC",
-    "title": "『彼女は今、天使かもしれない』と10歳のボンディ犠牲者の叔母",
-    "title_en": "'Maybe she's an angel now' says aunt of 10-year-old Bondi victim",
-    "summary": "リナ・チェルニフは、姪のマチルダがどこへ行っても愛を広げる楽しい子どもだったとBBCに語った。彼女の思い出は、マチルダの明るい性格と愛情深さに満ちている。家族の絆や思い出が際立つ話である。",
-    "summary_en": "Lina Chernykhは、姪のMatildaがどこへ行っても愛を広げる楽しい子どもだったとBBCに語った。彼女の思い出は、Matildaの明るい性格と愛情深さに満ちている。家族の絆や思い出が際立つ話である。",
-    "link": "https://www.bbc.com/news/articles/cd0krr3jrkjo?at_medium=RSS&at_campaign=rss",
+    "title": "EU、ロシア資産を利用せずにウクライナへ900億ユーロの融資を合意",
+    "title_en": "EU agrees €90bn loan for Ukraine but without using Russian assets",
+    "summary": "ウクライナはEUに対し、凍結されたロシア資産の2000億ユーロを活用するよう求めていましたが、ベルギーがその提案に反対しました。",
+    "summary_en": "ウクライナはEUに対し、凍結されたロシア資産の2000億ユーロを活用するよう求めていましたが、ベルギーがその提案に反対しました。",
+    "link": "https://www.bbc.com/news/articles/c3e025vyppeo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2025-12-18 15:39"
+    "publishedAt": "2025-12-19 17:34"
   },
   {
     "source": "NHK",
-    "title": "「OTC類似薬」自民と維新  患者の自己負担上乗せなどで隔たり",
+    "title": "官房長官“非核三原則を堅持” 官邸幹部“核保有”発言に対し",
     "title_en": "",
-    "summary": "市販薬に似た成分を持つOTC類似薬について、自民党と維新党の実務者は保険適用維持で合意しました。しかし、患者の自己負担に関する特別料金の割合にはまだ意見の違いがあり、調整が続いています。",
+    "summary": "安全保障を担当する官邸幹部が「日本は核を持つべきだ」と発言し波紋が広がりました。木原官房長官は「非核三原則を政策上の方針として堅持している」と強調し、個別のコメントは控える姿勢を示しました。公明党や被爆者団体からは強い批判が出ています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20251218/k10015006821000.html",
+    "link": "https://news.web.nhk/newsweb/na/na-k10015008061000",
     "category": "その他",
-    "publishedAt": "2025-12-18 15:39"
+    "publishedAt": "2025-12-19 17:34"
   }
 ]
