@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2025-12-20T06:45:52.724Z",
+  "updatedAt": "2025-12-20T12:57:44.460Z",
   "top": [
-    {
-      "source": "BBC World",
-      "title": "Putin vows no more wars if West treats Russia with respect",
-      "url": "https://www.bbc.com/news/articles/cp89p082y2xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Russia's leader said during a TV marathon that claims that an attack on Europe was planned were \"nonsense\"."
-    },
-    {
-      "source": "BBC World",
-      "title": "Steve Rosenberg: Was Putin's response to my question about war in Europe an olive branch?",
-      "url": "https://www.bbc.com/news/articles/c5y9ed5d1r4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Russia's leader told our Russia editor that claims an attack on Europe was planned were \"rubbish\"."
-    },
     {
       "source": "BBC World",
       "title": "US carries out 'massive' strike against IS in Syria",
       "url": "https://www.bbc.com/news/articles/c5yq7zzw618o?at_medium=RSS&at_campaign=rss",
       "summary": "The US says it struck dozens of targets across Syria in response to last week's deadly Islamic State attack on US forces there."
+    },
+    {
+      "source": "BBC World",
+      "title": "Imran Khan and wife given further jail terms after state gift fraud case",
+      "url": "https://www.bbc.com/news/articles/c62vx2pgl0eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Pakistan's former PM, who is already serving time in prison, plans to challenge the verdict."
+    },
+    {
+      "source": "BBC World",
+      "title": "Putin vows no more wars if West treats Russia with respect",
+      "url": "https://www.bbc.com/news/articles/cp89p082y2xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Russia's leader said during a TV marathon that claims that an attack on Europe was planned were \"nonsense\"."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "Rivian’s AI pivot is about more than chasing Tesla",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/transportation/846783/rivian-ai-autonomy-day-self-driving-lidar-chip-tesla",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "The sold-out Nex Playground made my kids laugh and cry",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/games/848449/nex-playground-review-nintendo-wii-microsoft-kinect-motion-tracking-camera",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "Want to link from Google’s app store to your app? That’ll be $2–4 per install",
         "@_type": "html"
       },
       "url": "https://www.theverge.com/news/848540/google-app-fees-external-link-downloads-alternative-payments",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Google is part of Movies Anywhere again",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/news/848548/google-youtube-movies-anywhere-back-return",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Did a publisher’s slip-up reveal smaller Switch 2 cartridges?",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/news/848462/nintendo-switch-2-smaller-cartridges-inin-games",
       "summary": "(要約準備中)"
     }
   ]
