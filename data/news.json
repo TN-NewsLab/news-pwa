@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2025-12-19T18:45:53.601Z",
+  "updatedAt": "2025-12-20T02:16:13.556Z",
   "top": [
     {
       "source": "BBC World",
       "title": "Putin vows no more wars if West treats Russia with respect",
       "url": "https://www.bbc.com/news/articles/cp89p082y2xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Russia's leader said during a four-hour TV marathon that claims that an attack on Europe was planned were \"nonsense\"."
+      "summary": "Russia's leader said during a TV marathon that claims that an attack on Europe was planned were \"nonsense\"."
     },
     {
       "source": "BBC World",
-      "title": "EU agrees €90bn loan for Ukraine but without using Russian assets",
-      "url": "https://www.bbc.com/news/articles/c3e025vyppeo?at_medium=RSS&at_campaign=rss",
-      "summary": "EU leaders said the loan would be repayable only when Russia paid reparations for the war."
+      "title": "Steve Rosenberg: Was Putin's response to my question about war in Europe an olive branch?",
+      "url": "https://www.bbc.com/news/articles/c5y9ed5d1r4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Russia's leader told our Russia editor that claims an attack on Europe was planned were \"rubbish\"."
     },
     {
       "source": "BBC World",
-      "title": "US justice department will not release all Epstein files by Friday deadline, official says",
-      "url": "https://www.bbc.com/news/articles/ckg9plrkl8no?at_medium=RSS&at_campaign=rss",
-      "summary": "The Friday deadline was mandated by a bill that got near-unanimous support in the US Congress."
+      "title": "US carries out 'massive' strike against IS in Syria",
+      "url": "https://www.bbc.com/news/articles/c5yq7zzw618o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US says it struck dozens of targets across Syria in response to last week's deadly Islamic State attack on US forces there."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Netflix is acquiring an avatar company as it moves into party games",
+        "#text": "Want to link from Google’s app store to your app? That’ll be $2–4 per install",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/848252/netflix-avatar-company-ready-player-me-acquisition",
+      "url": "https://www.theverge.com/news/848540/google-app-fees-external-link-downloads-alternative-payments",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Don’t expect Trump Media’s nuclear fusion power plant to generate electricity soon",
+        "#text": "Google is part of Movies Anywhere again",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/report/848205/nuclear-fusion-energy-trump-media-tae",
+      "url": "https://www.theverge.com/news/848548/google-youtube-movies-anywhere-back-return",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The best Christmas gifts for gamers and movie lovers",
+        "#text": "Did a publisher’s slip-up reveal smaller Switch 2 cartridges?",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/780850/gaming-entertainment-gifts-ideas-2025",
+      "url": "https://www.theverge.com/news/848462/nintendo-switch-2-smaller-cartridges-inin-games",
       "summary": "(要約準備中)"
     }
   ]
