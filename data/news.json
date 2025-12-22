@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2025-12-22T02:29:46.585Z",
+  "updatedAt": "2025-12-22T06:50:50.476Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Bondi gunmen threw explosives at start of attack and practised shooting weeks before, police allege",
+      "url": "https://www.bbc.com/news/articles/ce86l95gx5po?at_medium=RSS&at_campaign=rss",
+      "summary": "Videos also show the pair allegedly training in rural Australia and making statements in front of Islamic State flags."
+    },
+    {
+      "source": "BBC World",
+      "title": "US and Ukraine call Miami talks productive despite no breakthrough",
+      "url": "https://www.bbc.com/news/articles/cn5lnzlvqg2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Donald Trump's special envoy, Steve Witkoff, issued a statement with the top Ukrainian negotiator after discussing the latest peace plans."
+    },
     {
       "source": "BBC World",
       "title": "US pursuing third oil tanker linked to Venezuela, official says",
       "url": "https://www.bbc.com/news/articles/c99722j4lkgo?at_medium=RSS&at_campaign=rss",
       "summary": "The move comes days after President Donald Trump said that he was ordering a blockade of sanctioned oil tankers entering and leaving Venezuela."
-    },
-    {
-      "source": "BBC World",
-      "title": "In rebel-held Myanmar, civilians face devastating air strikes and a sham election",
-      "url": "https://www.bbc.com/news/articles/cjrjpdz33vxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC goes to a rebel-held part of Myanmar, ahead of a government-mandated election starting this month."
-    },
-    {
-      "source": "BBC World",
-      "title": "Another 130 abducted schoolchildren released in Nigeria",
-      "url": "https://www.bbc.com/news/articles/c3d03943zg8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Nigerian authorities confirm the remaining students kidnapped from a Catholic school last month have been freed."
     },
     {
       "source": "BBC Technology",
@@ -40,6 +40,15 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "Honey: all the news about PayPal’s alleged scam coupon app",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/24343913/paypal-honey-megalag-coupon-scam-affiliate-fees",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "Frozen Waymos backed up San Francisco traffic during a widespread power outage",
         "@_type": "html"
       },
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/gadgets/780844/best-gifts-under-25-2025",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "You need to listen to these Christmas deep cuts",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/column/848710/christmas-song-deep-cuts",
       "summary": "(要約準備中)"
     }
   ]
