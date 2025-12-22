@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2025-12-22T13:03:27.352Z",
+  "updatedAt": "2025-12-22T18:46:53.921Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Bondi gunmen 'meticulously' planned attack for months, police allege",
-      "url": "https://www.bbc.com/news/articles/ce86l95gx5po?at_medium=RSS&at_campaign=rss",
-      "summary": "Police release a tranche of documents allegedly tracing the suspects' movements prior to the deadly shooting."
+      "title": "New Trump envoy says he will serve to make Greenland part of US",
+      "url": "https://www.bbc.com/news/articles/ckgmd132ge4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Denmark warns Washington to respect its sovereignty, while Greenland says it will decide its own future."
     },
     {
       "source": "BBC World",
       "title": "Russian general killed by car bomb in Moscow, officials say",
       "url": "https://www.bbc.com/news/articles/c8jwn9wznx1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Fanil Sarvarov was the head of the armed forces' operational training department, Russia's Investigative Committee said."
+      "summary": "Lt Gen Fanil Sarvarov is the third military official to have been killed in bomb attacks in the Russian capital over the last year."
     },
     {
       "source": "BBC World",
-      "title": "US lawmakers threaten legal action against Attorney General over Epstein files",
-      "url": "https://www.bbc.com/news/articles/cdd5j9jdvy9o?at_medium=RSS&at_campaign=rss",
-      "summary": "A Republican and a Democrat who have led calls for transparency accuse the justice department of failing to meet legal obligations."
+      "title": "Baby followed by BBC back in Gaza hospital after treatment abroad",
+      "url": "https://www.bbc.com/news/articles/c2084n1pyvdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC revisits one-year-old Siwar Ashour who was temporarily evacuated to Jordan for medical treatment during the Gaza war. "
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Uber and Lyft announce plans to trial Chinese robotaxis in UK in 2026",
+      "url": "https://www.bbc.com/news/articles/cy8jmx1dl9ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Baidu's Apollo Go robotaxis have already accrued millions of driverless rides in cities worldwide."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "The deals would end years of efforts by Washington to force ByteDance to sell its US operations."
     },
     {
-      "source": "BBC Technology",
-      "title": "UK to ban deepfake AI 'nudification' apps",
-      "url": "https://www.bbc.com/news/articles/cq8dp2y0z7wo?at_medium=RSS&at_campaign=rss",
-      "summary": "A new offence looks to build on existing rules outlawing sexually explicit deepfakes and intimate image abuse."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "The best books we read in 2025",
+        "#text": "Netflix doesn&#8217;t stream its &#8216;Originals&#8217; forever, here are some that may leave in 2026",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/837661/books-favorites-2025",
+      "url": "https://www.theverge.com/news/849044/netflix-original-leaving-streaming-platform-2026",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Honey: all the news about PayPal’s alleged scam coupon app",
+        "#text": "The Beats Studio Pro headphones are $200 off today",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/24343913/paypal-honey-megalag-coupon-scam-affiliate-fees",
+      "url": "https://www.theverge.com/gadgets/849065/beats-headphones-pixel-10-paperwhite-deals-sales",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Frozen Waymos backed up San Francisco traffic during a widespread power outage",
+        "#text": "Instacart scraps AI pricing tests that made some products more expensive",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/848843/waymo-san-francisco-power-outage",
+      "url": "https://www.theverge.com/news/849061/instacart-ends-ai-pricing-tests-eversight",
       "summary": "(要約準備中)"
     }
   ]
