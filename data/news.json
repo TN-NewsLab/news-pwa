@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2025-12-21T18:43:09.578Z",
+  "updatedAt": "2025-12-22T02:29:46.585Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Minute's silence held to remember Bondi Beach attack victims",
-      "url": "https://www.bbc.com/news/articles/cre3l2xq9nzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Australian Prime Minister Anthony Albanese was booed as he arrived at the memorial event."
+      "title": "US pursuing third oil tanker linked to Venezuela, official says",
+      "url": "https://www.bbc.com/news/articles/c99722j4lkgo?at_medium=RSS&at_campaign=rss",
+      "summary": "The move comes days after President Donald Trump said that he was ordering a blockade of sanctioned oil tankers entering and leaving Venezuela."
     },
     {
       "source": "BBC World",
-      "title": "Rights groups condemn new record number of executions in Saudi Arabia",
-      "url": "https://www.bbc.com/news/articles/cg5m49j14pyo?at_medium=RSS&at_campaign=rss",
-      "summary": "At least 347 people have now been put to death this year, according to the UK-based campaign group Reprieve."
+      "title": "In rebel-held Myanmar, civilians face devastating air strikes and a sham election",
+      "url": "https://www.bbc.com/news/articles/cjrjpdz33vxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC goes to a rebel-held part of Myanmar, ahead of a government-mandated election starting this month."
     },
     {
       "source": "BBC World",
-      "title": "Israel approves 19 new settlements in occupied West Bank",
-      "url": "https://www.bbc.com/news/articles/cqjg18xe0wwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Far-right Finance Minister Bezalel Smotrich said the move was about blocking the establishment of a Palestinian state."
+      "title": "Another 130 abducted schoolchildren released in Nigeria",
+      "url": "https://www.bbc.com/news/articles/c3d03943zg8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Nigerian authorities confirm the remaining students kidnapped from a Catholic school last month have been freed."
     },
     {
       "source": "BBC Technology",
@@ -40,6 +40,15 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "Frozen Waymos backed up San Francisco traffic during a widespread power outage",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/news/848843/waymo-san-francisco-power-outage",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "Some of our favorite gifts will cost you less than $25",
         "@_type": "html"
       },
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/column/848710/christmas-song-deep-cuts",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "The 35 best gifts that your teen will actually use",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/tech/785418/best-teen-gift-ideas-2025",
       "summary": "(要約準備中)"
     }
   ]
