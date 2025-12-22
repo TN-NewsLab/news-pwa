@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2025-12-22T06:50:50.476Z",
+  "updatedAt": "2025-12-22T13:03:27.352Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Bondi gunmen threw explosives at start of attack and practised shooting weeks before, police allege",
+      "title": "Bondi gunmen 'meticulously' planned attack for months, police allege",
       "url": "https://www.bbc.com/news/articles/ce86l95gx5po?at_medium=RSS&at_campaign=rss",
-      "summary": "Videos also show the pair allegedly training in rural Australia and making statements in front of Islamic State flags."
+      "summary": "Police release a tranche of documents allegedly tracing the suspects' movements prior to the deadly shooting."
     },
     {
       "source": "BBC World",
-      "title": "US and Ukraine call Miami talks productive despite no breakthrough",
-      "url": "https://www.bbc.com/news/articles/cn5lnzlvqg2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Donald Trump's special envoy, Steve Witkoff, issued a statement with the top Ukrainian negotiator after discussing the latest peace plans."
+      "title": "Russian general killed by car bomb in Moscow, officials say",
+      "url": "https://www.bbc.com/news/articles/c8jwn9wznx1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Fanil Sarvarov was the head of the armed forces' operational training department, Russia's Investigative Committee said."
     },
     {
       "source": "BBC World",
-      "title": "US pursuing third oil tanker linked to Venezuela, official says",
-      "url": "https://www.bbc.com/news/articles/c99722j4lkgo?at_medium=RSS&at_campaign=rss",
-      "summary": "The move comes days after President Donald Trump said that he was ordering a blockade of sanctioned oil tankers entering and leaving Venezuela."
+      "title": "US lawmakers threaten legal action against Attorney General over Epstein files",
+      "url": "https://www.bbc.com/news/articles/cdd5j9jdvy9o?at_medium=RSS&at_campaign=rss",
+      "summary": "A Republican and a Democrat who have led calls for transparency accuse the justice department of failing to meet legal obligations."
     },
     {
       "source": "BBC Technology",
@@ -40,6 +40,15 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "The best books we read in 2025",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/entertainment/837661/books-favorites-2025",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "Honey: all the news about PayPal’s alleged scam coupon app",
         "@_type": "html"
       },
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/news/848843/waymo-san-francisco-power-outage",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Some of our favorite gifts will cost you less than $25",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/gadgets/780844/best-gifts-under-25-2025",
       "summary": "(要約準備中)"
     }
   ]
