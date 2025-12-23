@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2025-12-23T02:24:57.137Z",
+  "updatedAt": "2025-12-23T06:50:28.481Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Russia escalates attacks on key Ukrainian region of Odesa",
+      "url": "https://www.bbc.com/news/articles/cdxe8yqlvgzo?at_medium=RSS&at_campaign=rss",
+      "summary": "President Volodymyr Zelensky warned the attacks were an attempt by Moscow to block Ukraine's access to maritime logistics. "
+    },
     {
       "source": "BBC World",
       "title": "Trump says US 'has to have' Greenland after naming special envoy",
@@ -14,12 +20,6 @@
       "summary": "Wegovy becomes first pill of its kind to be approved, shifting weight-loss drugs beyond injections."
     },
     {
-      "source": "BBC World",
-      "title": "Russia escalates attacks on key Ukrainian region of Odesa",
-      "url": "https://www.bbc.com/news/articles/cdxe8yqlvgzo?at_medium=RSS&at_campaign=rss",
-      "summary": "President Volodymyr Zelensky warned the attacks were an attempt by Moscow to block Ukraine's access to maritime logistics. "
-    },
-    {
       "source": "BBC Technology",
       "title": "Call of Duty co-creator Vince Zampella dies in California car crash ",
       "url": "https://www.bbc.com/news/articles/cx25rled0ylo?at_medium=RSS&at_campaign=rss",
@@ -27,15 +27,15 @@
     },
     {
       "source": "BBC Technology",
-      "title": "Uber and Lyft announce plans to trial Chinese robotaxis in UK in 2026",
-      "url": "https://www.bbc.com/news/articles/cy8jmx1dl9ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Baidu's Apollo Go robotaxis have already accrued millions of driverless rides in cities worldwide."
+      "title": "Amazon blocks 1,800 job applications from suspected North Korean agents",
+      "url": "https://www.bbc.com/news/articles/c3e0kw80wwzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The firm’s chief security officer said North Koreans tried to apply for remote working IT jobs using stolen or fake identities."
     },
     {
       "source": "BBC Technology",
-      "title": "Will the US TikTok deal make it safer but less relevant?",
-      "url": "https://www.bbc.com/news/articles/clydp2ygrveo?at_medium=RSS&at_campaign=rss",
-      "summary": "The key to the app's success - its algorithm - is to be retrained on US data. Will that make US TikTok blander?"
+      "title": "Uber and Lyft announce plans to trial Chinese robotaxis in UK in 2026",
+      "url": "https://www.bbc.com/news/articles/cy8jmx1dl9ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Baidu's Apollo Go robotaxis have already accrued millions of driverless rides in cities worldwide."
     },
     {
       "source": "The Verge",
