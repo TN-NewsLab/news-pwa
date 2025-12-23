@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2025-12-23T13:10:30.161Z",
+  "updatedAt": "2025-12-23T18:47:44.776Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Three dead after Russia launches 'massive' attack across Ukraine",
+      "title": "Three killed after Russia launches 'massive' attack across Ukraine",
       "url": "https://www.bbc.com/news/articles/cr4d99p63y4o?at_medium=RSS&at_campaign=rss",
       "summary": "Several regions are without power after missile and drone strikes targeted several cities. "
     },
     {
       "source": "BBC World",
-      "title": "'A miracle': Officer shot in head during Bondi attack home from hospital",
-      "url": "https://www.bbc.com/news/articles/cd0kxrr2jyko?at_medium=RSS&at_campaign=rss",
-      "summary": "The Christmas homecoming of Jack Hibbert, who was shot in the head and shoulder, is a \"miracle\", his family say."
+      "title": "US economy grows at fastest pace in two years ",
+      "url": "https://www.bbc.com/news/articles/c62n9ynzrdpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Strong consumer spending helps the US economy grow at a faster rate than expected."
     },
     {
       "source": "BBC World",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "The year the government broke",
+        "#text": "007 First Light&#8217;s release date gets shaken up",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/845838/2025-year-end-government-doge",
+      "url": "https://www.theverge.com/news/849810/james-bond-007-first-light-release-date-delay",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Apple fined $116 million over app privacy prompts",
+        "#text": "Judge blocks Texas app store age verification law",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/849528/apple-italy-antitrust-fine-att-app-privacy",
+      "url": "https://www.theverge.com/news/849752/texas-app-store-accountability-act-age-verification-injunction",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Dometic makes a better portable water faucet",
+        "#text": "These great digital gifts will arrive just in time for Christmas",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/848916/dometic-recon-360-water-pump-review",
+      "url": "https://www.theverge.com/gadgets/848999/best-digital-gift-ideas-online-cards-subscriptions-2025",
       "summary": "(要約準備中)"
     }
   ]
