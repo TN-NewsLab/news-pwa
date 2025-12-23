@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2025-12-22T18:46:53.921Z",
+  "updatedAt": "2025-12-23T02:24:57.137Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "New Trump envoy says he will serve to make Greenland part of US",
+      "title": "Trump says US 'has to have' Greenland after naming special envoy",
       "url": "https://www.bbc.com/news/articles/ckgmd132ge4o?at_medium=RSS&at_campaign=rss",
       "summary": "Denmark warns Washington to respect its sovereignty, while Greenland says it will decide its own future."
     },
     {
       "source": "BBC World",
-      "title": "Russian general killed by car bomb in Moscow, officials say",
-      "url": "https://www.bbc.com/news/articles/c8jwn9wznx1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Lt Gen Fanil Sarvarov is the third military official to have been killed in bomb attacks in the Russian capital over the last year."
+      "title": "US regulator approves pill form of Wegovy weight-loss drug",
+      "url": "https://www.bbc.com/news/articles/ce86le5dyxyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Wegovy becomes first pill of its kind to be approved, shifting weight-loss drugs beyond injections."
     },
     {
       "source": "BBC World",
-      "title": "Baby followed by BBC back in Gaza hospital after treatment abroad",
-      "url": "https://www.bbc.com/news/articles/c2084n1pyvdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC revisits one-year-old Siwar Ashour who was temporarily evacuated to Jordan for medical treatment during the Gaza war. "
+      "title": "Russia escalates attacks on key Ukrainian region of Odesa",
+      "url": "https://www.bbc.com/news/articles/cdxe8yqlvgzo?at_medium=RSS&at_campaign=rss",
+      "summary": "President Volodymyr Zelensky warned the attacks were an attempt by Moscow to block Ukraine's access to maritime logistics. "
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Call of Duty co-creator Vince Zampella dies in California car crash ",
+      "url": "https://www.bbc.com/news/articles/cx25rled0ylo?at_medium=RSS&at_campaign=rss",
+      "summary": "The influential video game developer died after his car crashed and caught fire on a highway in Los Angeles."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "The key to the app's success - its algorithm - is to be retrained on US data. Will that make US TikTok blander?"
     },
     {
-      "source": "BBC Technology",
-      "title": "TikTok owner signs deal to avoid US ban",
-      "url": "https://www.bbc.com/news/articles/cgexp1q8wn1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The deals would end years of efforts by Washington to force ByteDance to sell its US operations."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Netflix doesn&#8217;t stream its &#8216;Originals&#8217; forever, here are some that may leave in 2026",
+        "#text": "The FCC’s foreign drone ban is here",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/849044/netflix-original-leaving-streaming-platform-2026",
+      "url": "https://www.theverge.com/news/849460/fcc-foreign-drone-ban-dji-congress-deadline",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The Beats Studio Pro headphones are $200 off today",
+        "#text": "The 60 Minutes report on CECOT that Bari Weiss censored is now internet contraband",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/849065/beats-headphones-pixel-10-paperwhite-deals-sales",
+      "url": "https://www.theverge.com/policy/849432/60-minutes-cecot-censored-canada-leak",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Instacart scraps AI pricing tests that made some products more expensive",
+        "#text": "ChatGPT’s yearly recap sums up your conversations with the chatbot",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/849061/instacart-ends-ai-pricing-tests-eversight",
+      "url": "https://www.theverge.com/news/849348/openai-chatgpt-2025-year-in-review-wrapped",
       "summary": "(要約準備中)"
     }
   ]
