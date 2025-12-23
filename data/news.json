@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2025-12-23T06:50:28.481Z",
+  "updatedAt": "2025-12-23T13:10:30.161Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Russia escalates attacks on key Ukrainian region of Odesa",
-      "url": "https://www.bbc.com/news/articles/cdxe8yqlvgzo?at_medium=RSS&at_campaign=rss",
-      "summary": "President Volodymyr Zelensky warned the attacks were an attempt by Moscow to block Ukraine's access to maritime logistics. "
+      "title": "Three dead after Russia launches 'massive' attack across Ukraine",
+      "url": "https://www.bbc.com/news/articles/cr4d99p63y4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Several regions are without power after missile and drone strikes targeted several cities. "
     },
     {
       "source": "BBC World",
-      "title": "Trump says US 'has to have' Greenland after naming special envoy",
-      "url": "https://www.bbc.com/news/articles/ckgmd132ge4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Denmark warns Washington to respect its sovereignty, while Greenland says it will decide its own future."
+      "title": "'A miracle': Officer shot in head during Bondi attack home from hospital",
+      "url": "https://www.bbc.com/news/articles/cd0kxrr2jyko?at_medium=RSS&at_campaign=rss",
+      "summary": "The Christmas homecoming of Jack Hibbert, who was shot in the head and shoulder, is a \"miracle\", his family say."
     },
     {
       "source": "BBC World",
-      "title": "US regulator approves pill form of Wegovy weight-loss drug",
-      "url": "https://www.bbc.com/news/articles/ce86le5dyxyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Wegovy becomes first pill of its kind to be approved, shifting weight-loss drugs beyond injections."
+      "title": "Trump says US will keep or sell oil seized from Venezuela",
+      "url": "https://www.bbc.com/news/articles/c87lnn09yj8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president also says the US intends to keep the tankers it has intercepted off the coast of Venezuela."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "TikTok removes AI weight loss ads from fake Boots account",
+      "url": "https://www.bbc.com/news/articles/c997lkdjdy5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The adverts for prescription-only drugs showed healthcare professionals impersonating the British retailer."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "The firm’s chief security officer said North Koreans tried to apply for remote working IT jobs using stolen or fake identities."
     },
     {
-      "source": "BBC Technology",
-      "title": "Uber and Lyft announce plans to trial Chinese robotaxis in UK in 2026",
-      "url": "https://www.bbc.com/news/articles/cy8jmx1dl9ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Baidu's Apollo Go robotaxis have already accrued millions of driverless rides in cities worldwide."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "The FCC’s foreign drone ban is here",
+        "#text": "The year the government broke",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/849460/fcc-foreign-drone-ban-dji-congress-deadline",
+      "url": "https://www.theverge.com/policy/845838/2025-year-end-government-doge",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The 60 Minutes report on CECOT that Bari Weiss censored is now internet contraband",
+        "#text": "Apple fined $116 million over app privacy prompts",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/849432/60-minutes-cecot-censored-canada-leak",
+      "url": "https://www.theverge.com/news/849528/apple-italy-antitrust-fine-att-app-privacy",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "ChatGPT’s yearly recap sums up your conversations with the chatbot",
+        "#text": "Dometic makes a better portable water faucet",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/849348/openai-chatgpt-2025-year-in-review-wrapped",
+      "url": "https://www.theverge.com/tech/848916/dometic-recon-360-water-pump-review",
       "summary": "(要約準備中)"
     }
   ]
