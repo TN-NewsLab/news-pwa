@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2025-12-23T18:47:44.776Z",
+  "updatedAt": "2025-12-24T02:22:31.970Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Three killed after Russia launches 'massive' attack across Ukraine",
+      "title": "Email by 'A' from 'Balmoral' asked Ghislaine Maxwell for 'inappropriate friends', Epstein files show",
+      "url": "https://www.bbc.com/news/articles/cm28g5exx09o?at_medium=RSS&at_campaign=rss",
+      "summary": "A newly released email sent to Ghislane Maxwell from \"A\" is among the latest set of Epstein files released by the US' House Committee on Oversight and Reform."
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump trips, a fake video and 10 possible co-conspirators - Takeaways from new Epstein files",
+      "url": "https://www.bbc.com/news/articles/c5yj4yvx80do?at_medium=RSS&at_campaign=rss",
+      "summary": "The largest release of Epstein-related documents yet from the justice department included some notable messages and several mentions of Trump."
+    },
+    {
+      "source": "BBC World",
+      "title": "Ukraine loses embattled eastern town",
       "url": "https://www.bbc.com/news/articles/cr4d99p63y4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Several regions are without power after missile and drone strikes targeted several cities. "
+      "summary": "The capture of Siversk brings Russia closer to the last remaining \"fortress belt\" cities still in Ukrainian hands in the Donetsk region."
     },
     {
-      "source": "BBC World",
-      "title": "US economy grows at fastest pace in two years ",
-      "url": "https://www.bbc.com/news/articles/c62n9ynzrdpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Strong consumer spending helps the US economy grow at a faster rate than expected."
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump says US will keep or sell oil seized from Venezuela",
-      "url": "https://www.bbc.com/news/articles/c87lnn09yj8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president also says the US intends to keep the tankers it has intercepted off the coast of Venezuela."
+      "source": "BBC Technology",
+      "title": "US denies visas to ex-EU commissioner and others over social media rules",
+      "url": "https://www.bbc.com/news/articles/cp39kngz008o?at_medium=RSS&at_campaign=rss",
+      "summary": "Thierry Breton, the former top tech regulator at the European Commission, says a \"witch hunt\" is taking place."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "The influential video game developer died after his car crashed and caught fire on a highway in Los Angeles."
     },
     {
-      "source": "BBC Technology",
-      "title": "Amazon blocks 1,800 job applications from suspected North Korean agents",
-      "url": "https://www.bbc.com/news/articles/c3e0kw80wwzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The firm’s chief security officer said North Koreans tried to apply for remote working IT jobs using stolen or fake identities."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "007 First Light&#8217;s release date gets shaken up",
+        "#text": "Trump administration bars former EU official and anti-disinformation and hate researchers from US",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/849810/james-bond-007-first-light-release-date-delay",
+      "url": "https://www.theverge.com/news/850067/us-sanctions-thierry-breton-content-moderation-censorship",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Judge blocks Texas app store age verification law",
+        "#text": "Apple is going to allow third-party app stores in Brazil, too",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/849752/texas-app-store-accountability-act-age-verification-injunction",
+      "url": "https://www.theverge.com/news/850061/apple-brazil-third-party-app-stores-external-payment-systems",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "These great digital gifts will arrive just in time for Christmas",
+        "#text": "The Pixel 10, our favorite Android phone, is nearly 50 percent off right now",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/848999/best-digital-gift-ideas-online-cards-subscriptions-2025",
+      "url": "https://www.theverge.com/gadgets/836995/google-pixel-10-pro-xl-amazon-deal-sale-2025",
       "summary": "(要約準備中)"
     }
   ]
