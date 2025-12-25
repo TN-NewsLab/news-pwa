@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2025-12-25T06:49:14.590Z",
+  "updatedAt": "2025-12-25T13:02:00.400Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Pope Leo urges 'courage' to end Ukraine war in first Christmas address",
+      "url": "https://www.bbc.com/news/articles/cm21728nwxlo?at_medium=RSS&at_campaign=rss",
+      "summary": "The pope also laments the condition of Palestinians during his address to worshippers at the Vatican. "
+    },
     {
       "source": "BBC World",
       "title": "Zelensky moves towards demilitarised zones in latest peace plan for Ukraine",
@@ -9,15 +15,9 @@
     },
     {
       "source": "BBC World",
-      "title": "Officials discover a million more documents potentially related to Epstein case",
-      "url": "https://www.bbc.com/news/articles/czdgz84dn35o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US Department of Justice says reviewing the material could delay the full release of Epstein documents by a \"few more weeks\"."
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump-backed candidate wins in knife-edge Honduran election",
-      "url": "https://www.bbc.com/news/articles/cyvgz1jn368o?at_medium=RSS&at_campaign=rss",
-      "summary": "His rival Salvador Nasralla says he will not accept the result, but urges his supporters to remain calm."
+      "title": "Turkey arrests 115 IS suspects 'planning New Year's attacks'",
+      "url": "https://www.bbc.com/news/articles/cn98w93l8plo?at_medium=RSS&at_campaign=rss",
+      "summary": "Turkish authorities say firearms were seized and efforts to trace further suspected members are continuing."
     },
     {
       "source": "BBC Technology",
@@ -40,6 +40,15 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "Hollywood cozied up to AI in 2025 and had nothing good to show for it",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/ai-artificial-intelligence/848119/hollywood-film-tv-ai-2025",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "Anker’s beefy Laptop Power Bank has returned to its Black Friday low",
         "@_type": "html"
       },
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/gadgets/684281/sony-playstation-5-ps5-pro-christmas-deal-sale-2025",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "The best shows and movies to stream on Netflix in 2025",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/entertainment/845388/netflix-best-shows-movies-2025",
       "summary": "(要約準備中)"
     }
   ]
