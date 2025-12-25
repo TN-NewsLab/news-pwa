@@ -35,7 +35,13 @@ RSS_SOURCES = {
 
 # ********** RSS取得 **********
 def fetch_rss(url):
-    feed = feedparser.parse(url)
+    feed = feedparser.parse(
+        url,
+        request_headers={
+            "User-Agent": "Mozilla/5.0 (NewsPWA; +https://example.com)"
+        }
+    )
+        
     # 記事が空でない時だけ1件
     return feed.entries[0] if feed.entries else None
 
@@ -44,7 +50,12 @@ def fetch_rss_ai_multiple(url, max_items=2):
     AIカテゴリ専用：OpenAI/ChatGPT関連を優先しつつ、
     最大 max_items 件のニュースを返す関数。
     """
-    feed = feedparser.parse(url)
+    feed = feedparser.parse(
+        url,
+        request_headers={
+            "User-Agent": "Mozilla/5.0 (NewsPWA; +https://example.com)"
+        }
+    )
     entries = feed.entries
 
     if not entries:

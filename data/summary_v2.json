@@ -1,52 +1,32 @@
 [
   {
-    "source": "Bloomberg",
-    "title": "ミシガン州、オラクルとOpenAIの大型データセンターへの電力供給承認",
-    "title_en": "",
-    "summary": "ミシガン州の規制当局は、オラクルとOpenAIが計画する総出力1.4ギガワットの大型データセンターに、公益事業会社DTEエナジーが電力を供給する契約を全会一致で承認しました。契約は電力網と一般利用者を保護する内容で、費用はオラクルが負担する仕組みです。",
-    "summary_en": "",
-    "link": "https://www.bloomberg.com/jp/news/articles/2025-12-19/T7HE44KIUPYY00?srnd=jp-homepage",
-    "category": "AI",
-    "publishedAt": "2025-12-19 17:34"
-  },
-  {
-    "source": "VentureBeat",
-    "title": "Anthropic、企業向け「エージェントスキル」を発表し、OpenAIに挑戦",
-    "title_en": "Anthropic launches enterprise ‘Agent Skills’ and opens the standard, challenging OpenAI in workplace AI",
-    "summary": "Anthropicは、自社の「エージェントスキル」技術をオープンスタンダードとして公開し、企業向けのAIアシスタントの能力向上を図る戦略を発表しました。新たに管理ツールとパートナー企業のスキルディレクトリも公開され、大手企業がすでにこの技術を法務や財務などで活用していることが明らかになっています。この取り組みは、AIアシスタントの専門的な作業を効率的に行うための産業標準の確立を目指しており、業界全体にも影響を与えていると注目されています。",
-    "summary_en": "Anthropicは、自社の「Agent Skills」技術をオープンスタンダードとして公開し、企業向けのAIアシスタントの能力向上を図る戦略を発表しました。新たに管理ツールとパートナー企業のスキルディレクトリも公開し、大手企業がすでにこの技術を法務や財務などで活用していることが明らかになっています。この取り組みは、AIアシスタントの専門的な作業を効率的に行うための産業標準の確立を目指しており、業界全体にも影響を与えていると注目されています。",
-    "link": "https://venturebeat.com/technology/anthropic-launches-enterprise-agent-skills-and-opens-the-standard",
-    "category": "AI",
-    "publishedAt": "2025-12-19 17:34"
-  },
-  {
     "source": "NHK",
-    "title": "【詳しく】日銀 植田総裁が会見 今後も利上げ目指す考え示す",
+    "title": "11月 コメの民間企業輸入量 前年同月の13倍に増加",
     "title_en": "",
-    "summary": "日銀は金融政策決定会合で利上げを決定しました。植田総裁は、経済や物価の改善に応じて政策金利を引き上げる意向を明らかにしました。今後も経済状況を注視しながら利上げを進めていく考えです。",
+    "summary": "最近、民間企業が輸入したコメの量が大幅に増加し、前年同月の13倍に達しました。国産米の価格が高止まりしているため、より安価な輸入米の需要が高まっています。これにより、輸入米市場の活発さが伺えます。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20251219/k10015008201000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20251225/k10015013361000.html",
     "category": "経済",
-    "publishedAt": "2025-12-19 17:34"
+    "publishedAt": "2025-12-25 14:34"
   },
   {
     "source": "BBC",
-    "title": "EU、ロシア資産を利用せずにウクライナへ900億ユーロの融資を合意",
-    "title_en": "EU agrees €90bn loan for Ukraine but without using Russian assets",
-    "summary": "ウクライナはEUに対し、凍結されたロシア資産の2000億ユーロを活用するよう求めていましたが、ベルギーがその提案に反対しました。",
-    "summary_en": "ウクライナはEUに対し、凍結されたロシア資産の2000億ユーロを活用するよう求めていましたが、ベルギーがその提案に反対しました。",
-    "link": "https://www.bbc.com/news/articles/c3e025vyppeo?at_medium=RSS&at_campaign=rss",
-    "category": "その他",
-    "publishedAt": "2025-12-19 17:34"
+    "title": "ゼレンスキー、ウクライナの最新平和計画で非武装地帯に向けた動き",
+    "title_en": "Zelensky moves towards demilitarised zones in latest peace plan for Ukraine",
+    "summary": "ウクライナのゼレンスキー大統領は、東部ドンバス地域について「自由経済区」を提案する可能性があると述べました。これは、地域の経済的な発展を促進する手段といえます。今後の進展が注目されます。",
+    "summary_en": "ウクライナのゼレンスキー大統領は、東部ドンバス地域について「自由経済区」を提案する可能性があると述べました。これは、地域の経済的な発展を促進する手段といえます。今後の進展が注目されます。",
+    "link": "https://www.bbc.com/news/articles/c9d9wg2pwl1o?at_medium=RSS&at_campaign=rss",
+    "category": "経済",
+    "publishedAt": "2025-12-25 14:34"
   },
   {
     "source": "NHK",
-    "title": "官房長官“非核三原則を堅持” 官邸幹部“核保有”発言に対し",
+    "title": "“キリストの生誕地”でクリスマスのミサ 平和祈る パレスチナ",
     "title_en": "",
-    "summary": "安全保障を担当する官邸幹部が「日本は核を持つべきだ」と発言し波紋が広がりました。木原官房長官は「非核三原則を政策上の方針として堅持している」と強調し、個別のコメントは控える姿勢を示しました。公明党や被爆者団体からは強い批判が出ています。",
+    "summary": "ベツレヘムで恒例のクリスマスのミサが行われ、多くの人々が集まりました。参加者はガザ地区の不安定な情勢を受けて、平和への祈りを捧げました。行事はイエス・キリストの生誕の地で行われました。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/na-k10015008061000",
+    "link": "http://www3.nhk.or.jp/news/html/20251225/k10015013261000.html",
     "category": "その他",
-    "publishedAt": "2025-12-19 17:34"
+    "publishedAt": "2025-12-25 14:34"
   }
 ]
