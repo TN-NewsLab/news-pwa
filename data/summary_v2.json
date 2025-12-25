@@ -1,32 +1,52 @@
 [
   {
+    "source": "VentureBeat",
+    "title": "OpenAI、プロンプトインジェクションが定着することを認め、企業の防御遅れを指摘",
+    "title_en": "OpenAI admits prompt injection is here to stay as enterprises lag on defenses",
+    "summary": "OpenAIがChatGPT Atlasのプロンプトインジェクションに対する脆弱性を認め、完全な防御は難しいと公表しました。企業の約65%は専用の防御策を導入しておらず、多くがリスク管理が不十分な状況にあります。エンタープライズは、AIの自律性を高めることで攻撃面が広がるため、適切な防御策の構築が急務です。",
+    "summary_en": "OpenAIがChatGPT Atlasのプロンプトインジェクションに対する脆弱性を認め、完全な防御は難しいと公に発表しました。企業の約65%は専用の防御策を導入しておらず、多くがリスク管理が不十分な状況にあります。エンタープライズは、AIの自律性を高めることで攻撃面が広がるため、適切な防御策の構築が急務です。",
+    "link": "https://venturebeat.com/security/openai-admits-that-prompt-injection-is-here-to-stay",
+    "category": "AI",
+    "publishedAt": "2025-12-25 15:37"
+  },
+  {
+    "source": "VentureBeat",
+    "title": "AIバブルが語られる中、Salesforceは3ヶ月で6,000の企業顧客を静かに追加",
+    "title_en": "While everyone talks about an AI bubble, Salesforce quietly added 6,000 enterprise customers in 3 months",
+    "summary": "SalesforceのAIプラットフォームは、最近の四半期で新たに6,000の顧客を獲得し、企業向けAIの導入が進んでいることを示しています。特に、Agentforceという自律型AIエージェントは、運用効率を高め、年間売上を540百万ドル以上に押し上げました。AIの信頼性や管理は重要な課題であり、企業は単なるコスト削減ではなく、顧客体験の向上に注力しています。",
+    "summary_en": "SalesforceのAIプラットフォームは、最近の四半期で新たに6,000の顧客を獲得し、企業向けAIの導入が進んでいることを示しています。特に、Agentforceという自律型AIエージェントは、運用効率を高め、年間売上を540百万ドル以上に押し上げました。AIの信頼性や管理は重要な課題であり、企業は単なるコスト削減ではなく、顧客体験の向上に注力しています。",
+    "link": "https://venturebeat.com/technology/while-everyone-talks-about-an-ai-bubble-salesforce-quietly-added-6-000",
+    "category": "AI",
+    "publishedAt": "2025-12-25 15:37"
+  },
+  {
     "source": "NHK",
-    "title": "11月 コメの民間企業輸入量 前年同月の13倍に増加",
+    "title": "日本の自動車メーカー 11月の米の新車販売 6社中5社で減少",
     "title_en": "",
-    "summary": "最近、民間企業が輸入したコメの量が大幅に増加し、前年同月の13倍に達しました。国産米の価格が高止まりしているため、より安価な輸入米の需要が高まっています。これにより、輸入米市場の活発さが伺えます。",
+    "summary": "日本の自動車メーカーは、最近アメリカでの新車販売が減少した。これは、関税引き上げを前にした駆け込み需要の落ち着きと、半導体不足による生産の一時停止が影響している。6社中5社が販売減を記録した。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20251225/k10015013361000.html",
-    "category": "経済",
-    "publishedAt": "2025-12-25 14:34"
+    "link": "http://www3.nhk.or.jp/news/html/20251225/k10015013471000.html",
+    "category": "その他",
+    "publishedAt": "2025-12-25 15:37"
   },
   {
     "source": "BBC",
-    "title": "ゼレンスキー、ウクライナの最新平和計画で非武装地帯に向けた動き",
+    "title": "ゼレンスキー大統領、ウクライナ平和計画の一環として非武装地帯へ前進",
     "title_en": "Zelensky moves towards demilitarised zones in latest peace plan for Ukraine",
-    "summary": "ウクライナのゼレンスキー大統領は、東部ドンバス地域について「自由経済区」を提案する可能性があると述べました。これは、地域の経済的な発展を促進する手段といえます。今後の進展が注目されます。",
-    "summary_en": "ウクライナのゼレンスキー大統領は、東部ドンバス地域について「自由経済区」を提案する可能性があると述べました。これは、地域の経済的な発展を促進する手段といえます。今後の進展が注目されます。",
+    "summary": "ウクライナのゼレンスキー大統領は、東部ドンバス地域に関する主要な問題について「自由経済圏」が選択肢となり得ると述べました。この提案は、地域の経済活性化を目指すものです。ドンバスの将来に向けた新たなアプローチを模索しています。",
+    "summary_en": "ウクライナのゼレンスキー大統領は、東部ドンバス地域に関する主要な問題について「自由経済圏」が選択肢となり得ると述べました。この提案は、地域の経済活性化を目指すものです。ドンバスの将来に向けた新たなアプローチを模索しています。",
     "link": "https://www.bbc.com/news/articles/c9d9wg2pwl1o?at_medium=RSS&at_campaign=rss",
     "category": "経済",
-    "publishedAt": "2025-12-25 14:34"
+    "publishedAt": "2025-12-25 15:37"
   },
   {
     "source": "NHK",
-    "title": "“キリストの生誕地”でクリスマスのミサ 平和祈る パレスチナ",
+    "title": "打ち上げ失敗のH3ロケット 2段目機体と衛星 大気圏突入可能性",
     "title_en": "",
-    "summary": "ベツレヘムで恒例のクリスマスのミサが行われ、多くの人々が集まりました。参加者はガザ地区の不安定な情勢を受けて、平和への祈りを捧げました。行事はイエス・キリストの生誕の地で行われました。",
+    "summary": "最近、打ち上げに失敗したH3ロケット8号機について、JAXAは2段目の機体と人工衛星が打ち上げから約4時間以内に大気圏に突入した可能性が高いと発表しました。これまでのところ、落下による被害は確認されていないとのことです。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20251225/k10015013261000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20251225/k10015013541000.html",
     "category": "その他",
-    "publishedAt": "2025-12-25 14:34"
+    "publishedAt": "2025-12-25 15:38"
   }
 ]

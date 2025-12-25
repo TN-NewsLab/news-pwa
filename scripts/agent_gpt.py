@@ -1,4 +1,5 @@
 import os
+import requests
 import feedparser
 import json
 from openai import OpenAI
@@ -17,7 +18,7 @@ client = OpenAI(api_key=API_KEY)
 RSS_SOURCES = {
     "ai": {
         "source": "VentureBeat",
-        "url": "https://venturebeat.com/category/ai/feed/"
+        "url": "https://venturebeat.com/feed/"
     },
     "economy": {
         "source": "NHK",
@@ -35,12 +36,15 @@ RSS_SOURCES = {
 
 # ********** RSS取得 **********
 def fetch_rss(url):
-    feed = feedparser.parse(
-        url,
-        request_headers={
-            "User-Agent": "Mozilla/5.0 (NewsPWA; +https://example.com)"
-        }
-    )
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+    }
+
+    resp = requests.get(url, headers=headers, timeout=10)
+    resp.raise_for_status()
+
+    feed = feedparser.parse(resp.content)
+    entries = feed.entries
         
     # 記事が空でない時だけ1件
     return feed.entries[0] if feed.entries else None
@@ -50,12 +54,14 @@ def fetch_rss_ai_multiple(url, max_items=2):
     AIカテゴリ専用：OpenAI/ChatGPT関連を優先しつつ、
     最大 max_items 件のニュースを返す関数。
     """
-    feed = feedparser.parse(
-        url,
-        request_headers={
-            "User-Agent": "Mozilla/5.0 (NewsPWA; +https://example.com)"
-        }
-    )
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+    }
+
+    resp = requests.get(url, headers=headers, timeout=10)
+    resp.raise_for_status()
+
+    feed = feedparser.parse(resp.content)
     entries = feed.entries
 
     if not entries:
