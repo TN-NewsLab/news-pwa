@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-12-25T13:02:00.400Z",
+  "updatedAt": "2025-12-25T18:45:21.970Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,15 +9,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Zelensky moves towards demilitarised zones in latest peace plan for Ukraine",
-      "url": "https://www.bbc.com/news/articles/c9d9wg2pwl1o?at_medium=RSS&at_campaign=rss",
-      "summary": "On the key question of Ukraine's eastern Donbas, Zelensky says a \"free economic zone\" is a potential option."
+      "title": "Turkey detains 115 IS suspects 'planning New Year's attacks'",
+      "url": "https://www.bbc.com/news/articles/cn98w93l8plo?at_medium=RSS&at_campaign=rss",
+      "summary": "Turkish authorities say firearms were seized and efforts to trace further suspected members are continuing."
     },
     {
       "source": "BBC World",
-      "title": "Turkey arrests 115 IS suspects 'planning New Year's attacks'",
-      "url": "https://www.bbc.com/news/articles/cn98w93l8plo?at_medium=RSS&at_campaign=rss",
-      "summary": "Turkish authorities say firearms were seized and efforts to trace further suspected members are continuing."
+      "title": "Brazil ex-President Jair Bolsonaro's surgery for hernia 'successful'",
+      "url": "https://www.bbc.com/news/articles/c898zxyznxpo?at_medium=RSS&at_campaign=rss",
+      "summary": "The former leader is serving a 27-year sentence for plotting a coup after losing the 2022 presidential election."
     },
     {
       "source": "BBC Technology",
@@ -40,6 +40,15 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "I re-created Google&#8217;s cute Gemini ad with my own kid&#8217;s stuffie, and I wish I hadn&#8217;t",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/tech/849998/gemini-ai-stuffed-animal-commercial",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "Hollywood cozied up to AI in 2025 and had nothing good to show for it",
         "@_type": "html"
       },
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/gadgets/849637/anker-laptop-power-bank-xbox-series-x-deal-sale",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Sony’s souped-up PlayStation 5 Pro is $100 off for the rest of today",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/gadgets/684281/sony-playstation-5-ps5-pro-christmas-deal-sale-2025",
       "summary": "(要約準備中)"
     }
   ]
