@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2025-12-26T13:02:05.705Z",
+  "updatedAt": "2025-12-26T18:44:58.699Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Zelensky plans to meet Trump on Sunday for talks on ending Russian war",
+      "url": "https://www.bbc.com/news/articles/cp8zg25p26zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Ukrainian leader says he will see the US president in Florida and believes \"a lot can be decided before the new year\"."
+    },
     {
       "source": "BBC World",
       "title": "US launches strikes against Islamic State in Nigeria",
       "url": "https://www.bbc.com/news/articles/cj69j8l918do?at_medium=RSS&at_campaign=rss",
-      "summary": "President Donald Trump has previously accused the Nigerian government of failing to protect Christians from jihadist groups. "
+      "summary": "President Trump has previously accused the Nigerian government of failing to protect Christians from jihadists. "
     },
     {
       "source": "BBC World",
-      "title": "Zelensky hails 'new ideas' on peace after talks with US envoys",
-      "url": "https://www.bbc.com/news/articles/c4g413yz9g5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine's leader gives an upbeat assessment after discussing the plan with Steve Witkoff and Jared Kushner.\n"
-    },
-    {
-      "source": "BBC World",
-      "title": "Two killed in suspected Palestinian ramming and knife attack in Israel ",
-      "url": "https://www.bbc.com/news/articles/c9d9znp22pyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Police say the attacker, from the occupied West Bank, ran over at least one person before stabbing another victim several miles away."
+      "title": "Blast at Syrian mosque during Friday prayers leaves at least eight dead",
+      "url": "https://www.bbc.com/news/articles/cx25387dj8no?at_medium=RSS&at_campaign=rss",
+      "summary": "The explosion in Homs targeted a predominantly Alawite area, a sect that has faced crackdowns and violence since the fall of former-President Bashar al-Assad."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "I re-created Google&#8217;s cute Gemini ad with my own kid&#8217;s stuffie, and I wish I hadn&#8217;t",
+        "#text": "Framework announces another memory price hike — and it likely won’t be its last",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/849998/gemini-ai-stuffed-animal-commercial",
+      "url": "https://www.theverge.com/news/850376/framework-ram-memory-ddr5-price-hikes",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Hollywood cozied up to AI in 2025 and had nothing good to show for it",
+        "#text": "Cyberpunk 2077: Ultimate Edition and other Switch games are up to 50 percent off",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/848119/hollywood-film-tv-ai-2025",
+      "url": "https://www.theverge.com/gadgets/850279/cyberpunk-2077-ultimate-edition-and-other-nintendo-games-are-up-to-50-percent-off",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Anker’s beefy Laptop Power Bank has returned to its Black Friday low",
+        "#text": "Google is letting some people change their @gmail address",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/849637/anker-laptop-power-bank-xbox-series-x-deal-sale",
+      "url": "https://www.theverge.com/news/850237/google-change-your-gmail-address",
       "summary": "(要約準備中)"
     }
   ]
