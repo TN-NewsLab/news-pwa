@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "OpenAI、プロンプトインジェクションが定着することを認め、企業の防御遅れを指摘",
+    "title": "OpenAI、プロンプトインジェクションが永続的な脅威であることを認め、企業の防御策が遅れていると指摘",
     "title_en": "OpenAI admits prompt injection is here to stay as enterprises lag on defenses",
-    "summary": "OpenAIがChatGPT Atlasのプロンプトインジェクションに対する脆弱性を認め、完全な防御は難しいと公表しました。企業の約65%は専用の防御策を導入しておらず、多くがリスク管理が不十分な状況にあります。エンタープライズは、AIの自律性を高めることで攻撃面が広がるため、適切な防御策の構築が急務です。",
-    "summary_en": "OpenAIがChatGPT Atlasのプロンプトインジェクションに対する脆弱性を認め、完全な防御は難しいと公に発表しました。企業の約65%は専用の防御策を導入しておらず、多くがリスク管理が不十分な状況にあります。エンタープライズは、AIの自律性を高めることで攻撃面が広がるため、適切な防御策の構築が急務です。",
+    "summary": "OpenAIは、プロンプトインジェクションが永久的な脅威であると認め、AIエージェントのセキュリティリスクが拡大していることを指摘した。調査によると、多くの企業が専用の防御策を導入しておらず、AI導入が進む一方でセキュリティ対策が追いついていない実態が浮き彫りになった。セキュリティリーダーは、AIの展開と保護のギャップに対する対策を講じる必要がある。",
+    "summary_en": "OpenAIは、プロンプトインジェクションが永久的な脅威であることを認め、AIエージェントのセキュリティリスクが拡大していると指摘した。調査によれば、多くの企業が専用の防御策を導入していないことが明らかになり、AI導入が進む一方でセキュリティ対策が追いついていない実態が浮き彫りになった。セキュリティリーダーは、AIの展開と保護のギャップに対する対策を講じる必要がある。",
     "link": "https://venturebeat.com/security/openai-admits-that-prompt-injection-is-here-to-stay",
     "category": "AI",
-    "publishedAt": "2025-12-25 15:37"
+    "publishedAt": "2025-12-26 11:48"
   },
   {
     "source": "VentureBeat",
-    "title": "AIバブルが語られる中、Salesforceは3ヶ月で6,000の企業顧客を静かに追加",
-    "title_en": "While everyone talks about an AI bubble, Salesforce quietly added 6,000 enterprise customers in 3 months",
-    "summary": "SalesforceのAIプラットフォームは、最近の四半期で新たに6,000の顧客を獲得し、企業向けAIの導入が進んでいることを示しています。特に、Agentforceという自律型AIエージェントは、運用効率を高め、年間売上を540百万ドル以上に押し上げました。AIの信頼性や管理は重要な課題であり、企業は単なるコスト削減ではなく、顧客体験の向上に注力しています。",
-    "summary_en": "SalesforceのAIプラットフォームは、最近の四半期で新たに6,000の顧客を獲得し、企業向けAIの導入が進んでいることを示しています。特に、Agentforceという自律型AIエージェントは、運用効率を高め、年間売上を540百万ドル以上に押し上げました。AIの信頼性や管理は重要な課題であり、企業は単なるコスト削減ではなく、顧客体験の向上に注力しています。",
-    "link": "https://venturebeat.com/technology/while-everyone-talks-about-an-ai-bubble-salesforce-quietly-added-6-000",
+    "title": "研究で示された「エージェントの増加」では企業向けAIシステムの改善には不十分",
+    "title_en": "Research shows ‘more agents’ isn’t a reliable path to better enterprise AI systems",
+    "summary": "GoogleとMITの研究者たちは、エージェントシステムの性能向上には単にエージェントを増やすだけでは不十分であることを示しました。彼らは、エージェント数や協調構造がタスク特性に与える影響を定量的に評価し、適切なシステムアーキテクチャの選定が重要であると指摘しています。特に、タスクの性質に応じてエージェントの数や構造を最適化することが、効率的なAIシステムの構築につながると提唱しています。",
+    "summary_en": "GoogleとMITの研究者たちは、エージェントシステムの性能向上には単にエージェントを増やすだけでは不十分であることを示しました。彼らは、エージェント数や協調構造がタスク特性に与える影響を定量的に評価し、適切なシステムアーキテクチャの選定が重要であると指摘しています。特に、タスクの性質に応じてエージェントの数や構造を最適化することが、効率的なAIシステムの構築につながると提唱しています。",
+    "link": "https://venturebeat.com/orchestration/research-shows-more-agents-isnt-a-reliable-path-to-better-enterprise-ai",
     "category": "AI",
-    "publishedAt": "2025-12-25 15:37"
+    "publishedAt": "2025-12-26 11:48"
   },
   {
     "source": "NHK",
-    "title": "日本の自動車メーカー 11月の米の新車販売 6社中5社で減少",
+    "title": "政府 来年度予算案を決定 一般会計総額122兆3092億円 過去最大",
     "title_en": "",
-    "summary": "日本の自動車メーカーは、最近アメリカでの新車販売が減少した。これは、関税引き上げを前にした駆け込み需要の落ち着きと、半導体不足による生産の一時停止が影響している。6社中5社が販売減を記録した。",
+    "summary": "政府は最近、来年度の予算案を決定し、一般会計の総額が過去最大となりました。これは社会保障費や防衛費の増加、国債費の膨張が影響しています。全体の額は、現在の年度を7兆円超えることになります。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20251225/k10015013471000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20251226/k10015014121000.html",
     "category": "その他",
-    "publishedAt": "2025-12-25 15:37"
+    "publishedAt": "2025-12-26 11:48"
   },
   {
     "source": "BBC",
-    "title": "ゼレンスキー大統領、ウクライナ平和計画の一環として非武装地帯へ前進",
-    "title_en": "Zelensky moves towards demilitarised zones in latest peace plan for Ukraine",
-    "summary": "ウクライナのゼレンスキー大統領は、東部ドンバス地域に関する主要な問題について「自由経済圏」が選択肢となり得ると述べました。この提案は、地域の経済活性化を目指すものです。ドンバスの将来に向けた新たなアプローチを模索しています。",
-    "summary_en": "ウクライナのゼレンスキー大統領は、東部ドンバス地域に関する主要な問題について「自由経済圏」が選択肢となり得ると述べました。この提案は、地域の経済活性化を目指すものです。ドンバスの将来に向けた新たなアプローチを模索しています。",
-    "link": "https://www.bbc.com/news/articles/c9d9wg2pwl1o?at_medium=RSS&at_campaign=rss",
-    "category": "経済",
-    "publishedAt": "2025-12-25 15:37"
+    "title": "ゼレンスキー大統領、米国使節との会談後に平和に関する「新しいアイデア」を称賛",
+    "title_en": "Zelensky hails 'new ideas' on peace after talks with US envoys",
+    "summary": "ウクライナのリーダーは、最近スティーブ・ウィトコフとジャレッド・クシュナーとの計画に関する議論の後、楽観的な評価を示しました。彼の発言は、進展への期待を反映しており、国の将来に対する希望が高まっています。",
+    "summary_en": "ウクライナのリーダーは、最近、スティーブ・ウィトコフとジャレッド・クシュナーとの計画に関する議論の後、楽観的な評価を示しました。彼の発言は、進展への期待を反映しています。これにより、国の将来に対する希望が高まっています。",
+    "link": "https://www.bbc.com/news/articles/c4g413yz9g5o?at_medium=RSS&at_campaign=rss",
+    "category": "その他",
+    "publishedAt": "2025-12-26 11:48"
   },
   {
     "source": "NHK",
     "title": "打ち上げ失敗のH3ロケット 2段目機体と衛星 大気圏突入可能性",
     "title_en": "",
-    "summary": "最近、打ち上げに失敗したH3ロケット8号機について、JAXAは2段目の機体と人工衛星が打ち上げから約4時間以内に大気圏に突入した可能性が高いと発表しました。これまでのところ、落下による被害は確認されていないとのことです。",
+    "summary": "JAXAは、打ち上げに失敗したH3ロケット8号機の2段目と人工衛星が大気圏に突入した可能性が高いと明らかにしました。現在のところ、落下による被害は確認されていないとしています。この際の情報は、打ち上げから約4時間内のものです。",
     "summary_en": "",
     "link": "http://www3.nhk.or.jp/news/html/20251225/k10015013541000.html",
     "category": "その他",
-    "publishedAt": "2025-12-25 15:38"
+    "publishedAt": "2025-12-26 11:48"
   }
 ]
