@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2025-12-25T02:25:07.978Z",
+  "updatedAt": "2025-12-26T02:23:55.006Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Zelensky moves towards demilitarised zones in latest peace plan for Ukraine",
-      "url": "https://www.bbc.com/news/articles/c9d9wg2pwl1o?at_medium=RSS&at_campaign=rss",
-      "summary": "On the key question of Ukraine's eastern Donbas, Zelensky says a \"free economic zone\" is a potential option."
+      "title": "Zelensky hails 'new ideas' on peace after talks with US envoys",
+      "url": "https://www.bbc.com/news/articles/c4g413yz9g5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine's leader gives an upbeat assessment after discussing the plan with Steve Witkoff and Jared Kushner.\n"
     },
     {
       "source": "BBC World",
-      "title": "Officials discover a million more documents potentially related to Epstein case",
-      "url": "https://www.bbc.com/news/articles/czdgz84dn35o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US Department of Justice says reviewing the material could delay the full release of Epstein documents by a \"few more weeks\"."
+      "title": "Heavy rain storms in California leave three dead as of Christmas night",
+      "url": "https://www.bbc.com/news/articles/c1lr3p7n87yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The storms have brought flash flooding and mudslides during a time of busy holiday travel. "
     },
     {
       "source": "BBC World",
-      "title": "Trump-backed candidate wins in knife-edge Honduran election",
-      "url": "https://www.bbc.com/news/articles/cyvgz1jn368o?at_medium=RSS&at_campaign=rss",
-      "summary": "It is not clear if Asfura's opponents will accept the result after saying the vote count was manipulated."
+      "title": "Pope Leo urges 'courage' to end Ukraine war in first Christmas address",
+      "url": "https://www.bbc.com/news/articles/cm21728nwxlo?at_medium=RSS&at_campaign=rss",
+      "summary": "The pope also laments the condition of Palestinians during his address to worshippers at the Vatican. "
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "I re-created Google&#8217;s cute Gemini ad with my own kid&#8217;s stuffie, and I wish I hadn&#8217;t",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/tech/849998/gemini-ai-stuffed-animal-commercial",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "Hollywood cozied up to AI in 2025 and had nothing good to show for it",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/ai-artificial-intelligence/848119/hollywood-film-tv-ai-2025",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "Anker’s beefy Laptop Power Bank has returned to its Black Friday low",
         "@_type": "html"
       },
       "url": "https://www.theverge.com/gadgets/849637/anker-laptop-power-bank-xbox-series-x-deal-sale",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Sony’s souped-up PlayStation 5 Pro is $100 off for the rest of today",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/gadgets/684281/sony-playstation-5-ps5-pro-christmas-deal-sale-2025",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "The best shows and movies to stream on Netflix in 2025",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/entertainment/845388/netflix-best-shows-movies-2025",
       "summary": "(要約準備中)"
     }
   ]
