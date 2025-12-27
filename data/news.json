@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2025-12-26T18:44:58.699Z",
+  "updatedAt": "2025-12-27T02:22:01.982Z",
   "top": [
     {
       "source": "BBC World",
       "title": "Zelensky plans to meet Trump on Sunday for talks on ending Russian war",
       "url": "https://www.bbc.com/news/articles/cp8zg25p26zo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Ukrainian leader says he will see the US president in Florida and believes \"a lot can be decided before the new year\"."
+      "summary": "The Ukrainian president says he will see his US counterpart in Florida, as Kyiv's mayor says Russia launched new air strikes on the capital."
     },
     {
       "source": "BBC World",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "Trump’s war on offshore wind faces another lawsuit",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/news/850461/offshore-wind-trump-lawsuit-dominion-energy-ai-data-center",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "Rodeo is an app for making plans with friends you already have",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/news/850398/rodeo-hinge-social-app-friends",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "Framework announces another memory price hike — and it likely won’t be its last",
         "@_type": "html"
       },
       "url": "https://www.theverge.com/news/850376/framework-ram-memory-ddr5-price-hikes",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Cyberpunk 2077: Ultimate Edition and other Switch games are up to 50 percent off",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/gadgets/850279/cyberpunk-2077-ultimate-edition-and-other-nintendo-games-are-up-to-50-percent-off",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Google is letting some people change their @gmail address",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/news/850237/google-change-your-gmail-address",
       "summary": "(要約準備中)"
     }
   ]
