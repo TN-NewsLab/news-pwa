@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-12-27T12:59:16.391Z",
+  "updatedAt": "2025-12-27T18:43:52.371Z",
   "top": [
     {
       "source": "BBC World",
@@ -15,9 +15,9 @@
     },
     {
       "source": "BBC World",
-      "title": "Thousands of US flights disrupted as winter storm looms",
+      "title": "New York blanketed in snow, sparking travel chaos",
       "url": "https://www.bbc.com/news/articles/c0je0l55zq3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Heavy snow is expected in New York and southern Connecticut during one of the busiest travel weekends of the year."
+      "summary": "Hundreds of flights have been cancelled and more than 3,000 were delayed by the winter storm."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "Pixel 10 phones and Switch 2 games round out this week’s best deals ",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/gadgets/850390/google-pixel-10-anker-laptop-power-bank-nintendo-switch-game-sale-deal-sale",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "8 great games for your Steam Deck from 2025",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/entertainment/842024/steam-deck-best-games-2025-verified-playable-valve",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "Trump’s war on offshore wind faces another lawsuit",
         "@_type": "html"
       },
       "url": "https://www.theverge.com/news/850461/offshore-wind-trump-lawsuit-dominion-energy-ai-data-center",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Rodeo is an app for making plans with friends you already have",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/news/850398/rodeo-hinge-social-app-friends",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Framework announces another memory price hike — and it likely won’t be its last",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/news/850376/framework-ram-memory-ddr5-price-hikes",
       "summary": "(要約準備中)"
     }
   ]
