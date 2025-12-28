@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2025-12-27T18:43:52.371Z",
+  "updatedAt": "2025-12-28T02:37:24.509Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Thousands without power in Kyiv after massive Russian attack",
+      "title": "Attack on Kyiv shows 'Russia doesn't want peace', Zelensky says",
       "url": "https://www.bbc.com/news/articles/c1dzvpg1341o?at_medium=RSS&at_campaign=rss",
-      "summary": "Authorities say a third of residents in the Ukrainian capital have been left without heating in freezing weather."
+      "summary": "The 10-hour missile and drone barrage directed at Ukraine's capital killed two people and left 32 injured, local authorities say."
     },
     {
       "source": "BBC World",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "Two new wireless Samsung speakers for 2026 lean into aesthetics",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/news/850481/two-new-wireless-samsung-speakers-for-2026-lean-into-aesthetics",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "Sam Altman is hiring someone to worry about the dangers of AI",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/news/850537/sam-altman-openai-head-of-preparedness",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "Pixel 10 phones and Switch 2 games round out this week’s best deals ",
         "@_type": "html"
       },
       "url": "https://www.theverge.com/gadgets/850390/google-pixel-10-anker-laptop-power-bank-nintendo-switch-game-sale-deal-sale",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "8 great games for your Steam Deck from 2025",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/entertainment/842024/steam-deck-best-games-2025-verified-playable-valve",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Trump’s war on offshore wind faces another lawsuit",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/news/850461/offshore-wind-trump-lawsuit-dominion-energy-ai-data-center",
       "summary": "(要約準備中)"
     }
   ]
