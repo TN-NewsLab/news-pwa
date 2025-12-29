@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-12-29T06:53:08.835Z",
+  "updatedAt": "2025-12-29T13:06:42.689Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,15 +9,27 @@
     },
     {
       "source": "BBC World",
+      "title": "Thailand accuses Cambodia of breaking newly signed ceasefire deal",
+      "url": "https://www.bbc.com/news/articles/c9w7wgrk01do?at_medium=RSS&at_campaign=rss",
+      "summary": "The ceasefire took effect at noon local time (05:00 GMT) on Saturday. "
+    },
+    {
+      "source": "BBC World",
       "title": "'There are many challenges': Syrians in Turkey consider return after fall of Assad",
       "url": "https://www.bbc.com/news/articles/cd74pxvrp10o?at_medium=RSS&at_campaign=rss",
       "summary": "Syrians in Turkey are weighing up whether it is the right time to return to their homeland."
     },
     {
-      "source": "BBC World",
-      "title": "China holds military drills around Taiwan as warning to 'separatist forces'",
-      "url": "https://www.bbc.com/news/articles/c87l7xjp235o?at_medium=RSS&at_campaign=rss",
-      "summary": "The drills come days after the US announced the sale of one of its largest weapons packages to Taiwan."
+      "source": "BBC Technology",
+      "title": "James Bond game 007 First Light delayed to May 2026",
+      "url": "https://www.bbc.com/news/articles/c1lrlm9ydgno?at_medium=RSS&at_campaign=rss",
+      "summary": "Dexter Original Sin actor Patrick Gibson will star as the British spy when the game releases on 27 May."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Many new UK drone users must take theory test before flying outside",
+      "url": "https://www.bbc.com/news/articles/cjrjpzdzeddo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Civil Aviation Authority reckons up to half a million people in the UK may be impacted by its new requirements."
     },
     {
       "source": "BBC Technology",
@@ -26,42 +38,30 @@
       "summary": "The Trump administration bans five people who have called for tech regulation from entering the country. "
     },
     {
-      "source": "BBC Technology",
-      "title": "TikTok removes AI weight loss ads from fake Boots account",
-      "url": "https://www.bbc.com/news/articles/c997lkdjdy5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The adverts for prescription-only drugs showed healthcare professionals impersonating the British retailer."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Call of Duty co-creator Vince Zampella dies in California car crash ",
-      "url": "https://www.bbc.com/news/articles/cx25rled0ylo?at_medium=RSS&at_campaign=rss",
-      "summary": "The influential video game developer died after his car crashed and caught fire on a highway in Los Angeles."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "LG announces new UltraGear evo gaming monitors with AI upscaling",
+        "#text": "Windows on Arm had another good year",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/850572/lg-announces-new-ultragear-evo-gaming-monitors-with-ai-upscaling",
+      "url": "https://www.theverge.com/gadgets/850074/2025-windows-arm-laptops-qualcomm-intel-amd-nvidia",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "You need to read the subversive cosmic horror novella The Ballad of Black Tom",
+        "#text": "I’m The Verge’s Senior Internet Typist, ask me anything while Nilay’s away!",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/column/850564/subversive-cosmic-horror-the-ballad-of-black-tom-victor-lavalle",
+      "url": "https://www.theverge.com/entertainment/850407/liz-lopatto-ask-me-anything",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The terrible Nintendo controller that helped make VR happen",
+        "#text": "Google Photos is coming to Samsung TVs in 2026",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/podcast/850556/nintendo-power-glove-version-history",
+      "url": "https://www.theverge.com/news/850594/samsung-tv-google-photos-integration-2026",
       "summary": "(要約準備中)"
     }
   ]
