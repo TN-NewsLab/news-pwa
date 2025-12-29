@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2025-12-29T13:06:42.689Z",
+  "updatedAt": "2025-12-29T18:46:11.122Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Trump says progress made in Ukraine talks but 'thorny issues' remain",
-      "url": "https://www.bbc.com/news/articles/c36z615y443o?at_medium=RSS&at_campaign=rss",
-      "summary": "Both the US president and Zelensky describe talks in Florida as \"great\" and \"terrific\" but the issue of territory remains \"unresolved\"."
+      "title": "Ukraine denies drone attack on Putin's residence",
+      "url": "https://www.bbc.com/news/articles/c4g4g5lgngvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Russia has accused Ukraine of targeting a presidential residence, which President Zelensky called \"typical Russian lies\"."
     },
     {
       "source": "BBC World",
@@ -15,9 +15,9 @@
     },
     {
       "source": "BBC World",
-      "title": "'There are many challenges': Syrians in Turkey consider return after fall of Assad",
-      "url": "https://www.bbc.com/news/articles/cd74pxvrp10o?at_medium=RSS&at_campaign=rss",
-      "summary": "Syrians in Turkey are weighing up whether it is the right time to return to their homeland."
+      "title": "US pledges $2bn for humanitarian aid, but tells UN 'adapt or die' ",
+      "url": "https://www.bbc.com/news/articles/cdj8jr37y98o?at_medium=RSS&at_campaign=rss",
+      "summary": "The pledge was welcomed by the UN, but comes after previous major cuts to US funding for humanitarian operations. "
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Windows on Arm had another good year",
+        "#text": "GOG&#8217;s Steam-alternative PC game store is leaving CD Projekt, staying DRM-free",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/850074/2025-windows-arm-laptops-qualcomm-intel-amd-nvidia",
+      "url": "https://www.theverge.com/news/850832/gog-cd-projekt-acquisition-steam",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "I’m The Verge’s Senior Internet Typist, ask me anything while Nilay’s away!",
+        "#text": "Turn your PC into a Super Nintendo with Epilogue&#8217;s new USB dock",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/850407/liz-lopatto-ask-me-anything",
+      "url": "https://www.theverge.com/news/850793/epilogue-sn-operator-super-nintendo-snes-cartridge-slot-backup-emulator",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Google Photos is coming to Samsung TVs in 2026",
+        "#text": "How to tweak your online platform algorithms",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/850594/samsung-tv-google-photos-integration-2026",
+      "url": "https://www.theverge.com/tech/849742/how-to-tune-algorithms-recommendations-online-platforms",
       "summary": "(要約準備中)"
     }
   ]
