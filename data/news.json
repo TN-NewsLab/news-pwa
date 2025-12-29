@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-12-28T18:44:54.302Z",
+  "updatedAt": "2025-12-29T02:35:13.387Z",
   "top": [
     {
       "source": "BBC World",
@@ -15,9 +15,9 @@
     },
     {
       "source": "BBC World",
-      "title": "Polls close on first day of Myanmar's widely criticised 'sham' election",
-      "url": "https://www.bbc.com/news/articles/cy7vly6gm76o?at_medium=RSS&at_campaign=rss",
-      "summary": "Observers say the vote, accompanied by a renewed crackdown on dissent, is meant to entrench the junta's power."
+      "title": "Kosovo's ruling party wins election after months of political deadlock",
+      "url": "https://www.bbc.com/news/articles/ce3z3w4wy0go?at_medium=RSS&at_campaign=rss",
+      "summary": "The decisive victory for the Albanian nationalist Vetevendosje party means a third term for leader Albin Kurti."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Ubisoft shuts down ‘Rainbow Six Siege’ servers following hack",
+        "#text": "LG announces new UltraGear evo gaming monitors with AI upscaling",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/850551/ubisoft-shuts-down-rainbow-six-siege-servers-following-hack",
+      "url": "https://www.theverge.com/tech/850572/lg-announces-new-ultragear-evo-gaming-monitors-with-ai-upscaling",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The best PS5 games from 2025",
+        "#text": "You need to read the subversive cosmic horror novella The Ballad of Black Tom",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/846828/ps5-best-games-2025",
+      "url": "https://www.theverge.com/column/850564/subversive-cosmic-horror-the-ballad-of-black-tom-victor-lavalle",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Two new wireless Samsung speakers for 2026 lean into aesthetics",
+        "#text": "The terrible Nintendo controller that helped make VR happen",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/850481/two-new-wireless-samsung-speakers-for-2026-lean-into-aesthetics",
+      "url": "https://www.theverge.com/podcast/850556/nintendo-power-glove-version-history",
       "summary": "(要約準備中)"
     }
   ]
