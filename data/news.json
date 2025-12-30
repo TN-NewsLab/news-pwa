@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-12-29T18:46:11.122Z",
+  "updatedAt": "2025-12-30T02:25:59.063Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,15 +9,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Thailand accuses Cambodia of breaking newly signed ceasefire deal",
-      "url": "https://www.bbc.com/news/articles/c9w7wgrk01do?at_medium=RSS&at_campaign=rss",
-      "summary": "The ceasefire took effect at noon local time (05:00 GMT) on Saturday. "
+      "title": "Bangladesh's first female prime minister Khaleda Zia dies aged 80",
+      "url": "https://www.bbc.com/news/articles/cm2v256vdkyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Zia became the country's first female leader in 1991 after its first democratic election in 20 years."
     },
     {
       "source": "BBC World",
-      "title": "US pledges $2bn for humanitarian aid, but tells UN 'adapt or die' ",
-      "url": "https://www.bbc.com/news/articles/cdj8jr37y98o?at_medium=RSS&at_campaign=rss",
-      "summary": "The pledge was welcomed by the UN, but comes after previous major cuts to US funding for humanitarian operations. "
+      "title": "Trump hopes to reach phase two of Gaza ceasefire 'very quickly'",
+      "url": "https://www.bbc.com/news/articles/cdj8jmxyzneo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president also warns Hamas will have \"hell to pay\" if it does not disarm,  after talks with Netanyahu."
     },
     {
       "source": "BBC Technology",
@@ -40,6 +40,15 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "LG is announcing its own Frame-style TV at CES",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/news/850876/lg-gallery-tv-ces-2026",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "GOG&#8217;s Steam-alternative PC game store is leaving CD Projekt, staying DRM-free",
         "@_type": "html"
       },
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/news/850793/epilogue-sn-operator-super-nintendo-snes-cartridge-slot-backup-emulator",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "How to tweak your online platform algorithms",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/tech/849742/how-to-tune-algorithms-recommendations-online-platforms",
       "summary": "(要約準備中)"
     }
   ]
