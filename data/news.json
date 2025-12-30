@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2025-12-30T06:49:26.690Z",
+  "updatedAt": "2025-12-30T13:05:35.036Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Russia's losses in Ukraine rise faster than ever, as US pushes for peace deal",
+      "title": "Russia's losses in Ukraine rise faster than ever as US pushes for peace deal",
       "url": "https://www.bbc.com/news/articles/c62n922dnw7o?at_medium=RSS&at_campaign=rss",
       "summary": "A steep rise in soldiers' obituaries is documented by the BBC as part of its work in counting Russian war losses."
     },
     {
       "source": "BBC World",
-      "title": "Ukraine denies drone attack on Putin's residence",
-      "url": "https://www.bbc.com/news/articles/c4g4g5lgngvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Russia has accused Ukraine of targeting a presidential residence, which President Zelensky called \"typical Russian lies\"."
+      "title": "French right pushes for national tribute to film star Brigitte Bardot",
+      "url": "https://www.bbc.com/news/articles/cp848g51zd3o?at_medium=RSS&at_campaign=rss",
+      "summary": "A petition for a national homage to Brigitte Bardot - who died on Sunday - attracts more than 23,000 signatures."
     },
     {
       "source": "BBC World",
@@ -40,6 +40,15 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "Free speech’s great leap backwards",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/policy/849841/trump-immigration-social-media-free-speech",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "LG is announcing its own Frame-style TV at CES",
         "@_type": "html"
       },
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/news/850832/gog-cd-projekt-acquisition-steam",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Turn your PC into a Super Nintendo with Epilogue&#8217;s new USB dock",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/news/850793/epilogue-sn-operator-super-nintendo-snes-cartridge-slot-backup-emulator",
       "summary": "(要約準備中)"
     }
   ]
