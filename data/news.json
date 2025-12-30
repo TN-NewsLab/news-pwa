@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2025-12-30T13:05:35.036Z",
+  "updatedAt": "2025-12-30T18:47:55.542Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Russia's losses in Ukraine rise faster than ever as US pushes for peace deal",
-      "url": "https://www.bbc.com/news/articles/c62n922dnw7o?at_medium=RSS&at_campaign=rss",
-      "summary": "A steep rise in soldiers' obituaries is documented by the BBC as part of its work in counting Russian war losses."
+      "title": "Protests spread across Iran for third day after currency hits record low",
+      "url": "https://www.bbc.com/news/articles/cqj2llkjv8vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Iranian rial hit a record low against the US dollar on Sunday, prompting shopkeepers in Tehran to stage protests, which have quickly spread. "
     },
     {
       "source": "BBC World",
-      "title": "French right pushes for national tribute to film star Brigitte Bardot",
-      "url": "https://www.bbc.com/news/articles/cp848g51zd3o?at_medium=RSS&at_campaign=rss",
-      "summary": "A petition for a national homage to Brigitte Bardot - who died on Sunday - attracts more than 23,000 signatures."
+      "title": "The 'thorny' issues that threaten to derail a Russia-Ukraine peace deal",
+      "url": "https://www.bbc.com/news/articles/c78v5dj3x39o?at_medium=RSS&at_campaign=rss",
+      "summary": "Two of the main sticking points involve territory and the fate of Europe's biggest nuclear plant, which is currently occupied by Russia."
     },
     {
       "source": "BBC World",
-      "title": "Trump hopes to reach phase two of Gaza ceasefire 'very quickly'",
-      "url": "https://www.bbc.com/news/articles/cdj8jmxyzneo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president also warns Hamas will have \"hell to pay\" if it does not disarm,  after talks with Netanyahu."
+      "title": "Thieves use drill to steal €30m in German bank heist",
+      "url": "https://www.bbc.com/news/articles/c4grzz60kp3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Gelsenkirchen Police say thieves used the \"quiet\" days after Christmas to break into the high street branch."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Meta buys Chinese-founded AI start-up Manus",
+      "url": "https://www.bbc.com/news/articles/ce3k11q9qe1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The tech giant wants to build into its own AI tools which do complex things with minimal interaction."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "Dexter Original Sin actor Patrick Gibson will star as the British spy when the game releases on 27 May."
     },
     {
-      "source": "BBC Technology",
-      "title": "Many new UK drone users must take theory test before flying outside",
-      "url": "https://www.bbc.com/news/articles/cjrjpzdzeddo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Civil Aviation Authority reckons up to half a million people in the UK may be impacted by its new requirements."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Free speech’s great leap backwards",
+        "#text": "Two cybersecurity employees plead guilty to carrying out ransomware attacks",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/849841/trump-immigration-social-media-free-speech",
+      "url": "https://www.theverge.com/news/851467/cybersecurity-employees-plead-guilty-alphv-blackcat-ransomware",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "LG is announcing its own Frame-style TV at CES",
+        "#text": "The OneXSugar Wallet is the first gaming handheld with a folding screen",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/850876/lg-gallery-tv-ces-2026",
+      "url": "https://www.theverge.com/news/851401/one-netbook-onexsugar-gaming-handheld-wallet-folding-oled-screen-android",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "GOG&#8217;s Steam-alternative PC game store is leaving CD Projekt, staying DRM-free",
+        "#text": "GameSir put a tiny force feedback steering wheel on its new Swift Drive controller",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/850832/gog-cd-projekt-acquisition-steam",
+      "url": "https://www.theverge.com/news/851259/gamesir-switch-turbo-drive-controller-steering-wheel-wireless-force-feedback",
       "summary": "(要約準備中)"
     }
   ]
