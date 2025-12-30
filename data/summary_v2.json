@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "OpenAI、プロンプトインジェクションが永続的な脅威であることを認め、企業の防御策が遅れていると指摘",
-    "title_en": "OpenAI admits prompt injection is here to stay as enterprises lag on defenses",
-    "summary": "OpenAIは、プロンプトインジェクションが永久的な脅威であると認め、AIエージェントのセキュリティリスクが拡大していることを指摘した。調査によると、多くの企業が専用の防御策を導入しておらず、AI導入が進む一方でセキュリティ対策が追いついていない実態が浮き彫りになった。セキュリティリーダーは、AIの展開と保護のギャップに対する対策を講じる必要がある。",
-    "summary_en": "OpenAIは、プロンプトインジェクションが永久的な脅威であることを認め、AIエージェントのセキュリティリスクが拡大していると指摘した。調査によれば、多くの企業が専用の防御策を導入していないことが明らかになり、AI導入が進む一方でセキュリティ対策が追いついていない実態が浮き彫りになった。セキュリティリーダーは、AIの展開と保護のギャップに対する対策を講じる必要がある。",
-    "link": "https://venturebeat.com/security/openai-admits-that-prompt-injection-is-here-to-stay",
+    "title": "新年のAIサプライズ：FalがFlux 2画像生成器の独自版を発表、価格は10分の1で効率は6倍向上",
+    "title_en": "New Year's AI surprise: Fal releases its own version of Flux 2 image generator that's 10x cheaper and 6x more efficient",
+    "summary": "fal.aiが新たに発表したFLUX.2 [dev] Turboは、高速かつ効率的な画像生成モデルで、従来のモデルよりも著しく短いステップ数で高品質な画像を生成できます。このモデルはオープンソースですが、商業利用にはライセンスが必要で、研究や実験には自由に使用可能です。fal.aiは、リアルタイム生成メディアを提供するプラットフォームとして急成長を続けており、使いやすいAPIを通じて多様なモデルにアクセスできます。",
+    "summary_en": "fal.aiが新たに発表したFLUX.2 [dev] Turboは、高速かつ効率的な画像生成モデルで、従来のモデルよりも著しく短いステップ数で高品質な画像を生成できます。このモデルはオープンソースでありながら、商業利用にはライセンスが必要ですが、研究や実験には自由に使用できます。fal.aiは、リアルタイム生成メディアを提供するプラットフォームとして急成長を続けており、使いやすいAPIを通じて多様なモデルにアクセス可能です。",
+    "link": "https://venturebeat.com/technology/new-years-ai-surprise-fal-releases-its-own-version-of-flux-2-image-generator",
     "category": "AI",
-    "publishedAt": "2025-12-26 11:48"
+    "publishedAt": "2025-12-30 14:02"
   },
   {
     "source": "VentureBeat",
-    "title": "研究で示された「エージェントの増加」では企業向けAIシステムの改善には不十分",
-    "title_en": "Research shows ‘more agents’ isn’t a reliable path to better enterprise AI systems",
-    "summary": "GoogleとMITの研究者たちは、エージェントシステムの性能向上には単にエージェントを増やすだけでは不十分であることを示しました。彼らは、エージェント数や協調構造がタスク特性に与える影響を定量的に評価し、適切なシステムアーキテクチャの選定が重要であると指摘しています。特に、タスクの性質に応じてエージェントの数や構造を最適化することが、効率的なAIシステムの構築につながると提唱しています。",
-    "summary_en": "GoogleとMITの研究者たちは、エージェントシステムの性能向上には単にエージェントを増やすだけでは不十分であることを示しました。彼らは、エージェント数や協調構造がタスク特性に与える影響を定量的に評価し、適切なシステムアーキテクチャの選定が重要であると指摘しています。特に、タスクの性質に応じてエージェントの数や構造を最適化することが、効率的なAIシステムの構築につながると提唱しています。",
-    "link": "https://venturebeat.com/orchestration/research-shows-more-agents-isnt-a-reliable-path-to-better-enterprise-ai",
+    "title": "企業の音声AI市場の分断：モデル品質ではなくアーキテクチャがコンプライアンスの姿勢を定義する理由",
+    "title_en": "The enterprise voice AI split: Why architecture — not model quality — defines your compliance posture",
+    "summary": "企業の音声AI市場は、スピードと制御のトレードオフからコスト効率とコンプライアンスの選択へと変化している。GoogleとOpenAIの価格競争が続く中、Together AIのような統一型モジュラーアーキテクチャが登場し、スピードと制御を両立させる解決策を提供している。企業は、特定の要件に応じた適切なアーキテクチャを選ぶことで、規制環境における音声エージェントの運用が可能かどうかを決定することになる。",
+    "summary_en": "企業の音声AI市場は、スピードと制御のトレードオフから、コスト効率とコンプライアンスの選択へと変化してきている。GoogleとOpenAIが価格競争を繰り広げる中、Together AIのような統一型モジュラーアーキテクチャが登場し、スピードと制御を両立させる解決策を提供している。企業は、特定の要件に応じた適切なアーキテクチャを選択することで、規制環境での音声エージェントの運用が可能かどうかを決定することになる。",
+    "link": "https://venturebeat.com/security/the-enterprise-voice-ai-split-why-architecture-not-model-quality-defines",
     "category": "AI",
-    "publishedAt": "2025-12-26 11:48"
+    "publishedAt": "2025-12-30 14:02"
   },
   {
     "source": "NHK",
-    "title": "政府 来年度予算案を決定 一般会計総額122兆3092億円 過去最大",
+    "title": "株価 値下がり AI分野への投資に対する警戒感などから売り注文",
     "title_en": "",
-    "summary": "政府は最近、来年度の予算案を決定し、一般会計の総額が過去最大となりました。これは社会保障費や防衛費の増加、国債費の膨張が影響しています。全体の額は、現在の年度を7兆円超えることになります。",
+    "summary": "東京株式市場での最後の取引日、AI分野への投資に対する警戒感から売り注文が増加しました。その影響で日経平均株価は値下がりしています。市場の動向に対する不安が影響を与えています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20251226/k10015014121000.html",
-    "category": "その他",
-    "publishedAt": "2025-12-26 11:48"
+    "link": "http://www3.nhk.or.jp/news/html/20251230/k10015016741000.html",
+    "category": "経済",
+    "publishedAt": "2025-12-30 14:02"
   },
   {
     "source": "BBC",
-    "title": "ゼレンスキー大統領、米国使節との会談後に平和に関する「新しいアイデア」を称賛",
-    "title_en": "Zelensky hails 'new ideas' on peace after talks with US envoys",
-    "summary": "ウクライナのリーダーは、最近スティーブ・ウィトコフとジャレッド・クシュナーとの計画に関する議論の後、楽観的な評価を示しました。彼の発言は、進展への期待を反映しており、国の将来に対する希望が高まっています。",
-    "summary_en": "ウクライナのリーダーは、最近、スティーブ・ウィトコフとジャレッド・クシュナーとの計画に関する議論の後、楽観的な評価を示しました。彼の発言は、進展への期待を反映しています。これにより、国の将来に対する希望が高まっています。",
-    "link": "https://www.bbc.com/news/articles/c4g413yz9g5o?at_medium=RSS&at_campaign=rss",
+    "title": "ウクライナ、大統領公邸へのドローン攻撃を否定",
+    "title_en": "Ukraine denies drone attack on Putin's residence",
+    "summary": "ロシアは、ウクライナが大統領公邸を標的にしたと非難しました。ゼレンスキー大統領はこれを「典型的なロシアの嘘」と表現しました。両国間の緊張が続いています。",
+    "summary_en": "ロシアは、ウクライナが大統領公邸を標的にしたと非難しました。ゼレンスキー大統領はこれを「典型的なロシアの嘘」と表現しました。両国間の緊張が続いています。",
+    "link": "https://www.bbc.com/news/articles/c4g4g5lgngvo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2025-12-26 11:48"
+    "publishedAt": "2025-12-30 14:02"
   },
   {
     "source": "NHK",
-    "title": "打ち上げ失敗のH3ロケット 2段目機体と衛星 大気圏突入可能性",
+    "title": "秀吉がふるまった “金粉塗られたあんずの種” 発見 山口 岩国",
     "title_en": "",
-    "summary": "JAXAは、打ち上げに失敗したH3ロケット8号機の2段目と人工衛星が大気圏に突入した可能性が高いと明らかにしました。現在のところ、落下による被害は確認されていないとしています。この際の情報は、打ち上げから約4時間内のものです。",
+    "summary": "戦国時代に豊臣秀吉が大坂城で振る舞った金粉が塗られた食べ物が、山口県岩国市で見つかりました。分析の結果、その食べ物はあんずの可能性が高いと判明しました。専門家は、秀吉の金好みの性格を反映していることに驚きを示しています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20251225/k10015013541000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20251230/k10015016631000.html",
     "category": "その他",
-    "publishedAt": "2025-12-26 11:48"
+    "publishedAt": "2025-12-30 14:02"
   }
 ]
