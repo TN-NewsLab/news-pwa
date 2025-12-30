@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2025-12-30T02:25:59.063Z",
+  "updatedAt": "2025-12-30T06:49:26.690Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Russia's losses in Ukraine rise faster than ever, as US pushes for peace deal",
+      "url": "https://www.bbc.com/news/articles/c62n922dnw7o?at_medium=RSS&at_campaign=rss",
+      "summary": "A steep rise in soldiers' obituaries is documented by the BBC as part of its work in counting Russian war losses."
+    },
     {
       "source": "BBC World",
       "title": "Ukraine denies drone attack on Putin's residence",
@@ -9,15 +15,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Bangladesh's first female prime minister Khaleda Zia dies aged 80",
-      "url": "https://www.bbc.com/news/articles/cm2v256vdkyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Zia became the country's first female leader in 1991 after its first democratic election in 20 years."
-    },
-    {
-      "source": "BBC World",
       "title": "Trump hopes to reach phase two of Gaza ceasefire 'very quickly'",
       "url": "https://www.bbc.com/news/articles/cdj8jmxyzneo?at_medium=RSS&at_campaign=rss",
       "summary": "The US president also warns Hamas will have \"hell to pay\" if it does not disarm,  after talks with Netanyahu."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "China to crack down on AI firms to protect kids",
+      "url": "https://www.bbc.com/news/articles/c8dydlmenvro?at_medium=RSS&at_campaign=rss",
+      "summary": "The draft regulations are aimed to address concerns around chatbots, which have surged in popularity in recent months."
     },
     {
       "source": "BBC Technology",
@@ -30,12 +36,6 @@
       "title": "Many new UK drone users must take theory test before flying outside",
       "url": "https://www.bbc.com/news/articles/cjrjpzdzeddo?at_medium=RSS&at_campaign=rss",
       "summary": "The Civil Aviation Authority reckons up to half a million people in the UK may be impacted by its new requirements."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "UK social media campaigners among five denied US visas",
-      "url": "https://www.bbc.com/news/articles/cp39kngz008o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Trump administration bans five people who have called for tech regulation from entering the country. "
     },
     {
       "source": "The Verge",
