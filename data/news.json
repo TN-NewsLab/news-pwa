@@ -1,23 +1,35 @@
 {
-  "updatedAt": "2025-12-26T02:23:55.006Z",
+  "updatedAt": "2025-12-30T02:25:59.063Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Zelensky hails 'new ideas' on peace after talks with US envoys",
-      "url": "https://www.bbc.com/news/articles/c4g413yz9g5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine's leader gives an upbeat assessment after discussing the plan with Steve Witkoff and Jared Kushner.\n"
+      "title": "Ukraine denies drone attack on Putin's residence",
+      "url": "https://www.bbc.com/news/articles/c4g4g5lgngvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Russia has accused Ukraine of targeting a presidential residence, which President Zelensky called \"typical Russian lies\"."
     },
     {
       "source": "BBC World",
-      "title": "Heavy rain storms in California leave three dead as of Christmas night",
-      "url": "https://www.bbc.com/news/articles/c1lr3p7n87yo?at_medium=RSS&at_campaign=rss",
-      "summary": "The storms have brought flash flooding and mudslides during a time of busy holiday travel. "
+      "title": "Bangladesh's first female prime minister Khaleda Zia dies aged 80",
+      "url": "https://www.bbc.com/news/articles/cm2v256vdkyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Zia became the country's first female leader in 1991 after its first democratic election in 20 years."
     },
     {
       "source": "BBC World",
-      "title": "Pope Leo urges 'courage' to end Ukraine war in first Christmas address",
-      "url": "https://www.bbc.com/news/articles/cm21728nwxlo?at_medium=RSS&at_campaign=rss",
-      "summary": "The pope also laments the condition of Palestinians during his address to worshippers at the Vatican. "
+      "title": "Trump hopes to reach phase two of Gaza ceasefire 'very quickly'",
+      "url": "https://www.bbc.com/news/articles/cdj8jmxyzneo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president also warns Hamas will have \"hell to pay\" if it does not disarm,  after talks with Netanyahu."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "James Bond game 007 First Light delayed to May 2026",
+      "url": "https://www.bbc.com/news/articles/c1lrlm9ydgno?at_medium=RSS&at_campaign=rss",
+      "summary": "Dexter Original Sin actor Patrick Gibson will star as the British spy when the game releases on 27 May."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Many new UK drone users must take theory test before flying outside",
+      "url": "https://www.bbc.com/news/articles/cjrjpzdzeddo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Civil Aviation Authority reckons up to half a million people in the UK may be impacted by its new requirements."
     },
     {
       "source": "BBC Technology",
@@ -26,42 +38,30 @@
       "summary": "The Trump administration bans five people who have called for tech regulation from entering the country. "
     },
     {
-      "source": "BBC Technology",
-      "title": "TikTok removes AI weight loss ads from fake Boots account",
-      "url": "https://www.bbc.com/news/articles/c997lkdjdy5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The adverts for prescription-only drugs showed healthcare professionals impersonating the British retailer."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Call of Duty co-creator Vince Zampella dies in California car crash ",
-      "url": "https://www.bbc.com/news/articles/cx25rled0ylo?at_medium=RSS&at_campaign=rss",
-      "summary": "The influential video game developer died after his car crashed and caught fire on a highway in Los Angeles."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "I re-created Google&#8217;s cute Gemini ad with my own kid&#8217;s stuffie, and I wish I hadn&#8217;t",
+        "#text": "LG is announcing its own Frame-style TV at CES",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/849998/gemini-ai-stuffed-animal-commercial",
+      "url": "https://www.theverge.com/news/850876/lg-gallery-tv-ces-2026",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Hollywood cozied up to AI in 2025 and had nothing good to show for it",
+        "#text": "GOG&#8217;s Steam-alternative PC game store is leaving CD Projekt, staying DRM-free",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/848119/hollywood-film-tv-ai-2025",
+      "url": "https://www.theverge.com/news/850832/gog-cd-projekt-acquisition-steam",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Anker’s beefy Laptop Power Bank has returned to its Black Friday low",
+        "#text": "Turn your PC into a Super Nintendo with Epilogue&#8217;s new USB dock",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/849637/anker-laptop-power-bank-xbox-series-x-deal-sale",
+      "url": "https://www.theverge.com/news/850793/epilogue-sn-operator-super-nintendo-snes-cartridge-slot-backup-emulator",
       "summary": "(要約準備中)"
     }
   ]
