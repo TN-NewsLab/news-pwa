@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "MetaがManusを買収した理由と企業のAIエージェント戦略への示唆",
-    "title_en": "Why Meta bought Manus — and what it signals for your enterprise AI agent strategy",
-    "summary": "MetaがAIスタートアップManusを20億ドル以上で買収することを発表し、AI導入の競争において実行層の重要性が増していることが示されました。Manusは、多ステップのタスクを自動的に実行するAIエージェントを開発しており、これが企業のAI戦略において実行の信頼性を価値あるものと考えられています。今後、企業はエージェント層の構築に注力する必要があり、この買収はその方向性を示すものと捉えられています。",
-    "summary_en": "MetaがAIスタートアップManusを20億ドル以上で買収することを発表し、AI導入の競争において実行層の重要性が増していることが示されました。Manusは、多ステップのタスクを自動的に実行するAIエージェントを開発し、これにより企業のAI戦略でも実行の信頼性が価値を持つと考えられています。今後、企業はエージェント層の構築に注力すべきであり、この買収はその方向性を示すものと捉えられています。",
-    "link": "https://venturebeat.com/orchestration/why-meta-bought-manus-and-what-it-means-for-your-enterprise-ai-agent",
+    "title": "オープンソースのQwen-Image-2512が、高品質AI画像生成でGoogleのNano Banana Proに対抗",
+    "title_en": "Open source Qwen-Image-2512 launches to compete with Google's Nano Banana Pro in high quality AI image generation",
+    "summary": "最近、GoogleのAI画像モデルGemini 3 Pro Imageが登場し、企業向けの高品質な画像生成が可能となりましたが、性能向上には高コストとプロプライエタリな制約が伴います。これに対抗して、AlibabaのQwen-Image-2512がオープンソースとして提供され、開発者や企業が自由に利用できる選択肢を提供します。Qwen-Image-2512は、コスト管理やデータガバナンスを強化しつつ、企業ニーズに応じた高品質な画像生成を実現しています。",
+    "summary_en": "最近、GoogleのAI画像モデルGemini 3 Pro Imageが登場し、企業向けの高品質な画像生成が可能となりましたが、性能の向上には高コストとプロプライエタリな制約が伴います。これに対抗して、AlibabaのQwen-Image-2512がオープンソースとして提供され、開発者や企業が自由に利用できる選択肢を提供します。Qwen-Image-2512は、コスト管理やデータガバナンスを強化しつつ、企業ニーズに応じた高品質な画像生成を実現しています。",
+    "link": "https://venturebeat.com/technology/open-source-qwen-image-2512-launches-to-compete-with-googles-nano-banana-pro",
     "category": "AI",
-    "publishedAt": "2025-12-31 17:03"
+    "publishedAt": "2026-01-01 08:19"
   },
   {
     "source": "VentureBeat",
-    "title": "IT主導のワークフロー統合なしにAI導入が失敗する理由",
-    "title_en": "Why AI adoption fails without IT-led workflow integration",
-    "summary": "Gold Bond Inc.のCIOであるマット・プライスは、職場の煩雑な業務にAIを組み込むことで社内の生成AIの採用を促進しました。AIの導入により、従業員の日常的な業務が効率化され、使用率が大幅に向上し、時間の節約が実現しました。彼は、変化管理が成功の鍵であり、慎重な導入と人間の関与が重要であると強調しています。",
-    "summary_en": "Gold Bond Inc.のCIOであるマット・プライスは、職場の煩雑な業務にAIを組み込むことで社内の生成AIの採用を促進しました。AIの導入により、従業員の日常的な業務が効率化され、使用率が大幅に向上し、時間の節約が実現しました。彼は、変化管理が成功の鍵であり、慎重な導入と人間の関与が重要であると強調しています。",
-    "link": "https://venturebeat.com/infrastructure/why-ai-adoption-fails-without-it-led-workflow-integration",
+    "title": "MetaがManusを買収した理由とそれがエンタープライズAIエージェント戦略に与える影響",
+    "title_en": "Why Meta bought Manus — and what it signals for your enterprise AI agent strategy",
+    "summary": "MetaがAIスタートアップManusを20億ドル以上で買収したことは、AI技術における競争がモデルの質だけでなく、実行レイヤーの制御にシフトしていることを示しています。Manusは多段階タスクを自動的に実行するAIエージェントを開発し、Meta内でその技術を統合しつつも、自社のサービスを継続して販売します。この買収は、エンタープライズのAI戦略において実行の重要性が増していることを強調し、企業が内部エージェントインフラに投資する意義を示しています。",
+    "summary_en": "MetaがAIスタートアップManusを20億ドル以上で買収したことは、AI技術における競争がモデルの質だけでなく、実行レイヤーの制御にシフトしていることを示しています。Manusは、多段階タスクを自動的に実行するAIエージェントを開発し、Meta内でその技術を統合しつつも、自社のサービスを継続して販売します。この買収は、エンタープライズのAI戦略において実行の重要性が増していることを強調し、企業が内部エージェントインフラに投資する意義を示しています。",
+    "link": "https://venturebeat.com/orchestration/why-meta-bought-manus-and-what-it-means-for-your-enterprise-ai-agent",
     "category": "AI",
-    "publishedAt": "2025-12-31 17:03"
+    "publishedAt": "2026-01-01 08:20"
   },
   {
     "source": "NHK",
-    "title": "日中経済協会 1月の訪問団派遣を延期 十分な交流困難な状況",
+    "title": "NY株式市場 2025年最後の取り引き終える ダウ1年で約13％上昇",
     "title_en": "",
-    "summary": "日中関係が悪化する中、日本の経済界を代表する日中経済協会が、中国への訪問団派遣を延期することを決定しました。この決定は、両国の緊張が影響しているとみられています。日本国内での経済活動にも影響が出る可能性があります。",
+    "summary": "ニューヨーク株式市場は最近、ダウ平均株価が前日比で値下がりしましたが、年間では約13％の上昇を記録しました。トランプ政権の関税措置による不確実性がある中、生成AIブームやFRBの利下げ期待が株価を支えました。市場は依然として変動要因にさらされています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20251231/k10015017141000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260101/k10015017471000.html",
     "category": "経済",
-    "publishedAt": "2025-12-31 17:03"
+    "publishedAt": "2026-01-01 08:20"
   },
   {
     "source": "BBC",
-    "title": "ユーロスターの遅延が続き、乗客が一晩中車内に閉じ込められる",
-    "title_en": "Eurostar delays persist as passengers stuck onboard overnight",
-    "summary": "ユーロスターは水曜日に全てのサービスを運行する予定ですが、遅延やキャンセルが発生する可能性があります。",
-    "summary_en": "Eurostarは水曜日に全てのサービスを運行する予定ですが、遅延やキャンセルが発生する可能性があります。",
-    "link": "https://www.bbc.com/news/articles/c0q4eg03eyzo?at_medium=RSS&at_campaign=rss",
+    "title": "ボンダイの攻撃後、シドニーが新年の平和のメッセージを発信",
+    "title_en": "Sydney sends message of peace for New Year's after Bondi attack",
+    "summary": "シドニーのハーバーブリッジに「平和」と「団結」の言葉が映し出され、皆が集まって年次の花火を楽しんだ。今年のイベントは多くの人々を惹きつけ、地域の連帯感を示す重要な瞬間となった。",
+    "summary_en": "シドニーのハーバーブリッジに「平和」と「団結」の言葉が映し出され、皆が集まって年次の花火を楽しんだ。今年のイベントは多くの人々を惹きつけた。地域の連帯感を示す重要な瞬間となった。",
+    "link": "https://www.bbc.com/news/articles/clye3xz52e5o?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2025-12-31 17:03"
+    "publishedAt": "2026-01-01 08:20"
   },
   {
     "source": "NHK",
-    "title": "“異例のロングラン”映画「国宝」 歌舞伎座で上映会 東京",
+    "title": "400年余りの時を経て 旧薩摩藩主の島津家と西本願寺が交流へ",
     "title_en": "",
-    "summary": "映画「国宝」の上映会が東京歌舞伎座で行われ、異例のロングラン上映となっています。主演の吉沢亮さんは、この経験が「忘れられない年になった」と述べました。歌舞伎をテーマにした作品が注目を集めています。",
+    "summary": "旧薩摩藩主の島津家と西本願寺が交流を開始することが決まりました。これは長い歴史の中での弾圧と対立を乗り越える重要な動きとされています。専門家は、この新しい関係を歴史的な出来事と評価しています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20251231/k10015017181000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260101/k10015017341000.html",
     "category": "その他",
-    "publishedAt": "2025-12-31 17:03"
+    "publishedAt": "2026-01-01 08:20"
   }
 ]
