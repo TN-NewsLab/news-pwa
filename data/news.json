@@ -1,23 +1,35 @@
 {
-  "updatedAt": "2025-12-30T02:25:59.063Z",
+  "updatedAt": "2025-12-31T06:50:22.114Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Ukraine denies drone attack on Putin's residence",
-      "url": "https://www.bbc.com/news/articles/c4g4g5lgngvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Russia has accused Ukraine of targeting a presidential residence, which President Zelensky called \"typical Russian lies\"."
+      "title": "Eurostar delays persist as passengers stuck onboard overnight",
+      "url": "https://www.bbc.com/news/articles/c0q4eg03eyzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Eurostar says it plans to run all of its services on Wednesday but there may still be delays and cancellations."
     },
     {
       "source": "BBC World",
-      "title": "Bangladesh's first female prime minister Khaleda Zia dies aged 80",
-      "url": "https://www.bbc.com/news/articles/cm2v256vdkyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Zia became the country's first female leader in 1991 after its first democratic election in 20 years."
+      "title": "The 'thorny' issues that threaten to derail a Russia-Ukraine peace deal",
+      "url": "https://www.bbc.com/news/articles/c78v5dj3x39o?at_medium=RSS&at_campaign=rss",
+      "summary": "Two of the main sticking points involve territory and the fate of Europe's biggest nuclear plant, which is currently occupied by Russia."
     },
     {
       "source": "BBC World",
-      "title": "Trump hopes to reach phase two of Gaza ceasefire 'very quickly'",
-      "url": "https://www.bbc.com/news/articles/cdj8jmxyzneo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president also warns Hamas will have \"hell to pay\" if it does not disarm,  after talks with Netanyahu."
+      "title": "Israel to bar 37 aid groups from Gaza",
+      "url": "https://www.bbc.com/news/articles/c1evp7weyv2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The move was criticised by foreign ministers from from 10 countries including the UK, who said the new rules were \"restrictive\" and \"unacceptable\"."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Meta buys Chinese-founded AI start-up Manus",
+      "url": "https://www.bbc.com/news/articles/ce3k11q9qe1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The tech giant wants to build into its own AI tools which do complex things with minimal interaction."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "China to crack down on AI firms to protect kids",
+      "url": "https://www.bbc.com/news/articles/c8dydlmenvro?at_medium=RSS&at_campaign=rss",
+      "summary": "The draft regulations are aimed to address concerns around chatbots, which have surged in popularity in recent months."
     },
     {
       "source": "BBC Technology",
@@ -26,42 +38,30 @@
       "summary": "Dexter Original Sin actor Patrick Gibson will star as the British spy when the game releases on 27 May."
     },
     {
-      "source": "BBC Technology",
-      "title": "Many new UK drone users must take theory test before flying outside",
-      "url": "https://www.bbc.com/news/articles/cjrjpzdzeddo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Civil Aviation Authority reckons up to half a million people in the UK may be impacted by its new requirements."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "UK social media campaigners among five denied US visas",
-      "url": "https://www.bbc.com/news/articles/cp39kngz008o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Trump administration bans five people who have called for tech regulation from entering the country. "
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "LG is announcing its own Frame-style TV at CES",
+        "#text": "Two cybersecurity employees plead guilty to carrying out ransomware attacks",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/850876/lg-gallery-tv-ces-2026",
+      "url": "https://www.theverge.com/news/851467/cybersecurity-employees-plead-guilty-alphv-blackcat-ransomware",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "GOG&#8217;s Steam-alternative PC game store is leaving CD Projekt, staying DRM-free",
+        "#text": "The OneXSugar Wallet is the first gaming handheld with a folding screen",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/850832/gog-cd-projekt-acquisition-steam",
+      "url": "https://www.theverge.com/news/851401/one-netbook-onexsugar-gaming-handheld-wallet-folding-oled-screen-android",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Turn your PC into a Super Nintendo with Epilogue&#8217;s new USB dock",
+        "#text": "GameSir put a tiny force feedback steering wheel on its new Swift Drive controller",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/850793/epilogue-sn-operator-super-nintendo-snes-cartridge-slot-backup-emulator",
+      "url": "https://www.theverge.com/news/851259/gamesir-switch-turbo-drive-controller-steering-wheel-wireless-force-feedback",
       "summary": "(要約準備中)"
     }
   ]
