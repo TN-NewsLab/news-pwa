@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "新年のAIサプライズ：FalがFlux 2画像生成器の独自版を発表、価格は10分の1で効率は6倍向上",
-    "title_en": "New Year's AI surprise: Fal releases its own version of Flux 2 image generator that's 10x cheaper and 6x more efficient",
-    "summary": "fal.aiが新たに発表したFLUX.2 [dev] Turboは、高速かつ効率的な画像生成モデルで、従来のモデルよりも著しく短いステップ数で高品質な画像を生成できます。このモデルはオープンソースですが、商業利用にはライセンスが必要で、研究や実験には自由に使用可能です。fal.aiは、リアルタイム生成メディアを提供するプラットフォームとして急成長を続けており、使いやすいAPIを通じて多様なモデルにアクセスできます。",
-    "summary_en": "fal.aiが新たに発表したFLUX.2 [dev] Turboは、高速かつ効率的な画像生成モデルで、従来のモデルよりも著しく短いステップ数で高品質な画像を生成できます。このモデルはオープンソースでありながら、商業利用にはライセンスが必要ですが、研究や実験には自由に使用できます。fal.aiは、リアルタイム生成メディアを提供するプラットフォームとして急成長を続けており、使いやすいAPIを通じて多様なモデルにアクセス可能です。",
-    "link": "https://venturebeat.com/technology/new-years-ai-surprise-fal-releases-its-own-version-of-flux-2-image-generator",
+    "title": "MetaがManusを買収した理由と企業のAIエージェント戦略への示唆",
+    "title_en": "Why Meta bought Manus — and what it signals for your enterprise AI agent strategy",
+    "summary": "MetaがAIスタートアップManusを20億ドル以上で買収することを発表し、AI導入の競争において実行層の重要性が増していることが示されました。Manusは、多ステップのタスクを自動的に実行するAIエージェントを開発しており、これが企業のAI戦略において実行の信頼性を価値あるものと考えられています。今後、企業はエージェント層の構築に注力する必要があり、この買収はその方向性を示すものと捉えられています。",
+    "summary_en": "MetaがAIスタートアップManusを20億ドル以上で買収することを発表し、AI導入の競争において実行層の重要性が増していることが示されました。Manusは、多ステップのタスクを自動的に実行するAIエージェントを開発し、これにより企業のAI戦略でも実行の信頼性が価値を持つと考えられています。今後、企業はエージェント層の構築に注力すべきであり、この買収はその方向性を示すものと捉えられています。",
+    "link": "https://venturebeat.com/orchestration/why-meta-bought-manus-and-what-it-means-for-your-enterprise-ai-agent",
     "category": "AI",
-    "publishedAt": "2025-12-30 14:02"
+    "publishedAt": "2025-12-31 17:03"
   },
   {
     "source": "VentureBeat",
-    "title": "企業の音声AI市場の分断：モデル品質ではなくアーキテクチャがコンプライアンスの姿勢を定義する理由",
-    "title_en": "The enterprise voice AI split: Why architecture — not model quality — defines your compliance posture",
-    "summary": "企業の音声AI市場は、スピードと制御のトレードオフからコスト効率とコンプライアンスの選択へと変化している。GoogleとOpenAIの価格競争が続く中、Together AIのような統一型モジュラーアーキテクチャが登場し、スピードと制御を両立させる解決策を提供している。企業は、特定の要件に応じた適切なアーキテクチャを選ぶことで、規制環境における音声エージェントの運用が可能かどうかを決定することになる。",
-    "summary_en": "企業の音声AI市場は、スピードと制御のトレードオフから、コスト効率とコンプライアンスの選択へと変化してきている。GoogleとOpenAIが価格競争を繰り広げる中、Together AIのような統一型モジュラーアーキテクチャが登場し、スピードと制御を両立させる解決策を提供している。企業は、特定の要件に応じた適切なアーキテクチャを選択することで、規制環境での音声エージェントの運用が可能かどうかを決定することになる。",
-    "link": "https://venturebeat.com/security/the-enterprise-voice-ai-split-why-architecture-not-model-quality-defines",
+    "title": "IT主導のワークフロー統合なしにAI導入が失敗する理由",
+    "title_en": "Why AI adoption fails without IT-led workflow integration",
+    "summary": "Gold Bond Inc.のCIOであるマット・プライスは、職場の煩雑な業務にAIを組み込むことで社内の生成AIの採用を促進しました。AIの導入により、従業員の日常的な業務が効率化され、使用率が大幅に向上し、時間の節約が実現しました。彼は、変化管理が成功の鍵であり、慎重な導入と人間の関与が重要であると強調しています。",
+    "summary_en": "Gold Bond Inc.のCIOであるマット・プライスは、職場の煩雑な業務にAIを組み込むことで社内の生成AIの採用を促進しました。AIの導入により、従業員の日常的な業務が効率化され、使用率が大幅に向上し、時間の節約が実現しました。彼は、変化管理が成功の鍵であり、慎重な導入と人間の関与が重要であると強調しています。",
+    "link": "https://venturebeat.com/infrastructure/why-ai-adoption-fails-without-it-led-workflow-integration",
     "category": "AI",
-    "publishedAt": "2025-12-30 14:02"
+    "publishedAt": "2025-12-31 17:03"
   },
   {
     "source": "NHK",
-    "title": "株価 値下がり AI分野への投資に対する警戒感などから売り注文",
+    "title": "日中経済協会 1月の訪問団派遣を延期 十分な交流困難な状況",
     "title_en": "",
-    "summary": "東京株式市場での最後の取引日、AI分野への投資に対する警戒感から売り注文が増加しました。その影響で日経平均株価は値下がりしています。市場の動向に対する不安が影響を与えています。",
+    "summary": "日中関係が悪化する中、日本の経済界を代表する日中経済協会が、中国への訪問団派遣を延期することを決定しました。この決定は、両国の緊張が影響しているとみられています。日本国内での経済活動にも影響が出る可能性があります。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20251230/k10015016741000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20251231/k10015017141000.html",
     "category": "経済",
-    "publishedAt": "2025-12-30 14:02"
+    "publishedAt": "2025-12-31 17:03"
   },
   {
     "source": "BBC",
-    "title": "ウクライナ、大統領公邸へのドローン攻撃を否定",
-    "title_en": "Ukraine denies drone attack on Putin's residence",
-    "summary": "ロシアは、ウクライナが大統領公邸を標的にしたと非難しました。ゼレンスキー大統領はこれを「典型的なロシアの嘘」と表現しました。両国間の緊張が続いています。",
-    "summary_en": "ロシアは、ウクライナが大統領公邸を標的にしたと非難しました。ゼレンスキー大統領はこれを「典型的なロシアの嘘」と表現しました。両国間の緊張が続いています。",
-    "link": "https://www.bbc.com/news/articles/c4g4g5lgngvo?at_medium=RSS&at_campaign=rss",
+    "title": "ユーロスターの遅延が続き、乗客が一晩中車内に閉じ込められる",
+    "title_en": "Eurostar delays persist as passengers stuck onboard overnight",
+    "summary": "ユーロスターは水曜日に全てのサービスを運行する予定ですが、遅延やキャンセルが発生する可能性があります。",
+    "summary_en": "Eurostarは水曜日に全てのサービスを運行する予定ですが、遅延やキャンセルが発生する可能性があります。",
+    "link": "https://www.bbc.com/news/articles/c0q4eg03eyzo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2025-12-30 14:02"
+    "publishedAt": "2025-12-31 17:03"
   },
   {
     "source": "NHK",
-    "title": "秀吉がふるまった “金粉塗られたあんずの種” 発見 山口 岩国",
+    "title": "“異例のロングラン”映画「国宝」 歌舞伎座で上映会 東京",
     "title_en": "",
-    "summary": "戦国時代に豊臣秀吉が大坂城で振る舞った金粉が塗られた食べ物が、山口県岩国市で見つかりました。分析の結果、その食べ物はあんずの可能性が高いと判明しました。専門家は、秀吉の金好みの性格を反映していることに驚きを示しています。",
+    "summary": "映画「国宝」の上映会が東京歌舞伎座で行われ、異例のロングラン上映となっています。主演の吉沢亮さんは、この経験が「忘れられない年になった」と述べました。歌舞伎をテーマにした作品が注目を集めています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20251230/k10015016631000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20251231/k10015017181000.html",
     "category": "その他",
-    "publishedAt": "2025-12-30 14:02"
+    "publishedAt": "2025-12-31 17:03"
   }
 ]
