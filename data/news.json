@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2025-12-31T13:03:05.694Z",
+  "updatedAt": "2025-12-31T18:45:31.766Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Heavy police presence in Sydney for New Year's celebrations after Bondi attack",
+      "title": "Sydney sends message of peace for New Year's after Bondi terror attack",
       "url": "https://www.bbc.com/news/articles/clye3xz52e5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Thousands of officers are deployed around Sydney Harbour and across the city, with some carrying high-grade weapons as part of heightened security measures."
+      "summary": "The words peace and unity were projected onto the Sydney Harbour Bridge as thousands gathered to watch the annual fireworks."
     },
     {
       "source": "BBC World",
-      "title": "Eurostar services return to normal after major Channel Tunnel disruption",
-      "url": "https://www.bbc.com/news/articles/c0q4eg03eyzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The high-speed rail firm urged passengers to check before they travel as last-minute delays and cancellations are still possible."
+      "title": "EU's top diplomat rejects Russian claims of Ukrainian attack on government sites",
+      "url": "https://www.bbc.com/news/articles/c0q4e4e4ldyo?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes as Russia releases video which it claims shows a downed Ukrainian drone launched at one of Putin's residences. "
     },
     {
       "source": "BBC World",
-      "title": "Jailed HK tycoon's 'teeth rotting and fingernails falling off', daughter tells BBC",
-      "url": "https://www.bbc.com/news/articles/cr57nvrjrlno?at_medium=RSS&at_campaign=rss",
-      "summary": "The daughter of Jimmy Lai tells the BBC that her father's health is deteriorating in prison."
+      "title": "Machu Picchu train crash leaves one dead and dozens injured",
+      "url": "https://www.bbc.com/news/articles/cn9zl309dz8o?at_medium=RSS&at_campaign=rss",
+      "summary": "A train driver died and at least 40 people were injured in the crash on the single-track line to Machu Picchu."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "The 11 best Nintendo Switch 2 games we played in 2025",
+        "#text": "Net neutrality was back, until it wasn’t",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/845401/nintendo-switch-2-best-games",
+      "url": "https://www.theverge.com/report/851629/net-neutrality-fcc-retrospective-2025",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Two cybersecurity employees plead guilty to carrying out ransomware attacks",
+        "#text": "Leaked video shows the Galaxy S26 Ultra’s new camera island",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/851467/cybersecurity-employees-plead-guilty-alphv-blackcat-ransomware",
+      "url": "https://www.theverge.com/news/851931/samsung-galaxy-236-ultra-video-photo-leak",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The OneXSugar Wallet is the first gaming handheld with a folding screen",
+        "#text": "The Dreame X40 Ultra robovac is about $700 off, nearly matching its best price",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/851401/one-netbook-onexsugar-gaming-handheld-wallet-folding-oled-screen-android",
+      "url": "https://www.theverge.com/gadgets/851325/dreame-x40-ultra-baseus-163w-retractable-car-charger-deal-sale",
       "summary": "(要約準備中)"
     }
   ]
