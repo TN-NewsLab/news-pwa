@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2025-12-31T06:50:22.114Z",
+  "updatedAt": "2025-12-31T18:45:31.766Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Eurostar delays persist as passengers stuck onboard overnight",
-      "url": "https://www.bbc.com/news/articles/c0q4eg03eyzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Eurostar says it plans to run all of its services on Wednesday but there may still be delays and cancellations."
+      "title": "Sydney sends message of peace for New Year's after Bondi terror attack",
+      "url": "https://www.bbc.com/news/articles/clye3xz52e5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The words peace and unity were projected onto the Sydney Harbour Bridge as thousands gathered to watch the annual fireworks."
     },
     {
       "source": "BBC World",
-      "title": "The 'thorny' issues that threaten to derail a Russia-Ukraine peace deal",
-      "url": "https://www.bbc.com/news/articles/c78v5dj3x39o?at_medium=RSS&at_campaign=rss",
-      "summary": "Two of the main sticking points involve territory and the fate of Europe's biggest nuclear plant, which is currently occupied by Russia."
+      "title": "EU's top diplomat rejects Russian claims of Ukrainian attack on government sites",
+      "url": "https://www.bbc.com/news/articles/c0q4e4e4ldyo?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes as Russia releases video which it claims shows a downed Ukrainian drone launched at one of Putin's residences. "
     },
     {
       "source": "BBC World",
-      "title": "Israel to bar 37 aid groups from Gaza",
-      "url": "https://www.bbc.com/news/articles/c1evp7weyv2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The move was criticised by foreign ministers from from 10 countries including the UK, who said the new rules were \"restrictive\" and \"unacceptable\"."
+      "title": "Machu Picchu train crash leaves one dead and dozens injured",
+      "url": "https://www.bbc.com/news/articles/cn9zl309dz8o?at_medium=RSS&at_campaign=rss",
+      "summary": "A train driver died and at least 40 people were injured in the crash on the single-track line to Machu Picchu."
     },
     {
       "source": "BBC Technology",
@@ -27,41 +27,41 @@
     },
     {
       "source": "BBC Technology",
+      "title": "A wave paralysed me but AI could help me walk again",
+      "url": "https://www.bbc.com/news/articles/cqjgx1xkjg7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Dan Richards, 37, from Swansea was injured in a freak accident on New Year's Eve in 2023."
+    },
+    {
+      "source": "BBC Technology",
       "title": "China to crack down on AI firms to protect kids",
       "url": "https://www.bbc.com/news/articles/c8dydlmenvro?at_medium=RSS&at_campaign=rss",
       "summary": "The draft regulations are aimed to address concerns around chatbots, which have surged in popularity in recent months."
     },
     {
-      "source": "BBC Technology",
-      "title": "James Bond game 007 First Light delayed to May 2026",
-      "url": "https://www.bbc.com/news/articles/c1lrlm9ydgno?at_medium=RSS&at_campaign=rss",
-      "summary": "Dexter Original Sin actor Patrick Gibson will star as the British spy when the game releases on 27 May."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Two cybersecurity employees plead guilty to carrying out ransomware attacks",
+        "#text": "Net neutrality was back, until it wasn’t",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/851467/cybersecurity-employees-plead-guilty-alphv-blackcat-ransomware",
+      "url": "https://www.theverge.com/report/851629/net-neutrality-fcc-retrospective-2025",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The OneXSugar Wallet is the first gaming handheld with a folding screen",
+        "#text": "Leaked video shows the Galaxy S26 Ultra’s new camera island",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/851401/one-netbook-onexsugar-gaming-handheld-wallet-folding-oled-screen-android",
+      "url": "https://www.theverge.com/news/851931/samsung-galaxy-236-ultra-video-photo-leak",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "GameSir put a tiny force feedback steering wheel on its new Swift Drive controller",
+        "#text": "The Dreame X40 Ultra robovac is about $700 off, nearly matching its best price",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/851259/gamesir-switch-turbo-drive-controller-steering-wheel-wireless-force-feedback",
+      "url": "https://www.theverge.com/gadgets/851325/dreame-x40-ultra-baseus-163w-retractable-car-charger-deal-sale",
       "summary": "(要約準備中)"
     }
   ]
