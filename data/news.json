@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2025-12-31T06:50:22.114Z",
+  "updatedAt": "2025-12-31T13:03:05.694Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Eurostar delays persist as passengers stuck onboard overnight",
+      "title": "Heavy police presence in Sydney for New Year's celebrations after Bondi attack",
+      "url": "https://www.bbc.com/news/articles/clye3xz52e5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Thousands of officers are deployed around Sydney Harbour and across the city, with some carrying high-grade weapons as part of heightened security measures."
+    },
+    {
+      "source": "BBC World",
+      "title": "Eurostar services return to normal after major Channel Tunnel disruption",
       "url": "https://www.bbc.com/news/articles/c0q4eg03eyzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Eurostar says it plans to run all of its services on Wednesday but there may still be delays and cancellations."
+      "summary": "The high-speed rail firm urged passengers to check before they travel as last-minute delays and cancellations are still possible."
     },
     {
       "source": "BBC World",
-      "title": "The 'thorny' issues that threaten to derail a Russia-Ukraine peace deal",
-      "url": "https://www.bbc.com/news/articles/c78v5dj3x39o?at_medium=RSS&at_campaign=rss",
-      "summary": "Two of the main sticking points involve territory and the fate of Europe's biggest nuclear plant, which is currently occupied by Russia."
-    },
-    {
-      "source": "BBC World",
-      "title": "Israel to bar 37 aid groups from Gaza",
-      "url": "https://www.bbc.com/news/articles/c1evp7weyv2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The move was criticised by foreign ministers from from 10 countries including the UK, who said the new rules were \"restrictive\" and \"unacceptable\"."
+      "title": "Jailed HK tycoon's 'teeth rotting and fingernails falling off', daughter tells BBC",
+      "url": "https://www.bbc.com/news/articles/cr57nvrjrlno?at_medium=RSS&at_campaign=rss",
+      "summary": "The daughter of Jimmy Lai tells the BBC that her father's health is deteriorating in prison."
     },
     {
       "source": "BBC Technology",
@@ -27,15 +27,24 @@
     },
     {
       "source": "BBC Technology",
+      "title": "A wave paralysed me but AI could help me walk again",
+      "url": "https://www.bbc.com/news/articles/cqjgx1xkjg7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Dan Richards, 37, from Swansea was injured in a freak accident on New Year's Eve in 2023."
+    },
+    {
+      "source": "BBC Technology",
       "title": "China to crack down on AI firms to protect kids",
       "url": "https://www.bbc.com/news/articles/c8dydlmenvro?at_medium=RSS&at_campaign=rss",
       "summary": "The draft regulations are aimed to address concerns around chatbots, which have surged in popularity in recent months."
     },
     {
-      "source": "BBC Technology",
-      "title": "James Bond game 007 First Light delayed to May 2026",
-      "url": "https://www.bbc.com/news/articles/c1lrlm9ydgno?at_medium=RSS&at_campaign=rss",
-      "summary": "Dexter Original Sin actor Patrick Gibson will star as the British spy when the game releases on 27 May."
+      "source": "The Verge",
+      "title": {
+        "#text": "The 11 best Nintendo Switch 2 games we played in 2025",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/games/845401/nintendo-switch-2-best-games",
+      "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/news/851401/one-netbook-onexsugar-gaming-handheld-wallet-folding-oled-screen-android",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "GameSir put a tiny force feedback steering wheel on its new Swift Drive controller",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/news/851259/gamesir-switch-turbo-drive-controller-steering-wheel-wireless-force-feedback",
       "summary": "(要約準備中)"
     }
   ]
