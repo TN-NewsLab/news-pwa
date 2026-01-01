@@ -1,12 +1,6 @@
 {
-  "updatedAt": "2025-12-31T18:45:31.766Z",
+  "updatedAt": "2026-01-01T02:38:09.824Z",
   "top": [
-    {
-      "source": "BBC World",
-      "title": "Sydney sends message of peace for New Year's after Bondi terror attack",
-      "url": "https://www.bbc.com/news/articles/clye3xz52e5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The words peace and unity were projected onto the Sydney Harbour Bridge as thousands gathered to watch the annual fireworks."
-    },
     {
       "source": "BBC World",
       "title": "EU's top diplomat rejects Russian claims of Ukrainian attack on government sites",
@@ -15,9 +9,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Machu Picchu train crash leaves one dead and dozens injured",
-      "url": "https://www.bbc.com/news/articles/cn9zl309dz8o?at_medium=RSS&at_campaign=rss",
-      "summary": "A train driver died and at least 40 people were injured in the crash on the single-track line to Machu Picchu."
+      "title": "What are Russians hoping for in 2026, asks Steve Rosenberg",
+      "url": "https://www.bbc.com/news/videos/czdqp29gz51o?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Russia editor speaks to people in the country as the war in Ukraine nears a fourth year.\n"
+    },
+    {
+      "source": "BBC World",
+      "title": "Condom tax and cheaper childcare: China's plan to boost birth rates",
+      "url": "https://www.bbc.com/news/articles/czxpk7r8w9yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Chinese people pay a 13% sales tax on contraceptives from 1 January, while childcare services are exempt.\n"
     },
     {
       "source": "BBC Technology",
@@ -40,6 +40,15 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "You can’t trust your eyes to tell you what’s real anymore, says the head of Instagram",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/news/852124/adam-mosseri-ai-images-video-instagram",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "Net neutrality was back, until it wasn’t",
         "@_type": "html"
       },
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/news/851931/samsung-galaxy-236-ultra-video-photo-leak",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "The Dreame X40 Ultra robovac is about $700 off, nearly matching its best price",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/gadgets/851325/dreame-x40-ultra-baseus-163w-retractable-car-charger-deal-sale",
       "summary": "(要約準備中)"
     }
   ]
