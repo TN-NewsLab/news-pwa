@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-01-01T13:03:11.508Z",
+  "updatedAt": "2026-01-01T18:46:02.912Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Several dozen feared dead in Swiss ski resort bar fire",
+      "title": "Around 40 dead in Swiss ski resort bar fire",
       "url": "https://www.bbc.com/news/articles/cx2pmyyeg78o?at_medium=RSS&at_campaign=rss",
-      "summary": "Around 100 are also injured in fire at Crans-Montana Swiss ski resort bar Le Constellation."
+      "summary": "Around 115 are injured - some severely - in fire at Crans-Montana Swiss ski resort bar Le Constellation."
     },
     {
       "source": "BBC World",
-      "title": "BBC reports from the scene of Swiss resort bar fire",
-      "url": "https://www.bbc.com/news/videos/cq84xxxk840o?at_medium=RSS&at_campaign=rss",
-      "summary": "Dozens of people are believed to have died after a fire broke out during New Year's Eve celebrations."
+      "title": "Two killed in clashes between protesters and security forces in Iran",
+      "url": "https://www.bbc.com/news/articles/c36810pkz96o?at_medium=RSS&at_campaign=rss",
+      "summary": "Videos on social media showed cars set on fire during running battles as protests entered their fifth day."
     },
     {
       "source": "BBC World",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "You can’t trust your eyes to tell you what’s real anymore, says the head of Instagram",
+        "#text": "LG’s new karaoke-ready party speaker uses AI to remove song vocals",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/852124/adam-mosseri-ai-images-video-instagram",
+      "url": "https://www.theverge.com/news/852362/lg-xboom-stage-501-karaoke-launch-ces-2026",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Net neutrality was back, until it wasn’t",
+        "#text": "Public domain 2026: Betty Boop, Pluto, and Nancy Drew set free",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/report/851629/net-neutrality-fcc-retrospective-2025",
+      "url": "https://www.theverge.com/policy/852332/public-domain-2026-betty-boop-nancy-drew-pluto",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Leaked video shows the Galaxy S26 Ultra’s new camera island",
+        "#text": "Meet the new tech laws of 2026",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/851931/samsung-galaxy-236-ultra-video-photo-leak",
+      "url": "https://www.theverge.com/policy/851664/new-tech-internet-laws-us-2026-ai-privacy-repair",
       "summary": "(要約準備中)"
     }
   ]
