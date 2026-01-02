@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-01-02T13:02:30.659Z",
+  "updatedAt": "2026-01-02T18:45:35.455Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Swiss bar fire likely started by sparklers on champagne bottles",
+      "url": "https://www.bbc.com/news/articles/cq6v41jg9jzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The investigation into the fire that killed 40 people will consider whether criminal prosecutions are necessary, officials said."
+    },
+    {
+      "source": "BBC World",
+      "title": "'Living a nightmare': Families of teens missing after ski resort fire desperate for news",
+      "url": "https://www.bbc.com/news/articles/c07xn220gdeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Families are appealing for information about children as young as 15 who are thought to have been at the bar."
+    },
     {
       "source": "BBC World",
       "title": "Trump warns US will intervene if Iran kills protesters",
@@ -8,16 +20,10 @@
       "summary": "The US president says \"we will come to their rescue\" after days of demonstrations and clashes."
     },
     {
-      "source": "BBC World",
-      "title": "Maduro says Venezuela open to US talks on drug trafficking",
-      "url": "https://www.bbc.com/news/articles/clyg23lj057o?at_medium=RSS&at_campaign=rss",
-      "summary": "In an interview with state TV, the Venezuelan president also evaded a question about an attack in his country claimed by the US. "
-    },
-    {
-      "source": "BBC World",
-      "title": "'You're invisible, you don't exist' - life without a birth certificate",
-      "url": "https://www.bbc.com/news/articles/cx2drqwp2eyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Millions around the world are living in the shadows as stateless people as they lack official papers."
+      "source": "BBC Technology",
+      "title": "Woman felt 'dehumanised' after Musk's Grok AI used to digitally remove her clothes",
+      "url": "https://www.bbc.com/news/articles/c98p1r4e6m8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC has seen several examples of it undressing women and putting them in sexual situations without their consent."
     },
     {
       "source": "BBC Technology",
@@ -27,41 +33,35 @@
     },
     {
       "source": "BBC Technology",
-      "title": "China's BYD set to overtake Tesla as world's top EV seller",
+      "title": "China's BYD overtakes Tesla as world's top EV seller",
       "url": "https://www.bbc.com/news/articles/cj9rjwpvmpzo?at_medium=RSS&at_campaign=rss",
-      "summary": "It would mark the first time the Chinese firm has outpaced its American rival for annual sales."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "How the defence sector is battling a skills crisis",
-      "url": "https://www.bbc.com/news/articles/clyd1lpp1lyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Attracting younger workers into the defence industry can be challenging."
+      "summary": "It  marks the first time the Chinese firm has outpaced its American rival for annual sales."
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Fender’s first wireless headphones have a long-lasting, replaceable battery",
+        "#text": "Microsoft CEO Satya Nadella is now blogging about AI slop",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/850879/fender-mix-wireless-headphones-bluetooth-modular-replaceable-battery",
+      "url": "https://www.theverge.com/news/852630/microsoft-ceo-satya-nadella-scratchpad-blog-ai-slop-comments",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Fender’s new Bluetooth speakers can play audio from four sources simultaneously",
+        "#text": "This smart fridge wants to solve the hassle of grocery shopping",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/850912/fender-audio-elie-bluetooth-portable-wireless-speakers-four-inputs-simultaneous",
+      "url": "https://www.theverge.com/news/851934/ge-appliances-smart-fridge-barcode-scanner-tablet",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "What to expect at CES 2026",
+        "#text": "Pebble’s round smartwatch is getting a reboot",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/851165/ces-2026-what-to-expect",
+      "url": "https://www.theverge.com/news/852587/pebble-round-2-time-smartwatch-price-availability",
       "summary": "(要約準備中)"
     }
   ]
