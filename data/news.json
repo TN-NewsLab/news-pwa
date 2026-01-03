@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-02T18:45:35.455Z",
+  "updatedAt": "2026-01-03T02:21:02.759Z",
   "top": [
     {
       "source": "BBC World",
@@ -21,6 +21,12 @@
     },
     {
       "source": "BBC Technology",
+      "title": "AI teachers and cybernetics - what could the world look like in 2050?",
+      "url": "https://www.bbc.com/news/articles/c865n800d5jo?at_medium=RSS&at_campaign=rss",
+      "summary": "We asked several experts to predict the technology we'll be using by 2050"
+    },
+    {
+      "source": "BBC Technology",
       "title": "Woman felt 'dehumanised' after Musk's Grok AI used to digitally remove her clothes",
       "url": "https://www.bbc.com/news/articles/c98p1r4e6m8o?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC has seen several examples of it undressing women and putting them in sexual situations without their consent."
@@ -32,10 +38,22 @@
       "summary": "The price of Ram - once one of the cheapest computer parts - has more than doubled since October 2025."
     },
     {
-      "source": "BBC Technology",
-      "title": "China's BYD overtakes Tesla as world's top EV seller",
-      "url": "https://www.bbc.com/news/articles/cj9rjwpvmpzo?at_medium=RSS&at_campaign=rss",
-      "summary": "It  marks the first time the Chinese firm has outpaced its American rival for annual sales."
+      "source": "The Verge",
+      "title": {
+        "#text": "Grok is undressing anyone, including minors",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/news/853191/grok-explicit-bikini-pictures-minors",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "Billion-dollar Bitcoin hacker Ilya Lichtenstein thanks Trump for early prison release",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/news/853160/ilya-lichtenstein-released-razzlekhan-bitcoin-hack",
+      "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
@@ -44,24 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/news/852630/microsoft-ceo-satya-nadella-scratchpad-blog-ai-slop-comments",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "This smart fridge wants to solve the hassle of grocery shopping",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/news/851934/ge-appliances-smart-fridge-barcode-scanner-tablet",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Pebble’s round smartwatch is getting a reboot",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/news/852587/pebble-round-2-time-smartwatch-price-availability",
       "summary": "(要約準備中)"
     }
   ]
