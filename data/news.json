@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-01-03T12:59:51.049Z",
+  "updatedAt": "2026-01-03T18:44:33.107Z",
   "top": [
     {
       "source": "BBC World",
       "title": "What we know about Maduro's capture ",
       "url": "https://www.bbc.com/news/articles/crmlz7r0zrxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Explosions were seen in capital Caracas as President Nicolas Maduro was detained by the US. "
+      "summary": "Maduro and his wife were taken from \"a house that was more like a fortress\", Donald Trump says."
     },
     {
       "source": "BBC World",
-      "title": "Police identify first four victims of Swiss ski resort fire",
+      "title": "Trump's move to topple Maduro is fraught with risk - what happens next is unclear",
+      "url": "https://www.bbc.com/news/articles/c0q4dg1kn8vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Will the US push for elections or will it try to depose more members of the government, asks the BBC's Ione Wells. "
+    },
+    {
+      "source": "BBC World",
+      "title": "Swiss open criminal case against managers of ski resort bar after deadly fire",
       "url": "https://www.bbc.com/news/articles/cjdjl303zxlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Bodies of two Swiss women aged 21 and 16, and two Swiss men aged 18 and 16 have been returned to their families."
-    },
-    {
-      "source": "BBC World",
-      "title": "Swiss bar fire likely started by sparklers on champagne bottles",
-      "url": "https://www.bbc.com/news/articles/cq6v41jg9jzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The investigation into the fire that killed 40 people will consider whether criminal prosecutions are necessary, officials said."
+      "summary": "It comes after a preliminary investigation found the likely cause was sparklers on champagne bottles being carried too close to the ceiling."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Grok is undressing anyone, including minors",
+        "#text": "Meta’s Quest 3S is still $50 off and comes with a $50 gift card",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/853191/grok-explicit-bikini-pictures-minors",
+      "url": "https://www.theverge.com/gadgets/853151/meta-quest-3s-apple-airtag-steam-winter-sale-deal",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Billion-dollar Bitcoin hacker Ilya Lichtenstein thanks Trump for early prison release",
+        "#text": "I went to the Stranger Things finale in theaters and the strangest thing happened",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/853160/ilya-lichtenstein-released-razzlekhan-bitcoin-hack",
+      "url": "https://www.theverge.com/streaming/853133/stranger-things-finale-theater-scene-report",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Microsoft CEO Satya Nadella is now blogging about AI slop",
+        "#text": "This smart home controller is literally a piece of wood",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/852630/microsoft-ceo-satya-nadella-scratchpad-blog-ai-slop-comments",
+      "url": "https://www.theverge.com/tech/852598/mui-board-smart-home-controller-matter",
       "summary": "(要約準備中)"
     }
   ]
