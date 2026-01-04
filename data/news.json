@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-01-03T18:44:33.107Z",
+  "updatedAt": "2026-01-04T02:39:43.092Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "What we know about Maduro's capture ",
-      "url": "https://www.bbc.com/news/articles/crmlz7r0zrxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Maduro and his wife were taken from \"a house that was more like a fortress\", Donald Trump says."
+      "title": "Spies, drones and blowtorches: How the US captured Maduro",
+      "url": "https://www.bbc.com/news/articles/cdred61epg4o?at_medium=RSS&at_campaign=rss",
+      "summary": "An extraordinary mission dubbed \"Operation Absolute Resolve\" saw elite troops breach the Venezuelan president's fortified compound."
     },
     {
       "source": "BBC World",
-      "title": "Trump's move to topple Maduro is fraught with risk - what happens next is unclear",
+      "title": "'A long road ahead': Venezuelans react to Maduro's arrest with hope and worry",
+      "url": "https://www.bbc.com/news/articles/c86vq753nwpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Caracas residents worry about what comes after US intervention in their country amid a tense political climate."
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump's toppling of Maduro is fraught with risk - what happens next is unclear",
       "url": "https://www.bbc.com/news/articles/c0q4dg1kn8vo?at_medium=RSS&at_campaign=rss",
       "summary": "Will the US push for elections or will it try to depose more members of the government, asks the BBC's Ione Wells. "
-    },
-    {
-      "source": "BBC World",
-      "title": "Swiss open criminal case against managers of ski resort bar after deadly fire",
-      "url": "https://www.bbc.com/news/articles/cjdjl303zxlo?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes after a preliminary investigation found the likely cause was sparklers on champagne bottles being carried too close to the ceiling."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "Surprise, surprise: Silksong wins Steam’s Game of the Year",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/games/853786/hollow-knight-silksong-steamawards-game-of-the-year",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "Someone made a ton of money betting on Maduro’s capture",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/news/853765/someone-made-a-ton-of-money-betting-on-maduros-capture",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "Meta’s Quest 3S is still $50 off and comes with a $50 gift card",
         "@_type": "html"
       },
       "url": "https://www.theverge.com/gadgets/853151/meta-quest-3s-apple-airtag-steam-winter-sale-deal",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "I went to the Stranger Things finale in theaters and the strangest thing happened",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/streaming/853133/stranger-things-finale-theater-scene-report",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "This smart home controller is literally a piece of wood",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/tech/852598/mui-board-smart-home-controller-matter",
       "summary": "(要約準備中)"
     }
   ]
