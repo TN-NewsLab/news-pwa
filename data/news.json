@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-01-04T06:48:32.483Z",
+  "updatedAt": "2026-01-04T13:00:25.851Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Trump says US will 'run' Venezuela and 'fix oil infrastructure'",
+      "url": "https://www.bbc.com/news/articles/cd9enjeey3go?at_medium=RSS&at_campaign=rss",
+      "summary": "The US launched strikes on Venezuela on Saturday in which Maduro and his wife were captured by US forces."
+    },
     {
       "source": "BBC World",
       "title": "Spies, drones and blowtorches: How the US captured Maduro",
@@ -12,12 +18,6 @@
       "title": "'Deeply shocked': World leaders react to US attack on Venezuela ",
       "url": "https://www.bbc.com/news/articles/czx1rpxzyx9o?at_medium=RSS&at_campaign=rss",
       "summary": "There has been a mixed reaction to a large-scale strike on Venezuela and Maduro's capture by the US."
-    },
-    {
-      "source": "BBC World",
-      "title": "'A long road ahead': Venezuelans react to Maduro's arrest with hope and worry",
-      "url": "https://www.bbc.com/news/articles/c86vq753nwpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Caracas residents worry about what comes after US intervention in their country amid a tense political climate."
     },
     {
       "source": "BBC Technology",
@@ -40,6 +40,15 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "Jackery’s solar-powered Gazebo is a good DIY idea",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/tech/852600/jackerys-solar-powered-gazebo-is-a-good-diy-idea",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "Surprise, surprise: Silksong wins Steam’s Game of the Year",
         "@_type": "html"
       },
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/news/853765/someone-made-a-ton-of-money-betting-on-maduros-capture",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Meta’s Quest 3S is still $50 off and comes with a $50 gift card",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/gadgets/853151/meta-quest-3s-apple-airtag-steam-winter-sale-deal",
       "summary": "(要約準備中)"
     }
   ]
