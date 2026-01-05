@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-04T18:44:52.263Z",
+  "updatedAt": "2026-01-05T02:39:21.142Z",
   "top": [
     {
       "source": "BBC World",
@@ -11,13 +11,19 @@
       "source": "BBC World",
       "title": "From Caracas 'fort' to New York court: Maduro's capture in pictures and maps",
       "url": "https://www.bbc.com/news/articles/c5yvxnlw1pzo?at_medium=RSS&at_campaign=rss",
-      "summary": "An elite unit of the US army captured the Venezuelan leader in an extraordinary operation that can be followed through photos, satellite images and maps."
+      "summary": "Follow the operation to seize the Venezuelan president through photos, satellite images and maps."
     },
     {
       "source": "BBC World",
-      "title": "'A long road ahead': Venezuelans react to Maduro's arrest with hope and worry",
-      "url": "https://www.bbc.com/news/articles/c86vq753nwpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Caracas residents worry about what comes after US intervention in their country amid a tense political climate."
+      "title": "Police identify all 40 victims of Swiss bar fire",
+      "url": "https://www.bbc.com/news/articles/c3vel0xvlvgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Among those killed by the blaze at Le Constellation is 16-year-old Swiss national Arthur Brodard, his mother confirms."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Watch: BBC reporter tests AI anti-shoplifting tech",
+      "url": "https://www.bbc.com/news/videos/c98p1jg3p58o?at_medium=RSS&at_campaign=rss",
+      "summary": "Some major retailers and independent stores have introduced AI body scans, CCTV or facial recognition equipment to identify crimes like shoplifting."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "The BBC has seen several examples of it undressing women and putting them in sexual situations without their consent."
     },
     {
-      "source": "BBC Technology",
-      "title": "Why everything from your phone to your PC may get pricier in 2026",
-      "url": "https://www.bbc.com/news/articles/c1dzdndzlxqo?at_medium=RSS&at_campaign=rss",
-      "summary": "The price of Ram - once one of the cheapest computer parts - has more than doubled since October 2025."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "You can charge the battery in Belkin’s new Switch 2 power case without opening it",
+        "#text": "The new Ultraloq smart lock uses both your face and your palm to let you in",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/849332/belkin-charging-case-pro-nintendo-switch-2-battery",
+      "url": "https://www.theverge.com/tech/853844/ultraloq-ces-smart-lock-face-palm-reading",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Belkin’s new 3-in-1 charging dock isn’t limited to the Apple Watch",
+        "#text": "Ikea’s new $4 USB-C charger is cheaper than Apple’s and Anker’s",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/849759/belkin-ultracharge-modular-charging-dock-pro-power-bank-10-magnetic-ring-smartwatch",
+      "url": "https://www.theverge.com/tech/854333/ikea-sjoss-20w-usb-c-wall-charger",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Belkin’s new HDMI adapter wirelessly connects to screens over 130 feet away",
+        "#text": "Withings thinks of its latest smart scale as a ‘longevity station’",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/849948/belkin-connectair-wireless-hdmi-display-adapter-usb-c-plug-and-play",
+      "url": "https://www.theverge.com/tech/850005/ces-2026-withings-body-scan-2-smart-scale-longevity-tech-health",
       "summary": "(要約準備中)"
     }
   ]
