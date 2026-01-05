@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-05T06:56:38.426Z",
+  "updatedAt": "2026-01-05T13:08:57.990Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,15 +9,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Bowen: Trump's action could set precedent for authoritarian powers across globe",
-      "url": "https://www.bbc.com/news/articles/c5y45nyz124o?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump seems to believe he makes the rules and others cannot have the same privileges. "
+      "title": "'We need Greenland': Trump repeats threat to annex Danish territory",
+      "url": "https://www.bbc.com/news/articles/c4g0zg974v1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president has repeatedly said he wants the island to become a part of the US."
     },
     {
       "source": "BBC World",
-      "title": "From Caracas 'fort' to New York court: Maduro's capture in pictures and maps",
-      "url": "https://www.bbc.com/news/articles/c5yvxnlw1pzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Follow the operation to seize the Venezuelan president through photos, satellite images and maps."
+      "title": "Ten found guilty of cyber-bullying Brigitte Macron ",
+      "url": "https://www.bbc.com/news/articles/c78v6z7597yo?at_medium=RSS&at_campaign=rss",
+      "summary": "A Paris court found them guilty of \"malicious\" bullying towards the wife of the French president."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "JBL expands open-ear lineup with new buds coming to the US in March",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/tech/852021/jbl-open-ear-earbuds-ces-2026",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "JBL expands Endurance workout line with four new earbuds",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/tech/853331/jbl-endurance-workout-earbuds-ces-2026",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "This robot companion is a cameraman for your pet",
         "@_type": "html"
       },
       "url": "https://www.theverge.com/tech/854457/frontierx-vex-aura-robots-companions-pets",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Birdbuddy’s new smart feeders aim to make spotting birds easier, even for beginners",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/gadgets/850488/birdbuddy-2-mini-ces-2026",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "I just want to keep unfolding the Samsung Z Trifold",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/tech/854352/samsung-galaxy-z-trifold-hands-on",
       "summary": "(要約準備中)"
     }
   ]
