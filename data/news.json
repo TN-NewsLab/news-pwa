@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-01-05T02:39:21.142Z",
+  "updatedAt": "2026-01-05T06:56:38.426Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Trump warns new Venezuelan leader as Maduro set to appear in court",
+      "url": "https://www.bbc.com/news/articles/ckgnxvp477eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump said Venezuela's interim president Delcy Rodríguez could \"pay a very big price, probably bigger than Maduro\" if she \"doesn't do what's right\"."
+    },
     {
       "source": "BBC World",
       "title": "Bowen: Trump's action could set precedent for authoritarian powers across globe",
@@ -12,12 +18,6 @@
       "title": "From Caracas 'fort' to New York court: Maduro's capture in pictures and maps",
       "url": "https://www.bbc.com/news/articles/c5yvxnlw1pzo?at_medium=RSS&at_campaign=rss",
       "summary": "Follow the operation to seize the Venezuelan president through photos, satellite images and maps."
-    },
-    {
-      "source": "BBC World",
-      "title": "Police identify all 40 victims of Swiss bar fire",
-      "url": "https://www.bbc.com/news/articles/c3vel0xvlvgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Among those killed by the blaze at Le Constellation is 16-year-old Swiss national Arthur Brodard, his mother confirms."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "The new Ultraloq smart lock uses both your face and your palm to let you in",
+        "#text": "This robot companion is a cameraman for your pet",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/853844/ultraloq-ces-smart-lock-face-palm-reading",
+      "url": "https://www.theverge.com/tech/854457/frontierx-vex-aura-robots-companions-pets",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Ikea’s new $4 USB-C charger is cheaper than Apple’s and Anker’s",
+        "#text": "Birdbuddy’s new smart feeders aim to make spotting birds easier, even for beginners",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/854333/ikea-sjoss-20w-usb-c-wall-charger",
+      "url": "https://www.theverge.com/gadgets/850488/birdbuddy-2-mini-ces-2026",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Withings thinks of its latest smart scale as a ‘longevity station’",
+        "#text": "I just want to keep unfolding the Samsung Z Trifold",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/850005/ces-2026-withings-body-scan-2-smart-scale-longevity-tech-health",
+      "url": "https://www.theverge.com/tech/854352/samsung-galaxy-z-trifold-hands-on",
       "summary": "(要約準備中)"
     }
   ]
