@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-05T13:08:57.990Z",
+  "updatedAt": "2026-01-05T18:49:39.962Z",
   "top": [
     {
       "source": "BBC World",
@@ -21,6 +21,12 @@
     },
     {
       "source": "BBC Technology",
+      "title": "Ofcom asks X about reports its Grok AI makes sexualised images of children",
+      "url": "https://www.bbc.com/news/articles/c5y5w0k99r1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Elon Musk's social media platform has warned users not to use Grok to generate illegal content."
+    },
+    {
+      "source": "BBC Technology",
       "title": "Watch: BBC reporter tests AI anti-shoplifting tech",
       "url": "https://www.bbc.com/news/videos/c98p1jg3p58o?at_medium=RSS&at_campaign=rss",
       "summary": "Some major retailers and independent stores have introduced AI body scans, CCTV or facial recognition equipment to identify crimes like shoplifting."
@@ -32,36 +38,30 @@
       "summary": "We asked several experts to predict the technology we'll be using by 2050"
     },
     {
-      "source": "BBC Technology",
-      "title": "Woman felt 'dehumanised' after Musk's Grok AI used to digitally remove her clothes",
-      "url": "https://www.bbc.com/news/articles/c98p1r4e6m8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC has seen several examples of it undressing women and putting them in sexual situations without their consent."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "JBL expands open-ear lineup with new buds coming to the US in March",
+        "#text": "That viral Reddit post about food delivery apps was an AI scam",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/852021/jbl-open-ear-earbuds-ces-2026",
+      "url": "https://www.theverge.com/news/855328/viral-reddit-delivery-app-ai-scam",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "JBL expands Endurance workout line with four new earbuds",
+        "#text": "LG&#8217;s CLOiD robot can load the washer for you, slowly",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/853331/jbl-endurance-workout-earbuds-ces-2026",
+      "url": "https://www.theverge.com/tech/855233/lg-cloid-robot-laundry-ces-2026-keynote",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "This robot companion is a cameraman for your pet",
+        "#text": "At $50 off, the Shokz OpenRun Pro helps you stick to your new year’s goals",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/854457/frontierx-vex-aura-robots-companions-pets",
+      "url": "https://www.theverge.com/tech/855202/shokz-openrun-pro-bone-conduction-headphones-deal-sale",
       "summary": "(要約準備中)"
     }
   ]
