@@ -1,23 +1,35 @@
 {
-  "updatedAt": "2026-01-06T13:06:13.781Z",
+  "updatedAt": "2026-01-06T18:48:08.847Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Trump claims US oil firms could be 'up and running' in Venezuela within 18 months",
-      "url": "https://www.bbc.com/news/articles/c4grxzxjjd8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump is open about his ambitions for scaled-up US operations, but analysts say such plans would take time. "
+      "title": "Venezuelan security forces detain journalists from foreign news organisations",
+      "url": "https://www.bbc.com/news/articles/cd6w4y0eq70o?at_medium=RSS&at_campaign=rss",
+      "summary": "Venezuelans describe their fear of speaking out as 14 media workers are detained and police check people's social media."
     },
     {
       "source": "BBC World",
-      "title": "Macron hosts Ukraine and allies to try to cement security guarantees",
-      "url": "https://www.bbc.com/news/articles/c74vx4n003xo?at_medium=RSS&at_campaign=rss",
-      "summary": "The talks are held as Russia continues attacking Ukraine's energy sector and under the shadow of US threats to annex Greenland."
+      "title": "Zelensky replaces Ukraine's powerful security service chief",
+      "url": "https://www.bbc.com/news/articles/cpv7myg2nw4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Ukrainian president has come under heavy criticism for his reshuffling of one the country's most successful security agencies."
     },
     {
       "source": "BBC World",
-      "title": "Trump aide says no-one would fight US over Greenland",
-      "url": "https://www.bbc.com/news/articles/c07xkeee2k3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Seven European countries have issued a joint statement saying only Greenland and Denmark can decide on their future."
+      "title": "Six dead and hundreds of flights cancelled as snow causes chaos across Europe",
+      "url": "https://www.bbc.com/news/articles/czjg37p34r3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Hundreds of flights have been cancelled in Amsterdam and Paris, with thousands of people stranded."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Government demands Musk's X deals with 'appalling' Grok AI deepfakes",
+      "url": "https://www.bbc.com/news/articles/crrn054nxe7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Grok is being used to digitally remove women's clothing - something victims describe as \"dehumanising\"."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Lego unveils tech-filled Smart Bricks - to play experts' dismay",
+      "url": "https://www.bbc.com/news/articles/crmlnmnwzk2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Lego says its new tech-enabled products are its \"most revolutionary innovation\" since it launched its mini-figurines in 1978."
     },
     {
       "source": "BBC Technology",
@@ -26,42 +38,30 @@
       "summary": "The chip giant is looking for ways to move the AI revolution beyond software and into physical products."
     },
     {
-      "source": "BBC Technology",
-      "title": "Ofcom asks X about reports its Grok AI makes sexualised images of children",
-      "url": "https://www.bbc.com/news/articles/c5y5w0k99r1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Elon Musk's social media platform has warned users not to use Grok to generate illegal content."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Car giant Hyundai to use human-like robots in factories",
-      "url": "https://www.bbc.com/news/articles/cvgjm5x54ldo?at_medium=RSS&at_campaign=rss",
-      "summary": "The firm plans to deploy the technology at the same plant that was involved in a huge immigration raid in 2025."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Ugreen is expanding into AI-powered smart home surveillance",
+        "#text": "This robot pool cleaner lifts itself out of the water to charge",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/846789/ugree-syncare-indoor-outdoor-cameras-ai-doorbell",
+      "url": "https://www.theverge.com/tech/854835/mammotion-spino-s1-pro-robot-pool-cleaner-ces-2026",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Chamberlain’s new smart lock will lock your door and shut your garage upon spotting a stranger",
+        "#text": "Power bank feature creep is out of control ",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/851622/chamberlain-myq-secure-view-smart-lock-ces-2026",
+      "url": "https://www.theverge.com/tech/856225/power-banks-are-the-latest-victims-of-feature-creep",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Ugreen is now selling an AI NAS with more RAM than my desktop",
+        "#text": "This 16-inch laptop is so light I can easily lift it with three fingers",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/852453/ugreen-ai-nas-idx6011-pro-photo-search",
+      "url": "https://www.theverge.com/news/852034/asus-zenbook-a16-thin-light-ces-2026",
       "summary": "(要約準備中)"
     }
   ]
