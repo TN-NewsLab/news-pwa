@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-01-05T18:49:39.962Z",
+  "updatedAt": "2026-01-06T02:27:22.948Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Venezuela swears in interim president after defiant Maduro pleads not guilty in US court ",
+      "url": "https://www.bbc.com/news/articles/ce8gen8nnvlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Delcy Rodriguez said she was pained by what she called the \"kidnapping\" of Maduro and his wife."
+    },
+    {
+      "source": "BBC World",
+      "title": "'I'm a prisoner of war' - In the room for Maduro's dramatic court hearing",
+      "url": "https://www.bbc.com/news/articles/cq6v25eldmdo?at_medium=RSS&at_campaign=rss",
+      "summary": "During the 40-minute arraignment, Maduro and his wife, Cilia Flores, pleaded not guilty to drugs and weapon charges."
+    },
     {
       "source": "BBC World",
       "title": "Trump warns new Venezuelan leader as Maduro set to appear in court",
       "url": "https://www.bbc.com/news/articles/ckgnxvp477eo?at_medium=RSS&at_campaign=rss",
       "summary": "Trump said Venezuela's interim president Delcy Rodríguez could \"pay a very big price, probably bigger than Maduro\" if she \"doesn't do what's right\"."
-    },
-    {
-      "source": "BBC World",
-      "title": "'We need Greenland': Trump repeats threat to annex Danish territory",
-      "url": "https://www.bbc.com/news/articles/c4g0zg974v1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president has repeatedly said he wants the island to become a part of the US."
-    },
-    {
-      "source": "BBC World",
-      "title": "Ten found guilty of cyber-bullying Brigitte Macron ",
-      "url": "https://www.bbc.com/news/articles/c78v6z7597yo?at_medium=RSS&at_campaign=rss",
-      "summary": "A Paris court found them guilty of \"malicious\" bullying towards the wife of the French president."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "That viral Reddit post about food delivery apps was an AI scam",
+        "#text": "Sony and Honda’s Afeela EV will start customer deliveries in late 2026",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/855328/viral-reddit-delivery-app-ai-scam",
+      "url": "https://www.theverge.com/tech/855883/sony-honda-afeela-customer-delivery-suv-concept-ces-2026",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "LG&#8217;s CLOiD robot can load the washer for you, slowly",
+        "#text": "Garmin now offers nutrition tracking",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/855233/lg-cloid-robot-laundry-ces-2026-keynote",
+      "url": "https://www.theverge.com/tech/855884/garmin-connect-nutrition-tracking",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "At $50 off, the Shokz OpenRun Pro helps you stick to your new year’s goals",
+        "#text": "Asus ROG’s next ally is Xreal, with 240Hz AR glasses coming in 2026",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/855202/shokz-openrun-pro-bone-conduction-headphones-deal-sale",
+      "url": "https://www.theverge.com/tech/848256/asus-rog-xreal-r1-smart-glasses-specs-release-date",
       "summary": "(要約準備中)"
     }
   ]
