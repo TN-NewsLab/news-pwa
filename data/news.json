@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2026-01-06T06:52:19.808Z",
+  "updatedAt": "2026-01-06T13:06:13.781Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Venezuela swears in interim president after defiant Maduro pleads not guilty ",
-      "url": "https://www.bbc.com/news/articles/ce8gen8nnvlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Delcy Rodríguez said she was pained by what she called the \"kidnapping\" of President Nicolás Maduro and his wife by the US. "
+      "title": "Trump claims US oil firms could be 'up and running' in Venezuela within 18 months",
+      "url": "https://www.bbc.com/news/articles/c4grxzxjjd8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump is open about his ambitions for scaled-up US operations, but analysts say such plans would take time. "
     },
     {
       "source": "BBC World",
-      "title": "'I'm a prisoner of war' - In the room for Maduro's dramatic court hearing",
-      "url": "https://www.bbc.com/news/articles/cq6v25eldmdo?at_medium=RSS&at_campaign=rss",
-      "summary": "During the 40-minute arraignment, Maduro and his wife, Cilia Flores, pleaded not guilty to drugs and weapon charges."
+      "title": "Macron hosts Ukraine and allies to try to cement security guarantees",
+      "url": "https://www.bbc.com/news/articles/c74vx4n003xo?at_medium=RSS&at_campaign=rss",
+      "summary": "The talks are held as Russia continues attacking Ukraine's energy sector and under the shadow of US threats to annex Greenland."
     },
     {
       "source": "BBC World",
-      "title": "Trump warns new Venezuelan leader as Maduro set to appear in court",
-      "url": "https://www.bbc.com/news/articles/ckgnxvp477eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump said Venezuela's interim president Delcy Rodríguez could \"pay a very big price, probably bigger than Maduro\" if she \"doesn't do what's right\"."
+      "title": "Trump aide says no-one would fight US over Greenland",
+      "url": "https://www.bbc.com/news/articles/c07xkeee2k3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Seven European countries have issued a joint statement saying only Greenland and Denmark can decide on their future."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Nvidia unveils self-driving car tech as it seeks to power more products with AI",
+      "url": "https://www.bbc.com/news/articles/c0jv1vd571wo?at_medium=RSS&at_campaign=rss",
+      "summary": "The chip giant is looking for ways to move the AI revolution beyond software and into physical products."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "The firm plans to deploy the technology at the same plant that was involved in a huge immigration raid in 2025."
     },
     {
-      "source": "BBC Technology",
-      "title": "Watch: BBC reporter tests AI anti-shoplifting tech",
-      "url": "https://www.bbc.com/news/videos/c98p1jg3p58o?at_medium=RSS&at_campaign=rss",
-      "summary": "Some major retailers and independent stores have introduced AI body scans, CCTV or facial recognition equipment to identify crimes like shoplifting."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Nvidia’s GeForce Now is getting native Linux and Fire TV apps",
+        "#text": "Ugreen is expanding into AI-powered smart home surveillance",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/854688/nvidias-geforce-now-is-getting-native-linux-and-fire-tv-apps",
+      "url": "https://www.theverge.com/tech/846789/ugree-syncare-indoor-outdoor-cameras-ai-doorbell",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Nvidia’s new G-Sync monitors automatically adjust brightness just like a laptop",
+        "#text": "Chamberlain’s new smart lock will lock your door and shut your garage upon spotting a stranger",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/854662/nvidia-g-sync-pulsar-monitors-abmient-adaptive-technology-auto-brightness",
+      "url": "https://www.theverge.com/news/851622/chamberlain-myq-secure-view-smart-lock-ces-2026",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Nvidia announces DLSS 4.5 with 6x Frame Generation and improved image quality",
+        "#text": "Ugreen is now selling an AI NAS with more RAM than my desktop",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/854610/nvidia-dlss-4-5-announcement-multi-frame-generation-6x-specs",
+      "url": "https://www.theverge.com/gadgets/852453/ugreen-ai-nas-idx6011-pro-photo-search",
       "summary": "(要約準備中)"
     }
   ]
