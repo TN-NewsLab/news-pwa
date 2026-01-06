@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-01-06T02:27:22.948Z",
+  "updatedAt": "2026-01-06T06:52:19.808Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Venezuela swears in interim president after defiant Maduro pleads not guilty in US court ",
+      "title": "Venezuela swears in interim president after defiant Maduro pleads not guilty ",
       "url": "https://www.bbc.com/news/articles/ce8gen8nnvlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Delcy Rodriguez said she was pained by what she called the \"kidnapping\" of Maduro and his wife."
+      "summary": "Delcy Rodríguez said she was pained by what she called the \"kidnapping\" of President Nicolás Maduro and his wife by the US. "
     },
     {
       "source": "BBC World",
@@ -27,41 +27,41 @@
     },
     {
       "source": "BBC Technology",
+      "title": "Car giant Hyundai to use human-like robots in factories",
+      "url": "https://www.bbc.com/news/articles/cvgjm5x54ldo?at_medium=RSS&at_campaign=rss",
+      "summary": "The firm plans to deploy the technology at the same plant that was involved in a huge immigration raid in 2025."
+    },
+    {
+      "source": "BBC Technology",
       "title": "Watch: BBC reporter tests AI anti-shoplifting tech",
       "url": "https://www.bbc.com/news/videos/c98p1jg3p58o?at_medium=RSS&at_campaign=rss",
       "summary": "Some major retailers and independent stores have introduced AI body scans, CCTV or facial recognition equipment to identify crimes like shoplifting."
     },
     {
-      "source": "BBC Technology",
-      "title": "AI teachers and cybernetics - what could the world look like in 2050?",
-      "url": "https://www.bbc.com/news/articles/c865n800d5jo?at_medium=RSS&at_campaign=rss",
-      "summary": "We asked several experts to predict the technology we'll be using by 2050"
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Sony and Honda’s Afeela EV will start customer deliveries in late 2026",
+        "#text": "Nvidia’s GeForce Now is getting native Linux and Fire TV apps",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/855883/sony-honda-afeela-customer-delivery-suv-concept-ces-2026",
+      "url": "https://www.theverge.com/tech/854688/nvidias-geforce-now-is-getting-native-linux-and-fire-tv-apps",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Garmin now offers nutrition tracking",
+        "#text": "Nvidia’s new G-Sync monitors automatically adjust brightness just like a laptop",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/855884/garmin-connect-nutrition-tracking",
+      "url": "https://www.theverge.com/tech/854662/nvidia-g-sync-pulsar-monitors-abmient-adaptive-technology-auto-brightness",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Asus ROG’s next ally is Xreal, with 240Hz AR glasses coming in 2026",
+        "#text": "Nvidia announces DLSS 4.5 with 6x Frame Generation and improved image quality",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/848256/asus-rog-xreal-r1-smart-glasses-specs-release-date",
+      "url": "https://www.theverge.com/tech/854610/nvidia-dlss-4-5-announcement-multi-frame-generation-6x-specs",
       "summary": "(要約準備中)"
     }
   ]
