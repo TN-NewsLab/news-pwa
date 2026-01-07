@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-01-07T02:27:36.961Z",
+  "updatedAt": "2026-01-07T06:51:09.903Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "UK and France to send troops to Ukraine if peace deal agreed",
-      "url": "https://www.bbc.com/news/articles/c17zee20qpzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The announcement was made by UK PM Sir Keir Starmer after a meeting of Ukraine's allies in Paris."
+      "title": "US discussing options to acquire Greenland, including use of military, says White House",
+      "url": "https://www.bbc.com/news/articles/cwyg1jg8xkmo?at_medium=RSS&at_campaign=rss",
+      "summary": "It came as European allies rallied behind Denmark, which is pushing back against Trump's ambitions for the Arctic island. "
     },
     {
       "source": "BBC World",
-      "title": "Venezuelan security forces detain journalists from foreign news organisations",
-      "url": "https://www.bbc.com/news/articles/cd6w4y0eq70o?at_medium=RSS&at_campaign=rss",
-      "summary": "Venezuelans describe their fear of speaking out as 14 media workers are detained and police check people's social media."
+      "title": "Trump says Venezuela will be 'turning over' up to 50m barrels of oil to US",
+      "url": "https://www.bbc.com/news/articles/c4grxzxjjd8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Earlier the president said US oil firms could be \"up and running\" in the country within 18 months."
     },
     {
       "source": "BBC World",
-      "title": "US may intercept and seize oil tanker heading for Europe, reports say ",
-      "url": "https://www.bbc.com/news/articles/c7v0deypjl4o?at_medium=RSS&at_campaign=rss",
-      "summary": "US officials have a warrant to seize the Russian-flagged ship accused of breaking sanctions."
+      "title": "Opposition leader Machado says she should be in charge of Venezuela ",
+      "url": "https://www.bbc.com/news/articles/c0er4qd3115o?at_medium=RSS&at_campaign=rss",
+      "summary": "President Trump has publicly dismissed the Nobel winner Machado saying she doesn't have local support and respect."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "Intel is planning a custom Panther Lake CPU for handheld PCs",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/tech/857252/intel-handheld-gaming-pc-panther-lake-custom-cpu",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "Lenovo is building an AI assistant that ‘can act on your behalf’",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/column/857053/lenovo-ai-assistant-qira",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "Samsung and Intel&#8217;s OLED tech makes HDR easier on laptop battery life",
         "@_type": "html"
       },
       "url": "https://www.theverge.com/news/857229/samsung-display-intel-oled-smartpower-hdr",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Motorola’s first smartwatch promises 13-day battery life and Polar-powered health tracking",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/gadgets/851643/moto-watch-android-smarwatch-ces-2026",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Lenovo’s Auto Twist laptop is going from concept to real product",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/news/852251/lenovos-auto-twist-laptop-is-going-from-concept-to-real-product",
       "summary": "(要約準備中)"
     }
   ]
