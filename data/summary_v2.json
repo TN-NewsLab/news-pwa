@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "オープンソースのQwen-Image-2512が、高品質AI画像生成でGoogleのNano Banana Proに対抗",
-    "title_en": "Open source Qwen-Image-2512 launches to compete with Google's Nano Banana Pro in high quality AI image generation",
-    "summary": "最近、GoogleのAI画像モデルGemini 3 Pro Imageが登場し、企業向けの高品質な画像生成が可能となりましたが、性能向上には高コストとプロプライエタリな制約が伴います。これに対抗して、AlibabaのQwen-Image-2512がオープンソースとして提供され、開発者や企業が自由に利用できる選択肢を提供します。Qwen-Image-2512は、コスト管理やデータガバナンスを強化しつつ、企業ニーズに応じた高品質な画像生成を実現しています。",
-    "summary_en": "最近、GoogleのAI画像モデルGemini 3 Pro Imageが登場し、企業向けの高品質な画像生成が可能となりましたが、性能の向上には高コストとプロプライエタリな制約が伴います。これに対抗して、AlibabaのQwen-Image-2512がオープンソースとして提供され、開発者や企業が自由に利用できる選択肢を提供します。Qwen-Image-2512は、コスト管理やデータガバナンスを強化しつつ、企業ニーズに応じた高品質な画像生成を実現しています。",
-    "link": "https://venturebeat.com/technology/open-source-qwen-image-2512-launches-to-compete-with-googles-nano-banana-pro",
+    "title": "Artificial Analysis、AIインテリジェンスインデックスを大幅に見直し、人気のベンチマークを「現実の」テストに置き換え",
+    "title_en": "Artificial Analysis overhauls its AI Intelligence Index, replacing popular benchmarks with 'real-world' tests",
+    "summary": "AIモデルの競争が進展する中、独立したベンチマーク機関が評価方法を大幅に見直し、AIの進捗を測る基準を経済的に有用な行動に焦点を当てるよう変更した。新しい「インテリジェンスインデックス」では、従来の評価基準を見直し、実際の業務に即したタスクを中心に測定する「GDPval-AA」などの新たな評価を導入している。これにより、AIモデルの能力をより実践的に評価できるようになり、単なるテストの成績ではなく、仕事を実際に行えるかどうかが重要な基準となっている。",
+    "summary_en": "AIモデルの競争が進展する中、独立したベンチマーク機関が評価方法を大幅に見直し、AIの進捗を測る基準を経済的に有用な行動に焦点を当てるよう変更した。新しい「インテリジェンスインデックス」では、従来の評価基準を見直し、実際の業務に即したタスクを中心に測定する「GDPval-AA」などの新たな評価を導入している。これにより、AIモデルの能力をより実践的に評価できるようになり、単なるテストの成績ではなく、仕事を実際に行えるかどうかが重要な基準となっている。",
+    "link": "https://venturebeat.com/technology/artificial-analysis-overhauls-its-ai-intelligence-index-replacing-popular",
     "category": "AI",
-    "publishedAt": "2026-01-01 08:19"
+    "publishedAt": "2026-01-07 11:11"
   },
   {
     "source": "VentureBeat",
-    "title": "MetaがManusを買収した理由とそれがエンタープライズAIエージェント戦略に与える影響",
-    "title_en": "Why Meta bought Manus — and what it signals for your enterprise AI agent strategy",
-    "summary": "MetaがAIスタートアップManusを20億ドル以上で買収したことは、AI技術における競争がモデルの質だけでなく、実行レイヤーの制御にシフトしていることを示しています。Manusは多段階タスクを自動的に実行するAIエージェントを開発し、Meta内でその技術を統合しつつも、自社のサービスを継続して販売します。この買収は、エンタープライズのAI戦略において実行の重要性が増していることを強調し、企業が内部エージェントインフラに投資する意義を示しています。",
-    "summary_en": "MetaがAIスタートアップManusを20億ドル以上で買収したことは、AI技術における競争がモデルの質だけでなく、実行レイヤーの制御にシフトしていることを示しています。Manusは、多段階タスクを自動的に実行するAIエージェントを開発し、Meta内でその技術を統合しつつも、自社のサービスを継続して販売します。この買収は、エンタープライズのAI戦略において実行の重要性が増していることを強調し、企業が内部エージェントインフラに投資する意義を示しています。",
-    "link": "https://venturebeat.com/orchestration/why-meta-bought-manus-and-what-it-means-for-your-enterprise-ai-agent",
+    "title": "TIIのFalcon H1R 7Bはサイズの最大7倍のモデルを上回る推論能力を持つ — ほぼオープン",
+    "title_en": "TII’s Falcon H1R 7B can out-reason models up to 7x its size — and it’s (mostly) open",
+    "summary": "最近、アブダビの技術革新研究所が新たなモデル「Falcon H1R 7B」を発表し、従来の大規模モデルに依存せずに高い推論性能を実現しています。このモデルは、ハイブリッドアーキテクチャを採用し、計算コストを削減しながら効率的に情報を処理します。Falcon H1R 7Bは、数学的推論やコーディングの分野で競合モデルを上回る成果を上げており、オープンウェイトのエコシステムに変革をもたらしています。",
+    "summary_en": "最近、アブダビの技術革新研究所が新たなモデル「Falcon H1R 7B」を発表し、従来の大規模モデルに依存せずに高い推論性能を実現しています。このモデルは、ハイブリッドアーキテクチャを採用し、計算コストを削減しながら効率的に情報を処理します。Falcon H1R 7Bは、数学的推論やコーディングの分野で競合モデルを上回る成果を上げており、オープンウェイトのエコシステムに変革をもたらしています。",
+    "link": "https://venturebeat.com/technology/tiis-falcon-h1r-7b-can-out-reason-models-up-to-7x-its-size-and-its-mostly",
     "category": "AI",
-    "publishedAt": "2026-01-01 08:20"
+    "publishedAt": "2026-01-07 11:11"
   },
   {
     "source": "NHK",
-    "title": "NY株式市場 2025年最後の取り引き終える ダウ1年で約13％上昇",
+    "title": "NY株式市場 ダウ終値として初 4万9000ドル台 AI関連への期待感",
     "title_en": "",
-    "summary": "ニューヨーク株式市場は最近、ダウ平均株価が前日比で値下がりしましたが、年間では約13％の上昇を記録しました。トランプ政権の関税措置による不確実性がある中、生成AIブームやFRBの利下げ期待が株価を支えました。市場は依然として変動要因にさらされています。",
+    "summary": "ニューヨーク株式市場では、AI関連需要の継続が期待され、IT大手に買い注文が集まりました。その結果、ダウ平均株価は前日から大幅に上昇し、初めて4万9000ドル台に達しました。市場の期待感が高まる中、株価は上昇傾向を維持しています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260101/k10015017471000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260107/k10015020591000.html",
     "category": "経済",
-    "publishedAt": "2026-01-01 08:20"
+    "publishedAt": "2026-01-07 11:11"
   },
   {
     "source": "BBC",
-    "title": "ボンダイの攻撃後、シドニーが新年の平和のメッセージを発信",
-    "title_en": "Sydney sends message of peace for New Year's after Bondi attack",
-    "summary": "シドニーのハーバーブリッジに「平和」と「団結」の言葉が映し出され、皆が集まって年次の花火を楽しんだ。今年のイベントは多くの人々を惹きつけ、地域の連帯感を示す重要な瞬間となった。",
-    "summary_en": "シドニーのハーバーブリッジに「平和」と「団結」の言葉が映し出され、皆が集まって年次の花火を楽しんだ。今年のイベントは多くの人々を惹きつけた。地域の連帯感を示す重要な瞬間となった。",
-    "link": "https://www.bbc.com/news/articles/clye3xz52e5o?at_medium=RSS&at_campaign=rss",
+    "title": "英国とフランス、平和合意が成立すればウクライナに部隊派遣へ",
+    "title_en": "UK and France to send troops to Ukraine if peace deal agreed",
+    "summary": "英国の首相サー・キーア・スターマーが、ウクライナの同盟国との会議後に発表を行った。会議はパリで開催された。この発表の内容はウクライナに関連する重要な決定や支援についてである。",
+    "summary_en": "英国の首相サー・キーア・スターマーが、ウクライナの同盟国との会議後に発表を行った。会議はパリで開催された。この発表の内容はウクライナに関連する重要な決定や支援についてである。",
+    "link": "https://www.bbc.com/news/articles/c17zee20qpzo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-01-01 08:20"
+    "publishedAt": "2026-01-07 11:11"
   },
   {
     "source": "NHK",
-    "title": "400年余りの時を経て 旧薩摩藩主の島津家と西本願寺が交流へ",
+    "title": "浜岡原発の審査 やり直しを視野に対応検討 原子力規制委",
     "title_en": "",
-    "summary": "旧薩摩藩主の島津家と西本願寺が交流を開始することが決まりました。これは長い歴史の中での弾圧と対立を乗り越える重要な動きとされています。専門家は、この新しい関係を歴史的な出来事と評価しています。",
+    "summary": "中部電力が再稼働を目指す浜岡原子力発電所に関し、地震想定の過小評価が疑われている問題で、原子力規制委員会が不正行為の可能性を調査中です。これに伴い、地震の審査をやり直す可能性が出てきました。その結果、浜岡原発の審査が長期化する見込みです。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260101/k10015017341000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260106/k10015020381000.html",
     "category": "その他",
-    "publishedAt": "2026-01-01 08:20"
+    "publishedAt": "2026-01-07 11:11"
   }
 ]
