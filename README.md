@@ -1,3 +1,5 @@
+```mermaid
+
 flowchart TD
 
     subgraph Backend[Python Backend / Agent]
@@ -22,3 +24,5 @@ flowchart TD
     App --> SW
     App --> UI
     SW --> App
+```
+
