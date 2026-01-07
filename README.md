@@ -2,7 +2,7 @@
 flowchart TD
 
     subgraph Backend[Python Backend / Agent]
-        RSS[RSS Feeds (BBC, Bloomberg, Reuters, VB, Nikkei Asia)]
+        RSS[RSS Feeds "(BBC, Bloomberg, VB, NHK)"]
         Fetch[RSS Fetcher (Python)]
         Summary[AI Summarizer (OpenAI API)]
         JSON[Generate summary_v2.json]
