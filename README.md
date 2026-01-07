@@ -1,27 +1,31 @@
 ```mermaid
-flowchart TD
+flowchart LR
 
-    subgraph Backend[Python Backend / Agent]
-        RSS["RSS Feeds (BBC, Bloomberg, VB, NHK)"]
-        Fetch["RSS Fetcher (Python)"]
-        Summary["AI Summarizer (OpenAI API)"]
-        JSON[Generate summary_v2.json]
+    %% Backend
+    subgraph Backend["Python Backend / Agent"]
+        RSS["RSS Feeds"]
+        Fetch["Fetch & Parse"]
+        Summary["AI Summary"]
+        JSON["Generate JSON"]
     end
 
-    subgraph GitHub[GitHub Repository]
-        Store["(summary_v2.json)"]
+    %% Storage
+    subgraph GitHub["GitHub Repository"]
+        Store[(summary_v2.json)]
     end
 
-    subgraph Frontend[PWA Frontend]
-        App[News PWA App]
-        SW[Service Worker]
-        UI[UI Components]
+    %% Frontend
+    subgraph Frontend["PWA Frontend"]
+        App["News PWA"]
+        SW["Service Worker"]
+        UI["UI Components"]
     end
 
-    RSS --> Fetch --> Summary --> JSON --> Store
-    Store --> App
-    App --> SW
+    %% Main Flow
+    RSS --> Fetch --> Summary --> JSON --> Store --> App
+
+    %% Sub Flow
     App --> UI
-    SW --> App
+    App <--> SW
 ```
 
