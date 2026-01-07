@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-01-07T13:07:37.825Z",
+  "updatedAt": "2026-01-07T18:50:40.720Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "US discussing options to acquire Greenland, including use of military, says White House",
-      "url": "https://www.bbc.com/news/articles/cwyg1jg8xkmo?at_medium=RSS&at_campaign=rss",
-      "summary": "It came as European allies rallied behind Denmark, which is pushing back against Trump's ambitions for the Arctic island. "
-    },
-    {
-      "source": "BBC World",
-      "title": "Russia sends navy to guard oil tanker being pursued by US forces",
-      "url": "https://www.bbc.com/news/articles/c7v0deypjl4o?at_medium=RSS&at_campaign=rss",
-      "summary": "US officials say that American forces plan to seize the Russian-flagged ship, which is accused of breaking sanctions."
+      "title": "US says it will discuss Greenland ownership with Denmark next week",
+      "url": "https://www.bbc.com/news/articles/cly39pgmvrzo?at_medium=RSS&at_campaign=rss",
+      "summary": "US Secretary of State Marco Rubio announces talks amid concerns over US claims to the Danish territory."
     },
     {
       "source": "BBC World",
       "title": "Families shocked Swiss ski bar was not inspected for years before deadly fire",
       "url": "https://www.bbc.com/news/articles/c74wexkd598o?at_medium=RSS&at_campaign=rss",
       "summary": "The New Year's Eve fire at a bar in Crans-Montana killed 40 people and injured 116. "
+    },
+    {
+      "source": "BBC World",
+      "title": "Venezuela's interim leader sacks general in charge of Maduro's guard",
+      "url": "https://www.bbc.com/news/articles/c8e5d9j66l0o?at_medium=RSS&at_campaign=rss",
+      "summary": "General Javier Marcano Tábata was the commander of the inner circle of guards tasked with protecting Maduro. "
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "The weirdest tech we&#8217;ve seen at CES 2026",
+        "#text": "Amazon&#8217;s smart shopping cart for Whole Foods gets bigger, lighter, and adds tap-to-pay",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/855460/ces-2026-weirdest-announcements",
+      "url": "https://www.theverge.com/news/857811/amazon-redesigned-dash-cart-whole-foods-fresh-launch",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Logitech caused its mice to freak out by not renewing a certificate",
+        "#text": "Fujifilm’s new instant camera captures video with vintage effects",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/857377/logitech-macos-logi-options-mouse-certification-fix",
+      "url": "https://www.theverge.com/tech/857798/fujifilm-instax-mini-evo-cinema-printer-instant-camera-video-effects",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "I played with the Lego Smart Brick",
+        "#text": "Some of our favorite 4K UHD Blu-rays are three for $33 at Amazon right now",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/855520/i-played-with-the-lego-smart-brick",
+      "url": "https://www.theverge.com/gadgets/857061/amazon-4k-uhd-blu-ray-promo-genki-moonbase-charger-deal-sale",
       "summary": "(要約準備中)"
     }
   ]
