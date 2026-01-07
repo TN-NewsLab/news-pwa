@@ -4,12 +4,12 @@ flowchart TD
     subgraph Backend[Python Backend / Agent]
         RSS["RSS Feeds (BBC, Bloomberg, VB, NHK)"]
         Fetch["RSS Fetcher (Python)"]
-        Summary[AI Summarizer (OpenAI API)]
+        Summary["AI Summarizer (OpenAI API)"]
         JSON[Generate summary_v2.json]
     end
 
     subgraph GitHub[GitHub Repository]
-        Store[(summary_v2.json)]
+        Store["(summary_v2.json)"]
     end
 
     subgraph Frontend[PWA Frontend]
