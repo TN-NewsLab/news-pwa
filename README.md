@@ -1,12 +1,11 @@
 ```mermaid
-
 flowchart TD
 
     subgraph Backend[Python Backend / Agent]
-        RSS[RSS Feeds<br>(BBC / Bloomberg / Reuters / VentureBeat / Nikkei Asia)]
-        Fetch[RSS Fetcher<br>(Python)]
-        Summary[AI Summarizer<br>(OpenAI API)]
-        JSON[summary_v2.json<br>Generator]
+        RSS[RSS Feeds (BBC, Bloomberg, Reuters, VB, Nikkei Asia)]
+        Fetch[RSS Fetcher (Python)]
+        Summary[AI Summarizer (OpenAI API)]
+        JSON[Generate summary_v2.json]
     end
 
     subgraph GitHub[GitHub Repository]
@@ -16,7 +15,7 @@ flowchart TD
     subgraph Frontend[PWA Frontend]
         App[News PWA App]
         SW[Service Worker]
-        UI[UI Components<br>(List / Detail / Filter)]
+        UI[UI Components]
     end
 
     RSS --> Fetch --> Summary --> JSON --> Store
