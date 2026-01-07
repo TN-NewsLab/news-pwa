@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-01-06T18:48:08.847Z",
+  "updatedAt": "2026-01-07T02:27:36.961Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "UK and France to send troops to Ukraine if peace deal agreed",
+      "url": "https://www.bbc.com/news/articles/c17zee20qpzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The announcement was made by UK PM Sir Keir Starmer after a meeting of Ukraine's allies in Paris."
+    },
     {
       "source": "BBC World",
       "title": "Venezuelan security forces detain journalists from foreign news organisations",
@@ -9,15 +15,9 @@
     },
     {
       "source": "BBC World",
-      "title": "Zelensky replaces Ukraine's powerful security service chief",
-      "url": "https://www.bbc.com/news/articles/cpv7myg2nw4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Ukrainian president has come under heavy criticism for his reshuffling of one the country's most successful security agencies."
-    },
-    {
-      "source": "BBC World",
-      "title": "Six dead and hundreds of flights cancelled as snow causes chaos across Europe",
-      "url": "https://www.bbc.com/news/articles/czjg37p34r3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Hundreds of flights have been cancelled in Amsterdam and Paris, with thousands of people stranded."
+      "title": "US may intercept and seize oil tanker heading for Europe, reports say ",
+      "url": "https://www.bbc.com/news/articles/c7v0deypjl4o?at_medium=RSS&at_campaign=rss",
+      "summary": "US officials have a warrant to seize the Russian-flagged ship accused of breaking sanctions."
     },
     {
       "source": "BBC Technology",
@@ -27,7 +27,7 @@
     },
     {
       "source": "BBC Technology",
-      "title": "Lego unveils tech-filled Smart Bricks - to play experts' dismay",
+      "title": "Lego unveils tech-filled Smart Bricks - to play experts' unease",
       "url": "https://www.bbc.com/news/articles/crmlnmnwzk2o?at_medium=RSS&at_campaign=rss",
       "summary": "Lego says its new tech-enabled products are its \"most revolutionary innovation\" since it launched its mini-figurines in 1978."
     },
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "This robot pool cleaner lifts itself out of the water to charge",
+        "#text": "Samsung and Intel&#8217;s OLED tech makes HDR easier on laptop battery life",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/854835/mammotion-spino-s1-pro-robot-pool-cleaner-ces-2026",
+      "url": "https://www.theverge.com/news/857229/samsung-display-intel-oled-smartpower-hdr",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Power bank feature creep is out of control ",
+        "#text": "Motorola’s first smartwatch promises 13-day battery life and Polar-powered health tracking",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/856225/power-banks-are-the-latest-victims-of-feature-creep",
+      "url": "https://www.theverge.com/gadgets/851643/moto-watch-android-smarwatch-ces-2026",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "This 16-inch laptop is so light I can easily lift it with three fingers",
+        "#text": "Lenovo’s Auto Twist laptop is going from concept to real product",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/852034/asus-zenbook-a16-thin-light-ces-2026",
+      "url": "https://www.theverge.com/news/852251/lenovos-auto-twist-laptop-is-going-from-concept-to-real-product",
       "summary": "(要約準備中)"
     }
   ]
