@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-07T06:51:09.903Z",
+  "updatedAt": "2026-01-07T13:07:37.825Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,15 +9,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Trump says Venezuela will be 'turning over' up to 50m barrels of oil to US",
-      "url": "https://www.bbc.com/news/articles/c4grxzxjjd8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Earlier the president said US oil firms could be \"up and running\" in the country within 18 months."
+      "title": "Russia sends navy to guard oil tanker being pursued by US forces",
+      "url": "https://www.bbc.com/news/articles/c7v0deypjl4o?at_medium=RSS&at_campaign=rss",
+      "summary": "US officials say that American forces plan to seize the Russian-flagged ship, which is accused of breaking sanctions."
     },
     {
       "source": "BBC World",
-      "title": "Opposition leader Machado says she should be in charge of Venezuela ",
-      "url": "https://www.bbc.com/news/articles/c0er4qd3115o?at_medium=RSS&at_campaign=rss",
-      "summary": "President Trump has publicly dismissed the Nobel winner Machado saying she doesn't have local support and respect."
+      "title": "Families shocked Swiss ski bar was not inspected for years before deadly fire",
+      "url": "https://www.bbc.com/news/articles/c74wexkd598o?at_medium=RSS&at_campaign=rss",
+      "summary": "The New Year's Eve fire at a bar in Crans-Montana killed 40 people and injured 116. "
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Intel is planning a custom Panther Lake CPU for handheld PCs",
+        "#text": "The weirdest tech we&#8217;ve seen at CES 2026",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/857252/intel-handheld-gaming-pc-panther-lake-custom-cpu",
+      "url": "https://www.theverge.com/tech/855460/ces-2026-weirdest-announcements",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Lenovo is building an AI assistant that ‘can act on your behalf’",
+        "#text": "Logitech caused its mice to freak out by not renewing a certificate",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/column/857053/lenovo-ai-assistant-qira",
+      "url": "https://www.theverge.com/news/857377/logitech-macos-logi-options-mouse-certification-fix",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Samsung and Intel&#8217;s OLED tech makes HDR easier on laptop battery life",
+        "#text": "I played with the Lego Smart Brick",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/857229/samsung-display-intel-oled-smartpower-hdr",
+      "url": "https://www.theverge.com/tech/855520/i-played-with-the-lego-smart-brick",
       "summary": "(要約準備中)"
     }
   ]
