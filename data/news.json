@@ -1,67 +1,67 @@
 {
-  "updatedAt": "2025-12-31T18:45:31.766Z",
+  "updatedAt": "2026-01-06T18:48:08.847Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Sydney sends message of peace for New Year's after Bondi terror attack",
-      "url": "https://www.bbc.com/news/articles/clye3xz52e5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The words peace and unity were projected onto the Sydney Harbour Bridge as thousands gathered to watch the annual fireworks."
+      "title": "Venezuelan security forces detain journalists from foreign news organisations",
+      "url": "https://www.bbc.com/news/articles/cd6w4y0eq70o?at_medium=RSS&at_campaign=rss",
+      "summary": "Venezuelans describe their fear of speaking out as 14 media workers are detained and police check people's social media."
     },
     {
       "source": "BBC World",
-      "title": "EU's top diplomat rejects Russian claims of Ukrainian attack on government sites",
-      "url": "https://www.bbc.com/news/articles/c0q4e4e4ldyo?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes as Russia releases video which it claims shows a downed Ukrainian drone launched at one of Putin's residences. "
+      "title": "Zelensky replaces Ukraine's powerful security service chief",
+      "url": "https://www.bbc.com/news/articles/cpv7myg2nw4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Ukrainian president has come under heavy criticism for his reshuffling of one the country's most successful security agencies."
     },
     {
       "source": "BBC World",
-      "title": "Machu Picchu train crash leaves one dead and dozens injured",
-      "url": "https://www.bbc.com/news/articles/cn9zl309dz8o?at_medium=RSS&at_campaign=rss",
-      "summary": "A train driver died and at least 40 people were injured in the crash on the single-track line to Machu Picchu."
+      "title": "Six dead and hundreds of flights cancelled as snow causes chaos across Europe",
+      "url": "https://www.bbc.com/news/articles/czjg37p34r3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Hundreds of flights have been cancelled in Amsterdam and Paris, with thousands of people stranded."
     },
     {
       "source": "BBC Technology",
-      "title": "Meta buys Chinese-founded AI start-up Manus",
-      "url": "https://www.bbc.com/news/articles/ce3k11q9qe1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The tech giant wants to build into its own AI tools which do complex things with minimal interaction."
+      "title": "Government demands Musk's X deals with 'appalling' Grok AI deepfakes",
+      "url": "https://www.bbc.com/news/articles/crrn054nxe7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Grok is being used to digitally remove women's clothing - something victims describe as \"dehumanising\"."
     },
     {
       "source": "BBC Technology",
-      "title": "A wave paralysed me but AI could help me walk again",
-      "url": "https://www.bbc.com/news/articles/cqjgx1xkjg7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Dan Richards, 37, from Swansea was injured in a freak accident on New Year's Eve in 2023."
+      "title": "Lego unveils tech-filled Smart Bricks - to play experts' dismay",
+      "url": "https://www.bbc.com/news/articles/crmlnmnwzk2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Lego says its new tech-enabled products are its \"most revolutionary innovation\" since it launched its mini-figurines in 1978."
     },
     {
       "source": "BBC Technology",
-      "title": "China to crack down on AI firms to protect kids",
-      "url": "https://www.bbc.com/news/articles/c8dydlmenvro?at_medium=RSS&at_campaign=rss",
-      "summary": "The draft regulations are aimed to address concerns around chatbots, which have surged in popularity in recent months."
+      "title": "Nvidia unveils self-driving car tech as it seeks to power more products with AI",
+      "url": "https://www.bbc.com/news/articles/c0jv1vd571wo?at_medium=RSS&at_campaign=rss",
+      "summary": "The chip giant is looking for ways to move the AI revolution beyond software and into physical products."
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Net neutrality was back, until it wasn’t",
+        "#text": "This robot pool cleaner lifts itself out of the water to charge",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/report/851629/net-neutrality-fcc-retrospective-2025",
+      "url": "https://www.theverge.com/tech/854835/mammotion-spino-s1-pro-robot-pool-cleaner-ces-2026",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Leaked video shows the Galaxy S26 Ultra’s new camera island",
+        "#text": "Power bank feature creep is out of control ",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/851931/samsung-galaxy-236-ultra-video-photo-leak",
+      "url": "https://www.theverge.com/tech/856225/power-banks-are-the-latest-victims-of-feature-creep",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The Dreame X40 Ultra robovac is about $700 off, nearly matching its best price",
+        "#text": "This 16-inch laptop is so light I can easily lift it with three fingers",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/851325/dreame-x40-ultra-baseus-163w-retractable-car-charger-deal-sale",
+      "url": "https://www.theverge.com/news/852034/asus-zenbook-a16-thin-light-ces-2026",
       "summary": "(要約準備中)"
     }
   ]
