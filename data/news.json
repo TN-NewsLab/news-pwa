@@ -1,23 +1,35 @@
 {
-  "updatedAt": "2026-01-07T18:50:40.720Z",
+  "updatedAt": "2026-01-08T02:27:49.634Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "US says it will discuss Greenland ownership with Denmark next week",
+      "title": "US seizes two 'shadow fleet' tankers linked to Venezuelan oil",
+      "url": "https://www.bbc.com/news/articles/c5y2v8ngl14o?at_medium=RSS&at_campaign=rss",
+      "summary": "The ships were boarded by US forces in predawn operations in the North Atlantic and the Caribbean Sea."
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump actively discussing potentially buying Greenland, White House says",
       "url": "https://www.bbc.com/news/articles/cly39pgmvrzo?at_medium=RSS&at_campaign=rss",
-      "summary": "US Secretary of State Marco Rubio announces talks amid concerns over US claims to the Danish territory."
+      "summary": "Both Greenland and its owner Denmark have repeatedly stressed the island was not for sale."
     },
     {
       "source": "BBC World",
-      "title": "Families shocked Swiss ski bar was not inspected for years before deadly fire",
-      "url": "https://www.bbc.com/news/articles/c74wexkd598o?at_medium=RSS&at_campaign=rss",
-      "summary": "The New Year's Eve fire at a bar in Crans-Montana killed 40 people and injured 116. "
+      "title": "'We are not for sale': Greenlanders express fear and indignation as Trump eyes territory",
+      "url": "https://www.bbc.com/news/articles/cvgx8w4pgk0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Greenlanders tell the BBC they have no interest in becoming American as the White House restates its desire for annexation."
     },
     {
-      "source": "BBC World",
-      "title": "Venezuela's interim leader sacks general in charge of Maduro's guard",
-      "url": "https://www.bbc.com/news/articles/c8e5d9j66l0o?at_medium=RSS&at_campaign=rss",
-      "summary": "General Javier Marcano Tábata was the commander of the inner circle of guards tasked with protecting Maduro. "
+      "source": "BBC Technology",
+      "title": "Inside the sub-zero lair of the world's most powerful computer",
+      "url": "https://www.bbc.com/news/articles/c62r6dvpl5ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Faisal Islam gets rare access to Willow - Google's quantum computer."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "IWF finds sexual imagery of children which 'appears to have been' made by Grok",
+      "url": "https://www.bbc.com/news/articles/cvg1mzlryxeo?at_medium=RSS&at_campaign=rss",
+      "summary": "It said analysts discovered the images on a dark-web forum, by users who claimed to have used Grok"
     },
     {
       "source": "BBC Technology",
@@ -26,42 +38,30 @@
       "summary": "Grok is being used to digitally remove women's clothing - something victims describe as \"dehumanising\"."
     },
     {
-      "source": "BBC Technology",
-      "title": "Lego unveils tech-filled Smart Bricks - to play experts' unease",
-      "url": "https://www.bbc.com/news/articles/crmlnmnwzk2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Lego says its new tech-enabled products are its \"most revolutionary innovation\" since it launched its mini-figurines in 1978."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Nvidia unveils self-driving car tech as it seeks to power more products with AI",
-      "url": "https://www.bbc.com/news/articles/c0jv1vd571wo?at_medium=RSS&at_campaign=rss",
-      "summary": "The chip giant is looking for ways to move the AI revolution beyond software and into physical products."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Amazon&#8217;s smart shopping cart for Whole Foods gets bigger, lighter, and adds tap-to-pay",
+        "#text": "Disney Plus is getting vertical video",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/857811/amazon-redesigned-dash-cart-whole-foods-fresh-launch",
+      "url": "https://www.theverge.com/tech/858277/disney-plus-vertical-video",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Fujifilm’s new instant camera captures video with vintage effects",
+        "#text": "The best iPad deals you can get right now",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/857798/fujifilm-instax-mini-evo-cinema-printer-instant-camera-video-effects",
+      "url": "https://www.theverge.com/21280354/best-ipad-deals-apple",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Some of our favorite 4K UHD Blu-rays are three for $33 at Amazon right now",
+        "#text": "Ford’s AI voice assistant is coming later this year, L3 driving in 2028",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/857061/amazon-4k-uhd-blu-ray-promo-genki-moonbase-charger-deal-sale",
+      "url": "https://www.theverge.com/transportation/857400/ford-ai-assistant-level-3-automation-ces-2026",
       "summary": "(要約準備中)"
     }
   ]
