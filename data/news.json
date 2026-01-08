@@ -1,18 +1,6 @@
 {
-  "updatedAt": "2026-01-08T13:08:27.147Z",
+  "updatedAt": "2026-01-08T18:47:04.468Z",
   "top": [
-    {
-      "source": "BBC World",
-      "title": "US immigration agent fatally shoots woman in Minneapolis",
-      "url": "https://www.bbc.com/news/articles/c0jvnl4j1n4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump says the woman was attempting to run over ICE agents. Local leaders disagree."
-    },
-    {
-      "source": "BBC World",
-      "title": "US seizes two 'shadow fleet' tankers linked to Venezuelan oil",
-      "url": "https://www.bbc.com/news/articles/c5y2v8ngl14o?at_medium=RSS&at_campaign=rss",
-      "summary": "The ships were boarded by US forces in predawn operations in the North Atlantic and the Caribbean Sea."
-    },
     {
       "source": "BBC World",
       "title": "Footage shows violent clashes as Iran protests spread to more areas",
@@ -20,10 +8,28 @@
       "summary": "Semi-official Iranian media say two police were killed in a western town, as videos show security forces firing guns and tear gas at crowds elsewhere."
     },
     {
+      "source": "BBC World",
+      "title": "Vance criticises Denmark and Europe's handling of 'critical' Greenland ",
+      "url": "https://www.bbc.com/news/articles/c2lgjd51v95o?at_medium=RSS&at_campaign=rss",
+      "summary": "European allies of Denmark have rejected Trump's ideas to annex the semi-autonomous territory."
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump withdraws US from key climate treaty and dozens of other groups",
+      "url": "https://www.bbc.com/news/articles/cp80ln97py5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The White House says the decision was taken because those entities \"no longer serve American interests\"."
+    },
+    {
       "source": "BBC Technology",
-      "title": "Elon Musk's Grok AI appears to have made child sexual imagery, says charity",
-      "url": "https://www.bbc.com/news/articles/cvg1mzlryxeo?at_medium=RSS&at_campaign=rss",
-      "summary": "It said analysts discovered the images on a dark-web forum, by users who claimed to have used Grok"
+      "title": "OpenAI launches ChatGPT Health to review your medical records",
+      "url": "https://www.bbc.com/news/articles/cpqy29d0yjgo?at_medium=RSS&at_campaign=rss",
+      "summary": "The firm says its chatbot sees health and wellbeing questions from 230 million people every week.\n\n"
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Government accused of dragging its heels on deepfake law over Grok AI",
+      "url": "https://www.bbc.com/news/articles/cp9jxvx0zjmo?at_medium=RSS&at_campaign=rss",
+      "summary": "The End Violence Against Women Coalition said it had been a year since the inital law was suggested "
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "Faisal Islam gets rare access to Willow - Google's quantum computer."
     },
     {
-      "source": "BBC Technology",
-      "title": "Government demands Musk's X deals with 'appalling' Grok AI deepfakes",
-      "url": "https://www.bbc.com/news/articles/crrn054nxe7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Grok is being used to digitally remove women's clothing - something victims describe as \"dehumanising\"."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Google is taking over your Gmail inbox with AI",
+        "#text": "Most dubious uses of AI at CES 2026",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/857883/google-gmail-ai-inbox-overviews",
+      "url": "https://www.theverge.com/tech/858315/most-dubious-ai-tech-ces-2026",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The gap between premium and budget TV brands is quickly closing",
+        "#text": "The MAGA-approved video of an ICE killing",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/857325/the-gap-between-premium-and-budget-tv-brands-is-quickly-closing",
+      "url": "https://www.theverge.com/tech/858710/minneapolis-ice-shooting-trump-video-footage-social-media",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "America’s new era of energy imperialism is about more than oil ",
+        "#text": "The first privately funded space-based telescope is in the works",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/report/857978/trump-venezuela-greenland-oil-mineral-energy-imperialism",
+      "url": "https://www.theverge.com/news/858671/schmidt-sciences-lazuli-space-telescope",
       "summary": "(要約準備中)"
     }
   ]
