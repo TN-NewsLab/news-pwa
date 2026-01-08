@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-08T06:51:02.312Z",
+  "updatedAt": "2026-01-08T13:08:27.147Z",
   "top": [
     {
       "source": "BBC World",
@@ -15,21 +15,21 @@
     },
     {
       "source": "BBC World",
-      "title": "Trump to meet Colombian president at White House in 'near future'",
-      "url": "https://www.bbc.com/news/articles/c98py70npj9o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president described a call with Gustavo Petro as a \"Great Honor\", just days after saying a military operation in Colombia \"sounds good\"."
+      "title": "Footage shows violent clashes as Iran protests spread to more areas",
+      "url": "https://www.bbc.com/news/articles/cgm4y0ewe93o?at_medium=RSS&at_campaign=rss",
+      "summary": "Semi-official Iranian media say two police were killed in a western town, as videos show security forces firing guns and tear gas at crowds elsewhere."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Elon Musk's Grok AI appears to have made child sexual imagery, says charity",
+      "url": "https://www.bbc.com/news/articles/cvg1mzlryxeo?at_medium=RSS&at_campaign=rss",
+      "summary": "It said analysts discovered the images on a dark-web forum, by users who claimed to have used Grok"
     },
     {
       "source": "BBC Technology",
       "title": "Inside the sub-zero lair of the world's most powerful computer",
       "url": "https://www.bbc.com/news/articles/c62r6dvpl5ro?at_medium=RSS&at_campaign=rss",
       "summary": "Faisal Islam gets rare access to Willow - Google's quantum computer."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "IWF finds sexual imagery of children which 'appears to have been' made by Grok",
-      "url": "https://www.bbc.com/news/articles/cvg1mzlryxeo?at_medium=RSS&at_campaign=rss",
-      "summary": "It said analysts discovered the images on a dark-web forum, by users who claimed to have used Grok"
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Disney Plus is getting vertical video",
+        "#text": "Google is taking over your Gmail inbox with AI",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/858277/disney-plus-vertical-video",
+      "url": "https://www.theverge.com/news/857883/google-gmail-ai-inbox-overviews",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The best iPad deals you can get right now",
+        "#text": "The gap between premium and budget TV brands is quickly closing",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/21280354/best-ipad-deals-apple",
+      "url": "https://www.theverge.com/tech/857325/the-gap-between-premium-and-budget-tv-brands-is-quickly-closing",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Ford’s AI voice assistant is coming later this year, L3 driving in 2028",
+        "#text": "America’s new era of energy imperialism is about more than oil ",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/transportation/857400/ford-ai-assistant-level-3-automation-ces-2026",
+      "url": "https://www.theverge.com/report/857978/trump-venezuela-greenland-oil-mineral-energy-imperialism",
       "summary": "(要約準備中)"
     }
   ]
