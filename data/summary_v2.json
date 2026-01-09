@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "Artificial Analysis、AIインテリジェンスインデックスを大幅に見直し、人気のベンチマークを「現実の」テストに置き換え",
-    "title_en": "Artificial Analysis overhauls its AI Intelligence Index, replacing popular benchmarks with 'real-world' tests",
-    "summary": "AIモデルの競争が進展する中、独立したベンチマーク機関が評価方法を大幅に見直し、AIの進捗を測る基準を経済的に有用な行動に焦点を当てるよう変更した。新しい「インテリジェンスインデックス」では、従来の評価基準を見直し、実際の業務に即したタスクを中心に測定する「GDPval-AA」などの新たな評価を導入している。これにより、AIモデルの能力をより実践的に評価できるようになり、単なるテストの成績ではなく、仕事を実際に行えるかどうかが重要な基準となっている。",
-    "summary_en": "AIモデルの競争が進展する中、独立したベンチマーク機関が評価方法を大幅に見直し、AIの進捗を測る基準を経済的に有用な行動に焦点を当てるよう変更した。新しい「インテリジェンスインデックス」では、従来の評価基準を見直し、実際の業務に即したタスクを中心に測定する「GDPval-AA」などの新たな評価を導入している。これにより、AIモデルの能力をより実践的に評価できるようになり、単なるテストの成績ではなく、仕事を実際に行えるかどうかが重要な基準となっている。",
-    "link": "https://venturebeat.com/technology/artificial-analysis-overhauls-its-ai-intelligence-index-replacing-popular",
+    "title": "Claude Code 2.1.0がよりスムーズなワークフローと賢いエージェントを提供",
+    "title_en": "Claude Code 2.1.0 arrives with smoother workflows and smarter agents",
+    "summary": "Anthropicは、自己管理型ソフトウェアを作成するための開発環境「Claude Code」の新バージョンをリリースしました。この更新により、エージェントのライフサイクル管理、スキルの再利用、セッションのポータビリティ、マルチリンガル対応が強化されました。最近の反響から、開発者たちはClaude Codeを生産性向上のための革新的なツールとして評価しており、特に高度なワークフローにおいて有効であるとされています。",
+    "summary_en": "Anthropicは、自己管理型ソフトウェアを作成するための開発環境「Claude Code」の新バージョンをリリースしました。この更新により、エージェントのライフサイクル管理やスキルの再利用、セッションのポータビリティ、マルチリンガル対応などが強化されました。最近の反響から、開発者たちはClaude Codeを生産性向上のための革新的なツールとして評価しており、特に高度なワークフローにおいて有効であるとされています。",
+    "link": "https://venturebeat.com/orchestration/claude-code-2-1-0-arrives-with-smoother-workflows-and-smarter-agents",
     "category": "AI",
-    "publishedAt": "2026-01-07 11:11"
+    "publishedAt": "2026-01-09 15:04"
   },
   {
     "source": "VentureBeat",
-    "title": "TIIのFalcon H1R 7Bはサイズの最大7倍のモデルを上回る推論能力を持つ — ほぼオープン",
-    "title_en": "TII’s Falcon H1R 7B can out-reason models up to 7x its size — and it’s (mostly) open",
-    "summary": "最近、アブダビの技術革新研究所が新たなモデル「Falcon H1R 7B」を発表し、従来の大規模モデルに依存せずに高い推論性能を実現しています。このモデルは、ハイブリッドアーキテクチャを採用し、計算コストを削減しながら効率的に情報を処理します。Falcon H1R 7Bは、数学的推論やコーディングの分野で競合モデルを上回る成果を上げており、オープンウェイトのエコシステムに変革をもたらしています。",
-    "summary_en": "最近、アブダビの技術革新研究所が新たなモデル「Falcon H1R 7B」を発表し、従来の大規模モデルに依存せずに高い推論性能を実現しています。このモデルは、ハイブリッドアーキテクチャを採用し、計算コストを削減しながら効率的に情報を処理します。Falcon H1R 7Bは、数学的推論やコーディングの分野で競合モデルを上回る成果を上げており、オープンウェイトのエコシステムに変革をもたらしています。",
-    "link": "https://venturebeat.com/technology/tiis-falcon-h1r-7b-can-out-reason-models-up-to-7x-its-size-and-its-mostly",
+    "title": "DatabricksのInstructed Retrieverは従来のRAGデータ検索を70%上回る — エンタープライズメタデータが鍵に",
+    "title_en": "Databricks' Instructed Retriever beats traditional RAG data retrieval by 70% — enterprise metadata was the missing link",
+    "summary": "データ検索の中心的な要素であるリトリーバーは、AI時代においてRAGパイプラインの一部として使用され、文書を取得し、LLMにフィードしてコンテキストに基づいた回答を生成します。Databricksが新たに発表した「Instructed Retriever」は、複雑な指示を伴うエンタープライズの質問応答タスクにおいて従来のRAGに対し最大70%の改善をもたらすとされています。この新しいアーキテクチャは、システムの仕様を検索と生成の各段階で完全に伝播させ、メタデータの理解と使用を強化することにより、エンタープライズデータに特有のニーズに応えています。",
+    "summary_en": "データ検索の中心的要素であるリトリーバーは、AI時代においてRAGパイプラインの一部として使用され、文書を取得してLLMにフィードし、コンテキストに基づいた回答を生成します。Databricksが新たに発表した「Instructed Retriever」は、複雑な指示を伴うエンタープライズの質問応答タスクにおいて従来のRAGに対し最大70%の改善をもたらすとされています。この新しいアーキテクチャは、システムの仕様を検索と生成の各段階で完全に伝播させ、メタデータの理解と使用を強化することにより、エンタープライズデータに特有のニーズに応えています。",
+    "link": "https://venturebeat.com/data/databricks-instructed-retriever-beats-traditional-rag-data-retrieval-by-70",
     "category": "AI",
-    "publishedAt": "2026-01-07 11:11"
+    "publishedAt": "2026-01-09 15:04"
   },
   {
     "source": "NHK",
-    "title": "NY株式市場 ダウ終値として初 4万9000ドル台 AI関連への期待感",
+    "title": "経団連会長と経産相が会談 賃上げの勢い持続の環境整備で連携",
     "title_en": "",
-    "summary": "ニューヨーク株式市場では、AI関連需要の継続が期待され、IT大手に買い注文が集まりました。その結果、ダウ平均株価は前日から大幅に上昇し、初めて4万9000ドル台に達しました。市場の期待感が高まる中、株価は上昇傾向を維持しています。",
+    "summary": "経団連の会長と経済産業大臣が会談し、賃上げ促進に向けた官民の協力を確認しました。両者は賃上げの勢いを持続させるための環境整備の重要性を強調しました。また、これにより経済の活性化を図ることを目指しています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260107/k10015020591000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260109/k10015022631000.html",
     "category": "経済",
-    "publishedAt": "2026-01-07 11:11"
+    "publishedAt": "2026-01-09 15:04"
   },
   {
     "source": "BBC",
-    "title": "英国とフランス、平和合意が成立すればウクライナに部隊派遣へ",
-    "title_en": "UK and France to send troops to Ukraine if peace deal agreed",
-    "summary": "英国の首相サー・キーア・スターマーが、ウクライナの同盟国との会議後に発表を行った。会議はパリで開催された。この発表の内容はウクライナに関連する重要な決定や支援についてである。",
-    "summary_en": "英国の首相サー・キーア・スターマーが、ウクライナの同盟国との会議後に発表を行った。会議はパリで開催された。この発表の内容はウクライナに関連する重要な決定や支援についてである。",
-    "link": "https://www.bbc.com/news/articles/c17zee20qpzo?at_medium=RSS&at_campaign=rss",
+    "title": "テヘランや他のイランの都市で大規模な反政府抗議、動画が公開",
+    "title_en": "Huge anti-government protests in Tehran and other Iranian cities, videos show",
+    "summary": "首都やイラン第2の都市での集会は平和的に行われ、治安部隊によって解散されることはありませんでした。人々は大通りに集まり、静かなデモを展開しました。これにより、当局との緊張は一時的に回避されました。",
+    "summary_en": "首都やイラン第2の都市での集会は平和的に行われ、治安部隊によって解散されることはありませんでした。人々は大通りに集まり、静かなデモを展開しました。これにより、当局との緊張は一時的に回避されました。",
+    "link": "https://www.bbc.com/news/articles/cg7y0579lp8o?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-01-07 11:11"
+    "publishedAt": "2026-01-09 15:04"
   },
   {
     "source": "NHK",
-    "title": "浜岡原発の審査 やり直しを視野に対応検討 原子力規制委",
+    "title": "浜岡原発 地震想定過小評価疑い 経産相「極めて重く受け止め」",
     "title_en": "",
-    "summary": "中部電力が再稼働を目指す浜岡原子力発電所に関し、地震想定の過小評価が疑われている問題で、原子力規制委員会が不正行為の可能性を調査中です。これに伴い、地震の審査をやり直す可能性が出てきました。その結果、浜岡原発の審査が長期化する見込みです。",
+    "summary": "中部電力が浜岡原子力発電所の審査で地震を過小評価していた疑いが浮上しています。赤澤経済産業大臣はこの問題を重く受け止め、会社からの報告を待って厳正に対処する意向を示しました。再発防止策についても注視されるでしょう。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260106/k10015020381000.html",
-    "category": "その他",
-    "publishedAt": "2026-01-07 11:11"
+    "link": "http://www3.nhk.or.jp/news/html/20260109/k10015022681000.html",
+    "category": "経済",
+    "publishedAt": "2026-01-09 15:04"
   }
 ]
