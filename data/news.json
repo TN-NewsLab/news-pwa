@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-01-08T18:47:04.468Z",
+  "updatedAt": "2026-01-09T02:28:14.129Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Footage shows violent clashes as Iran protests spread to more areas",
-      "url": "https://www.bbc.com/news/articles/cgm4y0ewe93o?at_medium=RSS&at_campaign=rss",
-      "summary": "Semi-official Iranian media say two police were killed in a western town, as videos show security forces firing guns and tear gas at crowds elsewhere."
+      "title": "Huge anti-government protests in Tehran and other Iranian cities, videos show",
+      "url": "https://www.bbc.com/news/articles/cg7y0579lp8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Rallies on major roads in the capital and in Iran's second city were peaceful and not dispersed by security forces."
+    },
+    {
+      "source": "BBC World",
+      "title": "Minnesota officials say FBI blocked their access to ICE shooting probe",
+      "url": "https://www.bbc.com/news/articles/c99knmrx71go?at_medium=RSS&at_campaign=rss",
+      "summary": "Hundreds of people have taken to the streets of Minneapolis to protest the killing of 37-year-old Renee Good."
     },
     {
       "source": "BBC World",
       "title": "Vance criticises Denmark and Europe's handling of 'critical' Greenland ",
       "url": "https://www.bbc.com/news/articles/c2lgjd51v95o?at_medium=RSS&at_campaign=rss",
       "summary": "European allies of Denmark have rejected Trump's ideas to annex the semi-autonomous territory."
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump withdraws US from key climate treaty and dozens of other groups",
-      "url": "https://www.bbc.com/news/articles/cp80ln97py5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The White House says the decision was taken because those entities \"no longer serve American interests\"."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Most dubious uses of AI at CES 2026",
+        "#text": "Xbox’s Towerborne is switching from a free-to-play game to a paid one",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/858315/most-dubious-ai-tech-ces-2026",
+      "url": "https://www.theverge.com/news/859176/towerborne-launch-release-date-paid-offline",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The MAGA-approved video of an ICE killing",
+        "#text": "The best Apple Watch to buy",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/858710/minneapolis-ice-shooting-trump-video-footage-social-media",
+      "url": "https://www.theverge.com/23037217/best-apple-watch-series-se-ultra",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The first privately funded space-based telescope is in the works",
+        "#text": "Pioneer Sphera is bringing Dolby Atmos in cars to the people",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/858671/schmidt-sciences-lazuli-space-telescope",
+      "url": "https://www.theverge.com/tech/858858/pioneer-sphera-ces-2026",
       "summary": "(要約準備中)"
     }
   ]
