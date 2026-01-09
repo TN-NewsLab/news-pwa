@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "Claude Code 2.1.0がよりスムーズなワークフローと賢いエージェントを提供",
+    "title": "Claude Code 2.1.0がよりスムーズなワークフローとスマートなエージェントを実現",
     "title_en": "Claude Code 2.1.0 arrives with smoother workflows and smarter agents",
-    "summary": "Anthropicは、自己管理型ソフトウェアを作成するための開発環境「Claude Code」の新バージョンをリリースしました。この更新により、エージェントのライフサイクル管理、スキルの再利用、セッションのポータビリティ、マルチリンガル対応が強化されました。最近の反響から、開発者たちはClaude Codeを生産性向上のための革新的なツールとして評価しており、特に高度なワークフローにおいて有効であるとされています。",
-    "summary_en": "Anthropicは、自己管理型ソフトウェアを作成するための開発環境「Claude Code」の新バージョンをリリースしました。この更新により、エージェントのライフサイクル管理やスキルの再利用、セッションのポータビリティ、マルチリンガル対応などが強化されました。最近の反響から、開発者たちはClaude Codeを生産性向上のための革新的なツールとして評価しており、特に高度なワークフローにおいて有効であるとされています。",
+    "summary": "AnthropicがClaude Code v2.1.0をリリースし、エージェントのライフサイクル管理やスキル開発、セッションのポータビリティに関する改善を加えました。このアップデートにより、開発者がより効率的に作業できる新機能や改善が多数導入され、非開発者からも高い評価を受けています。Claude Codeは、単なるAIアシスタントではなく、プログラム可能なインフラとしての位置付けが強まっています。",
+    "summary_en": "AnthropicがClaude Code v2.1.0をリリースし、エージェントのライフサイクル管理やスキル開発、セッションのポータビリティに関する改善を加えました。このアップデートでは、開発者がより効率的に作業できるような新機能や改善が多数導入され、非開発者からも高い評価を得ています。Claude Codeは、単なるAIアシスタントではなく、プログラム可能なインフラとしての位置付けが強まってきています。",
     "link": "https://venturebeat.com/orchestration/claude-code-2-1-0-arrives-with-smoother-workflows-and-smarter-agents",
     "category": "AI",
-    "publishedAt": "2026-01-09 15:04"
+    "publishedAt": "2026-01-09 15:51"
   },
   {
     "source": "VentureBeat",
-    "title": "DatabricksのInstructed Retrieverは従来のRAGデータ検索を70%上回る — エンタープライズメタデータが鍵に",
+    "title": "DatabricksのInstructed Retriever、従来のRAGデータ取得を70%上回る — エンタープライズメタデータが欠けていたリンク",
     "title_en": "Databricks' Instructed Retriever beats traditional RAG data retrieval by 70% — enterprise metadata was the missing link",
-    "summary": "データ検索の中心的な要素であるリトリーバーは、AI時代においてRAGパイプラインの一部として使用され、文書を取得し、LLMにフィードしてコンテキストに基づいた回答を生成します。Databricksが新たに発表した「Instructed Retriever」は、複雑な指示を伴うエンタープライズの質問応答タスクにおいて従来のRAGに対し最大70%の改善をもたらすとされています。この新しいアーキテクチャは、システムの仕様を検索と生成の各段階で完全に伝播させ、メタデータの理解と使用を強化することにより、エンタープライズデータに特有のニーズに応えています。",
-    "summary_en": "データ検索の中心的要素であるリトリーバーは、AI時代においてRAGパイプラインの一部として使用され、文書を取得してLLMにフィードし、コンテキストに基づいた回答を生成します。Databricksが新たに発表した「Instructed Retriever」は、複雑な指示を伴うエンタープライズの質問応答タスクにおいて従来のRAGに対し最大70%の改善をもたらすとされています。この新しいアーキテクチャは、システムの仕様を検索と生成の各段階で完全に伝播させ、メタデータの理解と使用を強化することにより、エンタープライズデータに特有のニーズに応えています。",
+    "summary": "データ取得において重要な要素はリトリーバーであり、AI時代にはRAGパイプラインの一部として使用されている。しかし、従来のRAGシステムは複雑な指示を処理する能力に欠けている。Databricksは「Instructed Retriever」を提案し、70%の改善を実現することで、メタデータを利用した効果的なデータ取得を可能にする新しいアーキテクチャを紹介している。",
+    "summary_en": "データ取得において重要な要素はリトリーバーであり、AI時代にはRAGパイプラインの一部として使用されている。しかし、従来のRAGシステムは複雑な指示を処理する能力に欠けている。Databricksは「Instructed Retriever」を提案し、70%の改善を実現することで、メタデータを利用した効果的なデータ取得を可能にする新しいアーキテクチャを紹介している。",
     "link": "https://venturebeat.com/data/databricks-instructed-retriever-beats-traditional-rag-data-retrieval-by-70",
     "category": "AI",
-    "publishedAt": "2026-01-09 15:04"
+    "publishedAt": "2026-01-09 15:51"
   },
   {
     "source": "NHK",
     "title": "経団連会長と経産相が会談 賃上げの勢い持続の環境整備で連携",
     "title_en": "",
-    "summary": "経団連の会長と経済産業大臣が会談し、賃上げ促進に向けた官民の協力を確認しました。両者は賃上げの勢いを持続させるための環境整備の重要性を強調しました。また、これにより経済の活性化を図ることを目指しています。",
+    "summary": "経団連の会長と経済産業大臣が会談し、賃上げを持続させるための環境整備について合意しました。官民で協力して取り組む方針を確認しました。両者の連携が期待されています。",
     "summary_en": "",
     "link": "http://www3.nhk.or.jp/news/html/20260109/k10015022631000.html",
     "category": "経済",
-    "publishedAt": "2026-01-09 15:04"
+    "publishedAt": "2026-01-09 15:51"
   },
   {
     "source": "BBC",
-    "title": "テヘランや他のイランの都市で大規模な反政府抗議、動画が公開",
-    "title_en": "Huge anti-government protests in Tehran and other Iranian cities, videos show",
-    "summary": "首都やイラン第2の都市での集会は平和的に行われ、治安部隊によって解散されることはありませんでした。人々は大通りに集まり、静かなデモを展開しました。これにより、当局との緊張は一時的に回避されました。",
-    "summary_en": "首都やイラン第2の都市での集会は平和的に行われ、治安部隊によって解散されることはありませんでした。人々は大通りに集まり、静かなデモを展開しました。これにより、当局との緊張は一時的に回避されました。",
-    "link": "https://www.bbc.com/news/articles/cg7y0579lp8o?at_medium=RSS&at_campaign=rss",
+    "title": "コロンビアに対する米軍行動の「現実的脅威」があると大統領がBBCに語る",
+    "title_en": "There is a 'real threat' of US military action against Colombia, president tells BBC",
+    "summary": "グスタボ・ペトロ大統領は、アメリカが他国を「帝国」の一部として扱っていると述べ、トランプ前大統領がコロンビアに対して軍事行動を脅迫したことに言及しました。彼はアメリカの外交政策が他国への圧力を強めていると批判しています。ペトロの発言は、アメリカと南米との関係における緊張を浮き彫りにしています。",
+    "summary_en": "グスタボ・ペトロは、アメリカが他国を「帝国」の一部として扱っていると語り、トランプがコロンビアに対して軍事行動を脅迫したことについて言及しました。彼は、アメリカの外交政策が他国に対する圧力を強めていると批判しています。ペトロの発言は、アメリカと南米の関係における緊張を浮き彫りにしています。",
+    "link": "https://www.bbc.com/news/articles/cwygjvkvpgro?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-01-09 15:04"
+    "publishedAt": "2026-01-09 15:52"
   },
   {
     "source": "NHK",
     "title": "浜岡原発 地震想定過小評価疑い 経産相「極めて重く受け止め」",
     "title_en": "",
-    "summary": "中部電力が浜岡原子力発電所の審査で地震を過小評価していた疑いが浮上しています。赤澤経済産業大臣はこの問題を重く受け止め、会社からの報告を待って厳正に対処する意向を示しました。再発防止策についても注視されるでしょう。",
+    "summary": "中部電力の浜岡原子力発電所に関する地震の想定評価が過小になっている可能性が指摘されています。経済産業大臣はこの問題を重視しており、会社からの報告を待って厳正に対処する意向を示しました。再発防止策の検討も求められる事態となっています。",
     "summary_en": "",
     "link": "http://www3.nhk.or.jp/news/html/20260109/k10015022681000.html",
     "category": "経済",
-    "publishedAt": "2026-01-09 15:04"
+    "publishedAt": "2026-01-09 15:52"
   }
 ]
