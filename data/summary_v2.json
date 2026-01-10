@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "Claude Code 2.1.0がスムーズなワークフローとスマートなエージェントで登場",
-    "title_en": "Claude Code 2.1.0 arrives with smoother workflows and smarter agents",
-    "summary": "AnthropicがClaude Codeの新バージョンを発表し、エージェントのライフサイクル管理やスキル開発などの改善を加えた。ユーザーからの支持が高まる中、開発者はこのツールを用いて複雑なワークフローやプログラム可能なエージェントの構築に挑戦している。今回のアップデートは、特に実践的な利用を意識した内容で、ユーザー体験の向上や作業の効率化が図られている。",
-    "summary_en": "AnthropicがClaude Codeの新バージョンを発表し、エージェントのライフサイクル管理やスキル開発などの改善を加えた。ユーザーからの支持が高まる中、開発者はこのツールを用いて複雑なワークフローやプログラム可能なエージェントの構築に挑戦している。今回のアップデートは、特に実践的な利用を意識した内容で、ユーザー体験の向上や作業の効率化が図られている。",
-    "link": "https://venturebeat.com/orchestration/claude-code-2-1-0-arrives-with-smoother-workflows-and-smarter-agents",
+    "title": "Anthropic、第三者のClaude利用を制限",
+    "title_en": "Anthropic cracks down on unauthorized Claude usage by third-party harnesses and rivals",
+    "summary": "Anthropicは、第三者アプリケーションが自社のコーディングクライアント「Claude Code」を偽装し、モデルへのアクセスを試みるのを防ぐために新たな技術的制限を実施しました。この影響で、人気のオープンソースツール「OpenCode」のユーザーのワークフローが混乱しています。同時に、競合他社が使用しているツールへの制限も強化されており、これによりAnthropicは競争力を維持しようとしています。",
+    "summary_en": "Anthropicは、第三者アプリケーションが自社のコーディングクライアント「Claude Code」を偽装し、モデルへのアクセスを試みるのを防ぐために新たな技術的制限を実施しました。この影響で、人気のオープンソースツール「OpenCode」のユーザーのワークフローが混乱しています。同時に、競合他社が使用しているツールへの制限も強化されており、これによりAnthropicは競争力を維持しようとしています。",
+    "link": "https://venturebeat.com/technology/anthropic-cracks-down-on-unauthorized-claude-usage-by-third-party-harnesses",
     "category": "AI",
-    "publishedAt": "2026-01-09 16:35"
+    "publishedAt": "2026-01-10 09:44"
   },
   {
     "source": "VentureBeat",
-    "title": "DatabricksのInstructed Retrieverは従来のRAGデータ取得を70%上回る - 企業メタデータが欠かせない要素",
-    "title_en": "Databricks' Instructed Retriever beats traditional RAG data retrieval by 70% — enterprise metadata was the missing link",
-    "summary": "データ取得の重要な要素であるリトリーバーは、クエリに関連するコンテンツを取得する役割を果たします。Databricksが発表した新しいアーキテクチャ「Instructed Retriever」は、従来の手法に比べて企業向けの複雑な質問応答タスクで70%の改善を実現し、メタデータの理解と活用に重点を置いています。このシステムは、クエリの分解、メタデータの理論的理解、そして文脈的関連性を活かした文書の優先順位付けを行い、AIエージェントが複雑な指示に従えるように設計されています。",
-    "summary_en": "データ取得の重要な要素であるリトリーバーは、クエリに関連するコンテンツを取得する役割を果たす。Databricksが発表した新しいアーキテクチャ「Instructed Retriever」は、従来の手法に比べて企業向けの複雑な質問応答タスクで70%の改善を実現し、メタデータの理解と活用に重点を置いている。このシステムは、クエリの分解、メタデータの理論的理解、そして文脈的関連性を活かした文書の優先順位付けを行い、AIエージェントが複雑な指示に従えるように設計されている。",
-    "link": "https://venturebeat.com/data/databricks-instructed-retriever-beats-traditional-rag-data-retrieval-by-70",
+    "title": "OrchestralがLangChainの複雑さを再現可能でプロバイダーに依存しないLLMオーケストレーションで置き換え",
+    "title_en": "Orchestral replaces LangChain’s complexity with reproducible, provider-agnostic LLM orchestration",
+    "summary": "新たに開発されたOrchestral AIフレームワークは、複雑なAIツールの代替として、シンプルで再現性のある科学研究を重視した設計を提案しています。開発者は、複数のプロバイダーに対応するシンプルなインターフェースを提供し、操作を予測可能な順序で行うことで再現性を確保しています。ただし、ライセンスがプロプライエタリであり、商業利用には制限があるため、利用者は注意が必要です。",
+    "summary_en": "新たに開発されたOrchestral AIフレームワークは、複雑なAIツールの代替として、シンプルで再現性のある科学研究を重視した設計を提案しています。開発者は、複数のプロバイダーに対応するシンプルなインターフェースを提供し、操作を予測可能な順序で行うことで再現性を確保しています。ただし、ライセンスがプロプライエタリであり、商業利用には制限があるため、利用者は注意が必要です。",
+    "link": "https://venturebeat.com/orchestration/orchestral-replaces-langchains-complexity-with-reproducible-provider",
     "category": "AI",
-    "publishedAt": "2026-01-09 16:35"
+    "publishedAt": "2026-01-10 09:44"
   },
   {
     "source": "NHK",
-    "title": "株価 800円余値上がり 半導体関連の銘柄中心に買い戻す動き",
+    "title": "NY株式市場 ダウ平均株価 4万9500ドル台に上昇 最高値更新",
     "title_en": "",
-    "summary": "東京株式市場で、半導体関連銘柄の買い戻しが広がりました。これにより、日経平均株価は800円以上の値上がりを記録しました。市場の回復が見られる状況です。",
+    "summary": "ニューヨーク株式市場は、アメリカの雇用情勢の堅調さを受けて買い注文が優勢となりました。ダウ平均株価は4万9500ドル台まで上昇しました。これにより、最高値を更新しました。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260109/k10015022591000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260110/k10015023461000.html",
     "category": "経済",
-    "publishedAt": "2026-01-09 16:35"
+    "publishedAt": "2026-01-10 09:45"
   },
   {
     "source": "BBC",
-    "title": "コロンビアに対する米軍の行動の「実際の脅威」が存在する、と大統領がBBCに語る",
-    "title_en": "There is a 'real threat' of US military action against Colombia, president tells BBC",
-    "summary": "グスタボ・ペトロ氏は、アメリカが他の国々を自国の「帝国」の一部として扱っていると語った。トランプ前大統領がコロンビアに対して軍事行動を脅迫したことを背景に、その考えを表明した。ペトロ氏は、こうした行動が中南米への影響を及ぼす可能性を指摘している。",
-    "summary_en": "グスタボ・ペトロ氏は、アメリカが他の国々を自国の「帝国」の一部として扱っていると語った。トランプ前大統領がコロンビアに対して軍事行動を脅迫したことを背景に、その考えを表明した。ペトロ氏は、こうした行動が中南米への影響を及ぼす可能性を指摘している。",
-    "link": "https://www.bbc.com/news/articles/cwygjvkvpgro?at_medium=RSS&at_campaign=rss",
+    "title": "トランプ氏、ロシアと中国がグリーンランドを奪取するのを防ぐために米国が「所有する」必要があると述べる",
+    "title_en": "Trump says US needs to 'own' Greenland to prevent Russia and China from taking it",
+    "summary": "デンマークはその領土を売却しないと明言している。売却に関しては「簡単な方法」と「難しい方法」の選択肢があると伝えられている。交渉の行方が注目されている。",
+    "summary_en": "デンマークはその領土を売却しないと明言している。売却に関しては「簡単な方法」と「難しい方法」の選択肢があると伝えられている。交渉の行方が注目されている。",
+    "link": "https://www.bbc.com/news/articles/c78vj5n7jg3o?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-01-09 16:35"
+    "publishedAt": "2026-01-10 09:45"
   },
   {
     "source": "NHK",
-    "title": "鴨川メガソーラー開発計画 電気買い取る国の制度の認定が失効",
+    "title": "中部電力の他の審査 当面行わないことを諮る方針 原子力規制庁",
     "title_en": "",
-    "summary": "千葉県鴨川市での大規模太陽光発電施設の開発計画について、国の買い取り制度の認定が失効しました。開発区域外での無許可の木伐採が発覚し、工事が一時中止されており、地元住民からの懸念も高まっています。事業者側の今後の対応が注目されています。",
+    "summary": "中部電力が浜岡原子力発電所の地震リスクを過小評価していた疑いがある問題を受け、原子力規制庁は浜岡原発の再稼働や放射性廃棄物の再利用に関する審査を当面行わない方針を決めました。これに関して原子力規制委員会は今月の定例会で詳細を決定する予定です。関連する審査の停止が求められる中、今後の対応に注目が集まります。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260109/k10015022811000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260110/k10015023261000.html",
     "category": "その他",
-    "publishedAt": "2026-01-09 16:35"
+    "publishedAt": "2026-01-10 09:45"
   }
 ]
