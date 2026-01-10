@@ -1,12 +1,6 @@
 {
-  "updatedAt": "2026-01-09T06:51:16.519Z",
+  "updatedAt": "2026-01-09T18:49:12.092Z",
   "top": [
-    {
-      "source": "BBC World",
-      "title": "There is a 'real threat' of US military action against Colombia, president tells BBC",
-      "url": "https://www.bbc.com/news/articles/cwygjvkvpgro?at_medium=RSS&at_campaign=rss",
-      "summary": "Gustavo Petro tells the BBC's Ione Wells that the United States is treating other nations as part of a US \"empire\", after Trump threatened Colombia with military action."
-    },
     {
       "source": "BBC World",
       "title": "Huge anti-government protests in Tehran and other Iranian cities, videos show",
@@ -15,9 +9,21 @@
     },
     {
       "source": "BBC World",
-      "title": "Watch: Buildings in Tehran set on fire as demonstrations spread across Iran",
-      "url": "https://www.bbc.com/news/videos/c78e9vmn7dgo?at_medium=RSS&at_campaign=rss",
-      "summary": "In video verified by BBC Persian, protesters in Iran can be heard chanting anti-government slogans."
+      "title": "Owner of Swiss ski bar held in custody after deadly New Year's Eve fire",
+      "url": "https://www.bbc.com/news/articles/c4g0mq520zeo?at_medium=RSS&at_campaign=rss",
+      "summary": " Jacques Moretti is being held as a potential flight risk, Swiss media reports say."
+    },
+    {
+      "source": "BBC World",
+      "title": "US seizes fifth oil tanker linked to Venezuela, officials say ",
+      "url": "https://www.bbc.com/news/articles/cdxj28xd542o?at_medium=RSS&at_campaign=rss",
+      "summary": "The tanker, the Olina, is on multiple countries' sanctions list and is \"suspected of carrying embargoed oil\", US officials say.\n"
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Decide on X ban within days, government tells regulator",
+      "url": "https://www.bbc.com/news/articles/c99kn52nx9do?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes after government urged Ofcom to use all its powers – up to and including an effective ban – against X."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "The End Violence Against Women Coalition said it had been a year since the inital law was suggested "
     },
     {
-      "source": "BBC Technology",
-      "title": "Inside the sub-zero lair of the world's most powerful computer",
-      "url": "https://www.bbc.com/news/articles/c62r6dvpl5ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Faisal Islam gets rare access to Willow - Google's quantum computer."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Xbox’s Towerborne is switching from a free-to-play game to a paid one",
+        "#text": "Black Mirror has been renewed for another season",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/859176/towerborne-launch-release-date-paid-offline",
+      "url": "https://www.theverge.com/streaming/859699/netflix-black-mirror-season-8",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The best Apple Watch to buy",
+        "#text": "I can’t find the Trump phone at America’s largest tech show",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/23037217/best-apple-watch-series-se-ultra",
+      "url": "https://www.theverge.com/tech/859023/i-cant-find-the-trump-phone-at-americans-largest-tech-show",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Pioneer Sphera is bringing Dolby Atmos in cars to the people",
+        "#text": "I’ve tested the latest Switch 2 controllers, and this one is the best",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/858858/pioneer-sphera-ces-2026",
+      "url": "https://www.theverge.com/tech/791574/best-switch-2-controllers",
       "summary": "(要約準備中)"
     }
   ]
