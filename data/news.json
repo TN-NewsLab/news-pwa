@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-10T12:59:56.727Z",
+  "updatedAt": "2026-01-10T18:44:59.224Z",
   "top": [
     {
       "source": "BBC World",
@@ -11,13 +11,13 @@
       "source": "BBC World",
       "title": "Trump says US needs to 'own' Greenland to prevent Russia and China from taking it",
       "url": "https://www.bbc.com/news/articles/c78vj5n7jg3o?at_medium=RSS&at_campaign=rss",
-      "summary": "We will do it \"the easy way\" or \"the hard way\", he said, but Denmark says the territory is not for sale."
+      "summary": "The US will do it \"the easy way\" or \"the hard way\", he says, but Denmark stresses the territory is not for sale."
     },
     {
       "source": "BBC World",
-      "title": "Greenlanders fear for future as island embroiled in geopolitical storm",
-      "url": "https://www.bbc.com/news/articles/cgrd2e7p9reo?at_medium=RSS&at_campaign=rss",
-      "summary": "Islanders want a bigger say in their ties with Denmark, but also on the world stage too."
+      "title": "Video emerges of Minneapolis shooting filmed by ICE agent who opened fire",
+      "url": "https://www.bbc.com/news/articles/cz7yv4524gqo?at_medium=RSS&at_campaign=rss",
+      "summary": "The clip shows the moments before gunfire rang out on a Minneapolis street."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Betterment&#8217;s financial app sends customers a $10,000 crypto scam message",
+        "#text": "Amazfit’s Active 2 tracker and Blu-rays are this week’s best deals",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/860106/betterment-crypto-scam-notification",
+      "url": "https://www.theverge.com/gadgets/859777/amazfit-active-2-tracker-4k-uhd-blu-ray-deal-sale",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Amazon is planning a Super Amazon-mart store near Chicago",
+        "#text": "I’ve never used a trackball, but Keychron’s Nape Pro looks like the perfect one",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/860058/amazon-chicago-supercenter-store-plans",
+      "url": "https://www.theverge.com/tech/860178/ive-never-used-a-trackball-but-keychrons-nape-pro-looks-like-the-perfect-one",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "X accuses music publishers of &#8216;weaponizing&#8217; DMCA takedowns",
+        "#text": "I replaced Windows with Linux and everything’s going great",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/860013/x-nmpa-music-publishers-dmca-antitrust-lawsuit",
+      "url": "https://www.theverge.com/tech/858910/linux-diary-gaming-desktop",
       "summary": "(要約準備中)"
     }
   ]
