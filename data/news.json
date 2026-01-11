@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-01-11T06:48:49.054Z",
+  "updatedAt": "2026-01-11T13:00:57.282Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Iran protesters defy crackdown as videos show violent clashes",
+      "title": "Protesters defy crackdown as Iran warns it will retaliate if US attacks",
       "url": "https://www.bbc.com/news/articles/cm2jek15m8no?at_medium=RSS&at_campaign=rss",
-      "summary": "Hundreds of protesters are believed to have been killed or injured, and many more detained."
+      "summary": "Medics at two hospitals telling the BBC more than 100 bodies have been brought in over a two day period."
     },
     {
       "source": "BBC World",
@@ -15,9 +15,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Dozens arrested and one police officer injured in Minneapolis protests",
+      "title": "Thousands march and dozens arrested in Minneapolis protests against ICE ",
       "url": "https://www.bbc.com/news/articles/cvgpnwnqygro?at_medium=RSS&at_campaign=rss",
       "summary": "Days after the death of Renee Good, protests continue in Minneapolis and cities across the US. "
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Google employee made redundant after reporting sexual harassment, court hears",
+      "url": "https://www.bbc.com/news/articles/c62v51d1ry2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Victoria Woodall claims she was retaliated against after reporting a manager who told clients stories about his swinger lifestyle."
     },
     {
       "source": "BBC Technology",
@@ -32,10 +38,13 @@
       "summary": "The firm says its chatbot sees health and wellbeing questions from 230 million people every week.\n\n"
     },
     {
-      "source": "BBC Technology",
-      "title": "Government accused of dragging its heels on deepfake law over Grok AI",
-      "url": "https://www.bbc.com/news/articles/cp9jxvx0zjmo?at_medium=RSS&at_campaign=rss",
-      "summary": "The End Violence Against Women Coalition said it had been a year since the inital law was suggested "
+      "source": "The Verge",
+      "title": {
+        "#text": "Will you have to show your ID at the app store?",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/column/859351/age-verification-app-stores",
+      "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/tech/860241/best-smart-home-devices-ces-2026-matter-ikea-aqara-amazon",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "The FCC is letting SpaceX launch 7,500 more Starlink satellites",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/news/860210/fcc-spacex-7500-more-starlink-satellites",
       "summary": "(要約準備中)"
     }
   ]
