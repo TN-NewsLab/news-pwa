@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-01-11T13:00:57.282Z",
+  "updatedAt": "2026-01-11T18:44:41.598Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Protesters defy crackdown as Iran warns it will retaliate if US attacks",
+      "title": "Iran warns it will retaliate if US attacks as protesters defy crackdown",
       "url": "https://www.bbc.com/news/articles/cm2jek15m8no?at_medium=RSS&at_campaign=rss",
-      "summary": "Medics at two hospitals telling the BBC more than 100 bodies have been brought in over a two day period."
+      "summary": "Medics at two hospitals tell the BBC more than 100 bodies have been brought in over a two day period."
     },
     {
       "source": "BBC World",
-      "title": "US military strikes Islamic State group targets in Syria, officials say",
-      "url": "https://www.bbc.com/news/articles/cly9597r4qpo?at_medium=RSS&at_campaign=rss",
-      "summary": "US President Donald Trump ordered the \"large-scale strikes\" on Saturday, US Central Command announced. "
+      "title": "Trump tells Cuba to 'make a deal, before it is too late'",
+      "url": "https://www.bbc.com/news/articles/cx2kv2gn62vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump has been turning his attention to Cuba since US forces seized Venezuelan leader Nicolás Maduro."
     },
     {
       "source": "BBC World",
@@ -21,7 +21,7 @@
     },
     {
       "source": "BBC Technology",
-      "title": "Google employee made redundant after reporting sexual harassment, court hears",
+      "title": "Google employee made redundant after reporting manager who showed nude of wife, court hears",
       "url": "https://www.bbc.com/news/articles/c62v51d1ry2o?at_medium=RSS&at_campaign=rss",
       "summary": "Victoria Woodall claims she was retaliated against after reporting a manager who told clients stories about his swinger lifestyle."
     },
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Will you have to show your ID at the app store?",
+        "#text": "Instagram says it fixed the issue that let someone send all those password reset emails",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/column/859351/age-verification-app-stores",
+      "url": "https://www.theverge.com/news/860337/instagram-fixed-password-reset-emails",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Musk says he&#8217;s going to open-source the new X algorithm next week",
+        "#text": "GameStop is kicking off 2026 by shutting down over 400 stores in 42 states",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/860294/elon-musk-open-source-x-algorithm",
+      "url": "https://www.theverge.com/news/860329/gamestop-is-kicking-off-2026-by-shutting-down-over-400-stores-in-42-states",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "These are the smart home gadgets that impressed me at CES 2026",
+        "#text": "Google’s AI Inbox could be a glimpse of Gmail’s future",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/860241/best-smart-home-devices-ces-2026-matter-ikea-aqara-amazon",
+      "url": "https://www.theverge.com/tech/859864/google-gmail-ai-inbox-hands-on",
       "summary": "(要約準備中)"
     }
   ]
