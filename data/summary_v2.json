@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "Anthropicが第三者のハーネスやライバルによる無許可のClaude使用を取り締まる",
+    "title": "Anthropic、第三者のハーネスや競合による無許可のClaude使用を厳しく取り締まる",
     "title_en": "Anthropic cracks down on unauthorized Claude usage by third-party harnesses and rivals",
-    "summary": "Anthropicは、Claude Codeの公式クライアントを偽装する第三者アプリケーションを防ぐための厳しい技術的対策を導入した。この変更により、OpenCodeなどの人気のあるオープンソースコーディングエージェントのユーザーのワークフローが乱され、同社は競合他社によるAIモデルの使用も制限している。これに対し、ユーザーからの反発が強まり、Anthropicの方針が顧客に対して敵対的だとの声が上がっている。",
-    "summary_en": "Anthropicは、Claude Codeの公式クライアントを偽装する第三者アプリケーションを防ぐための厳しい技術的対策を導入した。この変更により、OpenCodeなどの人気のあるオープンソースコーディングエージェントのユーザーのワークフローが乱され、同社は競合他社によるAIモデルの使用も制限している。これに対し、ユーザーからの反発が強まり、Anthropicの方針が顧客に対して敵対的だとの声が上がっている。",
+    "summary": "Anthropicは、Claude Codeの公式クライアントへのなりすましを防ぐための新しい技術的対策を導入し、これによりOpenCodeなどのオープンソースツールの利用者のワークフローが影響を受けている。さらに、競合他社であるxAIも同様に使用制限を受けており、これらの措置はAnthropicの商業政策に基づくものとされている。利用者の反発が強まる中、オープンソースツールの開発者は新たなプレミアムプランを導入し、AnthropicのAPIを回避する手段を模索している。",
+    "summary_en": "Anthropicは、Claude Codeの公式クライアントへのなりすましを防ぐための新しい技術的対策を導入し、これによりOpenCodeなどのオープンソースツールの利用者のワークフローが影響を受けている。さらに、競合他社であるxAIも同様に使用制限を受けており、これらの措置はAnthropicの商業政策に基づくものとされている。利用者の反発が強まる中、オープンソースツールの開発者は新たなプレミアムプランを導入し、AnthropicのAPIを回避する手段を模索している。",
     "link": "https://venturebeat.com/technology/anthropic-cracks-down-on-unauthorized-claude-usage-by-third-party-harnesses",
     "category": "AI",
-    "publishedAt": "2026-01-11 15:24"
+    "publishedAt": "2026-01-11 19:11"
   },
   {
     "source": "VentureBeat",
-    "title": "OrchestralがLangChainの複雑さを排除し、再現可能でプロバイダーに依存しないLLMオーケストレーションを実現",
+    "title": "Orchestral、LangChainの複雑さを再現可能でプロバイダーに依存しないLLMオーケストレーションに置き換える",
     "title_en": "Orchestral replaces LangChain’s complexity with reproducible, provider-agnostic LLM orchestration",
-    "summary": "新たに開発された「Orchestral AI」は、AIツールの複雑さを排除し、再現性のある科学研究を重視したシンプルなPythonフレームワークです。これにより、研究者は異なるプロバイダーのモデルを利用しやすく、費用管理や実験の確実性を向上させることができます。また、このフレームワークはプロプライエタリライセンスで提供され、ユーザーは使いやすさと同時にライセンスの制約を考慮する必要があります。",
-    "summary_en": "新たに開発された「Orchestral AI」は、AIツールの複雑さを排除し、再現性のある科学研究を重視したシンプルなPythonフレームワークです。これにより、研究者は異なるプロバイダーのモデルを利用しやすく、費用管理や実験の確実性を向上させることができます。また、このフレームワークはプロプライエタリライセンスで提供され、ユーザーは使いやすさと同時にライセンスの制約を考慮する必要があります。",
+    "summary": "新しいPythonフレームワーク「Orchestral AI」は、複雑なAIツールの代わりに、再現可能性とコスト意識を重視した同期型、型安全な選択肢を提供します。このフレームワークは、モデルとの相互作用やエラー追跡を簡素化し、研究者が容易に利用できるよう設計されています。また、完全無償とは限らないライセンス形態を有しており、商業利用には制限があります。",
+    "summary_en": "新しいPythonフレームワーク「Orchestral AI」は、複雑なAIツールの代わりに、再現可能性とコスト意識を重視した同期型、型安全な選択肢を提供します。このフレームワークは、モデルとの相互作用やエラー追跡を簡素化し、研究者が容易に利用できるよう設計されています。また、完全無償とは限らないライセンス形態を有しており、商業利用には制限があります。",
     "link": "https://venturebeat.com/orchestration/orchestral-replaces-langchains-complexity-with-reproducible-provider",
     "category": "AI",
-    "publishedAt": "2026-01-11 15:24"
+    "publishedAt": "2026-01-11 19:11"
   },
   {
     "source": "NHK",
     "title": "「Ｘ」が生成AIで画像加工する機能を有料会員に限定",
     "title_en": "",
-    "summary": "旧ツイッターの「X」は、AIを使った画像加工機能を有料会員に限定しました。この措置は、本人の同意なしに性的な画像が拡散される問題への対応と考えられています。これにより、利用者のプライバシー保護が強化されることが期待されています。",
+    "summary": "旧ツイッターの「X」は、AIを用いた画像加工機能を有料会員に制限しました。これは、本人の同意なしに性的画像が拡散される問題への対策とされています。こうした措置により、利用者のプライバシー保護が強化されることを目指しています。",
     "summary_en": "",
     "link": "http://www3.nhk.or.jp/news/html/20260111/k10015023951000.html",
     "category": "その他",
-    "publishedAt": "2026-01-11 15:24"
+    "publishedAt": "2026-01-11 19:11"
   },
   {
     "source": "BBC",
-    "title": "イランの抗議者たち、弾圧に抵抗し暴力的な衝突の映像が公開",
+    "title": "イランの抗議者、厳しい弾圧に逆らい暴力的衝突の映像が公開",
     "title_en": "Iran protesters defy crackdown as videos show violent clashes",
-    "summary": "多くの抗議者が死亡または負傷したと考えられ、多くの人々が拘束されました。状況は非常に厳しく、デモの規模は大きくなっています。安全保障当局の対応が強まっている模様です。",
-    "summary_en": "多くの抗議者が死亡または負傷したと考えられ、多くの人々が拘束されました。状況は非常に厳しく、デモの規模は大きくなっています。安全保障当局の対応が強まっている模様です。",
+    "summary": "数百人の抗議者が死亡または負傷したと考えられ、多くの人々が拘束されています。抗議活動は激化しており、状況は深刻です。安全性への懸念が高まっています。",
+    "summary_en": "数百人の抗議者が死亡または負傷したと考えられ、多くの人々が拘束されています。抗議活動は激化しており、状況は深刻です。安全性への懸念が高まっています。",
     "link": "https://www.bbc.com/news/articles/cm2jek15m8no?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-01-11 15:24"
+    "publishedAt": "2026-01-11 19:11"
   },
   {
     "source": "NHK",
     "title": "NASA 油井さんら4人の宇宙飛行士の地球帰還は今月15日と発表",
     "title_en": "",
-    "summary": "アメリカ航空宇宙局は、国際宇宙ステーションにいる宇宙飛行士の医療問題により、宇宙飛行士4人の地球帰還を発表しました。帰還は日本時間の今月15日に予定されています。状況に応じた対応が求められています。",
+    "summary": "NASAは、国際宇宙ステーションに滞在する宇宙飛行士の医療上の問題を理由に、宇宙飛行士4人の地球帰還を発表しました。帰還は今月15日に行われる予定です。これにより、宇宙飛行士の健康と安全が優先されています。",
     "summary_en": "",
     "link": "http://www3.nhk.or.jp/news/html/20260110/k10015023641000.html",
     "category": "その他",
-    "publishedAt": "2026-01-11 15:24"
+    "publishedAt": "2026-01-11 19:11"
   }
 ]
