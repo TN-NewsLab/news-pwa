@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "Anthropic、第三者のClaude利用を制限",
+    "title": "Anthropic、第三者ハーネスや競合による無許可のClaude使用を厳しく取り締まる",
     "title_en": "Anthropic cracks down on unauthorized Claude usage by third-party harnesses and rivals",
-    "summary": "Anthropicは、第三者アプリケーションが自社のコーディングクライアント「Claude Code」を偽装し、モデルへのアクセスを試みるのを防ぐために新たな技術的制限を実施しました。この影響で、人気のオープンソースツール「OpenCode」のユーザーのワークフローが混乱しています。同時に、競合他社が使用しているツールへの制限も強化されており、これによりAnthropicは競争力を維持しようとしています。",
-    "summary_en": "Anthropicは、第三者アプリケーションが自社のコーディングクライアント「Claude Code」を偽装し、モデルへのアクセスを試みるのを防ぐために新たな技術的制限を実施しました。この影響で、人気のオープンソースツール「OpenCode」のユーザーのワークフローが混乱しています。同時に、競合他社が使用しているツールへの制限も強化されており、これによりAnthropicは競争力を維持しようとしています。",
+    "summary": "Anthropicは、第三者アプリケーションによる公式コーディングクライアント「Claude Code」の偽装を防ぐための厳格な技術的安全策を実施し、この動きがオープンソースコーディングエージェント「OpenCode」のユーザーの作業に影響を及ぼしている。さらに、競合のxAIやその統合開発環境Cursorによる競争システムのトレーニングが制限されている。ユーザーからの反発が強い一方で、Anthropicはこの措置が正当なものであると主張している。",
+    "summary_en": "Anthropicは、第三者アプリケーションによる公式コーディングクライアント「Claude Code」の偽装を防ぐための厳格な技術的安全策を実施し、この動きがオープンソースコーディングエージェント「OpenCode」のユーザーの作業に影響を及ぼしている。さらに、競合のxAIやその統合開発環境Cursorによる競争システムのトレーニングが制限されている。ユーザーからの反発が強い一方で、Anthropicはこの措置が正当なものであると主張している。",
     "link": "https://venturebeat.com/technology/anthropic-cracks-down-on-unauthorized-claude-usage-by-third-party-harnesses",
     "category": "AI",
-    "publishedAt": "2026-01-10 09:44"
+    "publishedAt": "2026-01-11 09:44"
   },
   {
     "source": "VentureBeat",
-    "title": "OrchestralがLangChainの複雑さを再現可能でプロバイダーに依存しないLLMオーケストレーションで置き換え",
+    "title": "OrchestralがLangChainの複雑さを排除し、再現性のあるプロバイダー非依存のLLMオーケストレーションを実現",
     "title_en": "Orchestral replaces LangChain’s complexity with reproducible, provider-agnostic LLM orchestration",
-    "summary": "新たに開発されたOrchestral AIフレームワークは、複雑なAIツールの代替として、シンプルで再現性のある科学研究を重視した設計を提案しています。開発者は、複数のプロバイダーに対応するシンプルなインターフェースを提供し、操作を予測可能な順序で行うことで再現性を確保しています。ただし、ライセンスがプロプライエタリであり、商業利用には制限があるため、利用者は注意が必要です。",
-    "summary_en": "新たに開発されたOrchestral AIフレームワークは、複雑なAIツールの代替として、シンプルで再現性のある科学研究を重視した設計を提案しています。開発者は、複数のプロバイダーに対応するシンプルなインターフェースを提供し、操作を予測可能な順序で行うことで再現性を確保しています。ただし、ライセンスがプロプライエタリであり、商業利用には制限があるため、利用者は注意が必要です。",
+    "summary": "最近、AlexanderとJacob Romanの研究者たちは、再現性とコスト意識を重視した新しいPythonフレームワーク「Orchestral AI」を発表しました。このフレームワークは、従来のAIツールの複雑さを排除し、同期的な実行モデルを採用することで科学者が使いやすい環境を提供します。また、Orchestralはプロバイダーに依存せず、異なる開発者エコシステムでの比較や管理を容易にする設計となっています。",
+    "summary_en": "最近、AlexanderとJacob Romanの研究者たちは、再現性とコスト意識を重視した新しいPythonフレームワーク「Orchestral AI」を発表しました。このフレームワークは、従来のAIツールの複雑さを排除し、同期的な実行モデルを採用することで科学者が使いやすい環境を提供します。また、Orchestralはプロバイダーに依存せず、異なる開発者エコシステムでの比較や管理を容易にする設計となっています。",
     "link": "https://venturebeat.com/orchestration/orchestral-replaces-langchains-complexity-with-reproducible-provider",
     "category": "AI",
-    "publishedAt": "2026-01-10 09:44"
+    "publishedAt": "2026-01-11 09:44"
   },
   {
     "source": "NHK",
-    "title": "NY株式市場 ダウ平均株価 4万9500ドル台に上昇 最高値更新",
+    "title": "年末年始を終えて…会社を辞めたい？",
     "title_en": "",
-    "summary": "ニューヨーク株式市場は、アメリカの雇用情勢の堅調さを受けて買い注文が優勢となりました。ダウ平均株価は4万9500ドル台まで上昇しました。これにより、最高値を更新しました。",
+    "summary": "年末年始の休暇により、「会社を辞めたい」と考える人が増えているという話があります。年明けに同僚が辞めている「けあけ退職」を経験するケースも見られます。この記事では、最新の動向や企業の対応、専門家の意見を交えて転職の傾向を探ります。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260110/k10015023461000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260110/k10015022721000.html",
     "category": "経済",
-    "publishedAt": "2026-01-10 09:45"
+    "publishedAt": "2026-01-11 09:44"
   },
   {
     "source": "BBC",
-    "title": "トランプ氏、ロシアと中国がグリーンランドを奪取するのを防ぐために米国が「所有する」必要があると述べる",
-    "title_en": "Trump says US needs to 'own' Greenland to prevent Russia and China from taking it",
-    "summary": "デンマークはその領土を売却しないと明言している。売却に関しては「簡単な方法」と「難しい方法」の選択肢があると伝えられている。交渉の行方が注目されている。",
-    "summary_en": "デンマークはその領土を売却しないと明言している。売却に関しては「簡単な方法」と「難しい方法」の選択肢があると伝えられている。交渉の行方が注目されている。",
-    "link": "https://www.bbc.com/news/articles/c78vj5n7jg3o?at_medium=RSS&at_campaign=rss",
+    "title": "CPRを行う時間すらなかった：イランの医療従事者が死傷者で溢れる病院の状況を語る",
+    "title_en": "'There wasn't even time for CPR': Iran medics describe hospitals overwhelmed with dead and injured protesters",
+    "summary": "多数の人々が治安部隊によって殺害され、負傷したと考えられています。70体以上の遺体が一つの病院に運ばれました。死亡者数はさらに増える可能性があります。",
+    "summary_en": "多数の人々が治安部隊によって殺害され、負傷したと考えられています。70体以上の遺体が一つの病院に運ばれました。死亡者数はさらに増える可能性があります。",
+    "link": "https://www.bbc.com/news/articles/cj9rengvnp9o?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-01-10 09:45"
+    "publishedAt": "2026-01-11 09:44"
   },
   {
     "source": "NHK",
-    "title": "中部電力の他の審査 当面行わないことを諮る方針 原子力規制庁",
+    "title": "NASA 油井さんら4人の宇宙飛行士の地球帰還は今月15日と発表",
     "title_en": "",
-    "summary": "中部電力が浜岡原子力発電所の地震リスクを過小評価していた疑いがある問題を受け、原子力規制庁は浜岡原発の再稼働や放射性廃棄物の再利用に関する審査を当面行わない方針を決めました。これに関して原子力規制委員会は今月の定例会で詳細を決定する予定です。関連する審査の停止が求められる中、今後の対応に注目が集まります。",
+    "summary": "NASAは、国際宇宙ステーションにいる宇宙飛行士の医療問題を受けて、宇宙飛行士4人を地球に帰還させることを発表しました。帰還は今月の中旬に行われる予定です。具体的な日付は日本時間の15日です。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260110/k10015023261000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260110/k10015023641000.html",
     "category": "その他",
-    "publishedAt": "2026-01-10 09:45"
+    "publishedAt": "2026-01-11 09:44"
   }
 ]
