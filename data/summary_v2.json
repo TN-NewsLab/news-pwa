@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "Anthropic、第三者のハーネスや競合による無許可のClaude使用を厳しく取り締まる",
+    "title": "Anthropic、第三者のハーネスや競合による無断のClaude使用を厳しく取り締まる",
     "title_en": "Anthropic cracks down on unauthorized Claude usage by third-party harnesses and rivals",
-    "summary": "Anthropicは、Claude Codeの公式クライアントへのなりすましを防ぐための新しい技術的対策を導入し、これによりOpenCodeなどのオープンソースツールの利用者のワークフローが影響を受けている。さらに、競合他社であるxAIも同様に使用制限を受けており、これらの措置はAnthropicの商業政策に基づくものとされている。利用者の反発が強まる中、オープンソースツールの開発者は新たなプレミアムプランを導入し、AnthropicのAPIを回避する手段を模索している。",
-    "summary_en": "Anthropicは、Claude Codeの公式クライアントへのなりすましを防ぐための新しい技術的対策を導入し、これによりOpenCodeなどのオープンソースツールの利用者のワークフローが影響を受けている。さらに、競合他社であるxAIも同様に使用制限を受けており、これらの措置はAnthropicの商業政策に基づくものとされている。利用者の反発が強まる中、オープンソースツールの開発者は新たなプレミアムプランを導入し、AnthropicのAPIを回避する手段を模索している。",
+    "summary": "Anthropicは、第三者アプリケーションが自社のClaude AIモデルにアクセスするのを防ぐための新しい制限を施行し、OpenCodeなどのツールを使用するユーザーのワークフローに影響を与えています。これらの措置は、価格に対する管理を維持し無断使用を防ぐために実施され、開発者コミュニティ内での不満を引き起こしています。また、同社は自社のモデルを利用する競合他社、例えばxAIに対してもブロックを行い、無断統合に対する厳格な管理と結果を強調しています。",
+    "summary_en": "Anthropic has enforced new restrictions to prevent third-party applications from accessing its Claude AI models, disrupting workflows for users of tools like OpenCode. These measures were implemented to maintain control over pricing and prevent unauthorized use, causing frustration within the developer community. The company also blocked competitors, such as xAI, from utilizing its models, emphasizing a shift towards tighter control and consequences for unauthorized integrations.",
     "link": "https://venturebeat.com/technology/anthropic-cracks-down-on-unauthorized-claude-usage-by-third-party-harnesses",
     "category": "AI",
-    "publishedAt": "2026-01-11 19:11"
+    "publishedAt": "2026-01-12 08:18"
   },
   {
     "source": "VentureBeat",
-    "title": "Orchestral、LangChainの複雑さを再現可能でプロバイダーに依存しないLLMオーケストレーションに置き換える",
+    "title": "OrchestralがLangChainの複雑さを再現性のあるプロバイダー非依存のLLMオーケストレーションで置き換える",
     "title_en": "Orchestral replaces LangChain’s complexity with reproducible, provider-agnostic LLM orchestration",
-    "summary": "新しいPythonフレームワーク「Orchestral AI」は、複雑なAIツールの代わりに、再現可能性とコスト意識を重視した同期型、型安全な選択肢を提供します。このフレームワークは、モデルとの相互作用やエラー追跡を簡素化し、研究者が容易に利用できるよう設計されています。また、完全無償とは限らないライセンス形態を有しており、商業利用には制限があります。",
-    "summary_en": "新しいPythonフレームワーク「Orchestral AI」は、複雑なAIツールの代わりに、再現可能性とコスト意識を重視した同期型、型安全な選択肢を提供します。このフレームワークは、モデルとの相互作用やエラー追跡を簡素化し、研究者が容易に利用できるよう設計されています。また、完全無償とは限らないライセンス形態を有しており、商業利用には制限があります。",
+    "summary": "新しいフレームワーク「Orchestral AI」は、複雑なAIツールに代わり、再現性とコスト効率を重視した同期型の選択肢を提供します。開発者は異なるプロバイダー間で簡単にモデルを切り替えられ、科学的研究において決定論的な実行が可能となります。さらに、簡易化されたツール作成やコスト追跡機能を備え、研究者がAIをより効率的に活用できるように設計されています。",
+    "summary_en": "新しいフレームワーク「Orchestral AI」は、複雑なAIツールに代わり、再現性とコスト効率を重視した同期型の選択肢を提供します。開発者は異なるプロバイダー間で簡単にモデルを切り替えられ、科学的研究において決定論的な実行が可能となります。さらに、簡易化されたツール作成やコスト追跡機能を備え、研究者がAIをより効率的に活用できるように設計されています。",
     "link": "https://venturebeat.com/orchestration/orchestral-replaces-langchains-complexity-with-reproducible-provider",
     "category": "AI",
-    "publishedAt": "2026-01-11 19:11"
+    "publishedAt": "2026-01-12 08:18"
   },
   {
     "source": "NHK",
     "title": "「Ｘ」が生成AIで画像加工する機能を有料会員に限定",
     "title_en": "",
-    "summary": "旧ツイッターの「X」は、AIを用いた画像加工機能を有料会員に制限しました。これは、本人の同意なしに性的画像が拡散される問題への対策とされています。こうした措置により、利用者のプライバシー保護が強化されることを目指しています。",
+    "summary": "旧ツイッターの「X」は、AIによる画像加工機能を有料会員限定としました。この変更は、本人の同意なしに性的な画像が拡散される問題への対策と考えられます。最近のトラブルを受けての措置です。",
     "summary_en": "",
     "link": "http://www3.nhk.or.jp/news/html/20260111/k10015023951000.html",
     "category": "その他",
-    "publishedAt": "2026-01-11 19:11"
+    "publishedAt": "2026-01-12 08:19"
   },
   {
     "source": "BBC",
-    "title": "イランの抗議者、厳しい弾圧に逆らい暴力的衝突の映像が公開",
-    "title_en": "Iran protesters defy crackdown as videos show violent clashes",
-    "summary": "数百人の抗議者が死亡または負傷したと考えられ、多くの人々が拘束されています。抗議活動は激化しており、状況は深刻です。安全性への懸念が高まっています。",
-    "summary_en": "数百人の抗議者が死亡または負傷したと考えられ、多くの人々が拘束されています。抗議活動は激化しており、状況は深刻です。安全性への懸念が高まっています。",
+    "title": "イラン、米国の攻撃に対して報復すると警告　抗議行動で数百人が死亡",
+    "title_en": "Iran warns it will retaliate if US attacks, as hundreds killed in protests",
+    "summary": "テヘランの情報筋によれば、街はまるで戦場のようで、血であふれているとのことです。状況は非常に危険で混乱している様子が伝わります。市民の生活は深刻な影響を受けていると見られます。",
+    "summary_en": "テヘランの情報筋によれば、街はまるで戦場のようで、血であふれているとのことです。状況は非常に危険で混乱している様子が伝わります。市民の生活は深刻な影響を受けていると見られます。",
     "link": "https://www.bbc.com/news/articles/cm2jek15m8no?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-01-11 19:11"
+    "publishedAt": "2026-01-12 08:19"
   },
   {
     "source": "NHK",
     "title": "NASA 油井さんら4人の宇宙飛行士の地球帰還は今月15日と発表",
     "title_en": "",
-    "summary": "NASAは、国際宇宙ステーションに滞在する宇宙飛行士の医療上の問題を理由に、宇宙飛行士4人の地球帰還を発表しました。帰還は今月15日に行われる予定です。これにより、宇宙飛行士の健康と安全が優先されています。",
+    "summary": "NASAは国際宇宙ステーションに滞在中の宇宙飛行士1人の医療問題を理由に、宇宙飛行士4人を地球に帰還させると発表しました。帰還は最近の月の15日に予定されています。宇宙飛行士の健康管理が重点的に扱われています。",
     "summary_en": "",
     "link": "http://www3.nhk.or.jp/news/html/20260110/k10015023641000.html",
     "category": "その他",
-    "publishedAt": "2026-01-11 19:11"
+    "publishedAt": "2026-01-12 08:19"
   }
 ]
