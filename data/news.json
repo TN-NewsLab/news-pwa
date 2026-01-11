@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-01-10T18:44:59.224Z",
+  "updatedAt": "2026-01-11T02:39:13.726Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Iran medics describe overwhelmed hospitals as protests continue",
+      "title": "'There wasn't even time for CPR': Iran medics describe hospitals overwhelmed with dead and injured protesters",
       "url": "https://www.bbc.com/news/articles/cj9rengvnp9o?at_medium=RSS&at_campaign=rss",
-      "summary": "There were signs authorities were intensifying their crackdown as protests continued."
+      "summary": "Hundreds of people are believed to have been killed and injured by the security forces, with more than 70 bodies brought to one hospital."
     },
     {
       "source": "BBC World",
-      "title": "Trump says US needs to 'own' Greenland to prevent Russia and China from taking it",
-      "url": "https://www.bbc.com/news/articles/c78vj5n7jg3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US will do it \"the easy way\" or \"the hard way\", he says, but Denmark stresses the territory is not for sale."
+      "title": "US military strikes Islamic State group targets in Syria, officials say",
+      "url": "https://www.bbc.com/news/articles/cly9597r4qpo?at_medium=RSS&at_campaign=rss",
+      "summary": "US President Donald Trump ordered the \"large-scale strikes\" on Saturday, US Central Command announced. "
     },
     {
       "source": "BBC World",
-      "title": "Video emerges of Minneapolis shooting filmed by ICE agent who opened fire",
-      "url": "https://www.bbc.com/news/articles/cz7yv4524gqo?at_medium=RSS&at_campaign=rss",
-      "summary": "The clip shows the moments before gunfire rang out on a Minneapolis street."
+      "title": "Dozens arrested and one police officer injured in Minneapolis protests",
+      "url": "https://www.bbc.com/news/articles/cvgpnwnqygro?at_medium=RSS&at_campaign=rss",
+      "summary": "Days after the death of Renee Good, protests continue in Minneapolis and cities across the US. "
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Amazfit’s Active 2 tracker and Blu-rays are this week’s best deals",
+        "#text": "Musk says he&#8217;s going to open-source the new X algorithm next week",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/859777/amazfit-active-2-tracker-4k-uhd-blu-ray-deal-sale",
+      "url": "https://www.theverge.com/news/860294/elon-musk-open-source-x-algorithm",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "I’ve never used a trackball, but Keychron’s Nape Pro looks like the perfect one",
+        "#text": "These are the smart home gadgets that impressed me at CES 2026",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/860178/ive-never-used-a-trackball-but-keychrons-nape-pro-looks-like-the-perfect-one",
+      "url": "https://www.theverge.com/tech/860241/best-smart-home-devices-ces-2026-matter-ikea-aqara-amazon",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "I replaced Windows with Linux and everything’s going great",
+        "#text": "The FCC is letting SpaceX launch 7,500 more Starlink satellites",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/858910/linux-diary-gaming-desktop",
+      "url": "https://www.theverge.com/news/860210/fcc-spacex-7500-more-starlink-satellites",
       "summary": "(要約準備中)"
     }
   ]
