@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "Anthropic、第三者ハーネスや競合による無許可のClaude使用を厳しく取り締まる",
+    "title": "Anthropicが第三者のハーネスやライバルによる無許可のClaude使用を取り締まる",
     "title_en": "Anthropic cracks down on unauthorized Claude usage by third-party harnesses and rivals",
-    "summary": "Anthropicは、第三者アプリケーションによる公式コーディングクライアント「Claude Code」の偽装を防ぐための厳格な技術的安全策を実施し、この動きがオープンソースコーディングエージェント「OpenCode」のユーザーの作業に影響を及ぼしている。さらに、競合のxAIやその統合開発環境Cursorによる競争システムのトレーニングが制限されている。ユーザーからの反発が強い一方で、Anthropicはこの措置が正当なものであると主張している。",
-    "summary_en": "Anthropicは、第三者アプリケーションによる公式コーディングクライアント「Claude Code」の偽装を防ぐための厳格な技術的安全策を実施し、この動きがオープンソースコーディングエージェント「OpenCode」のユーザーの作業に影響を及ぼしている。さらに、競合のxAIやその統合開発環境Cursorによる競争システムのトレーニングが制限されている。ユーザーからの反発が強い一方で、Anthropicはこの措置が正当なものであると主張している。",
+    "summary": "Anthropicは、Claude Codeの公式クライアントを偽装する第三者アプリケーションを防ぐための厳しい技術的対策を導入した。この変更により、OpenCodeなどの人気のあるオープンソースコーディングエージェントのユーザーのワークフローが乱され、同社は競合他社によるAIモデルの使用も制限している。これに対し、ユーザーからの反発が強まり、Anthropicの方針が顧客に対して敵対的だとの声が上がっている。",
+    "summary_en": "Anthropicは、Claude Codeの公式クライアントを偽装する第三者アプリケーションを防ぐための厳しい技術的対策を導入した。この変更により、OpenCodeなどの人気のあるオープンソースコーディングエージェントのユーザーのワークフローが乱され、同社は競合他社によるAIモデルの使用も制限している。これに対し、ユーザーからの反発が強まり、Anthropicの方針が顧客に対して敵対的だとの声が上がっている。",
     "link": "https://venturebeat.com/technology/anthropic-cracks-down-on-unauthorized-claude-usage-by-third-party-harnesses",
     "category": "AI",
-    "publishedAt": "2026-01-11 09:44"
+    "publishedAt": "2026-01-11 15:24"
   },
   {
     "source": "VentureBeat",
-    "title": "OrchestralがLangChainの複雑さを排除し、再現性のあるプロバイダー非依存のLLMオーケストレーションを実現",
+    "title": "OrchestralがLangChainの複雑さを排除し、再現可能でプロバイダーに依存しないLLMオーケストレーションを実現",
     "title_en": "Orchestral replaces LangChain’s complexity with reproducible, provider-agnostic LLM orchestration",
-    "summary": "最近、AlexanderとJacob Romanの研究者たちは、再現性とコスト意識を重視した新しいPythonフレームワーク「Orchestral AI」を発表しました。このフレームワークは、従来のAIツールの複雑さを排除し、同期的な実行モデルを採用することで科学者が使いやすい環境を提供します。また、Orchestralはプロバイダーに依存せず、異なる開発者エコシステムでの比較や管理を容易にする設計となっています。",
-    "summary_en": "最近、AlexanderとJacob Romanの研究者たちは、再現性とコスト意識を重視した新しいPythonフレームワーク「Orchestral AI」を発表しました。このフレームワークは、従来のAIツールの複雑さを排除し、同期的な実行モデルを採用することで科学者が使いやすい環境を提供します。また、Orchestralはプロバイダーに依存せず、異なる開発者エコシステムでの比較や管理を容易にする設計となっています。",
+    "summary": "新たに開発された「Orchestral AI」は、AIツールの複雑さを排除し、再現性のある科学研究を重視したシンプルなPythonフレームワークです。これにより、研究者は異なるプロバイダーのモデルを利用しやすく、費用管理や実験の確実性を向上させることができます。また、このフレームワークはプロプライエタリライセンスで提供され、ユーザーは使いやすさと同時にライセンスの制約を考慮する必要があります。",
+    "summary_en": "新たに開発された「Orchestral AI」は、AIツールの複雑さを排除し、再現性のある科学研究を重視したシンプルなPythonフレームワークです。これにより、研究者は異なるプロバイダーのモデルを利用しやすく、費用管理や実験の確実性を向上させることができます。また、このフレームワークはプロプライエタリライセンスで提供され、ユーザーは使いやすさと同時にライセンスの制約を考慮する必要があります。",
     "link": "https://venturebeat.com/orchestration/orchestral-replaces-langchains-complexity-with-reproducible-provider",
     "category": "AI",
-    "publishedAt": "2026-01-11 09:44"
+    "publishedAt": "2026-01-11 15:24"
   },
   {
     "source": "NHK",
-    "title": "年末年始を終えて…会社を辞めたい？",
+    "title": "「Ｘ」が生成AIで画像加工する機能を有料会員に限定",
     "title_en": "",
-    "summary": "年末年始の休暇により、「会社を辞めたい」と考える人が増えているという話があります。年明けに同僚が辞めている「けあけ退職」を経験するケースも見られます。この記事では、最新の動向や企業の対応、専門家の意見を交えて転職の傾向を探ります。",
+    "summary": "旧ツイッターの「X」は、AIを使った画像加工機能を有料会員に限定しました。この措置は、本人の同意なしに性的な画像が拡散される問題への対応と考えられています。これにより、利用者のプライバシー保護が強化されることが期待されています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260110/k10015022721000.html",
-    "category": "経済",
-    "publishedAt": "2026-01-11 09:44"
+    "link": "http://www3.nhk.or.jp/news/html/20260111/k10015023951000.html",
+    "category": "その他",
+    "publishedAt": "2026-01-11 15:24"
   },
   {
     "source": "BBC",
-    "title": "CPRを行う時間すらなかった：イランの医療従事者が死傷者で溢れる病院の状況を語る",
-    "title_en": "'There wasn't even time for CPR': Iran medics describe hospitals overwhelmed with dead and injured protesters",
-    "summary": "多数の人々が治安部隊によって殺害され、負傷したと考えられています。70体以上の遺体が一つの病院に運ばれました。死亡者数はさらに増える可能性があります。",
-    "summary_en": "多数の人々が治安部隊によって殺害され、負傷したと考えられています。70体以上の遺体が一つの病院に運ばれました。死亡者数はさらに増える可能性があります。",
-    "link": "https://www.bbc.com/news/articles/cj9rengvnp9o?at_medium=RSS&at_campaign=rss",
+    "title": "イランの抗議者たち、弾圧に抵抗し暴力的な衝突の映像が公開",
+    "title_en": "Iran protesters defy crackdown as videos show violent clashes",
+    "summary": "多くの抗議者が死亡または負傷したと考えられ、多くの人々が拘束されました。状況は非常に厳しく、デモの規模は大きくなっています。安全保障当局の対応が強まっている模様です。",
+    "summary_en": "多くの抗議者が死亡または負傷したと考えられ、多くの人々が拘束されました。状況は非常に厳しく、デモの規模は大きくなっています。安全保障当局の対応が強まっている模様です。",
+    "link": "https://www.bbc.com/news/articles/cm2jek15m8no?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-01-11 09:44"
+    "publishedAt": "2026-01-11 15:24"
   },
   {
     "source": "NHK",
     "title": "NASA 油井さんら4人の宇宙飛行士の地球帰還は今月15日と発表",
     "title_en": "",
-    "summary": "NASAは、国際宇宙ステーションにいる宇宙飛行士の医療問題を受けて、宇宙飛行士4人を地球に帰還させることを発表しました。帰還は今月の中旬に行われる予定です。具体的な日付は日本時間の15日です。",
+    "summary": "アメリカ航空宇宙局は、国際宇宙ステーションにいる宇宙飛行士の医療問題により、宇宙飛行士4人の地球帰還を発表しました。帰還は日本時間の今月15日に予定されています。状況に応じた対応が求められています。",
     "summary_en": "",
     "link": "http://www3.nhk.or.jp/news/html/20260110/k10015023641000.html",
     "category": "その他",
-    "publishedAt": "2026-01-11 09:44"
+    "publishedAt": "2026-01-11 15:24"
   }
 ]
