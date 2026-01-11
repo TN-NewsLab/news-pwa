@@ -2,6 +2,10 @@ import os
 import requests
 import feedparser
 import json
+import sys
+sys.stdout.reconfigure(encoding='utf-8')
+sys.stderr.reconfigure(encoding='utf-8')
+
 from openai import OpenAI
 from dotenv import load_dotenv
 from datetime import datetime, timezone, timedelta
