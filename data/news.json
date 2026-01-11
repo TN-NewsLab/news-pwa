@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-01-09T18:49:12.092Z",
+  "updatedAt": "2026-01-10T18:44:59.224Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Huge anti-government protests in Tehran and other Iranian cities, videos show",
-      "url": "https://www.bbc.com/news/articles/cg7y0579lp8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Rallies on major roads in the capital and in Iran's second city were peaceful and not dispersed by security forces."
+      "title": "Iran medics describe overwhelmed hospitals as protests continue",
+      "url": "https://www.bbc.com/news/articles/cj9rengvnp9o?at_medium=RSS&at_campaign=rss",
+      "summary": "There were signs authorities were intensifying their crackdown as protests continued."
     },
     {
       "source": "BBC World",
-      "title": "Owner of Swiss ski bar held in custody after deadly New Year's Eve fire",
-      "url": "https://www.bbc.com/news/articles/c4g0mq520zeo?at_medium=RSS&at_campaign=rss",
-      "summary": " Jacques Moretti is being held as a potential flight risk, Swiss media reports say."
+      "title": "Trump says US needs to 'own' Greenland to prevent Russia and China from taking it",
+      "url": "https://www.bbc.com/news/articles/c78vj5n7jg3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US will do it \"the easy way\" or \"the hard way\", he says, but Denmark stresses the territory is not for sale."
     },
     {
       "source": "BBC World",
-      "title": "US seizes fifth oil tanker linked to Venezuela, officials say ",
-      "url": "https://www.bbc.com/news/articles/cdxj28xd542o?at_medium=RSS&at_campaign=rss",
-      "summary": "The tanker, the Olina, is on multiple countries' sanctions list and is \"suspected of carrying embargoed oil\", US officials say.\n"
+      "title": "Video emerges of Minneapolis shooting filmed by ICE agent who opened fire",
+      "url": "https://www.bbc.com/news/articles/cz7yv4524gqo?at_medium=RSS&at_campaign=rss",
+      "summary": "The clip shows the moments before gunfire rang out on a Minneapolis street."
     },
     {
       "source": "BBC Technology",
-      "title": "Decide on X ban within days, government tells regulator",
+      "title": "X could face UK ban over deepfakes, minister says",
       "url": "https://www.bbc.com/news/articles/c99kn52nx9do?at_medium=RSS&at_campaign=rss",
       "summary": "It comes after government urged Ofcom to use all its powers – up to and including an effective ban – against X."
     },
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Black Mirror has been renewed for another season",
+        "#text": "Amazfit’s Active 2 tracker and Blu-rays are this week’s best deals",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/streaming/859699/netflix-black-mirror-season-8",
+      "url": "https://www.theverge.com/gadgets/859777/amazfit-active-2-tracker-4k-uhd-blu-ray-deal-sale",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "I can’t find the Trump phone at America’s largest tech show",
+        "#text": "I’ve never used a trackball, but Keychron’s Nape Pro looks like the perfect one",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/859023/i-cant-find-the-trump-phone-at-americans-largest-tech-show",
+      "url": "https://www.theverge.com/tech/860178/ive-never-used-a-trackball-but-keychrons-nape-pro-looks-like-the-perfect-one",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "I’ve tested the latest Switch 2 controllers, and this one is the best",
+        "#text": "I replaced Windows with Linux and everything’s going great",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/791574/best-switch-2-controllers",
+      "url": "https://www.theverge.com/tech/858910/linux-diary-gaming-desktop",
       "summary": "(要約準備中)"
     }
   ]
