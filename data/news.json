@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-01-11T18:44:41.598Z",
+  "updatedAt": "2026-01-12T02:34:52.004Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Iran warns it will retaliate if US attacks as protesters defy crackdown",
+      "title": "Iran warns it will retaliate if US attacks, as hundreds killed in protests",
       "url": "https://www.bbc.com/news/articles/cm2jek15m8no?at_medium=RSS&at_campaign=rss",
-      "summary": "Medics at two hospitals tell the BBC more than 100 bodies have been brought in over a two day period."
+      "summary": "\"It's like a war zone, the streets are full of blood,\" a source in the capital Tehran tells the BBC."
     },
     {
       "source": "BBC World",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Instagram says it fixed the issue that let someone send all those password reset emails",
+        "#text": "You need to listen to Billy Woods’ horrorcore masterpiece for the A24 crowd",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/860337/instagram-fixed-password-reset-emails",
+      "url": "https://www.theverge.com/column/860372/billy-woods-horrorcore-masterpiece-golliwog-a24",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "GameStop is kicking off 2026 by shutting down over 400 stores in 42 states",
+        "#text": "Google pulls AI overviews for some medical searches",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/860329/gamestop-is-kicking-off-2026-by-shutting-down-over-400-stores-in-42-states",
+      "url": "https://www.theverge.com/news/860356/google-pulls-alarming-dangerous-medical-ai-overviews",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Google’s AI Inbox could be a glimpse of Gmail’s future",
+        "#text": "Here are over 20 gadgets that’ll help you achieve your New Year’s resolutions",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/859864/google-gmail-ai-inbox-hands-on",
+      "url": "https://www.theverge.com/gadgets/855851/new-years-resolution-gifts-ideas-2026-tech-gadgets-fitness",
       "summary": "(要約準備中)"
     }
   ]
