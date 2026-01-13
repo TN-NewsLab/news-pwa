@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-01-12T18:49:46.909Z",
+  "updatedAt": "2026-01-13T02:25:36.378Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Trump mulls 'very strong' military options as hundreds killed in Iran protests",
-      "url": "https://www.bbc.com/news/articles/czdqy3rmp78o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president says Iranian leaders have called \"to negotiate\", but adds the US \"may have to act\" before a meeting."
+      "title": "'They just kept killing': Eyewitnesses describe deadly crackdown in Iran",
+      "url": "https://www.bbc.com/news/articles/cvgp70ynx1po?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC has received eyewitness accounts of security forces attacking anti-government protesters across the country."
     },
     {
       "source": "BBC World",
@@ -15,9 +15,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Former Fed chairs condemn criminal investigation into Jerome Powell",
-      "url": "https://www.bbc.com/news/articles/c394xwdve9lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Three former heads of the central bank say the probe seeks to undermine the Fed's independence and \"has no place\" in the US."
+      "title": "Trump to meet Venezuelan opposition leader Machado at the White House",
+      "url": "https://www.bbc.com/news/articles/cr7jzpr95yvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Machado, the winner of 2025 Nobel Peace Prize, had offered to share the honour with Trump,  an award the president has long coveted."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "What a new law and an investigation could mean for Grok AI deepfakes",
+      "url": "https://www.bbc.com/news/articles/ckgvx88md4do?at_medium=RSS&at_campaign=rss",
+      "summary": "Elon Musk's chatbot is under fire for altering images of women to remove their clothes without their consent."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "The social media platform has said there was \"no breach of its systems\" but questions remain."
     },
     {
-      "source": "BBC Technology",
-      "title": "Ofcom investigates Elon Musk's X over Grok AI sexual deepfakes",
-      "url": "https://www.bbc.com/news/articles/cwy875j28k0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The watchdog said it had received reports of the platform's Grok AI chatbot creating undressed images of people."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Democrats should reject tech influence to win elections, Warren says",
+        "#text": "The best robot vacuums we’ve tested for 2026",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/860706/democrats-elections-big-tech-influence-senator-warren",
+      "url": "https://www.theverge.com/22997597/best-robot-vacuum-cleaner",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Anker goes big with new whole home backup system",
+        "#text": "Fired Rockstar employees’ plea for interim pay denied",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/860392/anker-goes-big-with-new-whole-home-backup-system",
+      "url": "https://www.theverge.com/news/861004/rockstar-fired-union-workers-pay",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Hytale finally launches this week with a bright future ahead",
+        "#text": "Framework hikes desktop PC prices as RAM shortage drags on",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/860687/hytale-early-access-launch-release-date-riot-games-hypixel-studios",
+      "url": "https://www.theverge.com/news/860988/framework-desktop-pc-price-increase-ram-memory-shortage",
       "summary": "(要約準備中)"
     }
   ]
