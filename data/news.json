@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-01-13T13:09:37.659Z",
+  "updatedAt": "2026-01-13T18:48:43.556Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Trump briefed on military and covert options for Iran, sources say",
-      "url": "https://www.bbc.com/news/articles/clyev0kpk77o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president also imposes a 25% tariff on countries that \"do business\" with Tehran, while Iran's foreign minister says his country is \"ready for war\".  "
+      "title": "Bowen: Authoritarian regimes die gradually then suddenly, but Iran is not there yet",
+      "url": "https://www.bbc.com/news/articles/cedwgn4pqv4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The regime's opponents will hope for more pressure to accelerate the process, writes the BBC's international editor."
     },
     {
       "source": "BBC World",
-      "title": "'They just kept killing': Eyewitnesses describe deadly crackdown in Iran",
-      "url": "https://www.bbc.com/news/articles/cvgp70ynx1po?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC has received eyewitness accounts of security forces attacking anti-government protesters across the country."
+      "title": "We choose Denmark over US, Greenland's PM says",
+      "url": "https://www.bbc.com/news/articles/c4g3kw5ezepo?at_medium=RSS&at_campaign=rss",
+      "summary": "It is the strongest statement by a leader of the Danish territory since US President Donald Trump renewed plans to annex it."
     },
     {
       "source": "BBC World",
@@ -21,47 +21,47 @@
     },
     {
       "source": "BBC Technology",
+      "title": "Monzo bank says issue affecting its mobile app resolved ",
+      "url": "https://www.bbc.com/news/articles/cdexzl9jg9no?at_medium=RSS&at_campaign=rss",
+      "summary": "A Monzo spokesperson said it had activated a back-up banking service after identifying issues affecting its app."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Apple turns to Google to power AI upgrade for Siri",
+      "url": "https://www.bbc.com/news/articles/czdqvp2zqezo?at_medium=RSS&at_campaign=rss",
+      "summary": "Analysts say the deal is likely to be welcomed by consumers - but reflects Apple's failure to develop its own AI tools."
+    },
+    {
+      "source": "BBC Technology",
       "title": "What a new law and an investigation could mean for Grok AI deepfakes",
       "url": "https://www.bbc.com/news/articles/ckgvx88md4do?at_medium=RSS&at_campaign=rss",
       "summary": "Elon Musk's chatbot is under fire for altering images of women to remove their clothes without their consent."
     },
     {
-      "source": "BBC Technology",
-      "title": "X could 'lose right to self regulate', says Starmer",
-      "url": "https://www.bbc.com/news/articles/cq845glnvl1o?at_medium=RSS&at_campaign=rss",
-      "summary": "It is currently illegal to share deepfakes, but the law against creating them has not yet come into force."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Instagram denies breach after many receive emails asking to reset password",
-      "url": "https://www.bbc.com/news/articles/cdexdr08p05o?at_medium=RSS&at_campaign=rss",
-      "summary": "The social media platform has said there was \"no breach of its systems\" but questions remain."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Insta360’s face-tracking webcams get bigger sensors and more expensive",
+        "#text": "Lego Smart Brick: watch an immersive 15-minute demo like you’re right there with us at CES",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/860616/insta360-link-2-2c-pro-face-tracking-webcam",
+      "url": "https://www.theverge.com/tech/861322/lego-smart-brick-vr-180-3d-video-demo-ces-2026",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "PC shipments just grew unexpectedly amid RAM shortages",
+        "#text": "Verizon gets FCC permission to end 60-day phone unlocking rule",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/861124/pc-market-growth-q4-2025-idc",
+      "url": "https://www.theverge.com/news/861349/verizon-fcc-phone-unlocking-60-day-requirement-waived",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Microsoft is retiring its Office Lens app on iOS and Android",
+        "#text": "Nissan is one of the first carmakers to offer magnetic phone chargers in the US",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/861102/microsoft-office-lens-app-end-of-support-retirement",
+      "url": "https://www.theverge.com/tech/861260/nissan-wireless-charger-2026-murano-pathfinder-qi2-magnetic",
       "summary": "(要約準備中)"
     }
   ]
