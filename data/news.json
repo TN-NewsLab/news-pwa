@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-01-13T18:48:43.556Z",
+  "updatedAt": "2026-01-14T02:33:33.699Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "More than 2,000 people reported killed at Iran protests as Trump says 'help is on its way'",
+      "url": "https://www.bbc.com/news/articles/cr57vmznmd9o?at_medium=RSS&at_campaign=rss",
+      "summary": "A US-based rights group says it has confirmed the killing of 1,850 protesters during a crackdown by authorities, as the US president urges Iranians to keep demonstrating."
+    },
     {
       "source": "BBC World",
       "title": "Bowen: Authoritarian regimes die gradually then suddenly, but Iran is not there yet",
@@ -12,12 +18,6 @@
       "title": "We choose Denmark over US, Greenland's PM says",
       "url": "https://www.bbc.com/news/articles/c4g3kw5ezepo?at_medium=RSS&at_campaign=rss",
       "summary": "It is the strongest statement by a leader of the Danish territory since US President Donald Trump renewed plans to annex it."
-    },
-    {
-      "source": "BBC World",
-      "title": "World central bank chiefs 'stand in solidarity' with US Fed chair Powell",
-      "url": "https://www.bbc.com/news/articles/c041dp0z95yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Eleven central banks have backed Jerome Powell after the US launched a criminal investigation into the US Fed."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Lego Smart Brick: watch an immersive 15-minute demo like you’re right there with us at CES",
+        "#text": "Inside the White House shitposting machine",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/861322/lego-smart-brick-vr-180-3d-video-demo-ces-2026",
+      "url": "https://www.theverge.com/column/861476/trump-memes-venezuela-ice-shooting",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Verizon gets FCC permission to end 60-day phone unlocking rule",
+        "#text": "WeatherTech founder might be the newest US consumer protection official",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/861349/verizon-fcc-phone-unlocking-60-day-requirement-waived",
+      "url": "https://www.theverge.com/news/861560/weathertech-founder-david-macneil-federal-trade-commission",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Nissan is one of the first carmakers to offer magnetic phone chargers in the US",
+        "#text": "I tested several cases for the Switch 2 and these are the best",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/861260/nissan-wireless-charger-2026-murano-pathfinder-qi2-magnetic",
+      "url": "https://www.theverge.com/reviews/691319/best-switch-2-cases",
       "summary": "(要約準備中)"
     }
   ]
