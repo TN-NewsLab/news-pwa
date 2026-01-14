@@ -1,67 +1,67 @@
 {
-  "updatedAt": "2026-01-11T18:44:41.598Z",
+  "updatedAt": "2026-01-14T02:33:33.699Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Iran warns it will retaliate if US attacks as protesters defy crackdown",
-      "url": "https://www.bbc.com/news/articles/cm2jek15m8no?at_medium=RSS&at_campaign=rss",
-      "summary": "Medics at two hospitals tell the BBC more than 100 bodies have been brought in over a two day period."
+      "title": "More than 2,000 people reported killed at Iran protests as Trump says 'help is on its way'",
+      "url": "https://www.bbc.com/news/articles/cr57vmznmd9o?at_medium=RSS&at_campaign=rss",
+      "summary": "A US-based rights group says it has confirmed the killing of 1,850 protesters during a crackdown by authorities, as the US president urges Iranians to keep demonstrating."
     },
     {
       "source": "BBC World",
-      "title": "Trump tells Cuba to 'make a deal, before it is too late'",
-      "url": "https://www.bbc.com/news/articles/cx2kv2gn62vo?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump has been turning his attention to Cuba since US forces seized Venezuelan leader Nicolás Maduro."
+      "title": "Bowen: Authoritarian regimes die gradually then suddenly, but Iran is not there yet",
+      "url": "https://www.bbc.com/news/articles/cedwgn4pqv4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The regime's opponents will hope for more pressure to accelerate the process, writes the BBC's international editor."
     },
     {
       "source": "BBC World",
-      "title": "Thousands march and dozens arrested in Minneapolis protests against ICE ",
-      "url": "https://www.bbc.com/news/articles/cvgpnwnqygro?at_medium=RSS&at_campaign=rss",
-      "summary": "Days after the death of Renee Good, protests continue in Minneapolis and cities across the US. "
+      "title": "We choose Denmark over US, Greenland's PM says",
+      "url": "https://www.bbc.com/news/articles/c4g3kw5ezepo?at_medium=RSS&at_campaign=rss",
+      "summary": "It is the strongest statement by a leader of the Danish territory since US President Donald Trump renewed plans to annex it."
     },
     {
       "source": "BBC Technology",
-      "title": "Google employee made redundant after reporting manager who showed nude of wife, court hears",
-      "url": "https://www.bbc.com/news/articles/c62v51d1ry2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Victoria Woodall claims she was retaliated against after reporting a manager who told clients stories about his swinger lifestyle."
+      "title": "Monzo bank says issue affecting its mobile app resolved ",
+      "url": "https://www.bbc.com/news/articles/cdexzl9jg9no?at_medium=RSS&at_campaign=rss",
+      "summary": "A Monzo spokesperson said it had activated a back-up banking service after identifying issues affecting its app."
     },
     {
       "source": "BBC Technology",
-      "title": "X could face UK ban over deepfakes, minister says",
-      "url": "https://www.bbc.com/news/articles/c99kn52nx9do?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes after government urged Ofcom to use all its powers – up to and including an effective ban – against X."
+      "title": "Apple turns to Google to power AI upgrade for Siri",
+      "url": "https://www.bbc.com/news/articles/czdqvp2zqezo?at_medium=RSS&at_campaign=rss",
+      "summary": "Analysts say the deal is likely to be welcomed by consumers - but reflects Apple's failure to develop its own AI tools."
     },
     {
       "source": "BBC Technology",
-      "title": "OpenAI launches ChatGPT Health to review your medical records",
-      "url": "https://www.bbc.com/news/articles/cpqy29d0yjgo?at_medium=RSS&at_campaign=rss",
-      "summary": "The firm says its chatbot sees health and wellbeing questions from 230 million people every week.\n\n"
+      "title": "What a new law and an investigation could mean for Grok AI deepfakes",
+      "url": "https://www.bbc.com/news/articles/ckgvx88md4do?at_medium=RSS&at_campaign=rss",
+      "summary": "Elon Musk's chatbot is under fire for altering images of women to remove their clothes without their consent."
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Instagram says it fixed the issue that let someone send all those password reset emails",
+        "#text": "Inside the White House shitposting machine",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/860337/instagram-fixed-password-reset-emails",
+      "url": "https://www.theverge.com/column/861476/trump-memes-venezuela-ice-shooting",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "GameStop is kicking off 2026 by shutting down over 400 stores in 42 states",
+        "#text": "WeatherTech founder might be the newest US consumer protection official",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/860329/gamestop-is-kicking-off-2026-by-shutting-down-over-400-stores-in-42-states",
+      "url": "https://www.theverge.com/news/861560/weathertech-founder-david-macneil-federal-trade-commission",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Google’s AI Inbox could be a glimpse of Gmail’s future",
+        "#text": "I tested several cases for the Switch 2 and these are the best",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/859864/google-gmail-ai-inbox-hands-on",
+      "url": "https://www.theverge.com/reviews/691319/best-switch-2-cases",
       "summary": "(要約準備中)"
     }
   ]
