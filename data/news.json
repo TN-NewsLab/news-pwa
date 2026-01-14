@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-14T06:51:11.166Z",
+  "updatedAt": "2026-01-14T13:09:13.597Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,15 +9,21 @@
     },
     {
       "source": "BBC World",
+      "title": "At least 32 killed after crane collapses on train in Thailand",
+      "url": "https://www.bbc.com/news/articles/ceqz7v1507ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Sixty-four people were left injured, including a one-year-old and an 85-year-old."
+    },
+    {
+      "source": "BBC World",
       "title": "Greenlanders brace for summit that could shape the Arctic's future - and their own",
       "url": "https://www.bbc.com/news/articles/cpqyn58v0dxo?at_medium=RSS&at_campaign=rss",
       "summary": "US Vice President JD Vance will host Danish and Greenlandic foreign ministers for talks on Wednesday."
     },
     {
-      "source": "BBC World",
-      "title": "Only Trump can stop Putin, Polish president tells BBC",
-      "url": "https://www.bbc.com/news/articles/c041de5gn02o?at_medium=RSS&at_campaign=rss",
-      "summary": "Europe should do everything it can to help the US president in his efforts to end the war in Ukraine, Karol Nawrocki said."
+      "source": "BBC Technology",
+      "title": "Honey, I shrunk the data centres: Is small the new big?",
+      "url": "https://www.bbc.com/news/articles/cd0ynenr1eno?at_medium=RSS&at_campaign=rss",
+      "summary": "Huge data centres are being built to handle AI computing but some experts say they aren't necessary."
     },
     {
       "source": "BBC Technology",
@@ -32,10 +38,13 @@
       "summary": "Analysts say the deal is likely to be welcomed by consumers - but reflects Apple's failure to develop its own AI tools."
     },
     {
-      "source": "BBC Technology",
-      "title": "What a new law and an investigation could mean for Grok AI deepfakes",
-      "url": "https://www.bbc.com/news/articles/ckgvx88md4do?at_medium=RSS&at_campaign=rss",
-      "summary": "Elon Musk's chatbot is under fire for altering images of women to remove their clothes without their consent."
+      "source": "The Verge",
+      "title": {
+        "#text": "UK police blame Microsoft Copilot for intelligence mistake",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/news/861668/uk-police-microsoft-copilot-error-mistake",
+      "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/news/861560/weathertech-founder-david-macneil-federal-trade-commission",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "I tested several cases for the Switch 2 and these are the best",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/reviews/691319/best-switch-2-cases",
       "summary": "(要約準備中)"
     }
   ]
