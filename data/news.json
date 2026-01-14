@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-14T13:09:13.597Z",
+  "updatedAt": "2026-01-14T18:51:01.487Z",
   "top": [
     {
       "source": "BBC World",
@@ -21,6 +21,12 @@
     },
     {
       "source": "BBC Technology",
+      "title": "No 10 welcomes reports X is addressing Grok deepfakes",
+      "url": "https://www.bbc.com/news/articles/ceqz7pyd303o?at_medium=RSS&at_campaign=rss",
+      "summary": "The use of the AI tool to digitally undress women has sparked a backlash as well as intervention from the government and regulator."
+    },
+    {
+      "source": "BBC Technology",
       "title": "Honey, I shrunk the data centres: Is small the new big?",
       "url": "https://www.bbc.com/news/articles/cd0ynenr1eno?at_medium=RSS&at_campaign=rss",
       "summary": "Huge data centres are being built to handle AI computing but some experts say they aren't necessary."
@@ -32,36 +38,30 @@
       "summary": "A Monzo spokesperson said it had activated a back-up banking service after identifying issues affecting its app."
     },
     {
-      "source": "BBC Technology",
-      "title": "Apple turns to Google to power AI upgrade for Siri",
-      "url": "https://www.bbc.com/news/articles/czdqvp2zqezo?at_medium=RSS&at_campaign=rss",
-      "summary": "Analysts say the deal is likely to be welcomed by consumers - but reflects Apple's failure to develop its own AI tools."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "UK police blame Microsoft Copilot for intelligence mistake",
+        "#text": "Gemini is winning",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/861668/uk-police-microsoft-copilot-error-mistake",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Inside the White House shitposting machine",
+        "#text": "The Atlantic, Penske, and Vox Media have all sued Google for antitrust violations",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/column/861476/trump-memes-venezuela-ice-shooting",
+      "url": "https://www.theverge.com/news/861897/atlantic-penske-vox-google-ad-tech-antitrust-lawsuits",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "WeatherTech founder might be the newest US consumer protection official",
+        "#text": "X hasn&#8217;t really stopped Grok AI from undressing women in the UK",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/861560/weathertech-founder-david-macneil-federal-trade-commission",
+      "url": "https://www.theverge.com/news/861894/grok-still-undressing-in-uk",
       "summary": "(要約準備中)"
     }
   ]
