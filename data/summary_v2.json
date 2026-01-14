@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "Anthropic、第三者のハーネスや競合による無断のClaude使用を厳しく取り締まる",
-    "title_en": "Anthropic cracks down on unauthorized Claude usage by third-party harnesses and rivals",
-    "summary": "Anthropicは、第三者アプリケーションが自社のClaude AIモデルにアクセスするのを防ぐための新しい制限を施行し、OpenCodeなどのツールを使用するユーザーのワークフローに影響を与えています。これらの措置は、価格に対する管理を維持し無断使用を防ぐために実施され、開発者コミュニティ内での不満を引き起こしています。また、同社は自社のモデルを利用する競合他社、例えばxAIに対してもブロックを行い、無断統合に対する厳格な管理と結果を強調しています。",
-    "summary_en": "Anthropic has enforced new restrictions to prevent third-party applications from accessing its Claude AI models, disrupting workflows for users of tools like OpenCode. These measures were implemented to maintain control over pricing and prevent unauthorized use, causing frustration within the developer community. The company also blocked competitors, such as xAI, from utilizing its models, emphasizing a shift towards tighter control and consequences for unauthorized integrations.",
-    "link": "https://venturebeat.com/technology/anthropic-cracks-down-on-unauthorized-claude-usage-by-third-party-harnesses",
+    "title": "新しいシンプルなプロンプト技法が、非推論タスクにおけるLLMの精度を最大76%向上させる",
+    "title_en": "This new, dead simple prompt technique boosts accuracy on LLMs by up to 76% on non-reasoning tasks",
+    "summary": "新しい研究により、入力クエリを繰り返すことで、複雑な推論を必要としないタスクにおいて大規模言語モデルの性能が向上することが示されました。モデルが文脈を理解する際の制約を解消し、情報を効果的に処理できるようにするこの技法は、精度を大幅に向上させる一方で、遅延はほとんど増加しないことがわかりました。このアプローチは、企業のAI開発においてコストを抑えながらパフォーマンスを向上させる有力な戦略となる可能性があります。",
+    "summary_en": "新しい研究により、入力クエリを繰り返すことで、複雑な推論を必要としないタスクにおいて大規模言語モデルの性能が向上することが示されました。モデルが文脈を理解する際の制約を解消し、情報を効果的に処理できるようにするこの技法は、精度を大幅に向上させる一方で、遅延はほとんど増加しないことがわかりました。このアプローチは、企業のAI開発においてコストを抑えながらパフォーマンスを向上させる有力な戦略となる可能性があります。",
+    "link": "https://venturebeat.com/orchestration/this-new-dead-simple-prompt-technique-boosts-accuracy-on-llms-by-up-to-76-on",
     "category": "AI",
-    "publishedAt": "2026-01-12 08:18"
+    "publishedAt": "2026-01-14 13:21"
   },
   {
     "source": "VentureBeat",
-    "title": "OrchestralがLangChainの複雑さを再現性のあるプロバイダー非依存のLLMオーケストレーションで置き換える",
-    "title_en": "Orchestral replaces LangChain’s complexity with reproducible, provider-agnostic LLM orchestration",
-    "summary": "新しいフレームワーク「Orchestral AI」は、複雑なAIツールに代わり、再現性とコスト効率を重視した同期型の選択肢を提供します。開発者は異なるプロバイダー間で簡単にモデルを切り替えられ、科学的研究において決定論的な実行が可能となります。さらに、簡易化されたツール作成やコスト追跡機能を備え、研究者がAIをより効率的に活用できるように設計されています。",
-    "summary_en": "新しいフレームワーク「Orchestral AI」は、複雑なAIツールに代わり、再現性とコスト効率を重視した同期型の選択肢を提供します。開発者は異なるプロバイダー間で簡単にモデルを切り替えられ、科学的研究において決定論的な実行が可能となります。さらに、簡易化されたツール作成やコスト追跡機能を備え、研究者がAIをより効率的に活用できるように設計されています。",
-    "link": "https://venturebeat.com/orchestration/orchestral-replaces-langchains-complexity-with-reproducible-provider",
+    "title": "DeepSeekの条件付きメモリが静的ルックアップによるLLMの無駄を修正：失われたGPUサイクル",
+    "title_en": "DeepSeek’s conditional memory fixes silent LLM waste: GPU cycles lost to static lookups",
+    "summary": "最近、DeepSeekが発表した研究により、静的情報の取得と動的推論を分離する「Engram」という新モジュールが紹介され、AIモデルの効率化に寄与しています。このアプローチは、計算と記憶の最適な配分を75対25の比率で実現し、推論性能が向上しています。企業は、AIシステムの設計において静的知識と動的推論の違いを尊重することで、より賢いアーキテクチャ選択を行うべきであると示唆されています。",
+    "summary_en": "最近、DeepSeekが発表した研究により、静的情報の取得と動的推論を分離する「Engram」という新モジュールが紹介され、AIモデルの効率化に寄与しています。このアプローチは、計算と記憶の最適な配分を75対25の比率で実現し、推論性能が向上しています。企業は、AIシステムの設計において静的知識と動的推論の違いを尊重することで、より賢いアーキテクチャ選択を行うべきであると示唆されています。",
+    "link": "https://venturebeat.com/data/deepseeks-conditional-memory-fixes-silent-llm-waste-gpu-cycles-lost-to",
     "category": "AI",
-    "publishedAt": "2026-01-12 08:18"
+    "publishedAt": "2026-01-14 13:21"
   },
   {
     "source": "NHK",
-    "title": "「Ｘ」が生成AIで画像加工する機能を有料会員に限定",
+    "title": "株価 初の5万4000円台 取り引き時間中の最高値更新 円安も",
     "title_en": "",
-    "summary": "旧ツイッターの「X」は、AIによる画像加工機能を有料会員限定としました。この変更は、本人の同意なしに性的な画像が拡散される問題への対策と考えられます。最近のトラブルを受けての措置です。",
+    "summary": "最近、東京株式市場では高市総理大臣の衆議院解散の可能性を受けて日経平均株価が上昇し、5万4000円台を達成しました。一方で、円安と長期金利の上昇傾向も続いています。市場の動向に注目が集まっています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260111/k10015023951000.html",
-    "category": "その他",
-    "publishedAt": "2026-01-12 08:19"
+    "link": "http://www3.nhk.or.jp/news/html/20260114/k10015025861000.html",
+    "category": "経済",
+    "publishedAt": "2026-01-14 13:21"
   },
   {
     "source": "BBC",
-    "title": "イラン、米国の攻撃に対して報復すると警告　抗議行動で数百人が死亡",
-    "title_en": "Iran warns it will retaliate if US attacks, as hundreds killed in protests",
-    "summary": "テヘランの情報筋によれば、街はまるで戦場のようで、血であふれているとのことです。状況は非常に危険で混乱している様子が伝わります。市民の生活は深刻な影響を受けていると見られます。",
-    "summary_en": "テヘランの情報筋によれば、街はまるで戦場のようで、血であふれているとのことです。状況は非常に危険で混乱している様子が伝わります。市民の生活は深刻な影響を受けていると見られます。",
-    "link": "https://www.bbc.com/news/articles/cm2jek15m8no?at_medium=RSS&at_campaign=rss",
+    "title": "イランの抗議活動で2,000人以上が死亡、トランプ氏が「支援が向かっている」と発言",
+    "title_en": "More than 2,000 people reported killed at Iran protests as Trump says 'help is on its way'",
+    "summary": "米国の人権団体が当局による弾圧の死者数を確認したと発表しました。これを受けて、米国の大統領はイラン国民にデモを続けるよう呼びかけています。状況は依然として緊迫しています。",
+    "summary_en": "米国の人権団体が当局による弾圧の死者数を確認したと発表しました。これを受けて、米国の大統領はイラン国民にデモを続けるよう呼びかけています。状況は依然として緊迫しています。",
+    "link": "https://www.bbc.com/news/articles/cr57vmznmd9o?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-01-12 08:19"
+    "publishedAt": "2026-01-14 13:21"
   },
   {
     "source": "NHK",
-    "title": "NASA 油井さんら4人の宇宙飛行士の地球帰還は今月15日と発表",
+    "title": "浜岡原発の審査を当面停止 地震想定の過小評価疑い受け 規制委",
     "title_en": "",
-    "summary": "NASAは国際宇宙ステーションに滞在中の宇宙飛行士1人の医療問題を理由に、宇宙飛行士4人を地球に帰還させると発表しました。帰還は最近の月の15日に予定されています。宇宙飛行士の健康管理が重点的に扱われています。",
+    "summary": "中部電力の浜岡原子力発電所の再稼働に向けた審査で、地震の想定が過小評価されていた疑いが浮上しました。これを受けて、原子力規制委員会は審査を一時停止し、立ち入り検査を行うことを決定しました。検査は長期化する見込みで、浜岡原発の審査は不透明な状況となっています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260110/k10015023641000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260114/k10015025951000.html",
     "category": "その他",
-    "publishedAt": "2026-01-12 08:19"
+    "publishedAt": "2026-01-14 13:21"
   }
 ]
