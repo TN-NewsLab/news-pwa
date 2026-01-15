@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2026-01-14T18:51:01.487Z",
+  "updatedAt": "2026-01-15T02:27:36.614Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Trump vows 'very strong action' if Iran executes protesters",
-      "url": "https://www.bbc.com/news/articles/cqj2qgw8w08o?at_medium=RSS&at_campaign=rss",
-      "summary": "Relatives of an arrested protester tell BBC Persian he is due to be executed on Wednesday, as the death toll from demonstrations reportedly exceeds 2,400."
+      "title": "US and UK pulling some personnel from Qatar military base",
+      "url": "https://www.bbc.com/news/articles/c701xywwxw8o?at_medium=RSS&at_campaign=rss",
+      "summary": "US officials say it is a \"precautionary measure\" and comes as Donald Trump weighs up whether to take action against Iran. "
     },
     {
       "source": "BBC World",
-      "title": "At least 32 killed after crane collapses on train in Thailand",
-      "url": "https://www.bbc.com/news/articles/ceqz7v1507ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Sixty-four people were left injured, including a one-year-old and an 85-year-old."
+      "title": "Starlink reportedly made free in Iran - but protesters are taking huge risks by using it",
+      "url": "https://www.bbc.com/news/articles/c0r4veg0rrzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The satellite technology has become a vital communications lifeline after the government shut down the internet last week. "
     },
     {
       "source": "BBC World",
-      "title": "Greenlanders brace for summit that could shape the Arctic's future - and their own",
-      "url": "https://www.bbc.com/news/articles/cpqyn58v0dxo?at_medium=RSS&at_campaign=rss",
-      "summary": "US Vice President JD Vance will host Danish and Greenlandic foreign ministers for talks on Wednesday."
+      "title": "Denmark warns of 'fundamental disagreement' after White House talks on Greenland",
+      "url": "https://www.bbc.com/news/articles/cx20vzz0g8vo?at_medium=RSS&at_campaign=rss",
+      "summary": "There was no major breakthrough during the meeting, and President Trump reiterated his interest in acquiring the island shortly afterwards."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "X to stop Grok AI from undressing images of real people after backlash",
+      "url": "https://www.bbc.com/news/articles/ce8gz8g2qnlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Grok will no longer allow users to remove clothing from images of real people, a statement posted on X reads."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "Huge data centres are being built to handle AI computing but some experts say they aren't necessary."
     },
     {
-      "source": "BBC Technology",
-      "title": "Monzo bank says issue affecting its mobile app resolved ",
-      "url": "https://www.bbc.com/news/articles/cdexzl9jg9no?at_medium=RSS&at_campaign=rss",
-      "summary": "A Monzo spokesperson said it had activated a back-up banking service after identifying issues affecting its app."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Gemini is winning",
+        "#text": "The best e-reader to buy right now",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/861863/google-gemini-ai-race-winner",
+      "url": "https://www.theverge.com/23769068/best-ebook-readers",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The Atlantic, Penske, and Vox Media have all sued Google for antitrust violations",
+        "#text": "X claims it has stopped Grok from undressing people, but of course it hasn’t",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/861897/atlantic-penske-vox-google-ad-tech-antitrust-lawsuits",
+      "url": "https://www.theverge.com/news/862372/x-grok-ai-policy-update-deepfake-bikini-poses",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "X hasn&#8217;t really stopped Grok AI from undressing women in the UK",
+        "#text": "The Stream Deck Plus is back to its lowest price",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/861894/grok-still-undressing-in-uk",
+      "url": "https://www.theverge.com/gadgets/862274/elgato-stream-deck-plus-controller-deal-sale",
       "summary": "(要約準備中)"
     }
   ]
