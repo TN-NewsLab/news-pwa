@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-01-15T13:08:13.739Z",
+  "updatedAt": "2026-01-15T18:54:35.334Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "European military personnel arrive in Greenland as Trump says US needs island",
+      "url": "https://www.bbc.com/news/articles/cd0ydjvxpejo?at_medium=RSS&at_campaign=rss",
+      "summary": "France says a small military contingent has arrived and more forces will be there in the coming days."
+    },
     {
       "source": "BBC World",
       "title": "Astronauts splash down to Earth after medical evacuation from space station",
@@ -9,15 +15,9 @@
     },
     {
       "source": "BBC World",
-      "title": "Trump told 'killing has stopped' in Iran after violent protest crackdown",
-      "url": "https://www.bbc.com/news/articles/c07xpndjdd8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president does not rule out military action in Iran, as Tehran temporarily shuts its airspace to nearly all flights. "
-    },
-    {
-      "source": "BBC World",
-      "title": "Rift at top of the Taliban: BBC reveals clash of wills behind internet shutdown",
-      "url": "https://www.bbc.com/news/articles/cg7vdpy1l2vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Taliban leader once warned of a split: A BBC investigation reveals how attitudes to women, the internet and religion are dividing the group at the very top."
+      "title": "Iran judiciary denies plan to execute detained protester Erfan Soltani",
+      "url": "https://www.bbc.com/news/articles/cp80zjx091yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The judiciary says Soltani is not facing charges carrying the death penalty, while a rights group reports that the execution has been \"postponed\"."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Game of Thrones shows its playful side in A Knight of the Seven Kingdoms",
+        "#text": "Democrats push FTC to investigate Trump Mobile",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/861838/hbo-a-knight-of-the-seven-kingdoms-review",
+      "url": "https://www.theverge.com/news/862821/democrats-elizabeth-warren-aoc-ftc-trump-mobile-investigation-letter",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "‘Get Grok Gone’: Advocacy groups demand Apple and Google block X from app stores",
+        "#text": "Here are the best AirPods deals you can get right now",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/862460/apple-google-app-stores-ditch-grok-x-open-letters",
+      "url": "https://www.theverge.com/21302051/best-apple-airpods-deals",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Spotify is hiking prices again",
+        "#text": "Amazon is buying copper harvested by bacteria for its data centers",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/862465/spotify-premium-us-price-increase-2026",
+      "url": "https://www.theverge.com/news/862820/amazon-arizona-copper-mine-data-centers",
       "summary": "(要約準備中)"
     }
   ]
