@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-01-15T18:54:35.334Z",
+  "updatedAt": "2026-01-16T02:28:59.340Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Venezuelan Nobel Peace Prize winner presents her medal to Trump",
+      "url": "https://www.bbc.com/news/articles/cx2w94wp4p1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump thanked Venezuelan opposition leader María Corina Machado, calling it \"a wonderful gesture of mutual respect\". "
+    },
+    {
+      "source": "BBC World",
+      "title": "Iran authorities demanding large sums for return of protesters' bodies, BBC told",
+      "url": "https://www.bbc.com/news/articles/c4g5md1n1yxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Multiple sources have told BBC Persian that security forces will not release bodies unless relatives hand over money. "
+    },
     {
       "source": "BBC World",
       "title": "European military personnel arrive in Greenland as Trump says US needs island",
       "url": "https://www.bbc.com/news/articles/cd0ydjvxpejo?at_medium=RSS&at_campaign=rss",
       "summary": "France says a small military contingent has arrived and more forces will be there in the coming days."
-    },
-    {
-      "source": "BBC World",
-      "title": "Astronauts splash down to Earth after medical evacuation from space station",
-      "url": "https://www.bbc.com/news/articles/c205r8n0276o?at_medium=RSS&at_campaign=rss",
-      "summary": "The four members of Crew-11 beamed as they stepped out of their spacecraft after a safe landing."
-    },
-    {
-      "source": "BBC World",
-      "title": "Iran judiciary denies plan to execute detained protester Erfan Soltani",
-      "url": "https://www.bbc.com/news/articles/cp80zjx091yo?at_medium=RSS&at_campaign=rss",
-      "summary": "The judiciary says Soltani is not facing charges carrying the death penalty, while a rights group reports that the execution has been \"postponed\"."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Democrats push FTC to investigate Trump Mobile",
+        "#text": "Meta has discontinued its metaverse for work, too",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/862821/democrats-elizabeth-warren-aoc-ftc-trump-mobile-investigation-letter",
+      "url": "https://www.theverge.com/tech/863209/meta-has-discontinued-its-metaverse-for-work-too",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Here are the best AirPods deals you can get right now",
+        "#text": "The best Sonos speakers to buy in 2026",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/21302051/best-apple-airpods-deals",
+      "url": "https://www.theverge.com/tech/652171/best-sonos-speakers",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Amazon is buying copper harvested by bacteria for its data centers",
+        "#text": "Here are the best Apple Watch deals available right now",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/862820/amazon-arizona-copper-mine-data-centers",
+      "url": "https://www.theverge.com/21289209/best-apple-watch-deals",
       "summary": "(要約準備中)"
     }
   ]
