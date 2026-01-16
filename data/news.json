@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-16T02:28:59.340Z",
+  "updatedAt": "2026-01-16T06:50:50.587Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,15 +9,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Iran authorities demanding large sums for return of protesters' bodies, BBC told",
-      "url": "https://www.bbc.com/news/articles/c4g5md1n1yxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Multiple sources have told BBC Persian that security forces will not release bodies unless relatives hand over money. "
+      "title": "S Korea's ex-president Yoon to be jailed for five years over martial law bid",
+      "url": "https://www.bbc.com/news/articles/cy4qdpxp78po?at_medium=RSS&at_campaign=rss",
+      "summary": "This is the first of the verdicts in the four trials linked to Yoon's shock decree in 2024."
     },
     {
       "source": "BBC World",
-      "title": "European military personnel arrive in Greenland as Trump says US needs island",
-      "url": "https://www.bbc.com/news/articles/cd0ydjvxpejo?at_medium=RSS&at_campaign=rss",
-      "summary": "France says a small military contingent has arrived and more forces will be there in the coming days."
+      "title": "Cuba counts cost of alliance after 32 troops killed in Venezuela",
+      "url": "https://www.bbc.com/news/articles/c0q4l3g183jo?at_medium=RSS&at_campaign=rss",
+      "summary": "The recent events in Venezuela have exposed the strategic risks of Cuba’s foreign entanglements. "
     },
     {
       "source": "BBC Technology",
@@ -40,6 +40,15 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "Casting is dead. Long live casting!",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/column/861948/casting-netflix-dead",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "Meta has discontinued its metaverse for work, too",
         "@_type": "html"
       },
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/tech/652171/best-sonos-speakers",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Here are the best Apple Watch deals available right now",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/21289209/best-apple-watch-deals",
       "summary": "(要約準備中)"
     }
   ]
