@@ -1,23 +1,35 @@
 {
-  "updatedAt": "2026-01-16T13:06:55.258Z",
+  "updatedAt": "2026-01-16T18:49:19.187Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "China and Canada announce tariffs relief after a high-stakes meeting between Carney and Xi",
-      "url": "https://www.bbc.com/news/articles/cy59pvkqvl5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Canola oil and electric cars are at the centre of the deal agreed by Mark Carney and Xi Jinping after years of strained ties."
+      "title": "Exiled crown prince urges world to help protesters topple Iran's government",
+      "url": "https://www.bbc.com/news/articles/c70lx085z85o?at_medium=RSS&at_campaign=rss",
+      "summary": "Reza Pahlavi, a US-based opposition figure, called on the world to target Iran's Revolutionary Guards leadership."
     },
     {
       "source": "BBC World",
-      "title": "Venezuelan Nobel Peace Prize winner presents her medal to Trump",
-      "url": "https://www.bbc.com/news/articles/cx2w94wp4p1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump thanked Venezuelan opposition leader María Corina Machado, calling it \"a wonderful gesture of mutual respect\". "
+      "title": "'I was hit in the face by pellets': Iranians on border describe violence and more protests",
+      "url": "https://www.bbc.com/news/articles/cj3vlgrl4r2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC speaks to Iranians at the border with Iraq, as authorities continue to block the flow of information with an internet blackout."
     },
     {
       "source": "BBC World",
-      "title": "S Korea's ex-president Yoon to be jailed for five years over martial law bid",
-      "url": "https://www.bbc.com/news/articles/cy4qdpxp78po?at_medium=RSS&at_campaign=rss",
-      "summary": "This is the first of the verdicts in the four trials linked to Yoon's shock decree in 2024."
+      "title": "Machado vows to lead Venezuela 'when right time comes'",
+      "url": "https://www.bbc.com/news/articles/cz7y14ypg2qo?at_medium=RSS&at_campaign=rss",
+      "summary": "The opposition leader says she has a mandate to lead the country after the US seized its president."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "ChatGPT to carry adverts for some users",
+      "url": "https://www.bbc.com/news/articles/cvgjn012k3do?at_medium=RSS&at_campaign=rss",
+      "summary": "OpenAI is also expanding its cheaper subscription tier, ChatGPT Go, to all countries where it operates."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Mother of Elon Musk's child sues xAI over Grok deepfakes",
+      "url": "https://www.bbc.com/news/articles/cp37erw0zwwo?at_medium=RSS&at_campaign=rss",
+      "summary": "The parent company of X and Grok, xAI, launched a counter-suit saying she had violated its terms of service."
     },
     {
       "source": "BBC Technology",
@@ -26,42 +38,30 @@
       "summary": "The Conservatives want to see ban of all under-16s from social media, but the Lib Dems say that would be a \"blunt instrument\". "
     },
     {
-      "source": "BBC Technology",
-      "title": "X to stop Grok AI from undressing images of real people after backlash",
-      "url": "https://www.bbc.com/news/articles/ce8gz8g2qnlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Grok will no longer allow users to remove clothing from images of real people in jurisdictions where it is illegal."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "No 10 welcomes reports X is addressing Grok deepfakes",
-      "url": "https://www.bbc.com/news/articles/ceqz7pyd303o?at_medium=RSS&at_campaign=rss",
-      "summary": "The use of the AI tool to digitally undress women has sparked a backlash as well as intervention from the government and regulator."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Asus now claims it&#8217;s not dropping the RTX 5070 Ti amid memory shortages",
+        "#text": "Verizon-owned Visible is offering outage credits, too",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/863297/asus-pr-mess-rtx-5070-ti-end-of-life-statements-memory-shortages",
+      "url": "https://www.theverge.com/news/863554/visible-verizon-outage-credit-january-2026",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "How to fireproof a city",
+        "#text": "Ted Sarandos says Netflix will commit to 45-day theatrical releases",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/features/861950/fire-resilient-home-neighborhood",
+      "url": "https://www.theverge.com/streaming/863511/ted-sarandos-netflix-theatrical-movie-release-windows",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Casting is dead. Long live casting!",
+        "#text": "Ads are coming soon to ChatGPT, starting with shopping links",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/column/861948/casting-netflix-dead",
+      "url": "https://www.theverge.com/news/863428/openai-chatgpt-shopping-ads-test",
       "summary": "(要約準備中)"
     }
   ]
