@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "新しいシンプルなプロンプト技術が、推論を必要としないタスクでLLMの精度を最大76%向上させる",
-    "title_en": "This new, dead simple prompt technique boosts accuracy on LLMs by up to 76% on non-reasoning tasks",
-    "summary": "最近の研究によると、プロンプトを単純に繰り返すことで、言語モデルのパフォーマンスが一貫して向上することが示されました。特に直接的な回答が求められるタスクにおいて、この手法は非常に効果的で、複雑な推論を必要としない場合に最適です。エンタープライズでは、この「プロンプトの繰り返し」を戦略的に実装することで、速度やコストを維持しつつ精度を向上させる可能性があります。",
-    "summary_en": "最近の研究によると、プロンプトを単純に繰り返すことで、言語モデルのパフォーマンスが一貫して向上することが示されました。特に直接的な回答が求められるタスクにおいて、この手法は非常に効果的で、複雑な推論を必要としない場合に最適です。エンタープライズでは、この「プロンプトの繰り返し」を戦略的に実装することで、速度やコストを維持しつつ精度を向上させる可能性があります。",
-    "link": "https://venturebeat.com/orchestration/this-new-dead-simple-prompt-technique-boosts-accuracy-on-llms-by-up-to-76-on",
+    "title": "MongoDBが考える、より大きなモデルではなく、より良いデータ取得が信頼できる企業向けAIの鍵である理由",
+    "title_en": "Why MongoDB thinks better retrieval — not bigger models — is the key to trustworthy enterprise AI",
+    "summary": "MongoDBは、効率的で正確なデータ検索を実現するために新しい埋め込みモデル「Voyage 4」を発表し、異なるニーズに応じた4つのバージョンを提供しています。これにより、エンタープライズシステムにおけるデータの検索精度が向上し、AI体験の安定性が確保されることを目指しています。また、MongoDBはデータの断片化を解消するために、単一のデータプラットフォーム「Atlas」を通じてこれらのモデルを提供します。",
+    "summary_en": "MongoDBは、効率的で正確なデータ検索を実現するために新しい埋め込みモデル「Voyage 4」を発表し、異なるニーズに応じた4つのバージョンを提供しています。これにより、エンタープライズシステムにおけるデータの検索精度が向上し、AI体験の安定性が確保されることを目指しています。また、MongoDBはデータの断片化を解消するために、単一のデータプラットフォーム「Atlas」を通じてこれらのモデルを提供します。",
+    "link": "https://venturebeat.com/orchestration/why-mongodb-thinks-better-retrieval-not-bigger-models-is-the-key-to",
     "category": "AI",
-    "publishedAt": "2026-01-15 08:19"
+    "publishedAt": "2026-01-16 12:34"
   },
   {
     "source": "VentureBeat",
-    "title": "DeepSeekの条件付きメモリが静的ルックアップによるLLMの無駄を解消: 静的ルックアップに失われるGPUサイクル",
-    "title_en": "DeepSeek’s conditional memory fixes silent LLM waste: GPU cycles lost to static lookups",
-    "summary": "エンタープライズ向けの新しい「条件付きメモリ」システム、Engramは、静的パターンの取得と動的推論を分離し、計算とメモリの最適なバランスを提供します。このアプローチにより、複雑な推論性能が向上し、インフラコストを削減できる可能性があります。また、この研究は、AIシステムの設計において静的知識と動的推論の違いを尊重する重要性を示唆しています。",
-    "summary_en": "エンタープライズ向けの新しい「条件付きメモリ」システム、Engramは、静的パターンの取得と動的推論を分離し、計算とメモリの最適なバランスを提供します。このアプローチにより、複雑な推論性能が向上し、インフラコストを削減できる可能性があります。また、この研究は、AIシステムの設計において静的知識と動的推論の違いを尊重する重要性を示唆しています。",
-    "link": "https://venturebeat.com/data/deepseeks-conditional-memory-fixes-silent-llm-waste-gpu-cycles-lost-to",
+    "title": "トークンウェアハウジングでAIのメモリ壁を突破する",
+    "title_en": "Breaking through AI’s memory wall with token warehousing",
+    "summary": "最近、エージェント型AIの実運用において、GPUのメモリ不足が深刻な問題として浮上しています。十分なメモリがないため、AIシステムはコンテキストを維持できず、再計算や遅延が発生し、実質的な効率が大幅に低下しています。このメモリの制約を解消するために、企業は新しいアプローチや技術を模索しており、特にWEKAが提案するトークンウェアハウジングが注目されています。",
+    "summary_en": "最近、エージェント型AIの実運用において、GPUのメモリ不足が深刻な問題として浮上しています。十分なメモリがないため、AIシステムはコンテキストを維持できず、再計算や遅延が発生し、実質的な効率が大幅に低下しています。このメモリの制約を解消するために、企業は新しいアプローチや技術を模索しており、特にWEKAが提案するトークンウェアハウジングが注目されています。",
+    "link": "https://venturebeat.com/infrastructure/breaking-through-ais-memory-wall-with-token-warehousing",
     "category": "AI",
-    "publishedAt": "2026-01-15 08:20"
+    "publishedAt": "2026-01-16 12:34"
   },
   {
     "source": "NHK",
-    "title": "米FRB 最新の経済報告公表 経済活動に改善みられるとの判断",
+    "title": "株価 値下がり いったん利益確定へ売り注文広がる",
     "title_en": "",
-    "summary": "アメリカのFRBが最新の経済報告を公表し、経済活動に改善が見られると判断しました。個人消費では富裕層が支出を増やす一方、低所得者は価格に敏感で消費を控える傾向が強まっています。今回の報告は消費の格差を浮き彫りにしています。",
+    "summary": "東京株式市場では、最近の株価上昇に対する過熱感から利益確定の売り注文が広がりました。その影響で、日経平均株価は値下がりしています。投資家の意識が変化している状況です。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260115/k10015026541000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260116/k10015027981000.html",
     "category": "経済",
-    "publishedAt": "2026-01-15 08:20"
+    "publishedAt": "2026-01-16 12:34"
   },
   {
     "source": "BBC",
-    "title": "米国と英国、一部の要員をカタール軍事基地から撤収",
-    "title_en": "US and UK pulling some personnel from Qatar military base",
-    "summary": "米国の当局者は、これは「予防策」であると述べており、ドナルド・トランプ氏がイランに対してどのような行動を取るかを考慮している状況である。",
-    "summary_en": "米国の当局者は、これは「予防策」であると述べており、ドナルド・トランプ氏がイランに対してどのような行動を取るかを考慮している状況である。",
-    "link": "https://www.bbc.com/news/articles/c701xywwxw8o?at_medium=RSS&at_campaign=rss",
+    "title": "ベネズエラのノーベル平和賞受賞者、トランプ氏にメダルを贈呈",
+    "title_en": "Venezuelan Nobel Peace Prize winner presents her medal to Trump",
+    "summary": "トランプ氏は、ベネズエラの野党指導者マリア・コリーナ・マチャド氏に感謝の意を表し、「相互尊重の素晴らしいジェスチャー」と称賛しました。彼のコメントは、マチャド氏との関係を強調するものです。両者の交流は、現在の政治情勢において重要な意味を持っています。",
+    "summary_en": "トランプ氏は、ベネズエラの野党指導者マリア・コリーナ・マチャド氏に感謝の意を表し、「相互尊重の素晴らしいジェスチャー」と称賛しました。彼のコメントは、マチャド氏との関係を強調するものです。両者の交流は、現在の政治情勢において重要な意味を持っています。",
+    "link": "https://www.bbc.com/news/articles/cx2w94wp4p1o?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-01-15 08:20"
+    "publishedAt": "2026-01-16 12:34"
   },
   {
     "source": "NHK",
-    "title": "フランス ルーブル美術館 入館料に「二重価格」導入",
+    "title": "宇宙飛行士 油井亀美也さん乗った宇宙船 地球に帰還",
     "title_en": "",
-    "summary": "フランスのルーブル美術館は、ヨーロッパ以外からの訪問者の入館料を大幅に引き上げました。新しい「二重価格」制度により得られた収益は、美術館の近代化に使われる予定です。これにより、多くの人々が美術館を訪れることが期待されています。",
+    "summary": "国際宇宙ステーションに長期滞在していた4人の宇宙飛行士が、宇宙船で地球に帰還しました。着水地点はアメリカ西部カリフォルニア州の沖合です。油井亀美也さんを含む彼らの帰還が実現しました。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260115/k10015026501000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260115/k10015027351000.html",
     "category": "その他",
-    "publishedAt": "2026-01-15 08:20"
+    "publishedAt": "2026-01-16 12:34"
   }
 ]
