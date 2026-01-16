@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-01-16T06:50:50.587Z",
+  "updatedAt": "2026-01-16T13:06:55.258Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "China and Canada announce tariffs relief after a high-stakes meeting between Carney and Xi",
+      "url": "https://www.bbc.com/news/articles/cy59pvkqvl5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Canola oil and electric cars are at the centre of the deal agreed by Mark Carney and Xi Jinping after years of strained ties."
+    },
     {
       "source": "BBC World",
       "title": "Venezuelan Nobel Peace Prize winner presents her medal to Trump",
@@ -14,10 +20,10 @@
       "summary": "This is the first of the verdicts in the four trials linked to Yoon's shock decree in 2024."
     },
     {
-      "source": "BBC World",
-      "title": "Cuba counts cost of alliance after 32 troops killed in Venezuela",
-      "url": "https://www.bbc.com/news/articles/c0q4l3g183jo?at_medium=RSS&at_campaign=rss",
-      "summary": "The recent events in Venezuela have exposed the strategic risks of Cuba’s foreign entanglements. "
+      "source": "BBC Technology",
+      "title": "Use film-style age ratings to limit teens' social media, say Lib Dems",
+      "url": "https://www.bbc.com/news/articles/c8e5149egl2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Conservatives want to see ban of all under-16s from social media, but the Lib Dems say that would be a \"blunt instrument\". "
     },
     {
       "source": "BBC Technology",
@@ -32,10 +38,22 @@
       "summary": "The use of the AI tool to digitally undress women has sparked a backlash as well as intervention from the government and regulator."
     },
     {
-      "source": "BBC Technology",
-      "title": "Honey, I shrunk the data centres: Is small the new big?",
-      "url": "https://www.bbc.com/news/articles/cd0ynenr1eno?at_medium=RSS&at_campaign=rss",
-      "summary": "Huge data centres are being built to handle AI computing but some experts say they aren't necessary."
+      "source": "The Verge",
+      "title": {
+        "#text": "Asus now claims it&#8217;s not dropping the RTX 5070 Ti amid memory shortages",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/news/863297/asus-pr-mess-rtx-5070-ti-end-of-life-statements-memory-shortages",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "How to fireproof a city",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/features/861950/fire-resilient-home-neighborhood",
+      "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
@@ -44,24 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/column/861948/casting-netflix-dead",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Meta has discontinued its metaverse for work, too",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/tech/863209/meta-has-discontinued-its-metaverse-for-work-too",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "The best Sonos speakers to buy in 2026",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/tech/652171/best-sonos-speakers",
       "summary": "(要約準備中)"
     }
   ]
