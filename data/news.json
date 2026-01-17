@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-01-16T18:49:19.187Z",
+  "updatedAt": "2026-01-17T02:21:53.383Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Blair and Rubio among names on Gaza 'Board of Peace'",
+      "url": "https://www.bbc.com/news/articles/c07xv92vrz2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The former UK prime minister and US secretary of state will sit on the \"founding executive board\", the White House says."
+    },
     {
       "source": "BBC World",
       "title": "Exiled crown prince urges world to help protesters topple Iran's government",
@@ -9,15 +15,9 @@
     },
     {
       "source": "BBC World",
-      "title": "'I was hit in the face by pellets': Iranians on border describe violence and more protests",
-      "url": "https://www.bbc.com/news/articles/cj3vlgrl4r2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC speaks to Iranians at the border with Iraq, as authorities continue to block the flow of information with an internet blackout."
-    },
-    {
-      "source": "BBC World",
-      "title": "Machado vows to lead Venezuela 'when right time comes'",
-      "url": "https://www.bbc.com/news/articles/cz7y14ypg2qo?at_medium=RSS&at_campaign=rss",
-      "summary": "The opposition leader says she has a mandate to lead the country after the US seized its president."
+      "title": "US justice department investigating Minnesota Democrats over alleged obstruction of ICE",
+      "url": "https://www.bbc.com/news/articles/czx1wgvpr1zo?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes as fresh details emerged in the death of a Minneapolis woman shot last week by an ICE agent in the city."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Verizon-owned Visible is offering outage credits, too",
+        "#text": "The best deals on MacBooks right now",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/863554/visible-verizon-outage-credit-january-2026",
+      "url": "https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Ted Sarandos says Netflix will commit to 45-day theatrical releases",
+        "#text": "Google is appealing a judge’s search monopoly ruling",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/streaming/863511/ted-sarandos-netflix-theatrical-movie-release-windows",
+      "url": "https://www.theverge.com/news/863710/google-search-antitrust-monopoly-appeal",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Ads are coming soon to ChatGPT, starting with shopping links",
+        "#text": "Trump and Mid-Atlantic governors want tech companies to pay for new power plants",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/863428/openai-chatgpt-shopping-ads-test",
+      "url": "https://www.theverge.com/news/863620/data-centers-ai-power-auction-trump",
       "summary": "(要約準備中)"
     }
   ]
