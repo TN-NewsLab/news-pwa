@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-17T06:46:54.020Z",
+  "updatedAt": "2026-01-17T12:59:32.919Z",
   "top": [
     {
       "source": "BBC World",
@@ -40,6 +40,15 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "TCL’s PlayCube projector is more fun than a Rubik’s Cube",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/reviews/863910/tcl-playcube-portable-projector-review-battery",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "The best deals on MacBooks right now",
         "@_type": "html"
       },
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/news/863710/google-search-antitrust-monopoly-appeal",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Trump and Mid-Atlantic governors want tech companies to pay for new power plants",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/news/863620/data-centers-ai-power-auction-trump",
       "summary": "(要約準備中)"
     }
   ]
