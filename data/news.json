@@ -1,9 +1,15 @@
 {
-  "updatedAt": "2026-01-17T18:44:08.263Z",
+  "updatedAt": "2026-01-18T02:38:01.251Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Iran supreme leader admits thousands killed during recent protests",
+      "title": "Trump tariff threat over Greenland 'unacceptable', European leaders say",
+      "url": "https://www.bbc.com/news/articles/cy4qjwk9n2no?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president says several European allies opposed to his plans to buy Greenland will face 10% tariffs from February."
+    },
+    {
+      "source": "BBC World",
+      "title": "Iran supreme leader acknowledges thousands killed during recent protests",
       "url": "https://www.bbc.com/news/articles/ckglee733wno?at_medium=RSS&at_campaign=rss",
       "summary": "Ayatollah Ali Khamenei says some deaths were “inhuman” and “savage” but blames the US. "
     },
@@ -12,12 +18,6 @@
       "title": "Big names on Trump's peace panel face huge challenges in Gaza",
       "url": "https://www.bbc.com/news/articles/c07xvv9r422o?at_medium=RSS&at_campaign=rss",
       "summary": "Whatever the concerns and complexities, it remains the only plan in town, with many world leaders pledging to support it, writes John Sudworth."
-    },
-    {
-      "source": "BBC World",
-      "title": "US judge restricts ICE response to Minneapolis protesters",
-      "url": "https://www.bbc.com/news/articles/cvgprwlplqwo?at_medium=RSS&at_campaign=rss",
-      "summary": "The legal order comes ahead of planned weekend protests and counter protests in the city amid ongoing immigration enforcement actions. "
     },
     {
       "source": "BBC Technology",
@@ -40,7 +40,7 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Disney deleted a Thread because people kept quoting its movies at it",
+        "#text": "Disney deleted a Thread because people kept putting anti-fascist quotes from its movies in the replies",
         "@_type": "html"
       },
       "url": "https://www.theverge.com/news/863980/disney-deleted-anti-fascist-thread",
