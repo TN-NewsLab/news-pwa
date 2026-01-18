@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-01-18T12:59:47.173Z",
+  "updatedAt": "2026-01-18T18:43:23.490Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Trump tariff threat over Greenland 'unacceptable', European leaders say",
-      "url": "https://www.bbc.com/news/articles/cy4qjwk9n2no?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president says several European allies opposed to his plans to buy Greenland will face 10% tariffs from February."
+      "title": "Syria agrees ceasefire with Kurdish-led forces after two weeks of clashes",
+      "url": "https://www.bbc.com/news/articles/c4gwk37ewvwo?at_medium=RSS&at_campaign=rss",
+      "summary": "President Ahmed al-Sharaa said the deal would allow the Syrian state to reassert control over most areas."
+    },
+    {
+      "source": "BBC World",
+      "title": "Israel pushes back on Trump's picks for executives on Gaza 'Board of Peace'",
+      "url": "https://www.bbc.com/news/articles/cd0y453yd90o?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel says it is unhappy it was not consulted, and Palestinians have also been critical."
     },
     {
       "source": "BBC World",
       "title": "Fears Iran's internet shutdown could lead to 'extreme digital isolation'",
       "url": "https://www.bbc.com/news/articles/cg5gegrdq3go?at_medium=RSS&at_campaign=rss",
       "summary": "Internet monitor FilterWatch warns that authorities are trying to cut the country off from international connectivity."
-    },
-    {
-      "source": "BBC World",
-      "title": "Around 1,500 soldiers on standby for deployment to Minneapolis, officials say",
-      "url": "https://www.bbc.com/news/articles/c74v0pxg2nvo?at_medium=RSS&at_campaign=rss",
-      "summary": "The troops are an option should Donald Trump decide to use them to quell anti-ICE protests in the city, an official tells CBS News."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Disney deleted a Thread because people kept putting anti-fascist quotes from its movies in the replies",
+        "#text": "Microsoft’s first Windows 11 update of 2026 stopped some computers from shutting down",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/863980/disney-deleted-anti-fascist-thread",
+      "url": "https://www.theverge.com/news/864032/microsofts-out-of-band-windows-11-update-bug",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The Setapp Mobile iOS store is shutting down on February 16th",
+        "#text": "Here are the 10 deals worth grabbing from Best Buy’s winter sales event",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/863978/setapp-mobile-ios-store-shutdown",
+      "url": "https://www.theverge.com/gadgets/863660/best-buy-winter-sale-2026-oled-tvs-headphones-fitness-trackers-deal-sale",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The LG C5 and Apple’s M4 Mac Mini are both steeply discounted this weekend",
+        "#text": "Kaoss Pad V is the first major upgrade to Korg’s touch-based effects in 13 years",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/863503/apple-mac-mini-m4-lg-c5-oled-tv-deal-sale",
+      "url": "https://www.theverge.com/news/864003/korg-kaoss-pad-v-namm",
       "summary": "(要約準備中)"
     }
   ]
