@@ -1,11 +1,17 @@
 {
-  "updatedAt": "2026-01-19T06:57:49.855Z",
+  "updatedAt": "2026-01-19T13:12:07.956Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "High-speed train collision in Spain kills at least 21",
+      "title": "High-speed train crash in Spain kills at least 39",
       "url": "https://www.bbc.com/news/articles/cedw6ylpynyo?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 400 passengers were on board the trains that derailed near the city of Córdoba in Spain's worst rail crash in more than a decade. "
+      "summary": "More than 400 passengers were on board the trains that derailed near the city of Córdoba, in Spain's worst rail crash in more than a decade. "
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: Spain train crash survivors describe 'absolutely terrifying' scene",
+      "url": "https://www.bbc.com/news/videos/c23r1rx5vp7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Passengers recount the moment two trains collided between Málaga and Madrid on Sunday evening."
     },
     {
       "source": "BBC World",
@@ -14,10 +20,16 @@
       "summary": "António Guterres says Washington's \"clear conviction\" is that multilateral solutions are irrelevant."
     },
     {
-      "source": "BBC World",
-      "title": "'Europe won't be blackmailed,' Danish PM says in wake of Trump Greenland threats",
-      "url": "https://www.bbc.com/news/articles/ceqz0llpnyqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump says he will impose new taxes on eight US allies in February if they oppose his proposed takeover of the autonomous Danish territory."
+      "source": "BBC Technology",
+      "title": "How crypto criminals stole $700 million from people - often using age-old tricks",
+      "url": "https://www.bbc.com/news/articles/c93w30gl5jno?at_medium=RSS&at_campaign=rss",
+      "summary": "As crypto wealth continues to grow, criminals are mixing sophisticated hacks with deception, and in some cases, real life violence."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Google appeals landmark antitrust verdict over search monopoly",
+      "url": "https://www.bbc.com/news/articles/clyn0ek5rdpo?at_medium=RSS&at_campaign=rss",
+      "summary": "The tech giant is seeking a pause on court-ordered fixes aimed at limiting its monopoly power."
     },
     {
       "source": "BBC Technology",
@@ -26,16 +38,13 @@
       "summary": "OpenAI is also expanding its cheaper subscription tier, ChatGPT Go, to all countries where it operates."
     },
     {
-      "source": "BBC Technology",
-      "title": "Mother of Elon Musk's child sues xAI over Grok deepfakes",
-      "url": "https://www.bbc.com/news/articles/cp37erw0zwwo?at_medium=RSS&at_campaign=rss",
-      "summary": "The parent company of X and Grok, xAI, launched a counter-suit saying she had violated its terms of service."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Use film-style age ratings to limit teens' social media, say Lib Dems",
-      "url": "https://www.bbc.com/news/articles/c8e5149egl2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Conservatives want to see ban of all under-16s from social media, but the Lib Dems say that would be a \"blunt instrument\". "
+      "source": "The Verge",
+      "title": {
+        "#text": "Threads overtakes X on mobile, but still lags far behind",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/news/864099/threads-overtakes-x-daily-mobile-ios-android-users",
+      "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/news/864032/microsofts-out-of-band-windows-11-update-bug",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Here are the 10 deals worth grabbing from Best Buy’s winter sales event",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/gadgets/863660/best-buy-winter-sale-2026-oled-tvs-headphones-fitness-trackers-deal-sale",
       "summary": "(要約準備中)"
     }
   ]
