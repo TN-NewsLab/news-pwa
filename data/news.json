@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-01-19T18:49:20.365Z",
+  "updatedAt": "2026-01-20T02:29:50.350Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Trump ties Greenland demands to Nobel Prize in message to Norway leader",
-      "url": "https://www.bbc.com/news/articles/cy7mev35x2lo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president says he no longer feels obliged to think only of peace, after not being awarded the annual prize."
+      "title": "Trump says he will '100%' carry out Greenland tariffs threat, as EU vows to protect its interests",
+      "url": "https://www.bbc.com/news/articles/c4g5345ylk0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Kaja Kallas, the EU's foreign policy chief, said the bloc has \"no interest to pick a fight, but we will hold our ground\"."
     },
     {
       "source": "BBC World",
@@ -21,6 +21,12 @@
     },
     {
       "source": "BBC Technology",
+      "title": "UK to consult on social media ban for under 16s",
+      "url": "https://www.bbc.com/news/articles/cgm4xpyxp7lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The government said it expected schools to be \"phone-free by default\" as a result of the announcement."
+    },
+    {
+      "source": "BBC Technology",
       "title": "How crypto criminals stole $700 million from people - often using age-old tricks",
       "url": "https://www.bbc.com/news/articles/c93w30gl5jno?at_medium=RSS&at_campaign=rss",
       "summary": "As crypto wealth continues to grow, criminals are mixing sophisticated hacks with deception, and in some cases, real life violence."
@@ -32,36 +38,30 @@
       "summary": "The tech giant is seeking a pause on court-ordered fixes aimed at limiting its monopoly power."
     },
     {
-      "source": "BBC Technology",
-      "title": "ChatGPT to carry adverts for some users",
-      "url": "https://www.bbc.com/news/articles/cvgjn012k3do?at_medium=RSS&at_campaign=rss",
-      "summary": "OpenAI is also expanding its cheaper subscription tier, ChatGPT Go, to all countries where it operates."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Bungie’s Marathon shooter launches on March 5th",
+        "#text": "OpenAI’s 2026 ‘focus’ is ‘practical adoption’",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/864146/bungie-marathon-release-date-march-5th-price",
+      "url": "https://www.theverge.com/news/864229/openai-focus-practical-adoption-sarah-friar",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Gamers love AI in game dev — they just don&#8217;t know it yet, says Razer&#8217;s CEO",
+        "#text": "How much can a city take?",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/podcast/863361/razer-ceo-min-liang-tan-ces-2026-ai-gaming-project-ava-interview",
+      "url": "https://www.theverge.com/policy/864195/minneapolis-ice-invasion-organizing-immigration",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "This 5-foot lamp is a supersized tribute to the world’s most iconic pen",
+        "#text": "A second US Sphere could come to Maryland",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/864127/seletti-bic-ballpoint-pen-pendant-lamp-maison-objet",
+      "url": "https://www.theverge.com/tech/864192/sphere-entertainment-mini-venue-maryland-national-harbor",
       "summary": "(要約準備中)"
     }
   ]
