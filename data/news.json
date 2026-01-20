@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-01-20T13:13:06.290Z",
+  "updatedAt": "2026-01-20T19:13:19.584Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Trump says he will '100%' carry out Greenland tariffs threat, as EU vows to protect its interests",
-      "url": "https://www.bbc.com/news/articles/c4g5345ylk0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Kaja Kallas, the EU's foreign policy chief, said the bloc has \"no interest to pick a fight, but we will hold our ground\"."
+      "title": "UK defends Chagos deal after Trump calls it 'act of great stupidity'",
+      "url": "https://www.bbc.com/news/articles/c0mkp021rvro?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president says it is \"another in a very long line of National Security reasons why Greenland has to be acquired\"."
     },
     {
       "source": "BBC World",
-      "title": "Confronted over Greenland, Europe is ditching its softly-softly approach to Trump",
-      "url": "https://www.bbc.com/news/articles/c0lx7j1lrwro?at_medium=RSS&at_campaign=rss",
-      "summary": "Transatlantic relations aren't broken, though they are damaged. And if Europeans want to try to cut through with Trump, they'll have to stick together, writes Europe Editor Katya Adler"
+      "title": "Europe to suspend approval of US tariffs deal",
+      "url": "https://www.bbc.com/news/articles/c4gwp2me3gzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The move follows renewed tensions between the US and EU, as Donald Trump pushes to acquire Greenland. "
     },
     {
       "source": "BBC World",
-      "title": "Ros Atkins on...President Trump's year in numbers",
-      "url": "https://www.bbc.com/news/videos/cvgpr95npplo?at_medium=RSS&at_campaign=rss",
-      "summary": "Executive orders, pardons, trips and Truth Social posts - the BBC’s Analysis Editor breaks down Donald Trump’s first year back in office, in numbers."
+      "title": "Shock and confusion as Spain struggles for answers after deadly train crash",
+      "url": "https://www.bbc.com/news/articles/crle9k2gw6jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Investigators remain baffled by the cause of Sunday's deadly crash in the south of the country."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Netflix revises Warner Bros. bid to an all-cash offer",
+        "#text": "Samsung’s discounted microSD Express card more than doubles your Switch 2 storage",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/863318/netflix-warner-bros-discovery-merger-revision-cash-deal",
+      "url": "https://www.theverge.com/gadgets/864404/samsung-p9-microsd-express-card-deal-sale",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Spotify is testing a feature that syncs audiobooks with paper editions",
+        "#text": "Life is Strange will bring the Max and Chloe story to an end in new game",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/864296/spotify-page-match-audiobook-testing-feature",
+      "url": "https://www.theverge.com/games/864438/life-is-strange-reunion-release-date-max-chloe",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Microsoft’s free Xbox Cloud Gaming is coming soon with ads",
+        "#text": "The best iPad deals you can get right now",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/864261/xbox-cloud-gaming-free-ads-testing",
+      "url": "https://www.theverge.com/21280354/best-ipad-deals-apple",
       "summary": "(要約準備中)"
     }
   ]
