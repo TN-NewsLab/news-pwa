@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-20T06:55:54.807Z",
+  "updatedAt": "2026-01-20T13:13:06.290Z",
   "top": [
     {
       "source": "BBC World",
@@ -15,13 +15,13 @@
     },
     {
       "source": "BBC World",
-      "title": "Spain to hold three days of mourning for victims of high-speed train crash",
-      "url": "https://www.bbc.com/news/articles/c2d7rk0865go?at_medium=RSS&at_campaign=rss",
-      "summary": "At least 40 people died in Sunday's collision in  southern Spain, the worst crash the country has seen in more than a decade."
+      "title": "Ros Atkins on...President Trump's year in numbers",
+      "url": "https://www.bbc.com/news/videos/cvgpr95npplo?at_medium=RSS&at_campaign=rss",
+      "summary": "Executive orders, pardons, trips and Truth Social posts - the BBC’s Analysis Editor breaks down Donald Trump’s first year back in office, in numbers."
     },
     {
       "source": "BBC Technology",
-      "title": "UK to consult on social media ban for under 16s",
+      "title": "UK consulting on bringing in social media ban for under 16s",
       "url": "https://www.bbc.com/news/articles/cgm4xpyxp7lo?at_medium=RSS&at_campaign=rss",
       "summary": "The government said it expected schools to be \"phone-free by default\" as a result of the announcement."
     },
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "OpenAI’s 2026 ‘focus’ is ‘practical adoption’",
+        "#text": "Netflix revises Warner Bros. bid to an all-cash offer",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/864229/openai-focus-practical-adoption-sarah-friar",
+      "url": "https://www.theverge.com/news/863318/netflix-warner-bros-discovery-merger-revision-cash-deal",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "How much can a city take?",
+        "#text": "Spotify is testing a feature that syncs audiobooks with paper editions",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/864195/minneapolis-ice-invasion-organizing-immigration",
+      "url": "https://www.theverge.com/news/864296/spotify-page-match-audiobook-testing-feature",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "A second US Sphere could come to Maryland",
+        "#text": "Microsoft’s free Xbox Cloud Gaming is coming soon with ads",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/864192/sphere-entertainment-mini-venue-maryland-national-harbor",
+      "url": "https://www.theverge.com/news/864261/xbox-cloud-gaming-free-ads-testing",
       "summary": "(要約準備中)"
     }
   ]
