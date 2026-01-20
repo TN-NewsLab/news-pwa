@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2026-01-19T18:49:20.365Z",
+  "updatedAt": "2026-01-20T06:55:54.807Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Trump ties Greenland demands to Nobel Prize in message to Norway leader",
-      "url": "https://www.bbc.com/news/articles/cy7mev35x2lo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president says he no longer feels obliged to think only of peace, after not being awarded the annual prize."
+      "title": "Trump says he will '100%' carry out Greenland tariffs threat, as EU vows to protect its interests",
+      "url": "https://www.bbc.com/news/articles/c4g5345ylk0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Kaja Kallas, the EU's foreign policy chief, said the bloc has \"no interest to pick a fight, but we will hold our ground\"."
     },
     {
       "source": "BBC World",
-      "title": "'Europe is at a total loss': Russia gloats over Greenland tensions",
-      "url": "https://www.bbc.com/news/articles/c17zpvkddpzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Russia editor Steve Rosenberg analyses why pro-Russian government papers are full of praise for Donald Trump's desire to buy Greenland."
+      "title": "Confronted over Greenland, Europe is ditching its softly-softly approach to Trump",
+      "url": "https://www.bbc.com/news/articles/c0lx7j1lrwro?at_medium=RSS&at_campaign=rss",
+      "summary": "Transatlantic relations aren't broken, though they are damaged. And if Europeans want to try to cut through with Trump, they'll have to stick together, writes Europe Editor Katya Adler"
     },
     {
       "source": "BBC World",
-      "title": "Italian fashion designer Valentino dies aged 93",
-      "url": "https://www.bbc.com/news/articles/cdx4rpxxvg7o?at_medium=RSS&at_campaign=rss",
-      "summary": "One of the giants of 20th century fashion, his creations were worn by celebrities including Elizabeth Taylor, Julia Roberts and Gwyneth Paltrow."
+      "title": "Spain to hold three days of mourning for victims of high-speed train crash",
+      "url": "https://www.bbc.com/news/articles/c2d7rk0865go?at_medium=RSS&at_campaign=rss",
+      "summary": "At least 40 people died in Sunday's collision in  southern Spain, the worst crash the country has seen in more than a decade."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "UK to consult on social media ban for under 16s",
+      "url": "https://www.bbc.com/news/articles/cgm4xpyxp7lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The government said it expected schools to be \"phone-free by default\" as a result of the announcement."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "The tech giant is seeking a pause on court-ordered fixes aimed at limiting its monopoly power."
     },
     {
-      "source": "BBC Technology",
-      "title": "ChatGPT to carry adverts for some users",
-      "url": "https://www.bbc.com/news/articles/cvgjn012k3do?at_medium=RSS&at_campaign=rss",
-      "summary": "OpenAI is also expanding its cheaper subscription tier, ChatGPT Go, to all countries where it operates."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Bungie’s Marathon shooter launches on March 5th",
+        "#text": "OpenAI’s 2026 ‘focus’ is ‘practical adoption’",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/864146/bungie-marathon-release-date-march-5th-price",
+      "url": "https://www.theverge.com/news/864229/openai-focus-practical-adoption-sarah-friar",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Gamers love AI in game dev — they just don&#8217;t know it yet, says Razer&#8217;s CEO",
+        "#text": "How much can a city take?",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/podcast/863361/razer-ceo-min-liang-tan-ces-2026-ai-gaming-project-ava-interview",
+      "url": "https://www.theverge.com/policy/864195/minneapolis-ice-invasion-organizing-immigration",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "This 5-foot lamp is a supersized tribute to the world’s most iconic pen",
+        "#text": "A second US Sphere could come to Maryland",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/864127/seletti-bic-ballpoint-pen-pendant-lamp-maison-objet",
+      "url": "https://www.theverge.com/tech/864192/sphere-entertainment-mini-venue-maryland-national-harbor",
       "summary": "(要約準備中)"
     }
   ]
