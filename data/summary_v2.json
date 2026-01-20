@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "MongoDBが考える、より大きなモデルではなく、より良いデータ取得が信頼できる企業向けAIの鍵である理由",
-    "title_en": "Why MongoDB thinks better retrieval — not bigger models — is the key to trustworthy enterprise AI",
-    "summary": "MongoDBは、効率的で正確なデータ検索を実現するために新しい埋め込みモデル「Voyage 4」を発表し、異なるニーズに応じた4つのバージョンを提供しています。これにより、エンタープライズシステムにおけるデータの検索精度が向上し、AI体験の安定性が確保されることを目指しています。また、MongoDBはデータの断片化を解消するために、単一のデータプラットフォーム「Atlas」を通じてこれらのモデルを提供します。",
-    "summary_en": "MongoDBは、効率的で正確なデータ検索を実現するために新しい埋め込みモデル「Voyage 4」を発表し、異なるニーズに応じた4つのバージョンを提供しています。これにより、エンタープライズシステムにおけるデータの検索精度が向上し、AI体験の安定性が確保されることを目指しています。また、MongoDBはデータの断片化を解消するために、単一のデータプラットフォーム「Atlas」を通じてこれらのモデルを提供します。",
-    "link": "https://venturebeat.com/orchestration/why-mongodb-thinks-better-retrieval-not-bigger-models-is-the-key-to",
+    "title": "「AIバブル」と呼ぶのはやめよう：実際には異なる期限を持つ複数のバブルが存在する",
+    "title_en": "Stop calling it 'The AI bubble': It's actually multiple bubbles, each with a different expiration date",
+    "summary": "現在のAIブームは、単一のバブルではなく、異なる特性とタイムラインを持つ複数のバブルが存在する。最も脆弱なのはAIを再パッケージする企業であり、それに続いて基盤モデルを開発する企業が統合の波を迎える。一方で、インフラ層は長期的に価値が保持される可能性が高く、AIの将来のアプリケーションを支える基盤となるだろう。",
+    "summary_en": "現在のAIブームは、単一のバブルではなく、異なる特性とタイムラインを持つ複数のバブルが存在する。最も脆弱なのはAIを再パッケージする企業であり、それに続いて基盤モデルを開発する企業が consolidation の波を迎える。一方で、インフラ層は長期的に価値が保持される可能性が高く、AIの将来のアプリケーションを支える基盤となるだろう。",
+    "link": "https://venturebeat.com/infrastructure/stop-calling-it-the-ai-bubble-its-actually-multiple-bubbles-each-with-a",
     "category": "AI",
-    "publishedAt": "2026-01-16 12:34"
+    "publishedAt": "2026-01-20 10:42"
   },
   {
     "source": "VentureBeat",
-    "title": "トークンウェアハウジングでAIのメモリ壁を突破する",
-    "title_en": "Breaking through AI’s memory wall with token warehousing",
-    "summary": "最近、エージェント型AIの実運用において、GPUのメモリ不足が深刻な問題として浮上しています。十分なメモリがないため、AIシステムはコンテキストを維持できず、再計算や遅延が発生し、実質的な効率が大幅に低下しています。このメモリの制約を解消するために、企業は新しいアプローチや技術を模索しており、特にWEKAが提案するトークンウェアハウジングが注目されています。",
-    "summary_en": "最近、エージェント型AIの実運用において、GPUのメモリ不足が深刻な問題として浮上しています。十分なメモリがないため、AIシステムはコンテキストを維持できず、再計算や遅延が発生し、実質的な効率が大幅に低下しています。このメモリの制約を解消するために、企業は新しいアプローチや技術を模索しており、特にWEKAが提案するトークンウェアハウジングが注目されています。",
-    "link": "https://venturebeat.com/infrastructure/breaking-through-ais-memory-wall-with-token-warehousing",
+    "title": "強化学習が表現の深さなしに停滞する理由（およびNeurIPS 2025からのその他の重要な取り組み）",
+    "title_en": "Why reinforcement learning plateaus without representation depth (and other key takeaways from NeurIPS 2025)",
+    "summary": "今年のNeurIPSで発表された重要な論文は、AIの進展がもはやモデルの容量ではなく、アーキテクチャやトレーニング戦略に制約されていることを示しています。特に、モデルの多様性を測る新しい評価指標や、強化学習の特性に関する重要な知見が得られました。全体として、AIの競争力は「どれだけ大きなモデルを持っているか」から「システムを理解しているか」にシフトしています。",
+    "summary_en": "今年のNeurIPSで発表された重要な論文は、AIの進展がもはやモデルの容量ではなく、アーキテクチャやトレーニング戦略に制約されていることを示しています。特に、モデルの多様性を測る新しい評価指標や、強化学習の特性に関する重要な知見が得られました。全体として、AIの競争力は「どれだけ大きなモデルを持っているか」から「システムを理解しているか」にシフトしています。",
+    "link": "https://venturebeat.com/orchestration/why-reinforcement-learning-plateaus-without-representation-depth-and-other",
     "category": "AI",
-    "publishedAt": "2026-01-16 12:34"
+    "publishedAt": "2026-01-20 10:42"
   },
   {
     "source": "NHK",
-    "title": "株価 値下がり いったん利益確定へ売り注文広がる",
+    "title": "去年の訪日外国人客 初の4000万人超に 国土交通省",
     "title_en": "",
-    "summary": "東京株式市場では、最近の株価上昇に対する過熱感から利益確定の売り注文が広がりました。その影響で、日経平均株価は値下がりしています。投資家の意識が変化している状況です。",
+    "summary": "金子国土交通大臣は、最近の会見で、昨年の外国人旅行者が初めて4000万人を超えたと報告しました。これは円安などが影響し、過去最高だったおととしの数字を上回った結果です。訪問者数は約4270万人に達しました。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260116/k10015027981000.html",
-    "category": "経済",
-    "publishedAt": "2026-01-16 12:34"
+    "link": "http://www3.nhk.or.jp/news/html/20260120/k10015030541000.html",
+    "category": "その他",
+    "publishedAt": "2026-01-20 10:42"
   },
   {
     "source": "BBC",
-    "title": "ベネズエラのノーベル平和賞受賞者、トランプ氏にメダルを贈呈",
-    "title_en": "Venezuelan Nobel Peace Prize winner presents her medal to Trump",
-    "summary": "トランプ氏は、ベネズエラの野党指導者マリア・コリーナ・マチャド氏に感謝の意を表し、「相互尊重の素晴らしいジェスチャー」と称賛しました。彼のコメントは、マチャド氏との関係を強調するものです。両者の交流は、現在の政治情勢において重要な意味を持っています。",
-    "summary_en": "トランプ氏は、ベネズエラの野党指導者マリア・コリーナ・マチャド氏に感謝の意を表し、「相互尊重の素晴らしいジェスチャー」と称賛しました。彼のコメントは、マチャド氏との関係を強調するものです。両者の交流は、現在の政治情勢において重要な意味を持っています。",
-    "link": "https://www.bbc.com/news/articles/cx2w94wp4p1o?at_medium=RSS&at_campaign=rss",
+    "title": "トランプ氏、グリーンランドに対する関税の脅しを「100%」実行すると発言、EUは自身の利益を守る意向を表明",
+    "title_en": "Trump says he will '100%' carry out Greenland tariffs threat, as EU vows to protect its interests",
+    "summary": "EUの外交政策責任者であるカジャ・カラスは、対立を望んでいないものの、EUの立場を守る意向を示しました。彼女は、緊張状態においても一貫した姿勢を維持することの重要性を強調しました。EUは挑発には乗らないものの、基本的な原則を守るとしています。",
+    "summary_en": "EUの外交政策責任者であるカジャ・カラスは、対立を望んでいないものの自らの立場を守る意向を示しました。彼女は、EUが緊張の中でも一貫した姿勢を維持することの重要性を強調しました。ブロックは挑発には乗らないものの、基本的な原則を守るとしています。",
+    "link": "https://www.bbc.com/news/articles/c4g5345ylk0o?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-01-16 12:34"
+    "publishedAt": "2026-01-20 10:42"
   },
   {
     "source": "NHK",
-    "title": "宇宙飛行士 油井亀美也さん乗った宇宙船 地球に帰還",
+    "title": "玄海原発 設置許可取り消し・運転停止求める控訴審 きょう判決",
     "title_en": "",
-    "summary": "国際宇宙ステーションに長期滞在していた4人の宇宙飛行士が、宇宙船で地球に帰還しました。着水地点はアメリカ西部カリフォルニア州の沖合です。油井亀美也さんを含む彼らの帰還が実現しました。",
+    "summary": "玄海原子力発電所の3号機と4号機について、住民グループが運転停止を求める裁判が行われます。主要な争点は地震や火山噴火に対する安全性です。裁判所の判決が注目されています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260115/k10015027351000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260120/k10015030411000.html",
     "category": "その他",
-    "publishedAt": "2026-01-16 12:34"
+    "publishedAt": "2026-01-20 10:42"
   }
 ]
