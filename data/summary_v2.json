@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "「AIバブル」と呼ぶのをやめよう: 実際には異なる満期を持つ複数のバブルが存在する",
-    "title_en": "Stop calling it 'The AI bubble': It's actually multiple bubbles, each with a different expiration date",
-    "summary": "AIの現状に関する議論では、単一のバブルではなく、複数の層が異なる特性を持つことが強調されています。最も脆弱なのはAIの再パッケージングを行う企業で、機能の吸収や競争の激化に直面して苦境に立たされる可能性があります。対照的に、基盤モデルを持つ企業は防御力を持ちつつも増加する競争にさらされ、インフラ層は長期的に価値を保つと予測されています。",
-    "summary_en": "AIの現状に関する議論では、単一のバブルではなく、複数の層が異なる特性を持つことが強調されています。最も脆弱なのはAIの再パッケージングを行う企業で、機能の吸収や競争の激化に直面して苦境に立たされる可能性があります。対照的に、基盤モデルを持つ企業は防御力を持ちつつも増加する競争にさらされ、インフラ層は長期的に価値を保つと予測されています。",
-    "link": "https://venturebeat.com/infrastructure/stop-calling-it-the-ai-bubble-its-actually-multiple-bubbles-each-with-a",
+    "title": "MITの新しい再帰的フレームワークがLLMにコンテキストロットなしで1000万トークンを処理させる",
+    "title_en": "MIT’s new ‘recursive’ framework lets LLMs process 10 million tokens without context rot",
+    "summary": "MIT CSAILの研究者が開発した再帰言語モデル（RLM）は、長いプロンプトを外部環境と見なし、モデルがプログラム的にテキストの断片を調べ、再帰的に呼び出すことを可能にします。このフレームワークは、モデルのコンテキストウィンドウを拡大することなく、数百万トークンを扱う長期タスクに適した手法を提供します。RLMは既存のモデルのラッパーとして機能し、エンタープライズアプリケーションにおいて実用的なソリューションを提供します。",
+    "summary_en": "MIT CSAILの研究者が開発した再帰言語モデル（RLM）は、長いプロンプトを外部環境と見なし、モデルがプログラム的にテキストの断片を調べ、再帰的に呼び出すことを可能にします。このフレームワークは、モデルのコンテキストウィンドウを拡大することなく、数百万トークンを扱う長期タスクに適した手法を提供します。RLMは既存のモデルのラッパーとして機能し、エンタープライズアプリケーションにおいて実用的なソリューションを提供します。",
+    "link": "https://venturebeat.com/orchestration/mits-new-recursive-framework-lets-llms-process-10-million-tokens-without",
     "category": "AI",
-    "publishedAt": "2026-01-20 16:23"
+    "publishedAt": "2026-01-21 12:39"
   },
   {
     "source": "VentureBeat",
-    "title": "表現の深さがないと強化学習がプラトーになる理由（NeurIPS 2025からの他の重要なポイント）",
-    "title_en": "Why reinforcement learning plateaus without representation depth (and other key takeaways from NeurIPS 2025)",
-    "summary": "最近のNeurIPSでは、AIの進歩が単にモデルのサイズに依存せず、アーキテクチャやトレーニング戦略が重要であることが示されました。特に、創造的な出力に携わる製品では多様性の評価が必要であり、強化学習は思考能力を新たに創出するのではなく、既存の能力を最適化することが明らかになっています。全体として、AIシステムの設計が重要なボトルネックとなっていることが強調されています。",
-    "summary_en": "最近のNeurIPSでは、AIの進歩が単にモデルのサイズに依存せず、アーキテクチャやトレーニング戦略が重要であることが示されました。特に、創造的な出力に携わる製品では多様性の評価が必要であり、強化学習は思考能力を新たに創出するのではなく、既存の能力を最適化することが明らかになっています。全体として、AIシステムの設計が重要なボトルネックとなっていることが強調されています。",
-    "link": "https://venturebeat.com/orchestration/why-reinforcement-learning-plateaus-without-representation-depth-and-other",
+    "title": "Claude Codeは月額最大200ドル、Gooseは無料で同じ機能を提供",
+    "title_en": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+    "summary": "最近、Anthropicの高額なAIコーディングツール「Claude Code」に対する不満が高まる中、オープンソースの無料AIエージェント「Goose」が注目を集めています。Gooseはユーザーのローカルマシンで動作し、サブスクリプション料金や使用制限がなく、開発者にデータの完全なコントロールを提供します。この新しいツールは、コストやプライバシーを重視する開発者にとって魅力的な代替手段となるでしょう。",
+    "summary_en": "最近、Anthropicの高額なAIコーディングツール「Claude Code」に対する不満が高まる中、オープンソースの無料AIエージェント「Goose」が注目を集めています。Gooseはユーザーのローカルマシンで動作し、サブスクリプション料金や使用制限がなく、開発者にデータの完全なコントロールを提供します。この新しいツールは、コストやプライバシーを重視する開発者にとって魅力的な代替手段となるでしょう。",
+    "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
     "category": "AI",
-    "publishedAt": "2026-01-20 16:23"
+    "publishedAt": "2026-01-21 12:39"
   },
   {
     "source": "NHK",
-    "title": "株価 値下がり 欧米対立激化の見方から多くの銘柄に売り注文",
+    "title": "米ネットフリックス ワーナー株式 すべて現金で買い取ると発表",
     "title_en": "",
-    "summary": "東京株式市場では、グリーンランドを巡るアメリカとヨーロッパの対立の懸念から、多くの銘柄に売り注文が殺到しました。この影響で日経平均株価は値下がりしました。市場の不安定な状況が反映されています。",
+    "summary": "ネットフリックスはワーナー・ブラザース・ディスカバリーを現金で完全買収する提案を修正しました。これはパラマウント・スカイダンスとの競争に対抗するためです。両社の間で買収争奪戦が激化しています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260120/k10015030651000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260121/k10015031761000.html",
     "category": "経済",
-    "publishedAt": "2026-01-20 16:23"
+    "publishedAt": "2026-01-21 12:39"
   },
   {
     "source": "BBC",
-    "title": "トランプ氏、グリーンランドへの関税脅迫を「100%」実行すると表明、EUは自らの利益を守ると誓う",
-    "title_en": "Trump says he will '100%' carry out Greenland tariffs threat, as EU vows to protect its interests",
-    "summary": "EUの外交政策責任者カシャ・カラス氏は、対立を望まないが強い立場を維持すると述べた。EUとしての姿勢を明確にし、譲歩する意向はないことを示している。これは国際関係におけるEUの戦略を反映している。",
-    "summary_en": "EUの外交政策責任者カシャ・カラス氏は、対立を望んでいないものの、強い立場を維持すると述べた。ブロックとしての姿勢を明確にし、譲歩する意向はないことを示している。これは国際関係におけるEUの戦略を反映している。",
-    "link": "https://www.bbc.com/news/articles/c4g5345ylk0o?at_medium=RSS&at_campaign=rss",
+    "title": "ライス・ドゥセック：トランプは第二次世界大戦以来、世界秩序を揺るがしている",
+    "title_en": "Lyse Doucet: Trump is shaking the world order more than any president since WW2",
+    "summary": "トランプのグリーンランドに関する要求は、危険な局面での厳しい目覚めを示しています。これにより、国際関係における緊張が高まる可能性があります。特に地政学的な影響が懸念されています。",
+    "summary_en": "トランプのグリーンランドに関する要求は、危険な局面での厳しい目覚めを示しています。これにより、国際関係における緊張が高まる可能性があります。特に地政学的な影響が懸念されています。",
+    "link": "https://www.bbc.com/news/articles/cx2lej7d52po?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-01-20 16:23"
+    "publishedAt": "2026-01-21 12:39"
   },
   {
     "source": "NHK",
-    "title": "玄海原発 設置許可取り消し・運転停止求める控訴審 きょう判決",
+    "title": "柏崎刈羽原発6号機 午後再稼働へ 東電の原発としては事故後初",
     "title_en": "",
-    "summary": "佐賀県の玄海原子力発電所の3号機と4号機について、住民グループが設置許可の取り消しと運転停止を求める裁判が行われます。安全性が争点となっており、福岡高等裁判所で判決が下される予定です。裁判所の判断が広く注目されています。",
+    "summary": "新潟県の柏崎刈羽原子力発電所6号機が再稼働の準備を整えたと東京電力が説明しました。再稼働の方針は21日午後に発表されました。これは、福島第一原発事故以降、東京電力の原発として初めての再稼働となります。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260120/k10015030411000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260121/k10015031721000.html",
     "category": "その他",
-    "publishedAt": "2026-01-20 16:24"
+    "publishedAt": "2026-01-21 12:39"
   }
 ]
