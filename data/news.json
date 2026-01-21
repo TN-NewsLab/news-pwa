@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-01-21T02:31:53.105Z",
+  "updatedAt": "2026-01-21T06:55:59.384Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Trump doubles down on Greenland ahead of Davos visit, saying there is 'no going back'",
+      "url": "https://www.bbc.com/news/articles/cvgr19m642zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump was due to arrive at the World Economic Forum on Wednesday, but a minor electrical issue on Air Force One has forced his plane to turn around."
+    },
     {
       "source": "BBC World",
       "title": "Lyse Doucet: Trump is shaking the world order more than any president since WW2",
@@ -9,15 +15,9 @@
     },
     {
       "source": "BBC World",
-      "title": "Driver killed in Spain train crash days after high-speed collision",
+      "title": "Driver killed in second deadly Spain train crash in days",
       "url": "https://www.bbc.com/news/articles/c1m78xl0gmpo?at_medium=RSS&at_campaign=rss",
       "summary": "At least 37 people have been injured, five seriously, in a second crash, after Sunday's two-train collision in Andalusia. "
-    },
-    {
-      "source": "BBC World",
-      "title": "UK defends Chagos deal after Trump calls it 'act of great stupidity'",
-      "url": "https://www.bbc.com/news/articles/c0mkp021rvro?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president says it is \"another in a very long line of National Security reasons why Greenland has to be acquired\"."
     },
     {
       "source": "BBC Technology",
@@ -40,6 +40,15 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "One year in, Big Tech has out-maneuvered MAGA populists",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/column/864759/big-tech-trump-one-year-in",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "The best AirPods to buy",
         "@_type": "html"
       },
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/news/864451/netflix-advertising-revenue-doubled-q4-2025-earnings",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Trump admin admits DOGE employees had access to off-limits Social Security data",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/news/864643/doge-social-security-data-misuse",
       "summary": "(要約準備中)"
     }
   ]
