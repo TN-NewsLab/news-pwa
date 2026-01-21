@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-01-21T06:55:59.384Z",
+  "updatedAt": "2026-01-21T13:12:18.513Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Trump doubles down on Greenland ahead of Davos visit, saying there is 'no going back'",
-      "url": "https://www.bbc.com/news/articles/cvgr19m642zo?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump was due to arrive at the World Economic Forum on Wednesday, but a minor electrical issue on Air Force One has forced his plane to turn around."
+      "title": "Could US Congress stop Trump from taking over Greenland?",
+      "url": "https://www.bbc.com/news/articles/c701rvrpjwko?at_medium=RSS&at_campaign=rss",
+      "summary": "Some of the president's fellow Republicans oppose him - but it's not clear if they would join Democrats to block a takeover of the island."
     },
     {
       "source": "BBC World",
-      "title": "Lyse Doucet: Trump is shaking the world order more than any president since WW2",
-      "url": "https://www.bbc.com/news/articles/cx2lej7d52po?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump's demands over Greenland are a rude awakening in a moment fraught with risk."
+      "title": "Israeli PM Netanyahu agrees to join Trump's Board of Peace",
+      "url": "https://www.bbc.com/news/articles/cn8jek4vv8ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel is the latest country to publicly accept an invitation to a new international organisation that many fear may be designed to supplant the UN."
     },
     {
       "source": "BBC World",
-      "title": "Driver killed in second deadly Spain train crash in days",
-      "url": "https://www.bbc.com/news/articles/c1m78xl0gmpo?at_medium=RSS&at_campaign=rss",
-      "summary": "At least 37 people have been injured, five seriously, in a second crash, after Sunday's two-train collision in Andalusia. "
+      "title": "Photos leaked to BBC show faces of hundreds killed in Iran's brutal protest crackdown",
+      "url": "https://www.bbc.com/news/articles/c0r4957rq8ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The images from one mortuary in Tehran were shown to families who went to identify their loved ones."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "One year in, Big Tech has out-maneuvered MAGA populists",
+        "#text": "Burritos from Heaven: Are drones the future of delivery?",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/column/864759/big-tech-trump-one-year-in",
+      "url": "https://www.theverge.com/tech/864601/zipline-drone-delivery-food-takeout-texas",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The best AirPods to buy",
+        "#text": "What a Sony and TCL partnership means for the future of TVs",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/645217/best-apple-airpods-pro",
+      "url": "https://www.theverge.com/tech/864745/sony-tcl-tvs-partnership-explained",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Netflix earned $1.5 billion from ads in 2025",
+        "#text": "OpenAI says its data centers will pay for their own energy and limit water usage",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/864451/netflix-advertising-revenue-doubled-q4-2025-earnings",
+      "url": "https://www.theverge.com/news/864798/openai-data-center-opposition-energy-bills",
       "summary": "(要約準備中)"
     }
   ]
