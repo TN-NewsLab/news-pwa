@@ -71,7 +71,7 @@ function createNewsCard(article) {
       <span class="news-tag">${tag}</span>
       <span>${article.source}</span> / <span>${formatDate(article.publishedAt)}</span>
     </p>
-    <a class="news-link" href="${article.url}" target="_blank">続きを読む ↗</a>
+    <a class="news-link" href="${article.url}" target="_blank">元記事を読む ↗</a>
   `;
 
   // 💡 ここで生成した .news-tag を取得
