@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-01-20T19:13:19.584Z",
+  "updatedAt": "2026-01-21T02:31:53.105Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Lyse Doucet: Trump is shaking the world order more than any president since WW2",
+      "url": "https://www.bbc.com/news/articles/cx2lej7d52po?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump's demands over Greenland are a rude awakening in a moment fraught with risk."
+    },
+    {
+      "source": "BBC World",
+      "title": "Driver killed in Spain train crash days after high-speed collision",
+      "url": "https://www.bbc.com/news/articles/c1m78xl0gmpo?at_medium=RSS&at_campaign=rss",
+      "summary": "At least 37 people have been injured, five seriously, in a second crash, after Sunday's two-train collision in Andalusia. "
+    },
     {
       "source": "BBC World",
       "title": "UK defends Chagos deal after Trump calls it 'act of great stupidity'",
@@ -8,16 +20,10 @@
       "summary": "The US president says it is \"another in a very long line of National Security reasons why Greenland has to be acquired\"."
     },
     {
-      "source": "BBC World",
-      "title": "Europe to suspend approval of US tariffs deal",
-      "url": "https://www.bbc.com/news/articles/c4gwp2me3gzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The move follows renewed tensions between the US and EU, as Donald Trump pushes to acquire Greenland. "
-    },
-    {
-      "source": "BBC World",
-      "title": "Shock and confusion as Spain struggles for answers after deadly train crash",
-      "url": "https://www.bbc.com/news/articles/crle9k2gw6jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Investigators remain baffled by the cause of Sunday's deadly crash in the south of the country."
+      "source": "BBC Technology",
+      "title": "Snap settles social media addiction lawsuit ahead of trial",
+      "url": "https://www.bbc.com/news/articles/c62ndl2ydzxo?at_medium=RSS&at_campaign=rss",
+      "summary": "TikTok, YouTube and Meta remain defendants in the case, which is due to kick off next week."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "As crypto wealth continues to grow, criminals are mixing sophisticated hacks with deception, and in some cases, real life violence."
     },
     {
-      "source": "BBC Technology",
-      "title": "Google appeals landmark antitrust verdict over search monopoly",
-      "url": "https://www.bbc.com/news/articles/clyn0ek5rdpo?at_medium=RSS&at_campaign=rss",
-      "summary": "The tech giant is seeking a pause on court-ordered fixes aimed at limiting its monopoly power."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Samsung’s discounted microSD Express card more than doubles your Switch 2 storage",
+        "#text": "The best AirPods to buy",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/864404/samsung-p9-microsd-express-card-deal-sale",
+      "url": "https://www.theverge.com/tech/645217/best-apple-airpods-pro",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Life is Strange will bring the Max and Chloe story to an end in new game",
+        "#text": "Netflix earned $1.5 billion from ads in 2025",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/864438/life-is-strange-reunion-release-date-max-chloe",
+      "url": "https://www.theverge.com/news/864451/netflix-advertising-revenue-doubled-q4-2025-earnings",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The best iPad deals you can get right now",
+        "#text": "Trump admin admits DOGE employees had access to off-limits Social Security data",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/21280354/best-ipad-deals-apple",
+      "url": "https://www.theverge.com/news/864643/doge-social-security-data-misuse",
       "summary": "(要約準備中)"
     }
   ]
