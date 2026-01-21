@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-01-21T13:12:18.513Z",
+  "updatedAt": "2026-01-21T19:00:02.925Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Could US Congress stop Trump from taking over Greenland?",
-      "url": "https://www.bbc.com/news/articles/c701rvrpjwko?at_medium=RSS&at_campaign=rss",
-      "summary": "Some of the president's fellow Republicans oppose him - but it's not clear if they would join Democrats to block a takeover of the island."
+      "title": "EU suspends approval of US trade deal  ",
+      "url": "https://www.bbc.com/news/articles/c4gwp2me3gzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The move follows renewed tensions between the US and EU, as Donald Trump pushes to acquire Greenland. "
     },
     {
       "source": "BBC World",
-      "title": "Israeli PM Netanyahu agrees to join Trump's Board of Peace",
+      "title": "Seven more countries agree to join Trump's Board of Peace",
       "url": "https://www.bbc.com/news/articles/cn8jek4vv8ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel is the latest country to publicly accept an invitation to a new international organisation that many fear may be designed to supplant the UN."
+      "summary": "Seven Muslim-majority countries publicly accept an invitation to Trump's new organisation, joining Albania, Bahran, Hungary, Morocco and Israel. "
     },
     {
       "source": "BBC World",
-      "title": "Photos leaked to BBC show faces of hundreds killed in Iran's brutal protest crackdown",
-      "url": "https://www.bbc.com/news/articles/c0r4957rq8ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The images from one mortuary in Tehran were shown to families who went to identify their loved ones."
+      "title": "Israeli strike in Gaza kills three journalists, first responders say",
+      "url": "https://www.bbc.com/news/articles/c98pnzp50nqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Another eight Palestinians were killed by Israeli artillery and gunfire across Gaza on Wednesday, according to medics."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Burritos from Heaven: Are drones the future of delivery?",
+        "#text": "Samsung Galaxy S26 battery pack leak points to Qi2 charging support",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/864601/zipline-drone-delivery-food-takeout-texas",
+      "url": "https://www.theverge.com/news/865083/samsung-galaxy-s26-battery-pack-qi2-support",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "What a Sony and TCL partnership means for the future of TVs",
+        "#text": "Volvo aims for an EV reset with the new EX60 crossover",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/864745/sony-tcl-tvs-partnership-explained",
+      "url": "https://www.theverge.com/news/864561/volvo-ex60-range-price-specs",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "OpenAI says its data centers will pay for their own energy and limit water usage",
+        "#text": "Ubisoft cancels Prince of Persia remake as part of major reorganization",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/864798/openai-data-center-opposition-energy-bills",
+      "url": "https://www.theverge.com/news/865060/ubisoft-prince-of-persia-sands-of-time-remake-canceled-reorganization",
       "summary": "(要約準備中)"
     }
   ]
