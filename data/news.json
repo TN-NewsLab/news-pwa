@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2026-01-22T06:53:04.986Z",
+  "updatedAt": "2026-01-22T13:13:13.885Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Trump says 'framework of a future deal' discussed on Greenland as he backs off tariffs threat",
-      "url": "https://www.bbc.com/news/articles/cgezx40r7d7o?at_medium=RSS&at_campaign=rss",
-      "summary": "At Davos, the US president said he would not use force to take the island and later floated a possible \"forever\" deal."
+      "title": "What we know about Trump's  'framework of future deal' over Greenland",
+      "url": "https://www.bbc.com/news/articles/c86vvjxe9z7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Denmark and Greenland have made it clear they will not relinquish sovereignty of the world's largest island."
     },
     {
       "source": "BBC World",
-      "title": "Trump's jibes are wearing thin for many of Europe's leaders",
-      "url": "https://www.bbc.com/news/articles/cd9ez1nj3n3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The ball is in the court of European leaders ahead of Thursday's emergency EU meeting in Brussels, writes Nick Beake."
+      "title": "Two dead and several missing in New Zealand landslides",
+      "url": "https://www.bbc.com/news/articles/cje11x527n4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Heavy rains have ravaged the country's North Island, with a minister comparing it to a \"war zone\"."
     },
     {
       "source": "BBC World",
-      "title": "EU suspends approval of US trade deal  ",
-      "url": "https://www.bbc.com/news/articles/c4gwp2me3gzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The move follows renewed tensions between the US and EU, as Donald Trump pushes to acquire Greenland. "
+      "title": "UK holds off joining Trump's Board of Peace over Putin concerns",
+      "url": "https://www.bbc.com/news/articles/cp9jj1j74ggo?at_medium=RSS&at_campaign=rss",
+      "summary": "Foreign Secretary Yvette Cooper says the Russian president has shown no commitment to peace in Ukraine."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Ubisoft cancels six games including Prince of Persia and closes studios",
+      "url": "https://www.bbc.com/news/articles/c6200g826d2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The studio, known for Assassin's Creed and Just Dance, is also delaying seven titles in a restructure."
     },
     {
       "source": "BBC Technology",
@@ -32,10 +38,13 @@
       "summary": "TikTok, YouTube and Meta remain defendants in the case, which is due to kick off next week."
     },
     {
-      "source": "BBC Technology",
-      "title": "UK consulting on bringing in social media ban for under 16s",
-      "url": "https://www.bbc.com/news/articles/cgm4xpyxp7lo?at_medium=RSS&at_campaign=rss",
-      "summary": "The government said it expected schools to be \"phone-free by default\" as a result of the announcement."
+      "source": "The Verge",
+      "title": {
+        "#text": "Big games are getting bigger — and so are the stakes",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/report/865219/ubisoft-reorganization-ea-playstation-big-games",
+      "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/news/865282/blue-origin-terawave-satellite-6tb",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Everyone can hear your TV in their headphones using this transmitter",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/tech/864569/sennheiser-bluetooth-auracast-bta1-transmitter-hdr-275-wireless-headphones",
       "summary": "(要約準備中)"
     }
   ]
