@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-22T02:34:05.812Z",
+  "updatedAt": "2026-01-22T06:53:04.986Z",
   "top": [
     {
       "source": "BBC World",
@@ -21,6 +21,12 @@
     },
     {
       "source": "BBC Technology",
+      "title": "Bezos' Blue Origin announces satellite rival to Musk's Starlink",
+      "url": "https://www.bbc.com/news/articles/cn0yydwe89jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Blue Origin will be focused on businesses and governments, while Starlink also offers services to individual customers."
+    },
+    {
+      "source": "BBC Technology",
       "title": "Snap settles social media addiction lawsuit ahead of trial",
       "url": "https://www.bbc.com/news/articles/c62ndl2ydzxo?at_medium=RSS&at_campaign=rss",
       "summary": "TikTok, YouTube and Meta remain defendants in the case, which is due to kick off next week."
@@ -32,10 +38,13 @@
       "summary": "The government said it expected schools to be \"phone-free by default\" as a result of the announcement."
     },
     {
-      "source": "BBC Technology",
-      "title": "How crypto criminals stole $700 million from people - often using age-old tricks",
-      "url": "https://www.bbc.com/news/articles/c93w30gl5jno?at_medium=RSS&at_campaign=rss",
-      "summary": "As crypto wealth continues to grow, criminals are mixing sophisticated hacks with deception, and in some cases, real life violence."
+      "source": "The Verge",
+      "title": {
+        "#text": "Hundreds of creatives warn against an AI slop future",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/ai-artificial-intelligence/864951/human-artistry-campaign-ai-licensing-artists",
+      "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/tech/864569/sennheiser-bluetooth-auracast-bta1-transmitter-hdr-275-wireless-headphones",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Here are the best Kindle deals right now",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/21539047/best-amazon-kindle-deals",
       "summary": "(要約準備中)"
     }
   ]
