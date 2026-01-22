@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-01-21T19:00:02.925Z",
+  "updatedAt": "2026-01-22T02:34:05.812Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Trump says 'framework of a future deal' discussed on Greenland as he backs off tariffs threat",
+      "url": "https://www.bbc.com/news/articles/cgezx40r7d7o?at_medium=RSS&at_campaign=rss",
+      "summary": "At Davos, the US president said he would not use force to take the island and later floated a possible \"forever\" deal."
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump's jibes are wearing thin for many of Europe's leaders",
+      "url": "https://www.bbc.com/news/articles/cd9ez1nj3n3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The ball is in the court of European leaders ahead of Thursday's emergency EU meeting in Brussels, writes Nick Beake."
+    },
     {
       "source": "BBC World",
       "title": "EU suspends approval of US trade deal  ",
       "url": "https://www.bbc.com/news/articles/c4gwp2me3gzo?at_medium=RSS&at_campaign=rss",
       "summary": "The move follows renewed tensions between the US and EU, as Donald Trump pushes to acquire Greenland. "
-    },
-    {
-      "source": "BBC World",
-      "title": "Seven more countries agree to join Trump's Board of Peace",
-      "url": "https://www.bbc.com/news/articles/cn8jek4vv8ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Seven Muslim-majority countries publicly accept an invitation to Trump's new organisation, joining Albania, Bahran, Hungary, Morocco and Israel. "
-    },
-    {
-      "source": "BBC World",
-      "title": "Israeli strike in Gaza kills three journalists, first responders say",
-      "url": "https://www.bbc.com/news/articles/c98pnzp50nqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Another eight Palestinians were killed by Israeli artillery and gunfire across Gaza on Wednesday, according to medics."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Samsung Galaxy S26 battery pack leak points to Qi2 charging support",
+        "#text": "Blue Origin’s Starlink rival TeraWave promises 6-terabit satellite internet",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/865083/samsung-galaxy-s26-battery-pack-qi2-support",
+      "url": "https://www.theverge.com/news/865282/blue-origin-terawave-satellite-6tb",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Volvo aims for an EV reset with the new EX60 crossover",
+        "#text": "Everyone can hear your TV in their headphones using this transmitter",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/864561/volvo-ex60-range-price-specs",
+      "url": "https://www.theverge.com/tech/864569/sennheiser-bluetooth-auracast-bta1-transmitter-hdr-275-wireless-headphones",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Ubisoft cancels Prince of Persia remake as part of major reorganization",
+        "#text": "Here are the best Kindle deals right now",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/865060/ubisoft-prince-of-persia-sands-of-time-remake-canceled-reorganization",
+      "url": "https://www.theverge.com/21539047/best-amazon-kindle-deals",
       "summary": "(要約準備中)"
     }
   ]
