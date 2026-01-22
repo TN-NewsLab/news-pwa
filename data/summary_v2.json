@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "MITの新しい再帰的フレームワークがLLMにコンテキストロットなしで1000万トークンを処理させる",
-    "title_en": "MIT’s new ‘recursive’ framework lets LLMs process 10 million tokens without context rot",
-    "summary": "MIT CSAILの研究者が開発した再帰言語モデル（RLM）は、長いプロンプトを外部環境と見なし、モデルがプログラム的にテキストの断片を調べ、再帰的に呼び出すことを可能にします。このフレームワークは、モデルのコンテキストウィンドウを拡大することなく、数百万トークンを扱う長期タスクに適した手法を提供します。RLMは既存のモデルのラッパーとして機能し、エンタープライズアプリケーションにおいて実用的なソリューションを提供します。",
-    "summary_en": "MIT CSAILの研究者が開発した再帰言語モデル（RLM）は、長いプロンプトを外部環境と見なし、モデルがプログラム的にテキストの断片を調べ、再帰的に呼び出すことを可能にします。このフレームワークは、モデルのコンテキストウィンドウを拡大することなく、数百万トークンを扱う長期タスクに適した手法を提供します。RLMは既存のモデルのラッパーとして機能し、エンタープライズアプリケーションにおいて実用的なソリューションを提供します。",
-    "link": "https://venturebeat.com/orchestration/mits-new-recursive-framework-lets-llms-process-10-million-tokens-without",
+    "title": "LinkedInがなぜプロンプティングを非現実的としたのか — 小型モデルが画期的な進展であった理由",
+    "title_en": "Why LinkedIn says prompting was a non-starter — and small models was the breakthrough",
+    "summary": "LinkedInは、次世代のレコメンデーションシステムを構築するために、オフ・ザ・シェルフモデルを超えた新しい技術を開発しました。彼らは、詳細なプロダクトポリシー文書を作成し、最初の7億パラメータモデルを洗練させて、クイック予測やパーソナライズが可能なシステムを実現しました。このプロセスは、LinkedInのAI製品全体で再利用される新しい手法として確立されています。",
+    "summary_en": "LinkedInは、次世代のレコメンデーションシステムを構築するために、オフ・ザ・シェルフモデルを超えた新しい技術を開発しました。彼らは、詳細なプロダクトポリシー文書を作成し、最初の7億パラメータモデルを洗練させて、クイック予測やパーソナライズが可能なシステムを実現しました。このプロセスは、LinkedInのAI製品全体で再利用される新しい手法として確立されています。",
+    "link": "https://venturebeat.com/infrastructure/why-linkedin-says-prompting-was-a-non-starter-and-small-models-was-the",
     "category": "AI",
-    "publishedAt": "2026-01-21 12:39"
+    "publishedAt": "2026-01-22 13:34"
   },
   {
     "source": "VentureBeat",
-    "title": "Claude Codeは月額最大200ドル、Gooseは無料で同じ機能を提供",
-    "title_en": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-    "summary": "最近、Anthropicの高額なAIコーディングツール「Claude Code」に対する不満が高まる中、オープンソースの無料AIエージェント「Goose」が注目を集めています。Gooseはユーザーのローカルマシンで動作し、サブスクリプション料金や使用制限がなく、開発者にデータの完全なコントロールを提供します。この新しいツールは、コストやプライバシーを重視する開発者にとって魅力的な代替手段となるでしょう。",
-    "summary_en": "最近、Anthropicの高額なAIコーディングツール「Claude Code」に対する不満が高まる中、オープンソースの無料AIエージェント「Goose」が注目を集めています。Gooseはユーザーのローカルマシンで動作し、サブスクリプション料金や使用制限がなく、開発者にデータの完全なコントロールを提供します。この新しいツールは、コストやプライバシーを重視する開発者にとって魅力的な代替手段となるでしょう。",
-    "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+    "title": "CFOのための『バイブコーディング』がDatarailsによって実現",
+    "title_en": "CFOs are now getting their own 'vibe coding' moment thanks to Datarails",
+    "summary": "Datarailsは、新しいAIツールを発表し、財務報告のプロセスを自動化してCFOが簡単に取締役会に報告できるようにする。このツールにより、ユーザーは自然言語で質問を行い、即座にフォーマットされたレポートを生成できる。従来のシステムとの統合を容易にすることで、短期間でスムーズな導入が可能となる。",
+    "summary_en": "Datarailsは、新しいAIツールを発表し、財務報告のプロセスを自動化してCFOが簡単にボードに報告できるようにする。これにより、ユーザーは自然言語で質問をし、すぐにフォーマットされたレポートを生成できる。従来のシステムとの統合を容易にすることで、短期間でスムーズな導入が可能となる。",
+    "link": "https://venturebeat.com/data/cfos-are-now-getting-their-own-vibe-coding-moment-thanks-to-datarails",
     "category": "AI",
-    "publishedAt": "2026-01-21 12:39"
+    "publishedAt": "2026-01-22 13:34"
   },
   {
     "source": "NHK",
-    "title": "米ネットフリックス ワーナー株式 すべて現金で買い取ると発表",
+    "title": "【きょうのおはBiz 1月22日(木)】長期金利上昇・円安で日銀は?",
     "title_en": "",
-    "summary": "ネットフリックスはワーナー・ブラザース・ディスカバリーを現金で完全買収する提案を修正しました。これはパラマウント・スカイダンスとの競争に対抗するためです。両社の間で買収争奪戦が激化しています。",
+    "summary": "「おはBiz」は、平日朝に放送される経済ニュースコーナーで、最新のビジネストレンドや働き方を紹介しています。お役立ちサービスやスタートアップ企業の情報も含まれ、視聴者にコンパクトに提供される内容です。忙しい朝に役立つ情報を効率的に届けることを目的としています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260121/k10015031761000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260122/k10015032601000.html",
     "category": "経済",
-    "publishedAt": "2026-01-21 12:39"
+    "publishedAt": "2026-01-22 13:34"
   },
   {
     "source": "BBC",
-    "title": "ライス・ドゥセック：トランプは第二次世界大戦以来、世界秩序を揺るがしている",
-    "title_en": "Lyse Doucet: Trump is shaking the world order more than any president since WW2",
-    "summary": "トランプのグリーンランドに関する要求は、危険な局面での厳しい目覚めを示しています。これにより、国際関係における緊張が高まる可能性があります。特に地政学的な影響が懸念されています。",
-    "summary_en": "トランプのグリーンランドに関する要求は、危険な局面での厳しい目覚めを示しています。これにより、国際関係における緊張が高まる可能性があります。特に地政学的な影響が懸念されています。",
-    "link": "https://www.bbc.com/news/articles/cx2lej7d52po?at_medium=RSS&at_campaign=rss",
+    "title": "トランプ氏、グリーンランドを巡る「将来の合意の枠組み」について議論したと述べ、関税の脅威を後退させる",
+    "title_en": "Trump says 'framework of a future deal' discussed on Greenland as he backs off tariffs threat",
+    "summary": "米国の大統領がダボスで、島を奪取するために武力を使用しない意向を示し、その後、長期的な合意の可能性についても言及しました。",
+    "summary_en": "米国の大統領がダボスで、島を奪取するために武力を使用しない意向を示しました。その後、長期的な合意の可能性についても言及しました。",
+    "link": "https://www.bbc.com/news/articles/cgezx40r7d7o?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-01-21 12:39"
+    "publishedAt": "2026-01-22 13:34"
   },
   {
     "source": "NHK",
-    "title": "柏崎刈羽原発6号機 午後再稼働へ 東電の原発としては事故後初",
+    "title": "柏崎刈羽原発6号機が再稼働 東電の原発としては事故後初",
     "title_en": "",
-    "summary": "新潟県の柏崎刈羽原子力発電所6号機が再稼働の準備を整えたと東京電力が説明しました。再稼働の方針は21日午後に発表されました。これは、福島第一原発事故以降、東京電力の原発として初めての再稼働となります。",
+    "summary": "東京電力は新潟県の柏崎刈羽原子力発電所6号機を再稼働させました。これは福島第一原発事故以降、同社の原発が再稼働する初のケースです。再稼働は最近の午後に行われました。",
     "summary_en": "",
     "link": "http://www3.nhk.or.jp/news/html/20260121/k10015031721000.html",
     "category": "その他",
-    "publishedAt": "2026-01-21 12:39"
+    "publishedAt": "2026-01-22 13:34"
   }
 ]
