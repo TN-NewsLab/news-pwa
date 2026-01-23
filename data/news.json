@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-01-23T06:52:59.407Z",
+  "updatedAt": "2026-01-23T13:10:13.955Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Could Trump's bid to become peacemaker-in-chief sideline the struggling UN?",
-      "url": "https://www.bbc.com/news/articles/cn8jj228g2vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president has promised to \"end decades of suffering\" but critics dismiss his Board of Peace as a vainglorious project."
+      "title": "Trump's claim Nato troops avoided Afghanistan front line sparks outrage in UK",
+      "url": "https://www.bbc.com/news/articles/czr444j671vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president says Nato troops stayed \"a little off the front lines\" - despite 457 UK military deaths in the conflict."
     },
     {
       "source": "BBC World",
-      "title": "Eight surprise takeaways from the Oscar nominations",
-      "url": "https://www.bbc.com/news/articles/cp3zzv40422o?at_medium=RSS&at_campaign=rss",
-      "summary": "Paul Mescal and Chase Infiniti missed out, while other actors carried their films to a nomination."
+      "title": "Russia, Ukraine and US to hold trilateral talks in Abu Dhabi",
+      "url": "https://www.bbc.com/news/articles/cx20011w4zzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The meeting between the three countries comes as both Ukraine and Russia say no peace deal can be reached until territorial issues are resolved."
     },
     {
       "source": "BBC World",
-      "title": "ICE detains five-year-old and father in Minnesota, lawyer says",
-      "url": "https://www.bbc.com/news/articles/cwyrrqwxpz7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The boy was taken along with his father, the lawyer and school officials say. ICE says it kept the boy safe as his father ran."
+      "title": "'I didn't hear from my son for seven months': Inside Yemen's UAE-run secret prisons",
+      "url": "https://www.bbc.com/news/articles/c3r117w55q4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC sees sites on former United Arab Emirates bases in Yemen where detainees say they were abused."
     },
     {
       "source": "BBC Technology",
-      "title": "TikTok closes deal to split US app from global business. Here's what to know",
+      "title": "TikTok closes deal to split US app from global business",
       "url": "https://www.bbc.com/news/articles/c3edd1l328lo?at_medium=RSS&at_campaign=rss",
       "summary": "The app was due to be banned in the US a year ago if its Chinese owner didn't sell its business in America."
     },
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "Google won’t stop replacing our news headlines with terrible AI",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/tech/865168/google-says-ai-news-headlines-are-feature-not-experiment",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "Microsoft Paint can now make AI coloring books",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/news/866524/microsoft-paint-notepad-ai-coloring-book",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "The TikTok deal is done, finally",
         "@_type": "html"
       },
       "url": "https://www.theverge.com/tech/866437/tiktok-usds-bytedance-sale-oracle-mgx",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Ring can verify videos now, but that might not help you with most AI fakes",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/news/866441/ring-verify-security-camera-ai-fakes-video-verification",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Beyond Good and Evil 2 somehow survived the purge at Ubisoft",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/games/866439/beyond-good-and-evil-2-somehow-survived-the-purge-at-ubisoft",
       "summary": "(要約準備中)"
     }
   ]
