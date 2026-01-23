@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "LinkedInがなぜプロンプティングを非現実的としたのか — 小型モデルが画期的な進展であった理由",
-    "title_en": "Why LinkedIn says prompting was a non-starter — and small models was the breakthrough",
-    "summary": "LinkedInは、次世代のレコメンデーションシステムを構築するために、オフ・ザ・シェルフモデルを超えた新しい技術を開発しました。彼らは、詳細なプロダクトポリシー文書を作成し、最初の7億パラメータモデルを洗練させて、クイック予測やパーソナライズが可能なシステムを実現しました。このプロセスは、LinkedInのAI製品全体で再利用される新しい手法として確立されています。",
-    "summary_en": "LinkedInは、次世代のレコメンデーションシステムを構築するために、オフ・ザ・シェルフモデルを超えた新しい技術を開発しました。彼らは、詳細なプロダクトポリシー文書を作成し、最初の7億パラメータモデルを洗練させて、クイック予測やパーソナライズが可能なシステムを実現しました。このプロセスは、LinkedInのAI製品全体で再利用される新しい手法として確立されています。",
-    "link": "https://venturebeat.com/infrastructure/why-linkedin-says-prompting-was-a-non-starter-and-small-models-was-the",
+    "title": "音声AIの全てが変わった：企業のAI開発者が得られる利益",
+    "title_en": "Everything in voice AI just changed: how enterprise AI builders can benefit",
+    "summary": "最近、音声AI技術が急速に進化し、従来の単純なリクエスト応答から、遅延や流暢さ、効率、感情の問題を解決した「共感的インターフェース」へと移行しています。特に、複数の企業から新しいモデルが登場し、AIの対話能力が大幅に向上したことで、ユーザーはより自然に会話できるようになりました。この変化により、企業は感情的知性を持つAIを求めており、実際のユーザー体験の向上が期待されています。",
+    "summary_en": "最近、音声AI技術が急速に進化し、従来の単純なリクエスト応答から、遅延や流暢さ、効率、感情の問題を解決した「共感的インターフェース」へと移行している。特に、複数の企業からの新しいモデルが登場し、AIの対話能力が大幅に向上したことで、ユーザーがより自然に会話できるようになった。この変化により、企業は感情的知性を持つAIを求めており、実際のユーザー体験の向上が期待されている。",
+    "link": "https://venturebeat.com/orchestration/everything-in-voice-ai-just-changed-how-enterprise-ai-builders-can-benefit",
     "category": "AI",
-    "publishedAt": "2026-01-22 13:34"
+    "publishedAt": "2026-01-23 12:58"
   },
   {
     "source": "VentureBeat",
-    "title": "CFOのための『バイブコーディング』がDatarailsによって実現",
-    "title_en": "CFOs are now getting their own 'vibe coding' moment thanks to Datarails",
-    "summary": "Datarailsは、新しいAIツールを発表し、財務報告のプロセスを自動化してCFOが簡単に取締役会に報告できるようにする。このツールにより、ユーザーは自然言語で質問を行い、即座にフォーマットされたレポートを生成できる。従来のシステムとの統合を容易にすることで、短期間でスムーズな導入が可能となる。",
-    "summary_en": "Datarailsは、新しいAIツールを発表し、財務報告のプロセスを自動化してCFOが簡単にボードに報告できるようにする。これにより、ユーザーは自然言語で質問をし、すぐにフォーマットされたレポートを生成できる。従来のシステムとの統合を容易にすることで、短期間でスムーズな導入が可能となる。",
-    "link": "https://venturebeat.com/data/cfos-are-now-getting-their-own-vibe-coding-moment-thanks-to-datarails",
+    "title": "Railway、AIネイティブのクラウドインフラでAWSに挑戦するために1億ドルを調達",
+    "title_en": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+    "summary": "サンフランシスコに拠点を置くクラウドプラットフォームのRailwayが、シリーズBラウンドで1億ドルを調達した。この資金は、AIアプリケーションの需要増加に応じた自社のデータセンター拡張やチームの成長、マーケティング戦略の構築に使われる。Railwayは開発者の効率を向上させ、従来のクラウドサービスよりもコストを大幅に削減できることから、急速に成長している。",
+    "summary_en": "Railway、サンフランシスコに拠点を置くクラウドプラットフォームが、シリーズBラウンドで1億ドルを調達した。この資金は、AIアプリケーションの需要増加に応じた自社のデータセンター拡張やチームの成長、マーケティング戦略の構築に使われる。Railwayは開発者の効率を向上させ、従来のクラウドサービスよりもコストを大幅に削減できることから、急速に成長している。",
+    "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
     "category": "AI",
-    "publishedAt": "2026-01-22 13:34"
+    "publishedAt": "2026-01-23 12:58"
   },
   {
     "source": "NHK",
-    "title": "【きょうのおはBiz 1月22日(木)】長期金利上昇・円安で日銀は?",
+    "title": "日銀 金融政策維持を決定 政策金利 0.75％程度に据え置き",
     "title_en": "",
-    "summary": "「おはBiz」は、平日朝に放送される経済ニュースコーナーで、最新のビジネストレンドや働き方を紹介しています。お役立ちサービスやスタートアップ企業の情報も含まれ、視聴者にコンパクトに提供される内容です。忙しい朝に役立つ情報を効率的に届けることを目的としています。",
+    "summary": "日銀は金融政策決定会合で、政策金利を現状のまま維持することを決定しました。経済や物価の見通しでは、金融・為替市場のリスク要因を指摘し、市場動向を注視する意向を示しました。特に最近の円安や長期金利の急上昇が懸念されています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260122/k10015032601000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260123/k10015033661000.html",
     "category": "経済",
-    "publishedAt": "2026-01-22 13:34"
+    "publishedAt": "2026-01-23 12:58"
   },
   {
     "source": "BBC",
-    "title": "トランプ氏、グリーンランドを巡る「将来の合意の枠組み」について議論したと述べ、関税の脅威を後退させる",
-    "title_en": "Trump says 'framework of a future deal' discussed on Greenland as he backs off tariffs threat",
-    "summary": "米国の大統領がダボスで、島を奪取するために武力を使用しない意向を示し、その後、長期的な合意の可能性についても言及しました。",
-    "summary_en": "米国の大統領がダボスで、島を奪取するために武力を使用しない意向を示しました。その後、長期的な合意の可能性についても言及しました。",
-    "link": "https://www.bbc.com/news/articles/cgezx40r7d7o?at_medium=RSS&at_campaign=rss",
+    "title": "「すべては土地に関すること」: ゼレンスキー、ウクライナが米国とロシアと対話を行うと発表",
+    "title_en": "'It's all about the land': Zelensky says Ukraine to talk to US and Russia",
+    "summary": "米国特使スティーブ・ウィトコフがモスクワを訪れ、ロシアのウラジーミル・プーチンとの会談を行うために出発した。この会議は重要な外交的対話の一環として実施される。両国の関係や緊張に影響を与える可能性がある。",
+    "summary_en": "米国特使スティーブ・ウィトコフがモスクワを訪れ、ロシアのウラジーミル・プーチンとの会談を行うために出発した。  \nこの会議は重要な外交的対話の一環として実施される。  \n両国の関係や緊張に影響を与える可能性がある。",
+    "link": "https://www.bbc.com/news/articles/c4g44r22j5jo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-01-22 13:34"
+    "publishedAt": "2026-01-23 12:58"
   },
   {
     "source": "NHK",
-    "title": "柏崎刈羽原発6号機が再稼働 東電の原発としては事故後初",
+    "title": "島根県知事 中国電力に“中部電力と同様の問題あれば退任を”",
     "title_en": "",
-    "summary": "東京電力は新潟県の柏崎刈羽原子力発電所6号機を再稼働させました。これは福島第一原発事故以降、同社の原発が再稼働する初のケースです。再稼働は最近の午後に行われました。",
+    "summary": "静岡県の中部電力浜岡原子力発電所の再稼働に関する審査で、地震の想定が過小評価されていた疑いが浮上しました。これを受けて、島根県の丸山知事は再発防止のために、同様の問題が発生した際には中国電力の社長の退任を求める意向を示しました。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260121/k10015031721000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260123/k10015033411000.html",
     "category": "その他",
-    "publishedAt": "2026-01-22 13:34"
+    "publishedAt": "2026-01-23 12:58"
   }
 ]
