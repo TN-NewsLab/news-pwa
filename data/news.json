@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-01-23T13:10:13.955Z",
+  "updatedAt": "2026-01-23T18:52:00.982Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Trump's claim Nato troops avoided Afghanistan front line sparks outrage in UK",
-      "url": "https://www.bbc.com/news/articles/czr444j671vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president says Nato troops stayed \"a little off the front lines\" - despite 457 UK military deaths in the conflict."
+      "title": "Trump remarks about Nato troops in Afghanistan are 'insulting', says Starmer",
+      "url": "https://www.bbc.com/news/articles/clym2l7d75eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president's comments have sparked outrage among UK veterans and politicians."
     },
     {
       "source": "BBC World",
-      "title": "Russia, Ukraine and US to hold trilateral talks in Abu Dhabi",
-      "url": "https://www.bbc.com/news/articles/cx20011w4zzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The meeting between the three countries comes as both Ukraine and Russia say no peace deal can be reached until territorial issues are resolved."
+      "title": "High stakes but low expectations for Ukraine talks with Russia and US",
+      "url": "https://www.bbc.com/news/articles/c3edde1pwx8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Donald Trump is pushing hard for a peace deal - but major issues between Russia and Ukraine are still unresolved, writes Sarah Rainsford."
     },
     {
       "source": "BBC World",
@@ -21,9 +21,9 @@
     },
     {
       "source": "BBC Technology",
-      "title": "TikTok closes deal to split US app from global business",
-      "url": "https://www.bbc.com/news/articles/c3edd1l328lo?at_medium=RSS&at_campaign=rss",
-      "summary": "The app was due to be banned in the US a year ago if its Chinese owner didn't sell its business in America."
+      "title": "What does a new US TikTok deal mean for users?",
+      "url": "https://www.bbc.com/news/articles/cq5yynydvgzo?at_medium=RSS&at_campaign=rss",
+      "summary": "While TikTok's future in the US has been secured, questions remain about exactly what changes US users will see."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Google won’t stop replacing our news headlines with terrible AI",
+        "#text": "Casio teased a retro gaming-inspired sampler",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/865168/google-says-ai-news-headlines-are-feature-not-experiment",
+      "url": "https://www.theverge.com/news/866709/casio-sx-c1-retro-gaming-inspired-sampler-at-namm",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Microsoft Paint can now make AI coloring books",
+        "#text": "The best instant cameras you can buy right now",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/866524/microsoft-paint-notepad-ai-coloring-book",
+      "url": "https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The TikTok deal is done, finally",
+        "#text": "Hang on, there’s a Trump Phone Ultra coming too?",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/866437/tiktok-usds-bytedance-sale-oracle-mgx",
+      "url": "https://www.theverge.com/news/866601/trump-mobile-t1-ultra-phone-don-hendrickson-interview",
       "summary": "(要約準備中)"
     }
   ]
