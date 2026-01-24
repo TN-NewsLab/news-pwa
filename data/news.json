@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-01-24T06:48:08.472Z",
+  "updatedAt": "2026-01-24T13:01:24.733Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Ukraine condemns 'brutal' Russian strikes ahead of second day of peace talks",
+      "url": "https://www.bbc.com/news/articles/cwyr6p30054o?at_medium=RSS&at_campaign=rss",
+      "summary": "One person died and 23 were injured as trilateral discussions in Abu Dhabi were set to resume. "
+    },
+    {
+      "source": "BBC World",
+      "title": "Pentagon to offer 'more limited' support to US allies in defence strategy shift",
+      "url": "https://www.bbc.com/news/articles/cj9r8ezym3ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The US will also offer “more limited” support to US allies, according to a new national defence strategy document."
+    },
     {
       "source": "BBC World",
       "title": "Harry says sacrifices by Nato troops in Afghanistan deserve 'respect' ",
       "url": "https://www.bbc.com/news/articles/clym2l7d75eo?at_medium=RSS&at_campaign=rss",
       "summary": "The US president's comments have been condemned by international allies, including UK veterans and politicians."
-    },
-    {
-      "source": "BBC World",
-      "title": "Frank Gardner: Not only Americans risked life and limb to serve in Afghanistan",
-      "url": "https://www.bbc.com/news/articles/cj3v2mlvzdvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Brits, Canadians and Danes were among those who saw the toughest fighting, writes the BBC's security correspondent."
-    },
-    {
-      "source": "BBC World",
-      "title": "China no longer Pentagon's top security priority",
-      "url": "https://www.bbc.com/news/articles/cj9r8ezym3ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The US will also offer “more limited” support to US allies, according to a new national defence strategy document."
     },
     {
       "source": "BBC Technology",
@@ -40,6 +40,15 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "The Loch Capsule dishwasher is small, fast, and efficient — it even sanitizes gadgets",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/reviews/866476/loch-capsule-review-counter-dishwasher-vanlife-tiny-house",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "Chromebooks train schoolkids to be loyal customers, internal Google document suggests",
         "@_type": "html"
       },
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/games/867056/leak-nvidia-n1-n1x-laptops-lenovo-dell",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Congress doesn’t seem to know if the TikTok deal complies with its law",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/news/866977/tiktok-deal-congress-china",
       "summary": "(要約準備中)"
     }
   ]
