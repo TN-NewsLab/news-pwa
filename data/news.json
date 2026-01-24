@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-01-23T18:52:00.982Z",
+  "updatedAt": "2026-01-24T02:24:56.732Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Trump remarks about Nato troops in Afghanistan are 'insulting', says Starmer",
+      "title": "Harry says sacrifices by Nato troops in Afghanistan deserve 'respect' ",
       "url": "https://www.bbc.com/news/articles/clym2l7d75eo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president's comments have sparked outrage among UK veterans and politicians."
+      "summary": "The US president's comments have been condemned by international allies, including UK veterans and politicians."
+    },
+    {
+      "source": "BBC World",
+      "title": "Frank Gardner: Not only Americans risked life and limb to serve in Afghanistan",
+      "url": "https://www.bbc.com/news/articles/cj3v2mlvzdvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Brits, Canadians and Danes were among those who saw the toughest fighting, writes the BBC's security correspondent."
     },
     {
       "source": "BBC World",
       "title": "High stakes but low expectations for Ukraine talks with Russia and US",
       "url": "https://www.bbc.com/news/articles/c3edde1pwx8o?at_medium=RSS&at_campaign=rss",
       "summary": "Donald Trump is pushing hard for a peace deal - but major issues between Russia and Ukraine are still unresolved, writes Sarah Rainsford."
-    },
-    {
-      "source": "BBC World",
-      "title": "'I didn't hear from my son for seven months': Inside Yemen's UAE-run secret prisons",
-      "url": "https://www.bbc.com/news/articles/c3r117w55q4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC sees sites on former United Arab Emirates bases in Yemen where detainees say they were abused."
     },
     {
       "source": "BBC Technology",
@@ -27,41 +27,41 @@
     },
     {
       "source": "BBC Technology",
+      "title": "Is China quietly winning the AI race?",
+      "url": "https://www.bbc.com/news/articles/c86v52gv726o?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Lily Jamali looks into why big US firms and start-ups alike are turning to Chinese tech."
+    },
+    {
+      "source": "BBC Technology",
       "title": "Ubisoft cancels six games including Prince of Persia and closes studios",
       "url": "https://www.bbc.com/news/articles/c6200g826d2o?at_medium=RSS&at_campaign=rss",
       "summary": "The studio, known for Assassin's Creed and Just Dance, is also delaying seven titles in a restructure."
     },
     {
-      "source": "BBC Technology",
-      "title": "AI ready: The advantages of being a young entrepreneur",
-      "url": "https://www.bbc.com/news/articles/c058d4nvz1go?at_medium=RSS&at_campaign=rss",
-      "summary": "The latest generation of entrepreneurs have a head-start with AI but also face familiar challenges."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Casio teased a retro gaming-inspired sampler",
+        "#text": "Chromebooks train schoolkids to be loyal customers, internal Google document suggests",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/866709/casio-sx-c1-retro-gaming-inspired-sampler-at-namm",
+      "url": "https://www.theverge.com/news/867138/google-chromebook-education-expansion-court-filings",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The best instant cameras you can buy right now",
+        "#text": "Leak: Nvidia is about to challenge ‘Intel Inside’ with as many as eight Arm laptops",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak",
+      "url": "https://www.theverge.com/games/867056/leak-nvidia-n1-n1x-laptops-lenovo-dell",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Hang on, there’s a Trump Phone Ultra coming too?",
+        "#text": "Congress doesn’t seem to know if the TikTok deal complies with its law",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/866601/trump-mobile-t1-ultra-phone-don-hendrickson-interview",
+      "url": "https://www.theverge.com/news/866977/tiktok-deal-congress-china",
       "summary": "(要約準備中)"
     }
   ]
