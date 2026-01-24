@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-01-24T13:01:24.733Z",
+  "updatedAt": "2026-01-24T18:46:23.938Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Ukraine condemns 'brutal' Russian strikes ahead of second day of peace talks",
+      "title": "Trump threatens Canada with 100% tariffs over China trade deal",
+      "url": "https://www.bbc.com/news/articles/cy4qww3w72lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump made the threat in a social media post as tensions rise between the US and its northern neighbour."
+    },
+    {
+      "source": "BBC World",
+      "title": "Two days of peace talks end as Russia continues Ukraine attacks",
       "url": "https://www.bbc.com/news/articles/cwyr6p30054o?at_medium=RSS&at_campaign=rss",
-      "summary": "One person died and 23 were injured as trilateral discussions in Abu Dhabi were set to resume. "
+      "summary": "There is no apparent breakthrough as the three-way talks conclude and Russia maintains its bombardment.  "
     },
     {
       "source": "BBC World",
-      "title": "Pentagon to offer 'more limited' support to US allies in defence strategy shift",
-      "url": "https://www.bbc.com/news/articles/cj9r8ezym3ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The US will also offer “more limited” support to US allies, according to a new national defence strategy document."
-    },
-    {
-      "source": "BBC World",
-      "title": "Harry says sacrifices by Nato troops in Afghanistan deserve 'respect' ",
-      "url": "https://www.bbc.com/news/articles/clym2l7d75eo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president's comments have been condemned by international allies, including UK veterans and politicians."
+      "title": "How Soviet urban planning is helping Russia freeze Ukraine",
+      "url": "https://www.bbc.com/news/articles/c338jpk8r1vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Thousands of people are affected when heating plants are targeted by Russian forces."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "The Loch Capsule dishwasher is small, fast, and efficient — it even sanitizes gadgets",
+        "#text": "MicroSD Express cards and Anker’s travel adapter rule the deal roost this week",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/reviews/866476/loch-capsule-review-counter-dishwasher-vanlife-tiny-house",
+      "url": "https://www.theverge.com/gadgets/866788/anker-nano-travel-adapter-samsung-p9-microsd-express-card-deal-sale",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Chromebooks train schoolkids to be loyal customers, internal Google document suggests",
+        "#text": "Gmail’s spam filter and automatic sorting are broken",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/867138/google-chromebook-education-expansion-court-filings",
+      "url": "https://www.theverge.com/tech/867247/gmails-spam-filter-broken",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Leak: Nvidia is about to challenge ‘Intel Inside’ with as many as eight Arm laptops",
+        "#text": "ICE has killed another person in Minneapolis",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/867056/leak-nvidia-n1-n1x-laptops-lenovo-dell",
+      "url": "https://www.theverge.com/news/867245/ice-has-killed-another-person-in-minneapolis",
       "summary": "(要約準備中)"
     }
   ]
