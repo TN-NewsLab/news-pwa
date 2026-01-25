@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-01-25T13:03:31.893Z",
+  "updatedAt": "2026-01-25T18:46:18.631Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "What we know about fatal shooting of Alex Pretti by federal agents in Minneapolis",
-      "url": "https://www.bbc.com/news/articles/c20zjyxep99o?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump officials says federal agents shot in self-defence, as Pretti's parents accuse them of \"sickening lies\"."
+      "title": "Who was Alex Pretti, the intensive care nurse shot dead in Minneapolis?",
+      "url": "https://www.bbc.com/news/articles/c62r4g590wqo?at_medium=RSS&at_campaign=rss",
+      "summary": "He has been described as an avid outdoorsman who loved mountain biking."
     },
     {
       "source": "BBC World",
-      "title": "Trump says UK soldiers in Afghanistan 'among greatest of all warriors'",
-      "url": "https://www.bbc.com/news/articles/c3edwx37pd9o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president's praise follows his claim that allied forces avoided the front lines during the Afghanistan conflict. "
+      "title": "Captain of suspected Russian shadow tanker in French custody",
+      "url": "https://www.bbc.com/news/articles/c62vke5dly2o?at_medium=RSS&at_campaign=rss",
+      "summary": "French officials seized the tanker, named the Grinch, in the Mediterranean Sea on Thursday."
     },
     {
       "source": "BBC World",
-      "title": "Climber Alex Honnold scales 101-floor skyscraper without safety gear",
-      "url": "https://www.bbc.com/news/articles/c4gl0njzxjdo?at_medium=RSS&at_campaign=rss",
-      "summary": "Alex Honnold has become the first person to climb the Taiwanese building alone without safety equipment."
+      "title": "Party backed by generals set for landslide as 'sham' Myanmar election ends",
+      "url": "https://www.bbc.com/news/articles/cx2l6wg0p8eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Many parties were banned and there was no voting in about half the country which is gripped by fear and civil war."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "The great e-bike crackdown has begun",
+        "#text": "Creators and communities everywhere take a stand against ICE",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/column/866218/e-bike-crackdown",
+      "url": "https://www.theverge.com/policy/867451/creators-and-communities-take-a-stand-against-ice",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The day of the second killing",
+        "#text": "It doesn’t matter if Alex Pretti had a gun",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/867410/minneapolis-ice-protest-alex-pretti-killing",
+      "url": "https://www.theverge.com/policy/867455/dhs-ice-border-patrol-minneapolis-alex-pretti",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Microsoft handed the government encryption keys for customer data",
+        "#text": "Trusting your phone to Abxylute’s mobile controller requires a big leap of faith",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/867244/microsoft-bitlocker-privacy-fbi",
+      "url": "https://www.theverge.com/tech/864821/abxylute-m4-snap-on-mobile-controller-magsafe-magnetic-bluetooth",
       "summary": "(要約準備中)"
     }
   ]
