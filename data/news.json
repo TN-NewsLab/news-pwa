@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-01-24T18:46:23.938Z",
+  "updatedAt": "2026-01-25T02:42:01.238Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Trump threatens Canada with 100% tariffs over China trade deal",
+      "title": "Trump threatens Canada with 100% tariffs if it 'makes a deal with China'",
       "url": "https://www.bbc.com/news/articles/cy4qww3w72lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump made the threat in a social media post as tensions rise between the US and its northern neighbour."
+      "summary": "It comes as tensions appear to have escalated between Trump and Canadian Prime Minister Mark Carney."
     },
     {
       "source": "BBC World",
-      "title": "Two days of peace talks end as Russia continues Ukraine attacks",
+      "title": "Trump says UK soldiers in Afghanistan 'among greatest of all warriors'",
+      "url": "https://www.bbc.com/news/articles/c3edwx37pd9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president's praise follows his claim that allied forces avoided the front lines during the Afghanistan conflict. "
+    },
+    {
+      "source": "BBC World",
+      "title": "Peace talks on Russia-Ukraine war end as fighting rages ",
       "url": "https://www.bbc.com/news/articles/cwyr6p30054o?at_medium=RSS&at_campaign=rss",
-      "summary": "There is no apparent breakthrough as the three-way talks conclude and Russia maintains its bombardment.  "
-    },
-    {
-      "source": "BBC World",
-      "title": "How Soviet urban planning is helping Russia freeze Ukraine",
-      "url": "https://www.bbc.com/news/articles/c338jpk8r1vo?at_medium=RSS&at_campaign=rss",
-      "summary": "Thousands of people are affected when heating plants are targeted by Russian forces."
+      "summary": "No breakthrough is reported at the first three-way talks but reports suggest they will resume next month."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "The day of the second killing",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/policy/867410/minneapolis-ice-protest-alex-pretti-killing",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "Microsoft handed the government encryption keys for customer data",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/news/867244/microsoft-bitlocker-privacy-fbi",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "MicroSD Express cards and Anker’s travel adapter rule the deal roost this week",
         "@_type": "html"
       },
       "url": "https://www.theverge.com/gadgets/866788/anker-nano-travel-adapter-samsung-p9-microsd-express-card-deal-sale",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Gmail’s spam filter and automatic sorting are broken",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/tech/867247/gmails-spam-filter-broken",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "ICE has killed another person in Minneapolis",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/news/867245/ice-has-killed-another-person-in-minneapolis",
       "summary": "(要約準備中)"
     }
   ]
