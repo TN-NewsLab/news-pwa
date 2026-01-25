@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-01-25T06:49:43.071Z",
+  "updatedAt": "2026-01-25T13:03:31.893Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Trump threatens Canada with 100% tariffs if it 'makes a deal with China'",
-      "url": "https://www.bbc.com/news/articles/cy4qww3w72lo?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes as tensions appear to have escalated between Trump and Canadian Prime Minister Mark Carney."
+      "title": "What we know about fatal shooting of Alex Pretti by federal agents in Minneapolis",
+      "url": "https://www.bbc.com/news/articles/c20zjyxep99o?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump officials says federal agents shot in self-defence, as Pretti's parents accuse them of \"sickening lies\"."
     },
     {
       "source": "BBC World",
@@ -15,9 +15,9 @@
     },
     {
       "source": "BBC World",
-      "title": "Peace talks on Russia-Ukraine war end as fighting rages ",
-      "url": "https://www.bbc.com/news/articles/cwyr6p30054o?at_medium=RSS&at_campaign=rss",
-      "summary": "No breakthrough is reported at the first three-way talks but reports suggest they will resume next month."
+      "title": "Climber Alex Honnold scales 101-floor skyscraper without safety gear",
+      "url": "https://www.bbc.com/news/articles/c4gl0njzxjdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Alex Honnold has become the first person to climb the Taiwanese building alone without safety equipment."
     },
     {
       "source": "BBC Technology",
@@ -40,6 +40,15 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "The great e-bike crackdown has begun",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/column/866218/e-bike-crackdown",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "The day of the second killing",
         "@_type": "html"
       },
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/news/867244/microsoft-bitlocker-privacy-fbi",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "MicroSD Express cards and Anker’s travel adapter rule the deal roost this week",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/gadgets/866788/anker-nano-travel-adapter-samsung-p9-microsd-express-card-deal-sale",
       "summary": "(要約準備中)"
     }
   ]
