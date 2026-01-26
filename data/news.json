@@ -1,12 +1,6 @@
 {
-  "updatedAt": "2026-01-26T06:56:16.519Z",
+  "updatedAt": "2026-01-26T13:11:58.488Z",
   "top": [
-    {
-      "source": "BBC World",
-      "title": "Minneapolis protesters march against ICE as governor urges Trump to remove agents",
-      "url": "https://www.bbc.com/news/articles/cr571qg4m61o?at_medium=RSS&at_campaign=rss",
-      "summary": "Second fatal shooting an 'inflection point' says Tim Walz as protests spread over Saturday's shooting of intensive care nurse Alex Pretti in Minneapolis."
-    },
     {
       "source": "BBC World",
       "title": "'This is horrifying' - Minneapolis residents reel from second deadly shooting",
@@ -15,15 +9,27 @@
     },
     {
       "source": "BBC World",
-      "title": "Who was Alex Pretti, the intensive care nurse shot dead in Minneapolis?",
-      "url": "https://www.bbc.com/news/articles/c62r4g590wqo?at_medium=RSS&at_campaign=rss",
-      "summary": "He has been described as an avid outdoorsman who loved mountain biking."
+      "title": "EU investigates Elon Musk's X over Grok AI sexual deepfakes",
+      "url": "https://www.bbc.com/news/articles/clye99wg0y8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Commission will assess whether \"manipulated sexually explicit images\" have been shown to users in the EU."
+    },
+    {
+      "source": "BBC World",
+      "title": "Gunmen storm Mexico football pitch and kill at least 11 people",
+      "url": "https://www.bbc.com/news/articles/cp80419gggro?at_medium=RSS&at_campaign=rss",
+      "summary": "The incident happened in Salamanca, a city particularly subject to gang-related violence."
     },
     {
       "source": "BBC Technology",
-      "title": "What does a new US TikTok deal mean for users?",
-      "url": "https://www.bbc.com/news/articles/cq5yynydvgzo?at_medium=RSS&at_campaign=rss",
-      "summary": "While TikTok's future in the US has been secured, questions remain about exactly what changes US users will see."
+      "title": "EU investigates Elon Musk's X over Grok AI sexual deepfakes",
+      "url": "https://www.bbc.com/news/articles/clye99wg0y8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Commission will assess whether \"manipulated sexually explicit images\" have been shown to users in the EU."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "TikTok US venture to collect precise user location data",
+      "url": "https://www.bbc.com/news/articles/cvgnj7v2rr5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Details on the expanded access to location information was published in a new privacy policy for the popular social media app. "
     },
     {
       "source": "BBC Technology",
@@ -32,10 +38,22 @@
       "summary": "The BBC's Lily Jamali looks into why big US firms and start-ups alike are turning to Chinese tech."
     },
     {
-      "source": "BBC Technology",
-      "title": "Ubisoft cancels six games including Prince of Persia and closes studios",
-      "url": "https://www.bbc.com/news/articles/c6200g826d2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The studio, known for Assassin's Creed and Just Dance, is also delaying seven titles in a restructure."
+      "source": "The Verge",
+      "title": {
+        "#text": "Microsoft’s first Windows 11 update of 2026 has been a mess",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/news/867647/microsoft-windows-11-january-2026-update-bugs-issues",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "TikTok broke in its first weekend with US ownership",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/news/867625/tiktok-down-weekend-broke-fyp-video-uploads-review",
+      "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
@@ -44,24 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/policy/867451/creators-and-communities-take-a-stand-against-ice",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "It doesn’t matter if Alex Pretti had a gun",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/policy/867455/dhs-ice-border-patrol-minneapolis-alex-pretti",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Trusting your phone to Abxylute’s mobile controller requires a big leap of faith",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/tech/864821/abxylute-m4-snap-on-mobile-controller-magsafe-magnetic-bluetooth",
       "summary": "(要約準備中)"
     }
   ]
