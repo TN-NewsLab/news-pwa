@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-01-26T13:11:58.488Z",
+  "updatedAt": "2026-01-26T18:54:31.644Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Israel says it has retrieved remains of final Gaza hostage",
+      "url": "https://www.bbc.com/news/articles/c5ydvz7nz4mo?at_medium=RSS&at_campaign=rss",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu called Ran Gvili’s return \"an extraordinary achievement\"."
+    },
     {
       "source": "BBC World",
       "title": "'This is horrifying' - Minneapolis residents reel from second deadly shooting",
@@ -9,15 +15,15 @@
     },
     {
       "source": "BBC World",
-      "title": "EU investigates Elon Musk's X over Grok AI sexual deepfakes",
-      "url": "https://www.bbc.com/news/articles/clye99wg0y8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Commission will assess whether \"manipulated sexually explicit images\" have been shown to users in the EU."
+      "title": "France debates under-15s social media ban endorsed by Macron",
+      "url": "https://www.bbc.com/news/articles/c07x003vx0yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Prime Minister Sébastien Lecornu has said he will use a fast-track procedure to get the legislation on the books by September."
     },
     {
-      "source": "BBC World",
-      "title": "Gunmen storm Mexico football pitch and kill at least 11 people",
-      "url": "https://www.bbc.com/news/articles/cp80419gggro?at_medium=RSS&at_campaign=rss",
-      "summary": "The incident happened in Salamanca, a city particularly subject to gang-related violence."
+      "source": "BBC Technology",
+      "title": "Google to pay $68m to settle lawsuit claiming it recorded private conversations",
+      "url": "https://www.bbc.com/news/articles/c4g38jv8zzwo?at_medium=RSS&at_campaign=rss",
+      "summary": "The claimants say Google Assistant recorded private conversations without their knowledge."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "Details on the expanded access to location information was published in a new privacy policy for the popular social media app. "
     },
     {
-      "source": "BBC Technology",
-      "title": "Is China quietly winning the AI race?",
-      "url": "https://www.bbc.com/news/articles/c86v52gv726o?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Lily Jamali looks into why big US firms and start-ups alike are turning to Chinese tech."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Microsoft’s first Windows 11 update of 2026 has been a mess",
+        "#text": "Even the big dick subreddit is mad about ICE",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/867647/microsoft-windows-11-january-2026-update-bugs-issues",
+      "url": "https://www.theverge.com/news/867967/ice-shooting-minneapolis-reddit-communities-activism",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "TikTok broke in its first weekend with US ownership",
+        "#text": "Tattle TV has turned a Hitchcock classic into a vertical video ‘microdrama’",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/867625/tiktok-down-weekend-broke-fyp-video-uploads-review",
+      "url": "https://www.theverge.com/entertainment/867844/tattle-tv-the-lodger-hitchcock",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Creators and communities everywhere take a stand against ICE",
+        "#text": "MCP unites Claude chat with apps like Slack, Figma, and Canva",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/867451/creators-and-communities-take-a-stand-against-ice",
+      "url": "https://www.theverge.com/news/867673/claude-mcp-app-interactive-slack-figma-canva",
       "summary": "(要約準備中)"
     }
   ]
