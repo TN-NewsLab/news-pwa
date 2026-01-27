@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-01-27T02:35:53.454Z",
+  "updatedAt": "2026-01-27T06:54:35.224Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "US immigration chief Bovino set to leave Minneapolis after deadly shooting",
+      "url": "https://www.bbc.com/news/articles/cgrdlr70qg4o?at_medium=RSS&at_campaign=rss",
+      "summary": "\"Border tsar\" Tom Homan will instead lead on-the-ground efforts in the Minnesota city after tensions escalated."
+    },
     {
       "source": "BBC World",
       "title": "'We're all terrified', Minnesotan tells the BBC in tears",
@@ -9,15 +15,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Israel says it has retrieved remains of final Gaza hostage",
-      "url": "https://www.bbc.com/news/articles/c5ydvz7nz4mo?at_medium=RSS&at_campaign=rss",
-      "summary": "Israeli Prime Minister Benjamin Netanyahu called Ran Gvili’s return \"an extraordinary achievement\"."
+      "title": "India and EU set to announce landmark trade deal",
+      "url": "https://www.bbc.com/news/articles/crrnee01r9jo?at_medium=RSS&at_campaign=rss",
+      "summary": "The long-awaited deal comes as both Delhi and Brussels contend with economic and geopolitical pressure from the US."
     },
     {
-      "source": "BBC World",
-      "title": "Deadly US winter storm leaves flights delayed and thousands without power",
-      "url": "https://www.bbc.com/news/articles/cp3z8ek7eqyo?at_medium=RSS&at_campaign=rss",
-      "summary": "At least a dozen people have died in multiple US states possibly due to the storm, officials have said."
+      "source": "BBC Technology",
+      "title": "Instagram, Facebook and WhatsApp to trial premium subscriptions",
+      "url": "https://www.bbc.com/news/articles/ce8rpdmm284o?at_medium=RSS&at_campaign=rss",
+      "summary": "Under the plan, access to Meta platforms' core services would remain free to use."
     },
     {
       "source": "BBC Technology",
@@ -32,15 +38,9 @@
       "summary": "The claimants say Google Assistant recorded private conversations without their knowledge."
     },
     {
-      "source": "BBC Technology",
-      "title": "TikTok apologises after thousands in US report issues",
-      "url": "https://www.bbc.com/news/articles/ckgjedpn8p8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The new US owners of the video streaming app attributed its issues to a data centre power outage."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "All the ways TikTok is broken: here’s what’s real and what’s not",
+        "#text": "TikTok is still down, here are all the latest updates",
         "@_type": "html"
       },
       "url": "https://www.theverge.com/news/868379/tiktok-us-trump-oracle-broken-rumors-power-outage",
