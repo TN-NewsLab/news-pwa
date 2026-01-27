@@ -1,67 +1,67 @@
 {
-  "updatedAt": "2026-01-27T06:54:35.224Z",
+  "updatedAt": "2026-01-27T13:13:48.667Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "US immigration chief Bovino set to leave Minneapolis after deadly shooting",
-      "url": "https://www.bbc.com/news/articles/cgrdlr70qg4o?at_medium=RSS&at_campaign=rss",
-      "summary": "\"Border tsar\" Tom Homan will instead lead on-the-ground efforts in the Minnesota city after tensions escalated."
-    },
-    {
-      "source": "BBC World",
-      "title": "'We're all terrified', Minnesotan tells the BBC in tears",
-      "url": "https://www.bbc.com/news/videos/crkr1g5vnveo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Ana Faguy speaks to residents in the state after the second fatal shooting by federal immigration officers."
-    },
-    {
-      "source": "BBC World",
-      "title": "India and EU set to announce landmark trade deal",
+      "title": "India and EU announce 'mother of all trade deals'",
       "url": "https://www.bbc.com/news/articles/crrnee01r9jo?at_medium=RSS&at_campaign=rss",
       "summary": "The long-awaited deal comes as both Delhi and Brussels contend with economic and geopolitical pressure from the US."
+    },
+    {
+      "source": "BBC World",
+      "title": "Immigration chief at centre of Trump's crackdown set to leave Minneapolis",
+      "url": "https://www.bbc.com/news/articles/cgrdlr70qg4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president is sending border tsar Tom Homan to the city in an apparent shift in tone from the White House."
+    },
+    {
+      "source": "BBC World",
+      "title": "Deadly US winter storm leaves flights delayed and thousands without power",
+      "url": "https://www.bbc.com/news/articles/cp3z8ek7eqyo?at_medium=RSS&at_campaign=rss",
+      "summary": "At least a dozen people have died in multiple US states possibly due to the storm, officials have said."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "California probes US TikTok over claims it censors anti-Trump content",
+      "url": "https://www.bbc.com/news/articles/ckgjedpn8p8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Thousands of people claim political content is being suppressed after a deal to spin off the US version of the app was signed last week."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Legal action over 'unfair' Steam game store prices given go ahead",
+      "url": "https://www.bbc.com/news/articles/cx2g1md0l23o?at_medium=RSS&at_campaign=rss",
+      "summary": "Millions of gamers could get compensation if the lawsuit - which accuses Valve of charging inflated prices - succeeds."
     },
     {
       "source": "BBC Technology",
       "title": "Instagram, Facebook and WhatsApp to trial premium subscriptions",
       "url": "https://www.bbc.com/news/articles/ce8rpdmm284o?at_medium=RSS&at_campaign=rss",
-      "summary": "Under the plan, access to Meta platforms' core services would remain free to use."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Tech giants face landmark trial over social media addiction claims",
-      "url": "https://www.bbc.com/news/articles/c24g8v6qr1mo?at_medium=RSS&at_campaign=rss",
-      "summary": "Defendants include Meta, which owns Instagram and Facebook, TikTok's owner ByteDance and YouTube parent Google."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Google to pay $68m to settle lawsuit claiming it recorded private conversations",
-      "url": "https://www.bbc.com/news/articles/c4g38jv8zzwo?at_medium=RSS&at_campaign=rss",
-      "summary": "The claimants say Google Assistant recorded private conversations without their knowledge."
+      "summary": "Under the plan, access to the Meta platforms' core services would remain free."
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "TikTok is still down, here are all the latest updates",
+        "#text": "Google Photos now lets you describe how to transform images into video",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/868379/tiktok-us-trump-oracle-broken-rumors-power-outage",
+      "url": "https://www.theverge.com/news/868510/google-photos-image-to-video-text-prompt-support",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "X faces EU investigation over Grok’s sexualized deepfakes",
+        "#text": "Roland’s TR-1000 is the ultimate drum machine",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/868239/x-grok-sexualized-deepfakes-eu-investigation",
+      "url": "https://www.theverge.com/tech/867819/roland-tr-1000-drum-machine-review",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The best Bluetooth trackers for Apple and Android phones",
+        "#text": "All rise for JudgeGPT",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/23769840/best-bluetooth-trackers",
+      "url": "https://www.theverge.com/policy/868151/ai-judges-arbitration",
       "summary": "(要約準備中)"
     }
   ]
