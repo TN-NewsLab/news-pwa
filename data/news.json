@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-01-26T18:54:31.644Z",
+  "updatedAt": "2026-01-27T02:35:53.454Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "'We're all terrified', Minnesotan tells the BBC in tears",
+      "url": "https://www.bbc.com/news/videos/crkr1g5vnveo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Ana Faguy speaks to residents in the state after the second fatal shooting by federal immigration officers."
+    },
     {
       "source": "BBC World",
       "title": "Israel says it has retrieved remains of final Gaza hostage",
@@ -9,15 +15,15 @@
     },
     {
       "source": "BBC World",
-      "title": "'This is horrifying' - Minneapolis residents reel from second deadly shooting",
-      "url": "https://www.bbc.com/news/articles/cvg50vv1ezko?at_medium=RSS&at_campaign=rss",
-      "summary": "Two people have been shot dead by federal agents in the city in recent weeks, leaving many angry and frustrated."
+      "title": "Deadly US winter storm leaves flights delayed and thousands without power",
+      "url": "https://www.bbc.com/news/articles/cp3z8ek7eqyo?at_medium=RSS&at_campaign=rss",
+      "summary": "At least a dozen people have died in multiple US states possibly due to the storm, officials have said."
     },
     {
-      "source": "BBC World",
-      "title": "France debates under-15s social media ban endorsed by Macron",
-      "url": "https://www.bbc.com/news/articles/c07x003vx0yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Prime Minister Sébastien Lecornu has said he will use a fast-track procedure to get the legislation on the books by September."
+      "source": "BBC Technology",
+      "title": "Tech giants face landmark trial over social media addiction claims",
+      "url": "https://www.bbc.com/news/articles/c24g8v6qr1mo?at_medium=RSS&at_campaign=rss",
+      "summary": "Defendants include Meta, which owns Instagram and Facebook, TikTok's owner ByteDance and YouTube parent Google."
     },
     {
       "source": "BBC Technology",
@@ -27,41 +33,35 @@
     },
     {
       "source": "BBC Technology",
-      "title": "EU investigates Elon Musk's X over Grok AI sexual deepfakes",
-      "url": "https://www.bbc.com/news/articles/clye99wg0y8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Commission will assess whether \"manipulated sexually explicit images\" have been shown to users in the EU."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "TikTok US venture to collect precise user location data",
-      "url": "https://www.bbc.com/news/articles/cvgnj7v2rr5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Details on the expanded access to location information was published in a new privacy policy for the popular social media app. "
+      "title": "TikTok apologises after thousands in US report issues",
+      "url": "https://www.bbc.com/news/articles/ckgjedpn8p8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The new US owners of the video streaming app attributed its issues to a data centre power outage."
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Even the big dick subreddit is mad about ICE",
+        "#text": "All the ways TikTok is broken: here’s what’s real and what’s not",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/867967/ice-shooting-minneapolis-reddit-communities-activism",
+      "url": "https://www.theverge.com/news/868379/tiktok-us-trump-oracle-broken-rumors-power-outage",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Tattle TV has turned a Hitchcock classic into a vertical video ‘microdrama’",
+        "#text": "X faces EU investigation over Grok’s sexualized deepfakes",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/867844/tattle-tv-the-lodger-hitchcock",
+      "url": "https://www.theverge.com/news/868239/x-grok-sexualized-deepfakes-eu-investigation",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "MCP unites Claude chat with apps like Slack, Figma, and Canva",
+        "#text": "The best Bluetooth trackers for Apple and Android phones",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/867673/claude-mcp-app-interactive-slack-figma-canva",
+      "url": "https://www.theverge.com/23769840/best-bluetooth-trackers",
       "summary": "(要約準備中)"
     }
   ]
