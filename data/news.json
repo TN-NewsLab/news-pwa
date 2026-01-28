@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2026-01-28T13:13:44.027Z",
+  "updatedAt": "2026-01-28T18:53:48.026Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Trump says government will 'de-escalate' in Minnesota following Pretti shooting",
-      "url": "https://www.bbc.com/news/articles/c0q425vg4qzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The killing of Alex Pretti over the weekend led Minnesota officials and locals to renew calls for Trump to end his immigration operation there. "
+      "title": "Trump warns Iran 'time is running out' for nuclear deal as US military builds up in Gulf",
+      "url": "https://www.bbc.com/news/articles/cly5pd459gko?at_medium=RSS&at_campaign=rss",
+      "summary": "Tehran says it will “respond like never before” if necessary to what the US president says is a \"massive Armada\" moving towards Iran. "
     },
     {
       "source": "BBC World",
-      "title": "'I don't let bullies win,' says US congresswoman Omar after substance thrown at her",
-      "url": "https://www.bbc.com/news/articles/cn9zpee3llxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Minnesota Democrat was uninjured and continued to speak at her event, after being sprayed with an unidentified liquid."
+      "title": "'Don't take us to a hospital': Iran protesters treated in secret to avoid arrest",
+      "url": "https://www.bbc.com/news/articles/c5yx015nkplo?at_medium=RSS&at_campaign=rss",
+      "summary": "Wounded demonstrators tell the BBC they are relying on medics willing to risk their own safety by treating them at their homes."
     },
     {
       "source": "BBC World",
-      "title": "Amazon confirms 16,000 job cuts after accidental email",
-      "url": "https://www.bbc.com/news/articles/cx2ywzxlxnlo?at_medium=RSS&at_campaign=rss",
-      "summary": "The technology giant confirmed the redundancies hours after it told staff in an email sent in error."
+      "title": "China trip will bring benefits to UK, Starmer insists, ahead of Xi meeting",
+      "url": "https://www.bbc.com/news/articles/c4gw47prew7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The prime minister seeks to strengthen ties with China but faces fierce criticism from opponents at home. "
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Iran's internet is returning - but not for everyone",
+      "url": "https://www.bbc.com/news/articles/cz7y2ddgl23o?at_medium=RSS&at_campaign=rss",
+      "summary": "The country cut off internet access on 8 January following a government crackdown on protesters."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "The technology giant confirmed the redundancies hours after it told staff in an email sent in error."
     },
     {
-      "source": "BBC Technology",
-      "title": "Pornhub to restrict access for UK users from next week",
-      "url": "https://www.bbc.com/news/articles/czr428rxg57o?at_medium=RSS&at_campaign=rss",
-      "summary": "The changes mean only those who have a Pornhub account and have verified their age will be able to access it in the UK soon."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Grok is the most antisemitic chatbot according to the ADL",
+        "#text": "Spotify says it paid out $11 billion in royalties in 2025",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/868925/adl-ai-antisemitism-report-grok-chatgpt-gemini-claude-deepseek-llama-elon-musk",
+      "url": "https://www.theverge.com/news/869523/spotify-11-billion-in-royalties",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Windows 11&#8217;s ability to resume Android apps on your PC is getting closer",
+        "#text": "Process Zero II will let you do a little processing, if you want",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/869161/microsoft-windows-11-android-app-resume-feature-release-preview",
+      "url": "https://www.theverge.com/tech/869354/halide-mark-iii-process-zero-update",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Astronomers used AI to find 1,400 ‘anomalous objects’ from Hubble archives",
+        "#text": "Apple’s noise-canceling AirPods 4 are down to one of their best prices to date",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/869182/astronomers-ai-discover-cosmic-anomalies-hubble-archives",
+      "url": "https://www.theverge.com/gadgets/869428/apple-airpods-4-active-noise-cancellation-deal-sale",
       "summary": "(要約準備中)"
     }
   ]
