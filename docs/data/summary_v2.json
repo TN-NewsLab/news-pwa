@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "音声AIの全てが変わった：企業のAI開発者が得られる利益",
-    "title_en": "Everything in voice AI just changed: how enterprise AI builders can benefit",
-    "summary": "最近、音声AI技術が急速に進化し、従来の単純なリクエスト応答から、遅延や流暢さ、効率、感情の問題を解決した「共感的インターフェース」へと移行しています。特に、複数の企業から新しいモデルが登場し、AIの対話能力が大幅に向上したことで、ユーザーはより自然に会話できるようになりました。この変化により、企業は感情的知性を持つAIを求めており、実際のユーザー体験の向上が期待されています。",
-    "summary_en": "最近、音声AI技術が急速に進化し、従来の単純なリクエスト応答から、遅延や流暢さ、効率、感情の問題を解決した「共感的インターフェース」へと移行している。特に、複数の企業からの新しいモデルが登場し、AIの対話能力が大幅に向上したことで、ユーザーがより自然に会話できるようになった。この変化により、企業は感情的知性を持つAIを求めており、実際のユーザー体験の向上が期待されている。",
-    "link": "https://venturebeat.com/orchestration/everything-in-voice-ai-just-changed-how-enterprise-ai-builders-can-benefit",
+    "title": "Contextual AI、エンタープライズRAGを生産準備完了のAIエージェントに変える「Agent Composer」を発表",
+    "title_en": "Contextual AI launches Agent Composer to turn enterprise RAG into production-ready AI agents",
+    "summary": "Contextual AIは企業向けAIの導入を促進するプラットフォーム「Agent Composer」を発表し、AIが専門的な業務を自動化するための新しい手法を提供します。CEOのDouwe Kielaは、AIの効果的な活用において重要なのはモデルではなく、企業独自のデータにアクセスすることだと指摘しています。このプラットフォームは、効率的なワークフロー自動化を実現し、顧客からの評価も得ていますが、企業が自社でAIを構築しようとする傾向が主な課題とされています。",
+    "summary_en": "Contextual AIは企業向けAIの導入を促進するプラットフォーム「Agent Composer」を発表し、AIが専門的な業務を自動化するための新しい手法を提供します。CEOのDouwe Kielaは、AIの効果的な活用において重要なのはモデルではなく、企業独自のデータにアクセスすることだと指摘しています。このプラットフォームは、効率的なワークフロー自動化を実現し、顧客からの評価も得ていますが、企業が自社でAIを構築しようとする傾向が主な課題とされています。",
+    "link": "https://venturebeat.com/technology/contextual-ai-launches-agent-composer-to-turn-enterprise-rag-into-production",
     "category": "AI",
-    "publishedAt": "2026-01-23 12:58"
+    "publishedAt": "2026-01-28 18:57"
   },
   {
     "source": "VentureBeat",
-    "title": "Railway、AIネイティブのクラウドインフラでAWSに挑戦するために1億ドルを調達",
-    "title_en": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-    "summary": "サンフランシスコに拠点を置くクラウドプラットフォームのRailwayが、シリーズBラウンドで1億ドルを調達した。この資金は、AIアプリケーションの需要増加に応じた自社のデータセンター拡張やチームの成長、マーケティング戦略の構築に使われる。Railwayは開発者の効率を向上させ、従来のクラウドサービスよりもコストを大幅に削減できることから、急速に成長している。",
-    "summary_en": "Railway、サンフランシスコに拠点を置くクラウドプラットフォームが、シリーズBラウンドで1億ドルを調達した。この資金は、AIアプリケーションの需要増加に応じた自社のデータセンター拡張やチームの成長、マーケティング戦略の構築に使われる。Railwayは開発者の効率を向上させ、従来のクラウドサービスよりもコストを大幅に削減できることから、急速に成長している。",
-    "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+    "title": "MoonshotのKimi K2.5がAI開発者にエージェントの群れをこれまで以上に簡単に構築する手助け",
+    "title_en": "How Moonshot's Kimi K2.5 helps AI builders spin up agent swarms easier than ever",
+    "summary": "Moonshot AIは、Kimi K2モデルをアップグレードし、コーディングとビジョンをサポートするKimi K2.5モデルを発表しました。この新モデルは、自律エージェントの群れを利用し、視覚的なコーディングプロジェクトに対応できる機能を備えています。さらに、競争力のある価格設定により、企業は効率的にエージェントの広がりを見込むことができ、AIの実世界タスクへの適応も強化されています。",
+    "summary_en": "Moonshot AIは、Kimi K2モデルをアップグレードし、コーディングとビジョンをサポートするKimi K2.5モデルを発表しました。この新モデルは、自律エージェントの群れを利用し、視覚的なコーディングプロジェクトに対応できる機能を備えています。さらに、競争力のある価格設定により、企業は効率的にエージェントの広がりを見込むことができ、AIの実世界タスクへの適応も強化されています。",
+    "link": "https://venturebeat.com/orchestration/moonshot-ai-debuts-kimi-k2-5-most-powerful-open-source-llm-beating-opus-4-5",
     "category": "AI",
-    "publishedAt": "2026-01-23 12:58"
+    "publishedAt": "2026-01-28 18:57"
   },
   {
     "source": "NHK",
-    "title": "日銀 金融政策維持を決定 政策金利 0.75％程度に据え置き",
+    "title": "円相場 一時1ドル＝152円台前半まで値上がり トランプ氏発言で",
     "title_en": "",
-    "summary": "日銀は金融政策決定会合で、政策金利を現状のまま維持することを決定しました。経済や物価の見通しでは、金融・為替市場のリスク要因を指摘し、市場動向を注視する意向を示しました。特に最近の円安や長期金利の急上昇が懸念されています。",
+    "summary": "最近の東京外国為替市場では、アメリカのトランプ大統領がドル安を容認しているとの見方から、ドル売りと円買いが活発化しました。その結果、円相場は一時1ドル＝152円台前半にまで上昇しました。市場の動きは、大統領の発言に影響を受けています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260123/k10015033661000.html",
-    "category": "経済",
-    "publishedAt": "2026-01-23 12:58"
+    "link": "http://www3.nhk.or.jp/news/html/20260128/k10015037331000.html",
+    "category": "その他",
+    "publishedAt": "2026-01-28 18:57"
   },
   {
     "source": "BBC",
-    "title": "「すべては土地に関すること」: ゼレンスキー、ウクライナが米国とロシアと対話を行うと発表",
-    "title_en": "'It's all about the land': Zelensky says Ukraine to talk to US and Russia",
-    "summary": "米国特使スティーブ・ウィトコフがモスクワを訪れ、ロシアのウラジーミル・プーチンとの会談を行うために出発した。この会議は重要な外交的対話の一環として実施される。両国の関係や緊張に影響を与える可能性がある。",
-    "summary_en": "米国特使スティーブ・ウィトコフがモスクワを訪れ、ロシアのウラジーミル・プーチンとの会談を行うために出発した。  \nこの会議は重要な外交的対話の一環として実施される。  \n両国の関係や緊張に影響を与える可能性がある。",
-    "link": "https://www.bbc.com/news/articles/c4g44r22j5jo?at_medium=RSS&at_campaign=rss",
+    "title": "トランプ大統領、プレッティ射撃後にミネソタ州での政府の「緩和」を宣言",
+    "title_en": "Trump says government will 'de-escalate' in Minnesota following Pretti shooting",
+    "summary": "最近、アレックス・プレッティの殺害を受けて、ミネソタ州の関係者や地元住民がトランプ大統領に対し、同州での移民作戦を終了するよう再度要請しました。この事件は、移民政策に対する議論を新たに呼び起こしています。地域社会の反応が高まっている中、問題の解決を求める声が強まっています。",
+    "summary_en": "最近、アレックス・プレッティの殺害を受けて、ミネソタ州の関係者や地元住民がトランプ大統領に対し、同州での移民作戦を終了するよう再び要請しました。この事件は、移民政策に対する議論を新たに呼び起こしています。地域社会の反応が高まっている中、問題の解決を求める声が強まっています。",
+    "link": "https://www.bbc.com/news/articles/c0q425vg4qzo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-01-23 12:58"
+    "publishedAt": "2026-01-28 18:57"
   },
   {
     "source": "NHK",
-    "title": "島根県知事 中国電力に“中部電力と同様の問題あれば退任を”",
+    "title": "柏崎刈羽原発不具合で停止 規制委員長“地元へ丁寧に説明を”",
     "title_en": "",
-    "summary": "静岡県の中部電力浜岡原子力発電所の再稼働に関する審査で、地震の想定が過小評価されていた疑いが浮上しました。これを受けて、島根県の丸山知事は再発防止のために、同様の問題が発生した際には中国電力の社長の退任を求める意向を示しました。",
+    "summary": "東京電力は、再稼働した柏崎刈羽原子力発電所6号機を不具合により運転停止しました。原子力規制委員会の山中委員長は、慎重な作業と地元への説明を求めています。再起動に向けての対応が注視されています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260123/k10015033411000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260128/k10015037841000.html",
     "category": "その他",
-    "publishedAt": "2026-01-23 12:58"
+    "publishedAt": "2026-01-28 18:57"
   }
 ]
