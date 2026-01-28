@@ -1,4 +1,4 @@
-const CACHE_NAME = 'news-pwa-v4';
+const CACHE_NAME = 'news-pwa-v5';
 const RUNTIME_CACHE = 'news-pwa-runtime-v1';
 
 // 静的ファイルのみキャッシュ
