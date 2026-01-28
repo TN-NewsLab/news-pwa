@@ -5,21 +5,20 @@ async function loadNews() {
   container.innerHTML = "<p>読み込み中...</p>";
 
   try {
-    const timestamp = Date.now();
-    const res = await fetch(`data/summary_v2.json?v=${timestamp}`);
+    const res = await fetch(`./data/summary_v2.json`);
 
     const rawData = await res.json();
 
     container.innerHTML = ""; // 初期化
 
     // ----------------------------------------
-    // ① 今の summary.json は「配列」なので、そのまま受け取る
+    // 今の summary_v2.json は「配列」なので、そのまま受け取る
     // ----------------------------------------
     const articles = Array.isArray(rawData) ? rawData : [];
 
     // ----------------------------------------
-    // ② 1件ずつカードを作って追加
-    //     → script.js 本来の createNewsCard をそのまま活かす
+    // 1件ずつカードを作って追加
+    //   → script_v2.js 本来の createNewsCard をそのまま活かす
     // ----------------------------------------
     const section = document.createElement("section");
     section.innerHTML = `<h1 class="section-title">${currentCategory}</h1>`;
@@ -31,8 +30,8 @@ async function loadNews() {
         summary: a.summary || "",
         source: a.source || "unknown",
         tag: convertCategoryName(a.category) || "その他",
-        url: a.url || a.link || "#",      // ← 追加した！重要！
-        publishedAt: a.publishedAt || ""  // placeholder の timestamp を使用
+        url: a.url || a.link || "#",      // 追加した。重要！
+        publishedAt: a.publishedAt || ""  // RSSに公開日時があればその値を使う
       };
 
       section.appendChild(createNewsCard(safeArticle));
@@ -41,7 +40,7 @@ async function loadNews() {
     container.appendChild(section);
 
     // ----------------------------------------
-    // ③ タグフィルタを有効化
+    // タグフィルタを有効化
     // ----------------------------------------
     setupTagFilter();
 
@@ -58,10 +57,10 @@ function createNewsCard(article) {
   const card = document.createElement("div");
   card.className = "news-card";
 
-  // 🔹 タグを決める（tag → category → "その他" の順に採用）
+  // タグを決める（tag → category → "その他" の順に採用）
   const tag = article.tag || article.category || "その他";
 
-  // 🔹 フィルタ用に data-tag 属性を付与
+  // フィルタ用に data-tag 属性を付与
   card.dataset.tag = tag;
 
   card.innerHTML = `
@@ -74,10 +73,10 @@ function createNewsCard(article) {
     <a class="news-link" href="${article.url}" target="_blank">元記事を読む ↗</a>
   `;
 
-  // 💡 ここで生成した .news-tag を取得
+  // ここで生成した .news-tag を取得
   const tagElement = card.querySelector(".news-tag");
 
-  // 💡 タグ名に応じてクラスを付与
+  // タグ名に応じてクラスを付与
   const tagClass =
       tag === "AIニュース" ? "tag-ai" :
       tag === "経済" ? "tag-economy" :
@@ -110,7 +109,7 @@ function setupTagFilter() {
           selectedTag === "all" ? "ニュース" : selectedTag;
       }
 
-      // カードの表示/非表示を切り替え
+      // カードの表示・非表示を切り替え
       cards.forEach((card) => {
         const cardTag = card.dataset.tag || "その他";
 

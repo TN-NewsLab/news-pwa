@@ -4,11 +4,11 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>TN-NewsLab</title>
-  <link rel="manifest" href="manifest.json">
-  <link rel="stylesheet" href="style.css">
-  <link rel="apple-touch-icon" sizes="180x180" href="assets/icon-180.png">
-  <link rel="apple-touch-icon" sizes="152x152" href="assets/icon-152.png">
-  <link rel="apple-touch-icon" sizes="120x120" href="assets/icon-120.png">
+  <link rel="manifest" href="./manifest.json">
+  <link rel="stylesheet" href="./style.css">
+  <link rel="apple-touch-icon" sizes="180x180" href="./assets/icon-180.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="./assets/icon-152.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="./assets/icon-120.png">
   <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap" rel="stylesheet">
  </head>
 
@@ -31,10 +31,10 @@
     <div id="news-container"></div>
   </div>
 
-<script src="script_v2.js?v=9"></script>
+<script src="./script_v2.js"></script>
 <script>
   if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.register('service-worker.js')
+    navigator.serviceWorker.register('./service-worker.js')
       .then(reg => console.log('SW OK:', reg))
       .catch(err => console.log('SW NG:', err));
   }

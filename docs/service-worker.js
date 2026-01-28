@@ -6,7 +6,9 @@ const urlsToCache = [
   './',
   './index.html',
   './style.css',
-  './script_v2.js'
+  './script_v2.js',
+  './manifest.json',
+  './assets/icon-152.png'
 ];
 
 // // 必要ファイルをキャッシュして新SWを即有効化する初期セットアップ
@@ -37,7 +39,7 @@ self.addEventListener('fetch', (event) => {
   const url = new URL(event.request.url);
 
   // 1) ニュースJSON：常に “ネットから” （HTTPキャッシュも使わない）
-  if (url.pathname.endsWith('/summary_v2.json') || url.pathname.includes('/summary_v2.json')) {
+  if (url.pathname.endsWith('/data/summary_v2.json') || url.pathname.includes('/data/summary_v2.json')) {
     event.respondWith((async () => {
       const runtime = await caches.open(RUNTIME_CACHE);
 
