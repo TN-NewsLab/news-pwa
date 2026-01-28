@@ -1,0 +1,68 @@
+{
+  "updatedAt": "2026-01-28T13:13:44.027Z",
+  "top": [
+    {
+      "source": "BBC World",
+      "title": "Trump says government will 'de-escalate' in Minnesota following Pretti shooting",
+      "url": "https://www.bbc.com/news/articles/c0q425vg4qzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The killing of Alex Pretti over the weekend led Minnesota officials and locals to renew calls for Trump to end his immigration operation there. "
+    },
+    {
+      "source": "BBC World",
+      "title": "'I don't let bullies win,' says US congresswoman Omar after substance thrown at her",
+      "url": "https://www.bbc.com/news/articles/cn9zpee3llxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Minnesota Democrat was uninjured and continued to speak at her event, after being sprayed with an unidentified liquid."
+    },
+    {
+      "source": "BBC World",
+      "title": "Amazon confirms 16,000 job cuts after accidental email",
+      "url": "https://www.bbc.com/news/articles/cx2ywzxlxnlo?at_medium=RSS&at_campaign=rss",
+      "summary": "The technology giant confirmed the redundancies hours after it told staff in an email sent in error."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Government offers UK adults free AI training for work",
+      "url": "https://www.bbc.com/news/articles/cp37prvp072o?at_medium=RSS&at_campaign=rss",
+      "summary": "The online lessons give advice on things such as how to prompt chatbots or complete admin tasks."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Amazon confirms 16,000 job cuts after accidental email",
+      "url": "https://www.bbc.com/news/articles/cx2ywzxlxnlo?at_medium=RSS&at_campaign=rss",
+      "summary": "The technology giant confirmed the redundancies hours after it told staff in an email sent in error."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Pornhub to restrict access for UK users from next week",
+      "url": "https://www.bbc.com/news/articles/czr428rxg57o?at_medium=RSS&at_campaign=rss",
+      "summary": "The changes mean only those who have a Pornhub account and have verified their age will be able to access it in the UK soon."
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "Grok is the most antisemitic chatbot according to the ADL",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/news/868925/adl-ai-antisemitism-report-grok-chatgpt-gemini-claude-deepseek-llama-elon-musk",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "Windows 11&#8217;s ability to resume Android apps on your PC is getting closer",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/news/869161/microsoft-windows-11-android-app-resume-feature-release-preview",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "Astronomers used AI to find 1,400 ‘anomalous objects’ from Hubble archives",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/news/869182/astronomers-ai-discover-cosmic-anomalies-hubble-archives",
+      "summary": "(要約準備中)"
+    }
+  ]
+}
