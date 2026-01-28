@@ -1,0 +1,52 @@
+[
+  {
+    "source": "VentureBeat",
+    "title": "Contextual AI、エンタープライズRAGを生産準備完了のAIエージェントに変える「Agent Composer」を発表",
+    "title_en": "Contextual AI launches Agent Composer to turn enterprise RAG into production-ready AI agents",
+    "summary": "Contextual AIは最近、「Agent Composer」プラットフォームを発表し、エンジニアが複雑な業界でAIエージェントを構築し、知識集約型の作業を自動化できるよう支援します。多くの企業がAIプロジェクトの実行に苦労している中、同社はデータの文脈に注目し、効果的な情報提供が採用の鍵であると主張しています。早期顧客の報告によれば、この技術を使用することで作業効率が大幅に向上し、多くの業務プロセスが短時間で完了できるようになったとのことです。",
+    "summary_en": "Contextual AI、最近発表した「Agent Composer」プラットフォームを通じて、エンジニアが複雑な業界でAIエージェントを構築し、知識集約型の作業を自動化できるよう支援します。業界では多くの企業がAIプロジェクトの実行に苦労している中、この企業はデータの文脈に注目し、効果的な情報提供を行うことが採用の鍵であると主張しています。早期顧客の報告によると、同社の技術を使うことで作業効率が大幅に向上し、多くの業務プロセスが短時間で完了できるようになったとされています。",
+    "link": "https://venturebeat.com/technology/contextual-ai-launches-agent-composer-to-turn-enterprise-rag-into-production",
+    "category": "AI",
+    "publishedAt": "2026-01-28 17:55"
+  },
+  {
+    "source": "VentureBeat",
+    "title": "MoonshotのKimi K2.5がAI開発者にエージェント群の構築を容易にする",
+    "title_en": "How Moonshot's Kimi K2.5 helps AI builders spin up agent swarms easier than ever",
+    "summary": "Moonshot AIはKimi K2モデルをアップグレードし、コーディングとビジョンを統合したKimi K2.5を発表しました。このモデルは自己指導型エージェントのオーケストレーションを可能にし、企業が効率的にエージェントを展開できるように設計されています。また、従来のフレームワークに代わり、視覚的コーディングをサポートし、新しいクラスの開発体験を提供します。",
+    "summary_en": "Moonshot AIがKimi K2モデルをアップグレードし、コーディングとビジョンを統合したKimi K2.5を発表しました。このモデルは自己指導型エージェントのオーケストレーションを可能にし、企業が効率的にエージェントを展開できるように設計されています。また、従来のフレームワークに代わり、視覚的コーディングをサポートし、新しいクラスの開発体験を提供します。",
+    "link": "https://venturebeat.com/orchestration/moonshot-ai-debuts-kimi-k2-5-most-powerful-open-source-llm-beating-opus-4-5",
+    "category": "AI",
+    "publishedAt": "2026-01-28 17:56"
+  },
+  {
+    "source": "NHK",
+    "title": "アスクル 中間決算で66億円の赤字 システム障害で特別損失計上",
+    "title_en": "",
+    "summary": "通販大手のアスクルは、サイバー攻撃によるシステム障害の影響を受けた中間決算を発表しました。特別損失を計上した結果、最終的な損益は大幅な赤字となりました。これにより、同社の経営状況に懸念が高まっています。",
+    "summary_en": "",
+    "link": "http://www3.nhk.or.jp/news/html/20260128/k10015037861000.html",
+    "category": "その他",
+    "publishedAt": "2026-01-28 17:56"
+  },
+  {
+    "source": "BBC",
+    "title": "トランプ氏、プレッティ射殺事件後ミネソタ州で政府が「緊張緩和」を図ると発言",
+    "title_en": "Trump says government will 'de-escalate' in Minnesota following Pretti shooting",
+    "summary": "最近、アレックス・プレッティの殺害がミネソタ州の当局や住民の間でトランプ政権に対する移民政策の見直しを求める声を再燃させました。多くの人々が移民操作の中止を求めています。この事件は、地域社会に大きな衝撃を与えています。",
+    "summary_en": "最近、アレックス・プレッティの殺害がミネソタ州の当局や住民の間でトランプ政権に対する移民政策の見直しを求める声を再燃させました。多くの人々が移民操作の中止を求めています。この事件は、地域社会に大きな衝撃を与えています。",
+    "link": "https://www.bbc.com/news/articles/c0q425vg4qzo?at_medium=RSS&at_campaign=rss",
+    "category": "その他",
+    "publishedAt": "2026-01-28 17:56"
+  },
+  {
+    "source": "NHK",
+    "title": "柏崎刈羽原発不具合で停止 規制委員長“地元へ丁寧に説明を”",
+    "title_en": "",
+    "summary": "東京電力は、再稼働した柏崎刈羽原子力発電所6号機を不具合で停止しました。原子力規制委員会の委員長は、慎重な作業と地元への説明を求めています。安全確保のための対応が重要視されています。",
+    "summary_en": "",
+    "link": "http://www3.nhk.or.jp/news/html/20260128/k10015037841000.html",
+    "category": "その他",
+    "publishedAt": "2026-01-28 17:56"
+  }
+]
