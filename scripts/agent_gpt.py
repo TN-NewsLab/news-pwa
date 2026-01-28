@@ -1,4 +1,4 @@
-import os
+#import os
 import requests
 import feedparser
 import json
@@ -9,9 +9,14 @@ sys.stderr.reconfigure(encoding='utf-8')
 from openai import OpenAI
 from dotenv import load_dotenv
 from datetime import datetime, timezone, timedelta
+from pathlib import Path
 
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-DATA_PATH = os.path.join(BASE_DIR, "..", "data", "summary_v2.json")
+#BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+REPO_ROOT = Path(__file__).resolve().parents[1]
+DATA_PATH = REPO_ROOT / "docs" / "data" / "summary_v2.json"
+
+DATA_PATH.parent.mkdir(parents=True, exist_ok=True)
+#DATA_PATH = os.path.join(BASE_DIR, "..", "docs/data", "summary_v2.json")
 
 # 1) .env 読み込み
 load_dotenv()
