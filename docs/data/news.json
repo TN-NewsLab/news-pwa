@@ -1,67 +1,67 @@
 {
-  "updatedAt": "2026-01-23T06:52:59.407Z",
+  "updatedAt": "2026-01-28T02:32:31.804Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Could Trump's bid to become peacemaker-in-chief sideline the struggling UN?",
-      "url": "https://www.bbc.com/news/articles/cn8jj228g2vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president has promised to \"end decades of suffering\" but critics dismiss his Board of Peace as a vainglorious project."
+      "title": "Trump says government will 'de-escalate' in Minnesota following Pretti shooting",
+      "url": "https://www.bbc.com/news/articles/c0q425vg4qzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The killing of Alex Pretti over the weekend led MInnesota officials and locals to renew calls for Trump to end his immigration operation there. "
     },
     {
       "source": "BBC World",
-      "title": "Eight surprise takeaways from the Oscar nominations",
-      "url": "https://www.bbc.com/news/articles/cp3zzv40422o?at_medium=RSS&at_campaign=rss",
-      "summary": "Paul Mescal and Chase Infiniti missed out, while other actors carried their films to a nomination."
+      "title": "Who is Tom Homan, Trump's 'border tsar' deployed to Minneapolis?",
+      "url": "https://www.bbc.com/news/articles/cjw1pn4lwjqo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US border tsar has long been a ferocious defender of Donald Trump's immigration policies. "
     },
     {
       "source": "BBC World",
-      "title": "ICE detains five-year-old and father in Minnesota, lawyer says",
-      "url": "https://www.bbc.com/news/articles/cwyrrqwxpz7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The boy was taken along with his father, the lawyer and school officials say. ICE says it kept the boy safe as his father ran."
+      "title": "US to send ICE agents to Winter Olympics, prompting Italian anger",
+      "url": "https://www.bbc.com/news/articles/c5y29xzjdzvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US federal agency says it will not play an immigration role at February's event in Milan-Cortina."
     },
     {
       "source": "BBC Technology",
-      "title": "TikTok closes deal to split US app from global business. Here's what to know",
-      "url": "https://www.bbc.com/news/articles/c3edd1l328lo?at_medium=RSS&at_campaign=rss",
-      "summary": "The app was due to be banned in the US a year ago if its Chinese owner didn't sell its business in America."
+      "title": "Pornhub to restrict access for UK users from next week",
+      "url": "https://www.bbc.com/news/articles/czr428rxg57o?at_medium=RSS&at_campaign=rss",
+      "summary": "The changes mean only those who have a Pornhub account and have verified their age will be able to access it in the UK soon."
     },
     {
       "source": "BBC Technology",
-      "title": "Ubisoft cancels six games including Prince of Persia and closes studios",
-      "url": "https://www.bbc.com/news/articles/c6200g826d2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The studio, known for Assassin's Creed and Just Dance, is also delaying seven titles in a restructure."
+      "title": "TikTok US pushes back on claims it is censoring content",
+      "url": "https://www.bbc.com/news/articles/ckgjedpn8p8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Thousands of people claim political content is being suppressed after the US operation was spun off."
     },
     {
       "source": "BBC Technology",
-      "title": "AI ready: The advantages of being a young entrepreneur",
-      "url": "https://www.bbc.com/news/articles/c058d4nvz1go?at_medium=RSS&at_campaign=rss",
-      "summary": "The latest generation of entrepreneurs have a head-start with AI but also face familiar challenges."
+      "title": "AI boom will produce victors and carnage, tech boss warns",
+      "url": "https://www.bbc.com/news/articles/cr57p2ve8glo?at_medium=RSS&at_campaign=rss",
+      "summary": "Cisco chief executive Chuck Robbins compares AI to the dotcom bubble of the early 2000s."
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The TikTok deal is done, finally",
+        "#text": "The crypto bill is falling apart in Congress",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/866437/tiktok-usds-bytedance-sale-oracle-mgx",
+      "url": "https://www.theverge.com/column/868941/clarity-act-congress-shutdown",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Ring can verify videos now, but that might not help you with most AI fakes",
+        "#text": "The best Android phones",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/866441/ring-verify-security-camera-ai-fakes-video-verification",
+      "url": "https://www.theverge.com/23674658/best-android-phone",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Beyond Good and Evil 2 somehow survived the purge at Ubisoft",
+        "#text": "Meta is spending millions to convince people that data centers are cool and you like them",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/866439/beyond-good-and-evil-2-somehow-survived-the-purge-at-ubisoft",
+      "url": "https://www.theverge.com/news/869008/meta-data-centers-ad-campaign",
       "summary": "(要約準備中)"
     }
   ]
