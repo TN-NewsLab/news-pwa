@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-01-27T18:57:37.371Z",
+  "updatedAt": "2026-01-28T02:32:31.804Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Trump says government will 'de-escalate' in Minnesota following Pretti shooting",
+      "url": "https://www.bbc.com/news/articles/c0q425vg4qzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The killing of Alex Pretti over the weekend led MInnesota officials and locals to renew calls for Trump to end his immigration operation there. "
+    },
+    {
+      "source": "BBC World",
+      "title": "Who is Tom Homan, Trump's 'border tsar' deployed to Minneapolis?",
+      "url": "https://www.bbc.com/news/articles/cjw1pn4lwjqo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US border tsar has long been a ferocious defender of Donald Trump's immigration policies. "
+    },
     {
       "source": "BBC World",
       "title": "US to send ICE agents to Winter Olympics, prompting Italian anger",
@@ -8,20 +20,8 @@
       "summary": "The US federal agency says it will not play an immigration role at February's event in Milan-Cortina."
     },
     {
-      "source": "BBC World",
-      "title": "'We all know someone who was killed' -  Iran protesters tell BBC of brutal crackdown",
-      "url": "https://www.bbc.com/news/articles/cy8y2jxx9ppo?at_medium=RSS&at_campaign=rss",
-      "summary": "Young Iranians able tell the BBC how they saw friends and other people die as security forces crushed protests earlier this month."
-    },
-    {
-      "source": "BBC World",
-      "title": "Spain plans to give half a million undocumented migrants legal status",
-      "url": "https://www.bbc.com/news/articles/c62n6gw1dp9o?at_medium=RSS&at_campaign=rss",
-      "summary": "The process will be available to foreign nationals without a criminal record who can prove they lived in Spain for five months prior to 31 December 2025."
-    },
-    {
       "source": "BBC Technology",
-      "title": "Pornhub to restrict access for UK users from February",
+      "title": "Pornhub to restrict access for UK users from next week",
       "url": "https://www.bbc.com/news/articles/czr428rxg57o?at_medium=RSS&at_campaign=rss",
       "summary": "The changes mean only those who have a Pornhub account and have verified their age will be able to access it in the UK soon."
     },
@@ -33,35 +33,35 @@
     },
     {
       "source": "BBC Technology",
-      "title": "Legal action over 'unfair' Steam game store prices given go ahead",
-      "url": "https://www.bbc.com/news/articles/cx2g1md0l23o?at_medium=RSS&at_campaign=rss",
-      "summary": "Millions of gamers could get compensation if the lawsuit - which accuses Valve of charging inflated prices - succeeds."
+      "title": "AI boom will produce victors and carnage, tech boss warns",
+      "url": "https://www.bbc.com/news/articles/cr57p2ve8glo?at_medium=RSS&at_campaign=rss",
+      "summary": "Cisco chief executive Chuck Robbins compares AI to the dotcom bubble of the early 2000s."
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "A former Netflix game studio went indie to reach more players",
+        "#text": "The crypto bill is falling apart in Congress",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/868711/spry-fox-netflix-game-studio-indie-spirit-crossing",
+      "url": "https://www.theverge.com/column/868941/clarity-act-congress-shutdown",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "An app developer is suing Apple for Sherlocking it with Continuity Camera",
+        "#text": "The best Android phones",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/868740/apple-reincubate-lawsuit-camo-continuity-camera",
+      "url": "https://www.theverge.com/23674658/best-android-phone",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Anker’s foldable 3-in-1 charging station has hit a new low price of $50",
+        "#text": "Meta is spending millions to convince people that data centers are cool and you like them",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/868696/anker-maggo-wireless-charging-station-foldable-3-in-1-lego-roses-deal-sale",
+      "url": "https://www.theverge.com/news/869008/meta-data-centers-ad-campaign",
       "summary": "(要約準備中)"
     }
   ]
