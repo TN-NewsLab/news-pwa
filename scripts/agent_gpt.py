@@ -11,12 +11,10 @@ from dotenv import load_dotenv
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
-#BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 REPO_ROOT = Path(__file__).resolve().parents[1]
 DATA_PATH = REPO_ROOT / "docs" / "data" / "summary_v2.json"
 
 DATA_PATH.parent.mkdir(parents=True, exist_ok=True)
-#DATA_PATH = os.path.join(BASE_DIR, "..", "docs/data", "summary_v2.json")
 
 # 1) .env 読み込み
 load_dotenv()
