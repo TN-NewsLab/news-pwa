@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-01-29T13:32:54.423Z",
+  "updatedAt": "2026-01-29T19:04:13.524Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "What could happen if the US strikes Iran? Here are seven scenarios",
-      "url": "https://www.bbc.com/news/articles/ce3kenge1k9o?at_medium=RSS&at_campaign=rss",
-      "summary": "From regime change to retaliation, the BBC's Frank Gardner outlines possible outcomes of US strikes on Iran."
+      "title": "EU adds Iran's Revolutionary Guards to terrorist list",
+      "url": "https://www.bbc.com/news/articles/c20gypw8enjo?at_medium=RSS&at_campaign=rss",
+      "summary": "EU foreign policy chief Kaja Kallas says the move is a response to Tehran's deadly crackdown on protesters."
     },
     {
       "source": "BBC World",
-      "title": "Nicki Minaj calls herself Trump's 'number one fan' and shows off gold card visa",
-      "url": "https://www.bbc.com/news/articles/cp87l604nx8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Trinidadian-American rapper held hands on stage with the US President, amid ICE protests."
+      "title": "'I can breathe again' says Israeli hostage held for nearly 500 days in Gaza",
+      "url": "https://www.bbc.com/news/articles/c8rm20gm364o?at_medium=RSS&at_campaign=rss",
+      "summary": "In his first international interview, Sasha Troufanov tells the BBC how he thought he would die in captivity after he was taken hostage on 7 October 2023. "
     },
     {
       "source": "BBC World",
-      "title": "Talks ramp up to avert US government shutdown after Minneapolis shooting",
-      "url": "https://www.bbc.com/news/articles/cn9zp0nyvxdo?at_medium=RSS&at_campaign=rss",
-      "summary": "Democrats are pushing to remove funding for the Department of Homeland Security unless new measures are implemented. "
+      "title": "France moves to abolish concept of marital duty to have sex",
+      "url": "https://www.bbc.com/news/articles/cgjwxdz45ywo?at_medium=RSS&at_campaign=rss",
+      "summary": "The proposed bill would enshrine in law the end of so-called \"conjugal rights\" – the notion that marriage means a duty to have sex."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Best gas masks",
+        "#text": "Everything is gambling now: the latest news on prediction markets like Polymarket and Kalshi",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/868571/best-gas-masks",
+      "url": "https://www.theverge.com/news/868238/prediction-markets-polymarket-kalshi-robinhood",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "PopSockets added a wallet to its folding kickstand grip",
+        "#text": "Spotify&#8217;s new group chats share music with everyone in your circle",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/869304/popsockets-kick-out-popwallet-grip-magsafe-iphone-pixelsnap",
+      "url": "https://www.theverge.com/news/870288/spotify-group-chats-direct-messaging-expansion",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "There won’t be a Nothing Phone 4 this year",
+        "#text": "Half of developers think gen AI is bad for the gaming industry",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/869975/nothing-phone-4-not-releasing-2026-flagship",
+      "url": "https://www.theverge.com/entertainment/869386/ai-game-development-gdc-survey",
       "summary": "(要約準備中)"
     }
   ]
