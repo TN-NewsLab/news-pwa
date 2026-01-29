@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "Contextual AI、エンタープライズRAGを生産準備完了のAIエージェントに変える「Agent Composer」を発表",
-    "title_en": "Contextual AI launches Agent Composer to turn enterprise RAG into production-ready AI agents",
-    "summary": "Contextual AIは企業向けAIの導入を促進するプラットフォーム「Agent Composer」を発表し、AIが専門的な業務を自動化するための新しい手法を提供します。CEOのDouwe Kielaは、AIの効果的な活用において重要なのはモデルではなく、企業独自のデータにアクセスすることだと指摘しています。このプラットフォームは、効率的なワークフロー自動化を実現し、顧客からの評価も得ていますが、企業が自社でAIを構築しようとする傾向が主な課題とされています。",
-    "summary_en": "Contextual AIは企業向けAIの導入を促進するプラットフォーム「Agent Composer」を発表し、AIが専門的な業務を自動化するための新しい手法を提供します。CEOのDouwe Kielaは、AIの効果的な活用において重要なのはモデルではなく、企業独自のデータにアクセスすることだと指摘しています。このプラットフォームは、効率的なワークフロー自動化を実現し、顧客からの評価も得ていますが、企業が自社でAIを構築しようとする傾向が主な課題とされています。",
-    "link": "https://venturebeat.com/technology/contextual-ai-launches-agent-composer-to-turn-enterprise-rag-into-production",
+    "title": "Adaptive6が姿を現し、企業のクラウド無駄を削減（チケットマスターの最適化も進行中）",
+    "title_en": "Adaptive6 emerges from stealth to reduce enterprise cloud waste (and it's already optimizing Ticketmaster)",
+    "summary": "最近、Adaptive6という企業がクラウドの無駄をリアルタイムで自動的に削減する新しいプラットフォームを発表しました。このシステムは、サイバーセキュリティのアプローチを取り入れ、クラウドコストのガバナンスをエンジニアに委ね、効率を高めることを目指しています。顧客は既に大幅なコスト削減を報告しており、今後はデプロイ前に無駄を防ぐ機能も備えています。",
+    "summary_en": "最近、Adaptive6という企業がクラウドの無駄をリアルタイムで自動的に削減する新しいプラットフォームを発表しました。このシステムは、サイバーセキュリティのアプローチを取り入れ、クラウドコストのガバナンスをエンジニアに委ね、効率を高めることを目指しています。顧客は既に大幅なコスト削減を報告しており、今後はデプロイ前に無駄を防ぐ機能も備えています。",
+    "link": "https://venturebeat.com/infrastructure/adaptive6-emerges-from-stealth-to-reduce-enterprise-cloud-waste-and-its",
     "category": "AI",
-    "publishedAt": "2026-01-28 18:57"
+    "publishedAt": "2026-01-29 14:53"
   },
   {
     "source": "VentureBeat",
-    "title": "MoonshotのKimi K2.5がAI開発者にエージェントの群れをこれまで以上に簡単に構築する手助け",
-    "title_en": "How Moonshot's Kimi K2.5 helps AI builders spin up agent swarms easier than ever",
-    "summary": "Moonshot AIは、Kimi K2モデルをアップグレードし、コーディングとビジョンをサポートするKimi K2.5モデルを発表しました。この新モデルは、自律エージェントの群れを利用し、視覚的なコーディングプロジェクトに対応できる機能を備えています。さらに、競争力のある価格設定により、企業は効率的にエージェントの広がりを見込むことができ、AIの実世界タスクへの適応も強化されています。",
-    "summary_en": "Moonshot AIは、Kimi K2モデルをアップグレードし、コーディングとビジョンをサポートするKimi K2.5モデルを発表しました。この新モデルは、自律エージェントの群れを利用し、視覚的なコーディングプロジェクトに対応できる機能を備えています。さらに、競争力のある価格設定により、企業は効率的にエージェントの広がりを見込むことができ、AIの実世界タスクへの適応も強化されています。",
-    "link": "https://venturebeat.com/orchestration/moonshot-ai-debuts-kimi-k2-5-most-powerful-open-source-llm-beating-opus-4-5",
+    "title": "AirtableのSuperagentがマルチエージェントの文脈問題を解決するための全実行可視化を維持",
+    "title_en": "Airtable's Superagent maintains full execution visibility to solve multi-agent context problem",
+    "summary": "Airtableの新しいAIエージェント「Superagent」は、専門的なAIエージェントが並行して研究タスクを遂行する独立したリサーチエージェントです。このシステムは、全体の実行過程を把握するオーケストレーターによって管理され、タスクを複数の専門エージェントに分けて効率的に処理します。また、データの構造がエージェントのパフォーマンスに重要であることを強調しており、企業はデータ準備に多くのリソースを投資する必要があると述べています。",
+    "summary_en": "Airtableの新しいAIエージェント「Superagent」は、専門的なAIエージェントが並行して研究タスクを遂行する独立したリサーチエージェントです。このシステムは、全体の実行過程を把握するオーケストレーターによって管理され、タスクを複数の専門エージェントに分けて効率的に処理します。また、データの構造がエージェントのパフォーマンスに重要であることを強調しており、企業はデータ準備に多くのリソースを投資する必要があると述べています。",
+    "link": "https://venturebeat.com/data/airtables-superagent-maintains-full-execution-visibility-to-solve-multi",
     "category": "AI",
-    "publishedAt": "2026-01-28 18:57"
+    "publishedAt": "2026-01-29 14:53"
   },
   {
     "source": "NHK",
-    "title": "円相場 一時1ドル＝152円台前半まで値上がり トランプ氏発言で",
+    "title": "財務省 景気判断 全国は据え置き 「北陸」「沖縄」は引き上げ",
     "title_en": "",
-    "summary": "最近の東京外国為替市場では、アメリカのトランプ大統領がドル安を容認しているとの見方から、ドル売りと円買いが活発化しました。その結果、円相場は一時1ドル＝152円台前半にまで上昇しました。市場の動きは、大統領の発言に影響を受けています。",
+    "summary": "財務省は全国の景気について、一部に弱さを感じるものの緩やかな回復を維持していると判断しました。地域別では、北陸と沖縄の景気判断を改善しました。全体的な見解には大きな変化はありません。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260128/k10015037331000.html",
-    "category": "その他",
-    "publishedAt": "2026-01-28 18:57"
+    "link": "http://www3.nhk.or.jp/news/html/20260129/k10015038561000.html",
+    "category": "経済",
+    "publishedAt": "2026-01-29 14:53"
   },
   {
     "source": "BBC",
-    "title": "トランプ大統領、プレッティ射撃後にミネソタ州での政府の「緩和」を宣言",
-    "title_en": "Trump says government will 'de-escalate' in Minnesota following Pretti shooting",
-    "summary": "最近、アレックス・プレッティの殺害を受けて、ミネソタ州の関係者や地元住民がトランプ大統領に対し、同州での移民作戦を終了するよう再度要請しました。この事件は、移民政策に対する議論を新たに呼び起こしています。地域社会の反応が高まっている中、問題の解決を求める声が強まっています。",
-    "summary_en": "最近、アレックス・プレッティの殺害を受けて、ミネソタ州の関係者や地元住民がトランプ大統領に対し、同州での移民作戦を終了するよう再び要請しました。この事件は、移民政策に対する議論を新たに呼び起こしています。地域社会の反応が高まっている中、問題の解決を求める声が強まっています。",
-    "link": "https://www.bbc.com/news/articles/c0q425vg4qzo?at_medium=RSS&at_campaign=rss",
+    "title": "トランプ氏、イランに核合意について「時間がない」と警告、米軍は湾岸で増強",
+    "title_en": "Trump warns Iran 'time is running out' for nuclear deal as US military builds up in Gulf",
+    "summary": "テヘランの武装勢力は、いかなる攻撃にも対応する準備ができていると発表しました。彼らは「引き金を引く準備が整っている」と述べています。この発言は、地域の緊張の高まりを示唆しています。",
+    "summary_en": "テヘランの武装勢力は、いかなる攻撃にも対応する準備ができていると発表しました。彼らは「引き金を引く準備が整っている」と述べています。この発言は、地域の緊張の高まりを示唆しています。",
+    "link": "https://www.bbc.com/news/articles/cly5pd459gko?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-01-28 18:57"
+    "publishedAt": "2026-01-29 14:53"
   },
   {
     "source": "NHK",
-    "title": "柏崎刈羽原発不具合で停止 規制委員長“地元へ丁寧に説明を”",
+    "title": "柏崎刈羽原発所長 2月26日に営業運転再開とした工程見直す考え",
     "title_en": "",
-    "summary": "東京電力は、再稼働した柏崎刈羽原子力発電所6号機を不具合により運転停止しました。原子力規制委員会の山中委員長は、慎重な作業と地元への説明を求めています。再起動に向けての対応が注視されています。",
+    "summary": "東京電力の柏崎刈羽原発6号機が不具合で停止しました。所長は原因調査結果をまとめる予定であり、営業運転再開のスケジュールを見直す考えを示しました。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260128/k10015037841000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260129/k10015038491000.html",
     "category": "その他",
-    "publishedAt": "2026-01-28 18:57"
+    "publishedAt": "2026-01-29 14:53"
   }
 ]

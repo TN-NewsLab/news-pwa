@@ -36,7 +36,7 @@ async function main() {
     top: results
   };
 
-  fs.mkdirSync("data", { recursive: true });
+  fs.mkdirSync("docs/data", { recursive: true });
   fs.writeFileSync("docs/data/news.json", JSON.stringify(payload, null, 2));
   console.log("✅ docs/data/news.json updated!");
 }

@@ -1,67 +1,67 @@
 {
-  "updatedAt": "2026-01-28T02:32:31.804Z",
+  "updatedAt": "2026-01-29T02:50:40.203Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Trump says government will 'de-escalate' in Minnesota following Pretti shooting",
-      "url": "https://www.bbc.com/news/articles/c0q425vg4qzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The killing of Alex Pretti over the weekend led MInnesota officials and locals to renew calls for Trump to end his immigration operation there. "
+      "title": "Trump warns Iran 'time is running out' for nuclear deal as US military builds up in Gulf",
+      "url": "https://www.bbc.com/news/articles/cly5pd459gko?at_medium=RSS&at_campaign=rss",
+      "summary": "Tehran says its armed forces are ready \"with their fingers on the trigger\" to respond to any aggression. "
     },
     {
       "source": "BBC World",
-      "title": "Who is Tom Homan, Trump's 'border tsar' deployed to Minneapolis?",
-      "url": "https://www.bbc.com/news/articles/cjw1pn4lwjqo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US border tsar has long been a ferocious defender of Donald Trump's immigration policies. "
+      "title": "'Don't take us to a hospital': Iran protesters treated in secret to avoid arrest",
+      "url": "https://www.bbc.com/news/articles/c5yx015nkplo?at_medium=RSS&at_campaign=rss",
+      "summary": "Wounded demonstrators tell the BBC they are relying on medics willing to risk their own safety by treating them at their homes."
     },
     {
       "source": "BBC World",
-      "title": "US to send ICE agents to Winter Olympics, prompting Italian anger",
-      "url": "https://www.bbc.com/news/articles/c5y29xzjdzvo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US federal agency says it will not play an immigration role at February's event in Milan-Cortina."
+      "title": "Border agents involved in fatal shooting of Alex Pretti placed on leave",
+      "url": "https://www.bbc.com/news/articles/ckgn0w129lqo?at_medium=RSS&at_campaign=rss",
+      "summary": "As Trump and the Minneapolis Mayor spar over social media on immigration law enforcement, the US continues to be roiled by the killing of nurse Alex Pretti."
     },
     {
       "source": "BBC Technology",
-      "title": "Pornhub to restrict access for UK users from next week",
-      "url": "https://www.bbc.com/news/articles/czr428rxg57o?at_medium=RSS&at_campaign=rss",
-      "summary": "The changes mean only those who have a Pornhub account and have verified their age will be able to access it in the UK soon."
+      "title": "Driverless taxis set to launch in UK as soon as September",
+      "url": "https://www.bbc.com/news/articles/czej9n578k9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Waymo has laid out plans for a robotaxi service in London with a pilot scheme due to begin in April."
     },
     {
       "source": "BBC Technology",
-      "title": "TikTok US pushes back on claims it is censoring content",
-      "url": "https://www.bbc.com/news/articles/ckgjedpn8p8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Thousands of people claim political content is being suppressed after the US operation was spun off."
+      "title": "Tesla sees first annual revenue drop as it shifts to AI and robots",
+      "url": "https://www.bbc.com/news/articles/c620177qdg5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Multi-billionaire Elon Musk also announced plans to end production of its Model S and Model X vehicles."
     },
     {
       "source": "BBC Technology",
-      "title": "AI boom will produce victors and carnage, tech boss warns",
-      "url": "https://www.bbc.com/news/articles/cr57p2ve8glo?at_medium=RSS&at_campaign=rss",
-      "summary": "Cisco chief executive Chuck Robbins compares AI to the dotcom bubble of the early 2000s."
+      "title": "Facebook-owner to nearly double AI spending this year",
+      "url": "https://www.bbc.com/news/articles/cn8jkyk78gno?at_medium=RSS&at_campaign=rss",
+      "summary": "Mark Zuckerberg's spending plans hint at further layoffs and changes within Facebook, Instagram and WhatsApp."
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The crypto bill is falling apart in Congress",
+        "#text": "Halide co-founder Sebastiaan de With is joining Apple&#8217;s design team",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/column/868941/clarity-act-congress-shutdown",
+      "url": "https://www.theverge.com/tech/869926/apple-hires-sebastiaan-de-with-design-team-halide-lux",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The best Android phones",
+        "#text": "Mark Zuckerberg is all in on AI as the new social media",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/23674658/best-android-phone",
+      "url": "https://www.theverge.com/news/869882/mark-zuckerberg-meta-earnings-q4-2025",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Meta is spending millions to convince people that data centers are cool and you like them",
+        "#text": "Windows 11 has reached 1 billion users faster than Windows 10",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/869008/meta-data-centers-ad-campaign",
+      "url": "https://www.theverge.com/news/869889/microsoft-windows-11-1-billion-users",
       "summary": "(要約準備中)"
     }
   ]
