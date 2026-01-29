@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-01-28T18:53:48.026Z",
+  "updatedAt": "2026-01-29T02:50:40.203Z",
   "top": [
     {
       "source": "BBC World",
       "title": "Trump warns Iran 'time is running out' for nuclear deal as US military builds up in Gulf",
       "url": "https://www.bbc.com/news/articles/cly5pd459gko?at_medium=RSS&at_campaign=rss",
-      "summary": "Tehran says it will “respond like never before” if necessary to what the US president says is a \"massive Armada\" moving towards Iran. "
+      "summary": "Tehran says its armed forces are ready \"with their fingers on the trigger\" to respond to any aggression. "
     },
     {
       "source": "BBC World",
@@ -15,53 +15,53 @@
     },
     {
       "source": "BBC World",
-      "title": "China trip will bring benefits to UK, Starmer insists, ahead of Xi meeting",
-      "url": "https://www.bbc.com/news/articles/c4gw47prew7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The prime minister seeks to strengthen ties with China but faces fierce criticism from opponents at home. "
+      "title": "Border agents involved in fatal shooting of Alex Pretti placed on leave",
+      "url": "https://www.bbc.com/news/articles/ckgn0w129lqo?at_medium=RSS&at_campaign=rss",
+      "summary": "As Trump and the Minneapolis Mayor spar over social media on immigration law enforcement, the US continues to be roiled by the killing of nurse Alex Pretti."
     },
     {
       "source": "BBC Technology",
-      "title": "Iran's internet is returning - but not for everyone",
-      "url": "https://www.bbc.com/news/articles/cz7y2ddgl23o?at_medium=RSS&at_campaign=rss",
-      "summary": "The country cut off internet access on 8 January following a government crackdown on protesters."
+      "title": "Driverless taxis set to launch in UK as soon as September",
+      "url": "https://www.bbc.com/news/articles/czej9n578k9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Waymo has laid out plans for a robotaxi service in London with a pilot scheme due to begin in April."
     },
     {
       "source": "BBC Technology",
-      "title": "Government offers UK adults free AI training for work",
-      "url": "https://www.bbc.com/news/articles/cp37prvp072o?at_medium=RSS&at_campaign=rss",
-      "summary": "The online lessons give advice on things such as how to prompt chatbots or complete admin tasks."
+      "title": "Tesla sees first annual revenue drop as it shifts to AI and robots",
+      "url": "https://www.bbc.com/news/articles/c620177qdg5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Multi-billionaire Elon Musk also announced plans to end production of its Model S and Model X vehicles."
     },
     {
       "source": "BBC Technology",
-      "title": "Amazon confirms 16,000 job cuts after accidental email",
-      "url": "https://www.bbc.com/news/articles/cx2ywzxlxnlo?at_medium=RSS&at_campaign=rss",
-      "summary": "The technology giant confirmed the redundancies hours after it told staff in an email sent in error."
+      "title": "Facebook-owner to nearly double AI spending this year",
+      "url": "https://www.bbc.com/news/articles/cn8jkyk78gno?at_medium=RSS&at_campaign=rss",
+      "summary": "Mark Zuckerberg's spending plans hint at further layoffs and changes within Facebook, Instagram and WhatsApp."
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Spotify says it paid out $11 billion in royalties in 2025",
+        "#text": "Halide co-founder Sebastiaan de With is joining Apple&#8217;s design team",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/869523/spotify-11-billion-in-royalties",
+      "url": "https://www.theverge.com/tech/869926/apple-hires-sebastiaan-de-with-design-team-halide-lux",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Process Zero II will let you do a little processing, if you want",
+        "#text": "Mark Zuckerberg is all in on AI as the new social media",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/869354/halide-mark-iii-process-zero-update",
+      "url": "https://www.theverge.com/news/869882/mark-zuckerberg-meta-earnings-q4-2025",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Apple’s noise-canceling AirPods 4 are down to one of their best prices to date",
+        "#text": "Windows 11 has reached 1 billion users faster than Windows 10",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/869428/apple-airpods-4-active-noise-cancellation-deal-sale",
+      "url": "https://www.theverge.com/news/869889/microsoft-windows-11-1-billion-users",
       "summary": "(要約準備中)"
     }
   ]
