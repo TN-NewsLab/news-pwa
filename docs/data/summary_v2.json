@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "Adaptive6がステルスから脱し、企業のクラウド無駄を削減（すでにTicketmasterを最適化中）",
+    "title": "Adaptive6、企業クラウドの無駄を削減するためにステルスから姿を現す（すでにTicketmasterの最適化も実施）",
     "title_en": "Adaptive6 emerges from stealth to reduce enterprise cloud waste (and it's already optimizing Ticketmaster)",
-    "summary": "最近、企業が新しいAI支援プログラミングツールを活用する中、クラウド費用の無駄が大きな懸念となっています。Adaptive6という新しい企業は、クラウドの無駄をリアルタイムで自動的に減少させるプラットフォームを提供し、エンジニアが直接無駄を解決できるようにします。このシステムは、コストの無駄を特定するだけでなく、開発過程での新たな非効率も防ぐ機能を持っています。",
-    "summary_en": "最近、企業が新しいAI支援プログラミングツールを活用する中、クラウド費用の無駄が大きな懸念となっています。Adaptive6という新しい企業は、クラウドの無駄をリアルタイムで自動的に減少させるプラットフォームを提供し、エンジニアが直接無駄を解決できるようにします。このシステムは、コストの無駄を特定するだけでなく、開発過程での新たな非効率も防ぐ機能を持っています。",
+    "summary": "企業は新しいAI支援プログラミングツールを活用しながら、クラウドコストの無駄に悩まされている。Adaptive6という企業は、クラウドの無駄を自動で検出・修正するプラットフォームを提供し、開発者が自らのワークフロー内で効率改善を実現できるよう支援している。この技術により、多くの企業がクラウドコストを大幅に削減することに成功している。",
+    "summary_en": "企業は新しいAI支援プログラミングツールを活用しながら、クラウドコストの無駄に悩まされている。Adaptive6という企業は、クラウドの無駄を自動で検出・修正するプラットフォームを提供し、開発者が自らのワークフロー内で効率改善を実現できるよう支援している。この技術により、多くの企業がクラウドコストを大幅に削減することに成功している。",
     "link": "https://venturebeat.com/infrastructure/adaptive6-emerges-from-stealth-to-reduce-enterprise-cloud-waste-and-its",
     "category": "AI",
-    "publishedAt": "2026-01-29 15:31"
+    "publishedAt": "2026-01-29 16:51"
   },
   {
     "source": "VentureBeat",
-    "title": "AirtableのSuperagentがマルチエージェントコンテキスト問題を解決するために完全な実行可視性を維持",
+    "title": "AirtableのSuperagentが多エージェントコンテキスト問題を解決するための完全な実行可視性を維持",
     "title_en": "Airtable's Superagent maintains full execution visibility to solve multi-agent context problem",
-    "summary": "Airtableが新たに発表したSuperagentは、専門のAIエージェントチームが並行してリサーチタスクを遂行する独立したリサーチエージェントです。このシステムは、初期計画や実行ステップを通じて全体のコンテキストを維持する中央オーケストレーターを使用しており、エージェントの自由な運用を促進しています。また、効果的なデータ構造と文脈管理が、エージェントの性能向上に重要であるとされています。",
-    "summary_en": "Airtableが新たに発表したSuperagentは、専門のAIエージェントチームが並行してリサーチタスクを遂行する独立したリサーチエージェントです。このシステムは、初期計画や実行ステップを通じて全体のコンテキストを維持する中央オーケストレーターを使用しており、エージェントの自由な運用を促進しています。また、効果的なデータ構造と文脈管理が、エージェントの性能向上に重要であるとされています。",
+    "summary": "Airtableは独自のデータ主導設計哲学に基づき、Superagentという新しいAIエージェントを導入しました。Superagentは専門的なAIエージェントのチームが並行して研究タスクを遂行し、オーケストレーターが全体の実行過程を管理してコンテキストを保持します。また、エージェントのパフォーマンスはデータの構造の質に依存し、データ準備の重要性が強調されています。",
+    "summary_en": "Airtableは独自のデータ主導設計哲学を基に、Superagentという新しいAIエージェントを導入しました。Superagentは専門的なAIエージェントのチームが並行して研究タスクを遂行するもので、オーケストレーターが全体の実行過程を管理し、コンテキストを保持します。また、エージェントのパフォーマンスはデータの構造の質に依存し、データ準備が重要であることが強調されています。",
     "link": "https://venturebeat.com/data/airtables-superagent-maintains-full-execution-visibility-to-solve-multi",
     "category": "AI",
-    "publishedAt": "2026-01-29 15:31"
+    "publishedAt": "2026-01-29 16:51"
   },
   {
     "source": "NHK",
-    "title": "キヤノン 御手洗冨士夫氏が社長退任へ 後任に小川一登副社長",
+    "title": "金の国内小売価格 1グラム当たり3万円超に 最高値更新",
     "title_en": "",
-    "summary": "キヤノンは会長兼社長CEOの御手洗冨士夫氏が社長を退任し、小川一登副社長が後任となる人事を発表しました。御手洗氏は会長CEOとして引き続き勤務します。この人事変更は、企業の新たな舵取りを示唆しています。",
+    "summary": "ドル安の影響で金の価格が上昇しています。国内の小売価格は先日、1グラムあたり初めて3万円を超えました。これにより、新たな最高値を記録しました。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260129/k10015038471000.html",
-    "category": "経済",
-    "publishedAt": "2026-01-29 15:31"
+    "link": "http://www3.nhk.or.jp/news/html/20260129/k10015038651000.html",
+    "category": "その他",
+    "publishedAt": "2026-01-29 16:51"
   },
   {
     "source": "BBC",
-    "title": "トランプ大統領、イランに「核合意のための時間が迫っている」と警告し、米軍が湾岸地域に増派",
-    "title_en": "Trump warns Iran 'time is running out' for nuclear deal as US military builds up in Gulf",
-    "summary": "テヘランは、いかなる攻撃にも対応するために武 Armed Forcesが「引き金に指を置いて」準備ができていると述べています。最近の緊張状態が背景にあり、強い軍事的姿勢を示しています。この発言は、地域の安全保障に関する懸念を高めています。",
-    "summary_en": "テヘランは、いかなる攻撃にも対応するために武 Armed Forcesが「引き金に指を置いて」準備ができていると述べています。最近の緊張状態が背景にあり、強い軍事的姿勢を示しています。この発言は、地域の安全保障に関する懸念を高めています。",
-    "link": "https://www.bbc.com/news/articles/cly5pd459gko?at_medium=RSS&at_campaign=rss",
+    "title": "アメリカがイランを攻撃した場合の可能性：7つのシナリオ",
+    "title_en": "What could happen if the US strikes Iran? Here are seven scenarios",
+    "summary": "BBCのフランク・ガードナーは、アメリカによるイランへの攻撃が引き起こす可能性のある結果を詳述しています。政権交代や報復のシナリオが考えられ、地域の安定に与える影響が重要な焦点となっています。これにより国際関係や安全保障の状況が一層複雑化する恐れがあります。",
+    "summary_en": "BBCのフランク・ガードナーは、アメリカによるイランへの攻撃が引き起こす可能性のある結果を詳述しています。政権交代や報復のシナリオが考えられ、地域の安定に与える影響が重要な焦点となっています。これにより国際関係や安全保障の状況が一層複雑化する恐れがあります。",
+    "link": "https://www.bbc.com/news/articles/ce3kenge1k9o?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-01-29 15:31"
+    "publishedAt": "2026-01-29 16:51"
   },
   {
     "source": "NHK",
     "title": "柏崎刈羽原発所長 2月26日に営業運転再開とした工程見直す考え",
     "title_en": "",
-    "summary": "東京電力は柏崎刈羽原子力発電所6号機で不具合が発生し、原子炉を停止しました。所長は原因調査の結果を近く発表する予定で、営業運転再開の工程を見直す考えを示しました。今後の進展に注目が集まっています。",
+    "summary": "東京電力は柏崎刈羽原子力発電所6号機の原子炉を不具合で停止しました。所長の稲垣武之氏は、原因調査を近くまとめると発表しましたが、営業運転再開の予定を見直す考えを示しました。",
     "summary_en": "",
     "link": "http://www3.nhk.or.jp/news/html/20260129/k10015038491000.html",
     "category": "その他",
-    "publishedAt": "2026-01-29 15:31"
+    "publishedAt": "2026-01-29 16:51"
   }
 ]
