@@ -1,7 +1,19 @@
 import fetch from "node-fetch";
 import { XMLParser } from "fast-xml-parser";
 import fs from "fs";
+import path from "path";
+import { fileURLToPath } from "url";
 
+/* ========= パス設定 ========= */
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
+const OUTPUT_PATH = path.resolve(
+  __dirname,
+  "../docs/data/news.json"
+);
+
+/* ========= RSS設定 ========= */
 const FEEDS = [
   { name: "BBC World", url: "https://feeds.bbci.co.uk/news/world/rss.xml" },
   { name: "BBC Technology", url: "https://feeds.bbci.co.uk/news/technology/rss.xml" },
@@ -24,8 +36,10 @@ async function fetchFeed({ name, url }) {
   }));
 }
 
+/* ========= main ========= */
 async function main() {
   const results = [];
+
   for (const feed of FEEDS) {
     const data = await fetchFeed(feed);
     results.push(...data);
@@ -36,8 +50,9 @@ async function main() {
     top: results
   };
 
-  fs.mkdirSync("docs/data", { recursive: true });
-  fs.writeFileSync("docs/data/news.json", JSON.stringify(payload, null, 2));
+  fs.mkdirSync(path.dirname(OUTPUT_PATH), { recursive: true });
+  fs.writeFileSync(OUTPUT_PATH, JSON.stringify(payload, null, 2));
+
   console.log("✅ docs/data/news.json updated!");
 }
 
