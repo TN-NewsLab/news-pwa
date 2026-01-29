@@ -1,23 +1,38 @@
 name: Fetch News
+
 on:
   workflow_dispatch:
   schedule:
-    - cron: "15 */6 * * *" # 6時間おきに実行
+    - cron: "15 */6 * * *"
+
+permissions:
+  contents: write
 
 jobs:
   run:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
       - uses: actions/setup-node@v4
         with:
           node-version: "20"
+
       - run: npm install node-fetch@3 fast-xml-parser
+
       - run: node scripts/fetch-news.mjs
+
       - name: Commit results
         run: |
-          git config user.name "github-actions"
-          git config user.email "actions@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git checkout main
+          git pull origin main
+
           git add docs/data/news.json
           git commit -m "auto: update news.json" || echo "No changes"
-          git push
+          git push origin main
