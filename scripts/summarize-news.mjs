@@ -10,7 +10,7 @@ import OpenAI from "openai";
 const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 
 // === 設定 ===
-const NEWS_PATH = path.resolve("../data/news.json");
+const NEWS_PATH = path.resolve("../docs/data/news.json");
 const MAX_ITEMS = process.argv.includes("--max") 
   ? Number(process.argv[process.argv.indexOf("--max")+1]) 
   : 20;                              // まとめてやりすぎない
