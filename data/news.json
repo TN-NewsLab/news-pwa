@@ -1,23 +1,35 @@
 {
-  "updatedAt": "2026-01-29T08:31:15.719Z",
+  "updatedAt": "2026-01-30T03:06:27.594Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "What could happen if the US strikes Iran? Here are seven scenarios",
-      "url": "https://www.bbc.com/news/articles/ce3kenge1k9o?at_medium=RSS&at_campaign=rss",
-      "summary": "From regime change to retaliation, the BBC's Frank Gardner outlines possible outcomes of US strikes on Iran."
+      "title": "Trump says Putin will not attack Ukraine cities during cold week",
+      "url": "https://www.bbc.com/news/articles/c4g4yj92kwro?at_medium=RSS&at_campaign=rss",
+      "summary": "Russia has not confirmed it agreed to Trump's request, but Ukraine's president said he expected Vladimir Putin's promise to be kept."
     },
     {
       "source": "BBC World",
-      "title": "Heavy gunfire and blasts heard near airport in Niger's capital",
-      "url": "https://www.bbc.com/news/articles/cvgp47neze4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The airport houses an air force base and is about 10km (six miles) from the presidential place."
+      "title": "Agents in Minneapolis could be pulled back if local officials cooperate, border tsar says",
+      "url": "https://www.bbc.com/news/articles/cvg1l8zgglpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Tom Homan said the immigration operation would be more \"targeted\", as the Trump administration works to calm frustrations both in the city and on Capitol Hill"
     },
     {
       "source": "BBC World",
-      "title": "Border agents involved in fatal shooting of Alex Pretti placed on leave",
-      "url": "https://www.bbc.com/news/articles/ckgn0w129lqo?at_medium=RSS&at_campaign=rss",
-      "summary": "As Trump and the Minneapolis Mayor spar over social media on immigration law enforcement, the US continues to be roiled by the killing of nurse Alex Pretti."
+      "title": "EU adds Iran's Revolutionary Guards to terrorist list",
+      "url": "https://www.bbc.com/news/articles/c20gypw8enjo?at_medium=RSS&at_campaign=rss",
+      "summary": "EU foreign policy chief Kaja Kallas says the move is a response to Tehran's deadly crackdown on protesters."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Apple reports best-ever iPhone sales as Mac dips",
+      "url": "https://www.bbc.com/news/articles/cy8yw190q83o?at_medium=RSS&at_campaign=rss",
+      "summary": "The company's revenue was boosted by iPhone sales, but sales of its wearable tech and Mac computers dipped. "
+    },
+    {
+      "source": "BBC Technology",
+      "title": "UK bans Coinbase ads implying crypto can ease cost of living concerns",
+      "url": "https://www.bbc.com/news/articles/cx2yv31482vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The ASA upheld complaints that Coinbase's adverts trivialised the risks of investing in cryptocurrency."
     },
     {
       "source": "BBC Technology",
@@ -26,42 +38,30 @@
       "summary": "Waymo has laid out plans for a robotaxi service in London with a pilot scheme due to begin in April."
     },
     {
-      "source": "BBC Technology",
-      "title": "Tesla cuts car models in shift to robots and AI",
-      "url": "https://www.bbc.com/news/articles/c620177qdg5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Multi-billionaire Elon Musk's electric car maker also said its annual revenue had fallen for the first time."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Facebook-owner Meta to nearly double AI spending",
-      "url": "https://www.bbc.com/news/articles/cn8jkyk78gno?at_medium=RSS&at_campaign=rss",
-      "summary": "Mark Zuckerberg's spending plans hint at further layoffs and changes within Facebook, Instagram and WhatsApp."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Halide co-founder Sebastiaan de With is joining Apple&#8217;s design team",
+        "#text": "It’s a new heyday for gas thanks to data centers",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/869926/apple-hires-sebastiaan-de-with-design-team-halide-lux",
+      "url": "https://www.theverge.com/news/870422/data-center-ai-gas-power-surge",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Mark Zuckerberg is all in on AI as the new social media",
+        "#text": "Apple just had a record-breaking iPhone quarter",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/869882/mark-zuckerberg-meta-earnings-q4-2025",
+      "url": "https://www.theverge.com/news/870319/apple-iphone-best-revenue-ai-q1-2026",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Windows 11 has reached 1 billion users faster than Windows 10",
+        "#text": "The weirdest headphones at CES will launch on Kickstarter next month",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/869889/microsoft-windows-11-1-billion-users",
+      "url": "https://www.theverge.com/news/870416/tdm-neo-wireless-headphones-bluetooth-speaker-kickstarter-february",
       "summary": "(要約準備中)"
     }
   ]
