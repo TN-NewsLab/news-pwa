@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-01-30T07:08:21.733Z",
+  "updatedAt": "2026-01-30T13:30:03.510Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Trump says Putin will not attack Ukraine cities during cold week",
+      "title": "Syrian government reaches deal with Kurdish-led forces",
+      "url": "https://www.bbc.com/news/articles/cz0pj0n0yk3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The deal will see the gradual integration of Kurdish forces and administration into the Syrian state."
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump says 'it would be great' if US 'didn't have to use' military force on Iran",
+      "url": "https://www.bbc.com/news/articles/c394ymdpjwvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president says he has told Iran it has to do \"two things\" to avoid military action, as the US builds up its forces in the Gulf."
+    },
+    {
+      "source": "BBC World",
+      "title": "Ukraine sees quieter night as Trump says Putin will not attack its cities",
       "url": "https://www.bbc.com/news/articles/c4g4yj92kwro?at_medium=RSS&at_campaign=rss",
-      "summary": "Russia has not confirmed it agreed to Trump's request, but Ukraine's president said he expected Vladimir Putin's promise to be kept."
-    },
-    {
-      "source": "BBC World",
-      "title": "Agents in Minneapolis could be pulled back if local officials cooperate, border tsar says",
-      "url": "https://www.bbc.com/news/articles/cvg1l8zgglpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Tom Homan said the immigration operation would be more \"targeted\", as the Trump administration works to calm frustrations both in the city and on Capitol Hill"
-    },
-    {
-      "source": "BBC World",
-      "title": "EU adds Iran's Revolutionary Guards to terrorist list",
-      "url": "https://www.bbc.com/news/articles/c20gypw8enjo?at_medium=RSS&at_campaign=rss",
-      "summary": "EU foreign policy chief Kaja Kallas says the move is a response to Tehran's deadly crackdown on protesters."
+      "summary": "Russia said the US president requested a pause in strikes on Kyiv until 1 February, a move Trump said was prompted by the cold weather."
     },
     {
       "source": "BBC Technology",
@@ -27,41 +27,41 @@
     },
     {
       "source": "BBC Technology",
+      "title": "He calls me sweetheart and winks at me - but he's not my boyfriend, he's AI",
+      "url": "https://www.bbc.com/news/articles/c62njv82n0wo?at_medium=RSS&at_campaign=rss",
+      "summary": "George is an avatar on my mobile but claims to know  what makes me tick. "
+    },
+    {
+      "source": "BBC Technology",
       "title": "UK bans Coinbase ads implying crypto can ease cost of living concerns",
       "url": "https://www.bbc.com/news/articles/cx2yv31482vo?at_medium=RSS&at_campaign=rss",
       "summary": "The ASA upheld complaints that Coinbase's adverts trivialised the risks of investing in cryptocurrency."
     },
     {
-      "source": "BBC Technology",
-      "title": "Driverless taxis set to launch in UK as soon as September",
-      "url": "https://www.bbc.com/news/articles/czej9n578k9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Waymo has laid out plans for a robotaxi service in London with a pilot scheme due to begin in April."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "It’s a new heyday for gas thanks to data centers",
+        "#text": "Melania documentary creators say its big price tag wasn&#8217;t bribery",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/870422/data-center-ai-gas-power-surge",
+      "url": "https://www.theverge.com/entertainment/870713/melania-amazon-documentary-bribe-accusations",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Apple just had a record-breaking iPhone quarter",
+        "#text": "The small film that answers the big questions",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/870319/apple-iphone-best-revenue-ai-q1-2026",
+      "url": "https://www.theverge.com/entertainment/870138/hlynur-palmason-the-love-that-remains-interview",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The weirdest headphones at CES will launch on Kickstarter next month",
+        "#text": "Microsoft is experimenting with a top menu bar for Windows 11",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/870416/tdm-neo-wireless-headphones-bluetooth-speaker-kickstarter-february",
+      "url": "https://www.theverge.com/news/870663/microsoft-windows-11-top-menu-bar-powertoy-experiment",
       "summary": "(要約準備中)"
     }
   ]
