@@ -1,12 +1,6 @@
 import fetch from "node-fetch";
 import { XMLParser } from "fast-xml-parser";
 import fs from "fs";
-import path from "path";
-import { fileURLToPath } from "url";
-
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
-const OUTPUT_PATH = path.resolve(__dirname, "../docs/data/news.json");
 
 const FEEDS = [
   { name: "BBC World", url: "https://feeds.bbci.co.uk/news/world/rss.xml" },
@@ -20,6 +14,7 @@ async function fetchFeed({ name, url }) {
   const res = await fetch(url);
   const text = await res.text();
   const xml = parser.parse(text);
+
   const items = xml.rss?.channel?.item || xml.feed?.entry || [];
   return items.slice(0, 3).map(it => ({
     source: name,
@@ -31,13 +26,19 @@ async function fetchFeed({ name, url }) {
 
 async function main() {
   const results = [];
-  for (const feed of FEEDS) results.push(...await fetchFeed(feed));
+  for (const feed of FEEDS) {
+    const data = await fetchFeed(feed);
+    results.push(...data);
+  }
 
-  const payload = { updatedAt: new Date().toISOString(), top: results };
+  const payload = {
+    updatedAt: new Date().toISOString(),
+    top: results
+  };
 
-  fs.mkdirSync(path.dirname(OUTPUT_PATH), { recursive: true });
-  fs.writeFileSync(OUTPUT_PATH, JSON.stringify(payload, null, 2));
-  console.log("✅ docs/data/news.json updated!");
+  fs.mkdirSync("data", { recursive: true });
+  fs.writeFileSync("data/news.json", JSON.stringify(payload, null, 2));
+  console.log("✅ data/news.json updated!");
 }
 
 main();
