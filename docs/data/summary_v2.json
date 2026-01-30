@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "Adaptive6がステルスから浮上し、企業のクラウド無駄を削減（すでにTicketmasterを最適化中）",
-    "title_en": "Adaptive6 emerges from stealth to reduce enterprise cloud waste (and it's already optimizing Ticketmaster)",
-    "summary": "最近、多くの企業が新しいAI支援プログラミングツールを活用する中、クラウドコストの無駄が大きな懸念事項となっています。新たに登場したAdaptive6は、このクラウドの無駄をリアルタイムで自動的に削減することを目指し、エンジニアが自分のワークフロー内で解決できるように支援します。彼らのプラットフォームは、効率的なコスト管理を重視し、無駄を「コードの脆弱性」として捉え、改善するアプローチを採用しています。",
-    "summary_en": "最近、多くの企業が新しいAI支援プログラミングツールを活用する中、クラウドコストの無駄が大きな懸念事項となっています。新たに登場したAdaptive6は、このクラウドの無駄をリアルタイムで自動的に削減することを目指し、エンジニアが自分のワークフロー内で解決できるように支援します。彼らのプラットフォームは、効率的なコスト管理を重視し、無駄を「コードの脆弱性」として捉え、改善するアプローチを採用しています。",
-    "link": "https://venturebeat.com/infrastructure/adaptive6-emerges-from-stealth-to-reduce-enterprise-cloud-waste-and-its",
+    "title": "内部議論をシミュレーションするAIモデルが複雑なタスクにおける精度を劇的に向上",
+    "title_en": "AI models that simulate internal debate dramatically improve accuracy on complex tasks",
+    "summary": "最近の研究では、Googleが提唱する「思考の社会」という内部議論のシミュレーションが、複雑な推論や計画タスクにおいて先進的なモデルのパフォーマンスを向上させることが示されました。このプロセスでは、異なる視点や個性を持つ内部のペルソナが対話を行い、論理を洗練させる役割を果たします。企業はこの知見を活用し、多様な観点を取り入れたモデルのトレーニングを行うことで、より堅牢なAIアプリケーションを構築できる可能性があります。",
+    "summary_en": "最近の研究では、Googleが提唱する「思考の社会」という内部議論のシミュレーションが、複雑な推論や計画タスクにおいて先進的なモデルのパフォーマンスを向上させることが示されました。このプロセスでは、異なる視点や個性を持つ内部のペルソナが対話を行い、論理を洗練させる役割を果たします。企業はこの知見を活用し、多様な観点を取り入れたモデルのトレーニングを行うことで、より堅牢なAIアプリケーションを構築できる可能性があります。",
+    "link": "https://venturebeat.com/orchestration/ai-models-that-simulate-internal-debate-dramatically-improve-accuracy-on",
     "category": "AI",
-    "publishedAt": "2026-01-29 17:25"
+    "publishedAt": "2026-01-30 16:02"
   },
   {
     "source": "VentureBeat",
-    "title": "AirtableのSuperagentがマルチエージェントの文脈問題を解決するための全実行可視性を維持",
-    "title_en": "Airtable's Superagent maintains full execution visibility to solve multi-agent context problem",
-    "summary": "Airtableが新たに発表したSuperagentは、専門のAIエージェントチームが並行して研究タスクを実行する独立した研究エージェントです。このシステムは、中央オーケストレーターを使用して、全体の計画と実行過程を管理し、エージェント間で整然とした連携を図ります。データの準備がエージェントのパフォーマンスに与える影響が大きく、効果的な導入にはデータ管理とコンテキストの維持が不可欠です。",
-    "summary_en": "Airtableが新たに発表したSuperagentは、専門のAIエージェントチームが並行して研究タスクを実行する独立した研究エージェントです。このシステムは、中央オーケストレーターを使用して、全体の計画と実行過程を管理し、エージェント間で整然とした連携を図ります。データの準備がエージェントのパフォーマンスに与える影響が大きく、効果的な導入にはデータ管理とコンテキストの維持が不可欠です。",
-    "link": "https://venturebeat.com/data/airtables-superagent-maintains-full-execution-visibility-to-solve-multi",
+    "title": "MoonshotのKimi K2.5は「オープン」で595GB、エージェントの群れ向け — Redditではより小型のものを求める声",
+    "title_en": "Moonshot’s Kimi K2.5 is 'open,' 595GB, and built for agent swarms — Reddit wants a smaller one",
+    "summary": "Moonshot AIの最近のReddit AMAでは、強力なオープンソースモデルKimi K2.5のリリースが強調されましたが、開発者たちはそのサイズが標準的なハードウェアでの利用を困難にしているとの懸念を表明しました。チームは、より小型でアクセスしやすいモデルへの需要を認識し、AIのスケーリングに関する課題について議論し、エージェントベースのワークフローや継続的学習における将来の革新の可能性に言及しました。この話し合いは、AI開発における焦点が単にモデルのサイズを拡大することから、利用性、信頼性、出力に対するユーザーの信頼を向上させることへとシフトしていることを強調しました。",
+    "summary_en": "Moonshot AI's recent Reddit AMA highlighted the release of their powerful open-source model, Kimi K2.5, while developers expressed concerns about its size making it difficult to use on standard hardware. The team acknowledged the demand for smaller, more accessible models and discussed the challenges of scaling AI, hinting at the potential for future innovations in agent-based workflows and continual learning. The discussion underscored a shift in AI development from simply increasing model size to improving usability, reliability, and user trust in outputs.",
+    "link": "https://venturebeat.com/orchestration/moonshots-kimi-k2-5-is-open-595gb-and-built-for-agent-swarms-reddit-wants-a",
     "category": "AI",
-    "publishedAt": "2026-01-29 17:25"
+    "publishedAt": "2026-01-30 16:03"
   },
   {
     "source": "NHK",
-    "title": "2025年の自動車販売台数 トヨタが6年連続で世界トップに",
+    "title": "【100社アンケート】春闘で“賃上げを実施予定・検討”が97％",
     "title_en": "",
-    "summary": "トヨタ自動車は、最近発表した販売台数が過去最高を記録したと報告しました。グループ全体で1132万台以上を販売し、フォルクスワーゲンを上回り続けています。これにより、トヨタは6年連続で世界の販売トップとなりました。",
+    "summary": "ことしの春闘での賃上げについて、国内の大手企業100社の調査で97％が賃上げを実施または検討中と回答しました。人材確保や物価上昇対策が賃上げの背景にあります。多くの企業が賃上げに積極的な姿勢を示しています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260129/k10015038301000.html",
-    "category": "その他",
-    "publishedAt": "2026-01-29 17:25"
+    "link": "http://www3.nhk.or.jp/news/html/20260130/k10015031221000.html",
+    "category": "経済",
+    "publishedAt": "2026-01-30 16:03"
   },
   {
     "source": "BBC",
-    "title": "米国がイランを攻撃した場合のシナリオ：考えられる7つの結果",
-    "title_en": "What could happen if the US strikes Iran? Here are seven scenarios",
-    "summary": "BBCのフランク・ガードナーは、米国のイランへの攻撃が引き起こす可能性のある結果を、政権交代から報復まで幅広く考察している。米国の行動がイラン国内や地域情勢に与える影響は多岐にわたると指摘し、これによって予想される緊張の高まりや国際的反応についても言及している。",
-    "summary_en": "BBCのフランク・ガードナーは、米国のイランへの攻撃が引き起こす可能性のある結果を、政権交代から報復まで幅広く考察している。米国の行動がイラン国内や地域情勢に与える影響は多岐にわたると指摘。これによって予想される緊張の高まりや国際的反応についても言及している。",
-    "link": "https://www.bbc.com/news/articles/ce3kenge1k9o?at_medium=RSS&at_campaign=rss",
+    "title": "トランプ氏、プーチンは寒波の間ウクライナの都市を攻撃しないと発言",
+    "title_en": "Trump says Putin will not attack Ukraine cities during cold week",
+    "summary": "ロシアはトランプの要請に応じたことを確認していないが、ウクライナの大統領はプーチンの約束が守られることを期待している。",
+    "summary_en": "ロシアはトランプの要請に応じたことを確認していないが、ウクライナの大統領はプーチンの約束が守られることを期待している。",
+    "link": "https://www.bbc.com/news/articles/c4g4yj92kwro?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-01-29 17:25"
+    "publishedAt": "2026-01-30 16:03"
   },
   {
     "source": "NHK",
-    "title": "柏崎刈羽原発所長 2月26日に営業運転再開とした工程見直す考え",
+    "title": "首相官邸の偽サイト確認 “個人情報入力で詐欺疑われる電話”",
     "title_en": "",
-    "summary": "東京電力は柏崎刈羽原子力発電所6号機を不具合により停止しました。所長は原因調査を近くまとめるとし、営業運転の再開予定を見直す意向を示しました。これにより、今後の運転スケジュールが影響を受ける可能性があります。",
+    "summary": "政府は、総理大臣官邸の偽サイトが複数確認されたと発表しました。また、詐欺が疑われる電話の情報も寄せられています。これを受けて、注意を呼びかけています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260129/k10015038491000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260130/k10015039461000.html",
     "category": "その他",
-    "publishedAt": "2026-01-29 17:25"
+    "publishedAt": "2026-01-30 16:03"
   }
 ]
