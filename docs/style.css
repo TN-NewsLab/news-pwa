@@ -21,7 +21,7 @@ body {
 .section-title {
   background-color: #1a18b1f8;
   color: #ffffff;
-  padding: 6px 14px;     /* スッキリ広め */
+  padding: 6px 14px;     /* 広め */
   border-radius: 0px;
   font-size: 1.2rem;     
   font-weight: 700;      
@@ -89,7 +89,7 @@ body {
 }
 
 /* ------------------------- */
-/* 📱 スマホ最適化（〜600px） */
+/* スマホ最適化（〜600px）    */
 /* ------------------------- */
 @media (max-width: 600px) {
 
@@ -141,8 +141,8 @@ body {
     margin-top: 4px;
   }
 
- /* ============================== */
-/* 📌 カテゴリタブ（Grid版・完成形） */
+/* ============================== */
+/* カテゴリタブ（Grid版・完成形）   */
 /* ============================== */
 
 .tag-bar {
@@ -154,19 +154,19 @@ body {
 
 /* すべてのボタン */
 .tag-button {
-  display: block;         /* ← 横幅をセルいっぱいに広げる */
-  width: 100%;            /* ← これが決め手！ */
-  margin: 0;                        /* ← 隙間の正体を消す！ */
+  display: block;         /* 横幅をセルいっぱいに広げる */
+  width: 100%;            /* これが決め手 */
+  margin: 0;                        /* 隙間を消す */
   padding: 6px 12px;
   text-align: center;
   white-space: nowrap;
   
-  border: 1px solid #dcdcdc;        /* ← 細い薄グレーに変更 */
-  border-radius: 0px;               /* ← お好みで 0 でも OK */
+  border: 1px solid #dcdcdc;        /* 細い薄グレー */
+  border-radius: 0px;
   background-color: #ffffff;
   font-size: 0.85em;
   cursor: pointer;
-  box-sizing: border-box;           /* ← 幅ズレ防止 */
+  box-sizing: border-box;           /* 幅ズレ防止 */
 }
 
 /* 選択中（is-active） */
@@ -184,7 +184,7 @@ body {
     border-radius: 0px;
     border: 1px solid transparent;
     font-weight: 500;
-    line-height: 1.1;            /* ← これで高さが暴れない */
+    line-height: 1.1;            /* 高さを維持 */
 }
 
 /* すべて */
@@ -213,5 +213,23 @@ body {
     background-color: #6b7280;
     border-color: #6b7280;
     color: white;
+}
+
+/* ============================== */
+/* 利用規約                        */
+/* ============================== */
+.footer {
+  text-align: center;
+  margin: 24px 0;
+}
+
+.footer a {
+  color: #666;
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+
+.footer a:hover {
+  text-decoration: underline;
 }
 
