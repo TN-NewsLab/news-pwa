@@ -219,7 +219,8 @@ body {
 /* 利用規約                        */
 /* ============================== */
 .footer {
-  text-align: center;
+  display: flex;
+  justify-content: center;
   margin: 24px 0;
 }
 
