@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-01-29T19:04:13.524Z",
+  "updatedAt": "2026-01-30T03:06:27.594Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Trump says Putin will not attack Ukraine cities during cold week",
+      "url": "https://www.bbc.com/news/articles/c4g4yj92kwro?at_medium=RSS&at_campaign=rss",
+      "summary": "Russia has not confirmed it agreed to Trump's request, but Ukraine's president said he expected Vladimir Putin's promise to be kept."
+    },
+    {
+      "source": "BBC World",
+      "title": "Agents in Minneapolis could be pulled back if local officials cooperate, border tsar says",
+      "url": "https://www.bbc.com/news/articles/cvg1l8zgglpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Tom Homan said the immigration operation would be more \"targeted\", as the Trump administration works to calm frustrations both in the city and on Capitol Hill"
+    },
     {
       "source": "BBC World",
       "title": "EU adds Iran's Revolutionary Guards to terrorist list",
@@ -8,16 +20,10 @@
       "summary": "EU foreign policy chief Kaja Kallas says the move is a response to Tehran's deadly crackdown on protesters."
     },
     {
-      "source": "BBC World",
-      "title": "'I can breathe again' says Israeli hostage held for nearly 500 days in Gaza",
-      "url": "https://www.bbc.com/news/articles/c8rm20gm364o?at_medium=RSS&at_campaign=rss",
-      "summary": "In his first international interview, Sasha Troufanov tells the BBC how he thought he would die in captivity after he was taken hostage on 7 October 2023. "
-    },
-    {
-      "source": "BBC World",
-      "title": "France moves to abolish concept of marital duty to have sex",
-      "url": "https://www.bbc.com/news/articles/cgjwxdz45ywo?at_medium=RSS&at_campaign=rss",
-      "summary": "The proposed bill would enshrine in law the end of so-called \"conjugal rights\" – the notion that marriage means a duty to have sex."
+      "source": "BBC Technology",
+      "title": "Apple reports best-ever iPhone sales as Mac dips",
+      "url": "https://www.bbc.com/news/articles/cy8yw190q83o?at_medium=RSS&at_campaign=rss",
+      "summary": "The company's revenue was boosted by iPhone sales, but sales of its wearable tech and Mac computers dipped. "
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "Waymo has laid out plans for a robotaxi service in London with a pilot scheme due to begin in April."
     },
     {
-      "source": "BBC Technology",
-      "title": "Tesla cuts car models in shift to robots and AI",
-      "url": "https://www.bbc.com/news/articles/c620177qdg5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Multi-billionaire Elon Musk's electric car maker also said its annual revenue had fallen for the first time."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Everything is gambling now: the latest news on prediction markets like Polymarket and Kalshi",
+        "#text": "It’s a new heyday for gas thanks to data centers",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/868238/prediction-markets-polymarket-kalshi-robinhood",
+      "url": "https://www.theverge.com/news/870422/data-center-ai-gas-power-surge",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Spotify&#8217;s new group chats share music with everyone in your circle",
+        "#text": "Apple just had a record-breaking iPhone quarter",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/870288/spotify-group-chats-direct-messaging-expansion",
+      "url": "https://www.theverge.com/news/870319/apple-iphone-best-revenue-ai-q1-2026",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Half of developers think gen AI is bad for the gaming industry",
+        "#text": "The weirdest headphones at CES will launch on Kickstarter next month",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/869386/ai-game-development-gdc-survey",
+      "url": "https://www.theverge.com/news/870416/tdm-neo-wireless-headphones-bluetooth-speaker-kickstarter-february",
       "summary": "(要約準備中)"
     }
   ]
