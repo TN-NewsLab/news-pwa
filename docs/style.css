@@ -2,7 +2,15 @@
 body {
   background-color: #f5f7fa;
   color: #1f2937;
-  font-family: 'Noto Sans JP', 'Lato', sans-serif;
+  font-family: 
+  -apple-system,
+  BlinkMacSystemFont,
+  "Hiragino Kaku Gothic ProN",
+  "Noto Sans JP",
+  "Lato",
+  "Segoe UI",
+  "Meiryo",
+  sans-serif;
   max-width: 900px;
   margin: 0 auto;
   padding: 16px;
