@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-01-30T19:02:35.825Z",
+  "updatedAt": "2026-01-31T02:46:37.941Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Takeaways from the millions of newly released Epstein files ",
+      "url": "https://www.bbc.com/news/articles/cevnmxyy4wjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Three million new documents include hundreds of mentions of Trump and emails between Epstein and a person called \"The Duke\"."
+    },
+    {
+      "source": "BBC World",
+      "title": "Schitt's Creek and Home Alone star Catherine O'Hara dies aged 71",
+      "url": "https://www.bbc.com/news/articles/czr4jn4621lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Emmy-winning actress died at her home in Los Angeles on Friday after a brief illness, her agent said."
+    },
     {
       "source": "BBC World",
       "title": "UN risks 'imminent financial collapse', secretary general warns",
       "url": "https://www.bbc.com/news/articles/cr579mdv4m7o?at_medium=RSS&at_campaign=rss",
       "summary": "António Guterres says the international body could run out of money by July due to members' unpaid fees."
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump picks Kevin Warsh to lead the US Federal Reserve",
-      "url": "https://www.bbc.com/news/articles/c2d7yddrl2xo?at_medium=RSS&at_campaign=rss",
-      "summary": "The 55-year-old economist had been considered for Fed chair during Trump's first term."
-    },
-    {
-      "source": "BBC World",
-      "title": "Luigi Mangione will not face death penalty if convicted, judge rules",
-      "url": "https://www.bbc.com/news/articles/c78egdg3r0po?at_medium=RSS&at_campaign=rss",
-      "summary": "A judge dismisses two federal counts against the 27-year-old, but he still faces state murder charges."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Dyson’s powerful 360 Vis Nav robot vacuum is nearly 75 percent off today",
+        "#text": "Senate passes budget with two more weeks of Homeland Security funding",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/870256/dyson-360-vis-nav-robot-vacuum-lego-lotr-balrog-deal-sale",
+      "url": "https://www.theverge.com/policy/870419/senate-passes-budget-with-two-more-weeks-of-homeland-security-funding",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Tim Cook is destroying his own legacy",
+        "#text": "Jeffrey Epstein was permanently banned from Xbox Live",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/podcast/870717/tim-cook-melania-minneapolis-tiktok-vergecast",
+      "url": "https://www.theverge.com/tech/871425/jeffrey-epstein-xbox-live-ban-microsoft-sex-offender",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "ICE invades Minnesota and Minnesotans fight back",
+        "#text": "Peloton lays off 11 percent of its staff just a few months after launching its AI hardware",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/870315/ice-invades-minnesota-and-minnesotans-fight-back",
+      "url": "https://www.theverge.com/gadgets/871422/peloton-layoffs-cost-cutting-2026",
       "summary": "(要約準備中)"
     }
   ]
