@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-31T06:58:08.084Z",
+  "updatedAt": "2026-01-31T13:10:22.530Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,9 +9,9 @@
     },
     {
       "source": "BBC World",
-      "title": "Schitt's Creek and Home Alone star Catherine O'Hara dies aged 71",
-      "url": "https://www.bbc.com/news/articles/czr4jn4621lo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Emmy-winning actress died at her home in Los Angeles on Friday after a brief illness, her agent said."
+      "title": "Pedro Pascal and Meryl Streep lead tributes to Catherine O'Hara",
+      "url": "https://www.bbc.com/news/articles/czejk8pnk82o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Canadian comedic actress died in Los Angeles on Friday at the age of 71 following a brief illness."
     },
     {
       "source": "BBC World",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Senate passes budget with two more weeks of Homeland Security funding",
+        "#text": "ChatGPT isn’t the only chatbot pulling answers from Elon Musk’s Grokipedia",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/870419/senate-passes-budget-with-two-more-weeks-of-homeland-security-funding",
+      "url": "https://www.theverge.com/report/870910/ai-chatbots-citing-grokipedia",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Jeffrey Epstein was permanently banned from Xbox Live",
+        "#text": "A nice upgrade for Apple’s simplest gadget",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/871425/jeffrey-epstein-xbox-live-ban-microsoft-sex-offender",
+      "url": "https://www.theverge.com/tech/871493/apple-airtags-yahoo-scout-wonder-man-installer",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Peloton lays off 11 percent of its staff just a few months after launching its AI hardware",
+        "#text": "The latest Instax printer is a pricey but worthy upgrade",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/871422/peloton-layoffs-cost-cutting-2026",
+      "url": "https://www.theverge.com/tech/870603/fujifilm-instax-mini-link-plus-reivew-improved-photos",
       "summary": "(要約準備中)"
     }
   ]
