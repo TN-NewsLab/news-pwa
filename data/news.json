@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-01T07:05:51.947Z",
+  "updatedAt": "2026-02-01T13:12:29.259Z",
   "top": [
     {
       "source": "BBC World",
@@ -15,9 +15,9 @@
     },
     {
       "source": "BBC World",
-      "title": "Deadly gun and bomb attacks hit Pakistan's Balochistan province",
-      "url": "https://www.bbc.com/news/articles/cn42nedxqyqo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Pakistani military says 18 civilians and 15 security forces were killed and its response killed more than 90 attackers."
+      "title": "LA 2028 Olympics chief 'deeply regrets' flirty emails with Ghislaine Maxwell",
+      "url": "https://www.bbc.com/news/articles/cyv5z76jmpvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Casey Wasserman's flirty emails were among millions of files published by the US Department of Justice on Friday."
     },
     {
       "source": "BBC Technology",
@@ -40,6 +40,15 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "The telephoto is the only phone camera that really matters",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/column/870883/telephoto-phone-camera",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "Nvidia CEO denies he’s ‘unhappy’ with OpenAI",
         "@_type": "html"
       },
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/policy/871606/minneapolis-general-strike-anti-ice-protest",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "SpaceX wants to put 1 million solar-powered data centers into orbit",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/tech/871641/spacex-fcc-1-million-solar-powered-data-centers-satellites-orbit",
       "summary": "(要約準備中)"
     }
   ]
