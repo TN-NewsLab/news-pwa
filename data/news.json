@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-31T18:50:04.919Z",
+  "updatedAt": "2026-02-01T03:29:00.771Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,15 +9,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Israeli air strikes kill at least 32 Palestinians in Gaza, rescue officials say",
-      "url": "https://www.bbc.com/news/articles/c701g1g00gdo?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel's military confirmed the strikes, which come during a ceasefire that Israel and Hamas accuse each other of breaking."
+      "title": "Rape trial puts Norway's royal family in unwelcome glare of public",
+      "url": "https://www.bbc.com/news/articles/cm2xj3ykpj4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Marius Borg Høiby, the crown prince's blond stepson, is accused of 38 charges in a case that has attracted global interest."
     },
     {
       "source": "BBC World",
-      "title": "Pedro Pascal and Meryl Streep lead tributes to Catherine O'Hara",
-      "url": "https://www.bbc.com/news/articles/czejk8pnk82o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Canadian comedic actress died in Los Angeles on Friday at the age of 71 following a brief illness."
+      "title": "Five killed in gas explosions in Iran, officials say",
+      "url": "https://www.bbc.com/news/articles/cd9ew5p3zvko?at_medium=RSS&at_campaign=rss",
+      "summary": "Fourteen people are reportedly injured after separate blasts were reported on Saturday."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "The AirPods 4 and Google’s 4K streamer are just two of this week’s best deals",
+        "#text": "Nvidia CEO denies he’s ‘unhappy’ with OpenAI",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/871092/airpods-4-anc-google-tv-streamer-4k-deal-sale",
+      "url": "https://www.theverge.com/tech/871818/nvidia-ceo-jensen-huang-unhappy-openai",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Cassette Boy forces you to see its world in a whole new way",
+        "#text": "“No more Minnesota nice, Minneapolis will strike”",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/867020/cassette-boy-review-pc-playstation-xbox-nintendo-switch",
+      "url": "https://www.theverge.com/policy/871606/minneapolis-general-strike-anti-ice-protest",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "ChatGPT isn’t the only chatbot pulling answers from Elon Musk’s Grokipedia",
+        "#text": "SpaceX wants to put 1 million solar-powered data centers into orbit",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/report/870910/ai-chatbots-citing-grokipedia",
+      "url": "https://www.theverge.com/tech/871641/spacex-fcc-1-million-solar-powered-data-centers-satellites-orbit",
       "summary": "(要約準備中)"
     }
   ]
