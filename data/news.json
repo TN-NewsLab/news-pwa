@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-02T07:17:17.988Z",
+  "updatedAt": "2026-02-02T13:35:25.492Z",
   "top": [
     {
       "source": "BBC World",
@@ -15,9 +15,21 @@
     },
     {
       "source": "BBC World",
-      "title": "Syria's only female minister pushes for change: 'I'm not here for window dressing'",
-      "url": "https://www.bbc.com/news/articles/cj0n3j16p8lo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Lyse Doucet follows Hind Kabawat as she confronts the challenges of fragmented, post-Assad Syria."
+      "title": "'Enemy' insults and questioning Putin: Steve Rosenberg on tightrope of reporting from Russia",
+      "url": "https://www.bbc.com/news/articles/c20g25w8j0xo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Russia editor reflects on the difficulties of working as a British journalist in Moscow."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "AI 'slop' is transforming social media - and a backlash is brewing",
+      "url": "https://www.bbc.com/news/articles/c9wx2dz2v44o?at_medium=RSS&at_campaign=rss",
+      "summary": "Social media has been flooded with fake, AI-generated images and videos. But will the majority of users actually care?"
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Pornhub is now restricting access for UK users - will other sites follow suit?",
+      "url": "https://www.bbc.com/news/articles/cvg5er4ewg6o?at_medium=RSS&at_campaign=rss",
+      "summary": "The UK's largest porn site has blocked unregistered users from accessing explicit content in the country, but why motives remain unclear."
     },
     {
       "source": "BBC Technology",
@@ -26,16 +38,22 @@
       "summary": "The firm wants to create a network of \"orbital data centres\" to power artificial intelligence."
     },
     {
-      "source": "BBC Technology",
-      "title": "Apple reports best-ever iPhone sales as Mac dips",
-      "url": "https://www.bbc.com/news/articles/cy8yw190q83o?at_medium=RSS&at_campaign=rss",
-      "summary": "The company's revenue was boosted by iPhone sales, but sales of its wearable tech and Mac computers dipped. "
+      "source": "The Verge",
+      "title": {
+        "#text": "Vivo and Oppo’s telephoto extender comes to iPhone",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/gadgets/872058/pgytech-telephoto-extender-iphone",
+      "summary": "(要約準備中)"
     },
     {
-      "source": "BBC Technology",
-      "title": "He calls me sweetheart and winks at me - but he's not my boyfriend, he's AI",
-      "url": "https://www.bbc.com/news/articles/c62njv82n0wo?at_medium=RSS&at_campaign=rss",
-      "summary": "George is an avatar on my mobile but claims to know  what makes me tick. "
+      "source": "The Verge",
+      "title": {
+        "#text": "The tragedy of Supernatural",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/tech/871250/supernatural-meta-vr-fitness-community",
+      "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
@@ -44,24 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/tech/871879/bill-gates-epstein-files-absolutely-absurd",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Shedding light on Iran’s longest internet blackout",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/policy/871848/iran-blackout-internet-mahsa-alimardani",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "You need to listen to M83’s icy post-rock record Dead Cities, Red Seas &#038; Lost Ghosts",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/column/871847/m83-dead-cities-red-seas-lost-ghosts",
       "summary": "(要約準備中)"
     }
   ]
