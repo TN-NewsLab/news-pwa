@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "内部議論をシミュレーションするAIモデルが複雑なタスクにおける精度を劇的に向上",
-    "title_en": "AI models that simulate internal debate dramatically improve accuracy on complex tasks",
-    "summary": "最近の研究では、Googleが提唱する「思考の社会」という内部議論のシミュレーションが、複雑な推論や計画タスクにおいて先進的なモデルのパフォーマンスを向上させることが示されました。このプロセスでは、異なる視点や個性を持つ内部のペルソナが対話を行い、論理を洗練させる役割を果たします。企業はこの知見を活用し、多様な観点を取り入れたモデルのトレーニングを行うことで、より堅牢なAIアプリケーションを構築できる可能性があります。",
-    "summary_en": "最近の研究では、Googleが提唱する「思考の社会」という内部議論のシミュレーションが、複雑な推論や計画タスクにおいて先進的なモデルのパフォーマンスを向上させることが示されました。このプロセスでは、異なる視点や個性を持つ内部のペルソナが対話を行い、論理を洗練させる役割を果たします。企業はこの知見を活用し、多様な観点を取り入れたモデルのトレーニングを行うことで、より堅牢なAIアプリケーションを構築できる可能性があります。",
-    "link": "https://venturebeat.com/orchestration/ai-models-that-simulate-internal-debate-dramatically-improve-accuracy-on",
+    "title": "ほとんどのRAGシステムは高度な文書を理解できず、分解してしまう",
+    "title_en": "Most RAG systems don’t understand sophisticated documents — they shred them",
+    "summary": "多くの企業がRAG（Retrieval-Augmented Generation）を導入しているが、特に重工業分野では技術マニュアルに対する対応が不十分である。標準のRAGパイプラインが文書を固定サイズで処理するため、技術的な情報の一貫性が失われ、正確な回答ができないことが多い。解決策としては、文書構造に基づいたセマンティックチャンク化やマルチモーダルデータ処理を導入し、企業の知識資産を効果的に活用する必要がある。",
+    "summary_en": "多くの企業がRAG（Retrieval-Augmented Generation）を導入しているが、特に重工業分野では技術マニュアルに対する対応が不十分である。標準のRAGパイプラインが文書を固定サイズで処理するため、技術的な情報の一貫性が失われ、正確な回答ができないことが多い。解決策としては、文書構造に基づいたセマンティックチャンク化やマルチモーダルデータ処理を導入し、企業の知識資産を効果的に活用する必要がある。",
+    "link": "https://venturebeat.com/orchestration/most-rag-systems-dont-understand-documents-they-shred-them",
     "category": "AI",
-    "publishedAt": "2026-01-30 16:02"
+    "publishedAt": "2026-02-02 14:10"
   },
   {
     "source": "VentureBeat",
-    "title": "MoonshotのKimi K2.5は「オープン」で595GB、エージェントの群れ向け — Redditではより小型のものを求める声",
-    "title_en": "Moonshot’s Kimi K2.5 is 'open,' 595GB, and built for agent swarms — Reddit wants a smaller one",
-    "summary": "Moonshot AIの最近のReddit AMAでは、強力なオープンソースモデルKimi K2.5のリリースが強調されましたが、開発者たちはそのサイズが標準的なハードウェアでの利用を困難にしているとの懸念を表明しました。チームは、より小型でアクセスしやすいモデルへの需要を認識し、AIのスケーリングに関する課題について議論し、エージェントベースのワークフローや継続的学習における将来の革新の可能性に言及しました。この話し合いは、AI開発における焦点が単にモデルのサイズを拡大することから、利用性、信頼性、出力に対するユーザーの信頼を向上させることへとシフトしていることを強調しました。",
-    "summary_en": "Moonshot AI's recent Reddit AMA highlighted the release of their powerful open-source model, Kimi K2.5, while developers expressed concerns about its size making it difficult to use on standard hardware. The team acknowledged the demand for smaller, more accessible models and discussed the challenges of scaling AI, hinting at the potential for future innovations in agent-based workflows and continual learning. The discussion underscored a shift in AI development from simply increasing model size to improving usability, reliability, and user trust in outputs.",
-    "link": "https://venturebeat.com/orchestration/moonshots-kimi-k2-5-is-open-595gb-and-built-for-agent-swarms-reddit-wants-a",
+    "title": "Arceeのアメリカ製オープンソースTrinity Largeと10Tチェックポイントが生のモデルインテリジェンスを稀に見る形で公開",
+    "title_en": "Arcee's U.S.-made, open source Trinity Large and 10T-checkpoint offer rare look at raw model intelligence",
+    "summary": "サンフランシスコのAIラボArceeが、新しい大規模言語モデル「Trinity Large」を発表しました。このモデルは、高い性能を持ちながらスパースな設計を採用しており、研究者が生のデータから学ぶことができる「TrueBase」モデルも同時に提供されています。また、Arceeはアメリカ製のオープンソースモデルの重要なプレイヤーとなり、特に規制の厳しい業界向けに透明性を提供しています。",
+    "summary_en": "サンフランシスコのAIラボArceeが、新しい大規模言語モデル「Trinity Large」を発表しました。このモデルは、高い性能を持ちながらスパースな設計を採用しており、研究者が生のデータから学ぶことができる「TrueBase」モデルも同時に提供されています。また、Arceeはアメリカ製のオープンソースモデルの重要なプレイヤーとなり、特に規制の厳しい業界向けに透明性を提供しています。",
+    "link": "https://venturebeat.com/technology/arcees-u-s-made-open-source-trinity-large-and-10t-checkpoint-offer-rare-look",
     "category": "AI",
-    "publishedAt": "2026-01-30 16:03"
+    "publishedAt": "2026-02-02 14:10"
   },
   {
     "source": "NHK",
-    "title": "【100社アンケート】春闘で“賃上げを実施予定・検討”が97％",
+    "title": "株価 値上がり 円安ドル高進み輸出関連銘柄買われる",
     "title_en": "",
-    "summary": "ことしの春闘での賃上げについて、国内の大手企業100社の調査で97％が賃上げを実施または検討中と回答しました。人材確保や物価上昇対策が賃上げの背景にあります。多くの企業が賃上げに積極的な姿勢を示しています。",
+    "summary": "週明けの東京株式市場では、円安ドル高が進行し、輸出関連銘柄の買いが強まっています。その影響で、日経平均株価は値上がりしています。市場全体に好影響を与えている状況です。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260130/k10015031221000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260202/k10015041321000.html",
     "category": "経済",
-    "publishedAt": "2026-01-30 16:03"
+    "publishedAt": "2026-02-02 14:10"
   },
   {
     "source": "BBC",
-    "title": "トランプ氏、プーチンは寒波の間ウクライナの都市を攻撃しないと発言",
-    "title_en": "Trump says Putin will not attack Ukraine cities during cold week",
-    "summary": "ロシアはトランプの要請に応じたことを確認していないが、ウクライナの大統領はプーチンの約束が守られることを期待している。",
-    "summary_en": "ロシアはトランプの要請に応じたことを確認していないが、ウクライナの大統領はプーチンの約束が守られることを期待している。",
-    "link": "https://www.bbc.com/news/articles/c4g4yj92kwro?at_medium=RSS&at_campaign=rss",
+    "title": "ノルウェーの首相、エプスタインとの関係に関する皇太子妃の「判断ミス」を認める",
+    "title_en": "Norway's PM agrees crown princess had 'poor judgement' over Epstein links",
+    "summary": "ジョナス・ガー・ステューレ首相は、故人の性犯罪者との接触に関するメッテ・マリット妃自身の発言に同意したと述べ、彼女のコメントが重要であると認識していることを明らかにしました。",
+    "summary_en": "ジョナス・ガー・ステューレ氏は、故人の性犯罪者との接触に関するメッテ・マリット妃自身の発言に同意したと述べました。彼はこれに関しての見解を明らかにしました。妃のコメントが重要であると認識しています。",
+    "link": "https://www.bbc.com/news/articles/c1508llzw4qo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-01-30 16:03"
+    "publishedAt": "2026-02-02 14:10"
   },
   {
     "source": "NHK",
-    "title": "首相官邸の偽サイト確認 “個人情報入力で詐欺疑われる電話”",
+    "title": "映画監督 長谷川和彦さん死去 80歳 「太陽を盗んだ男」など",
     "title_en": "",
-    "summary": "政府は、総理大臣官邸の偽サイトが複数確認されたと発表しました。また、詐欺が疑われる電話の情報も寄せられています。これを受けて、注意を呼びかけています。",
+    "summary": "映画監督の長谷川和彦さんが、多臓器不全のため都内の病院で亡くなりました。彼は「太陽を盗んだ男」や「青春の殺人者」で知られる作品を手掛けました。享年は80歳でした。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260130/k10015039461000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260202/k10015041531000.html",
     "category": "その他",
-    "publishedAt": "2026-01-30 16:03"
+    "publishedAt": "2026-02-02 14:10"
   }
 ]
