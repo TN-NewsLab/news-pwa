@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-02-01T18:53:47.545Z",
+  "updatedAt": "2026-02-02T03:19:34.191Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Twelve miners killed by Russian strike in Ukraine, energy company says",
-      "url": "https://www.bbc.com/news/articles/cdre7g2je63o?at_medium=RSS&at_campaign=rss",
-      "summary": "Seven others were reported injured in the strike near a bus carrying the workers on Sunday."
+      "title": "Norway's PM agrees crown princess had 'poor judgement' over Epstein links",
+      "url": "https://www.bbc.com/news/articles/c1508llzw4qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Jonas Gahr Støre says he agreed with Princess Mette-Marit's own remarks over her contacts with the late sex offender."
     },
     {
       "source": "BBC World",
-      "title": "Epstein sent $75,000 to accounts linked to Mandelson, files suggest",
-      "url": "https://www.bbc.com/news/articles/cn82elvzpz7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Lord Mandelson says he has no record or recollection of receiving the sums and does not know if the documents are authentic."
+      "title": "'Do you think you're the devil himself?' Epstein questioned in newly released interview",
+      "url": "https://www.bbc.com/news/videos/cx20zqw7v9ko?at_medium=RSS&at_campaign=rss",
+      "summary": "The footage, which is part of millions of files released by the US Department of Justice, shows the late sex offender being questioned by an unnamed interviewer."
     },
     {
       "source": "BBC World",
-      "title": "Boy, 5, and father detained by ICE return to Minnesota after release",
-      "url": "https://www.bbc.com/news/articles/cwynzw7jd4go?at_medium=RSS&at_campaign=rss",
-      "summary": "A congressman confirmed that Liam Conejo Ramos had been released and was at home with his hat and backpack. "
+      "title": "Syria's only female minister pushes for change: 'I'm not here for window dressing'",
+      "url": "https://www.bbc.com/news/articles/cj0n3j16p8lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Lyse Doucet follows Hind Kabawat as she confronts the challenges of fragmented, post-Assad Syria."
     },
     {
       "source": "BBC Technology",
@@ -40,6 +40,15 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "Bill Gates says accusations contained in Epstein files are ‘absolutely absurd’",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/tech/871879/bill-gates-epstein-files-absolutely-absurd",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "Shedding light on Iran’s longest internet blackout",
         "@_type": "html"
       },
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/column/871847/m83-dead-cities-red-seas-lost-ghosts",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "This tiny pocket-friendly e-reader is packed with frustration and potential",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/tech/870583/xteink-x4-e-ink-reader-books-hands-on",
       "summary": "(要約準備中)"
     }
   ]
