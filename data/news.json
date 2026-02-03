@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-02-03T13:35:01.184Z",
+  "updatedAt": "2026-02-03T19:13:43.014Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Clintons agree to testify on Epstein as vote looms to hold them in contempt of Congress",
+      "title": "Thousands of Epstein documents taken down after victims identified",
+      "url": "https://www.bbc.com/news/articles/cn0k65pnxjxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US Department of Justice faces criticism from victims after names and unredacted images included in latest release."
+    },
+    {
+      "source": "BBC World",
+      "title": "Clintons agree to testify in House Epstein probe",
       "url": "https://www.bbc.com/news/articles/c14r685mne4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The couple bows to the House Oversight Committee's demands after arguing for months that its subpoenas were invalid."
+      "summary": "The couple will appear on two separate days in late February for a deposition after coming to an agreement with the House oversight committee. "
     },
     {
       "source": "BBC World",
-      "title": "Paris prosecutors raid France offices of Elon Musk's X",
-      "url": "https://www.bbc.com/news/articles/ce3ex92557jo?at_medium=RSS&at_campaign=rss",
-      "summary": "The raid, involving cyber-crime officers, represents a dramatic escalation of an investigation that began in January 2025."
-    },
-    {
-      "source": "BBC World",
-      "title": "Russian hits Ukraine energy sites in 'most powerful blow' so far this year",
-      "url": "https://www.bbc.com/news/articles/cpwng25114ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The attack - which reportedly consisted of more than 70 missiles and 450 drones - comes after a so-called \"energy truce\" expired at the weekend."
+      "title": "Watch: BBC joins Colombian commandos fighting 'never-ending battle' against drug gangs",
+      "url": "https://www.bbc.com/news/articles/c04105ywkkqo?at_medium=RSS&at_campaign=rss",
+      "summary": "As the US and Colombian presidents meet, Orla Guerin joins a police unit tasked with finding and destroying jungle cocaine labs."
     },
     {
       "source": "BBC Technology",
-      "title": "Paris prosecutors raid France offices of Elon Musk's X",
+      "title": "X offices raided in France as UK opens fresh investigation into Grok",
       "url": "https://www.bbc.com/news/articles/ce3ex92557jo?at_medium=RSS&at_campaign=rss",
-      "summary": "The raid, involving cyber-crime officers, represents a dramatic escalation of an investigation that began in January 2025."
+      "summary": "Elon Musk's X and Grok platforms are facing increased scrutiny from authorities on both sides of the channel."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Aluminium: Why Google’s Android for PC launch may be messy and controversial",
+        "#text": "Apple’s Xcode adds OpenAI and Anthropic’s coding agents",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/869659/aluminium-why-googles-android-for-pc-launch-may-be-messy-and-controversial",
+      "url": "https://www.theverge.com/news/873300/apple-xcode-openai-anthropic-ai-agentic-coding",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "YouTube now blocking background playback on mobile browsers",
+        "#text": "The best deals on MacBooks right now",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/872937/google-youtube-blocking-third-party-mobile-browsers-background-playback",
+      "url": "https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The Model S changed everything",
+        "#text": "French police raid X&#8217;s Paris office as UK investigation continues",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/transportation/872631/tesla-model-s-obituary-discontinued-design-software-elon",
+      "url": "https://www.theverge.com/tech/873142/french-police-raid-x-investigation",
       "summary": "(要約準備中)"
     }
   ]
