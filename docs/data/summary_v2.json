@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "ほとんどのRAGシステムは高度な文書を理解できず、分解してしまう",
-    "title_en": "Most RAG systems don’t understand sophisticated documents — they shred them",
-    "summary": "多くの企業がRAG（Retrieval-Augmented Generation）を導入しているが、特に重工業分野では技術マニュアルに対する対応が不十分である。標準のRAGパイプラインが文書を固定サイズで処理するため、技術的な情報の一貫性が失われ、正確な回答ができないことが多い。解決策としては、文書構造に基づいたセマンティックチャンク化やマルチモーダルデータ処理を導入し、企業の知識資産を効果的に活用する必要がある。",
-    "summary_en": "多くの企業がRAG（Retrieval-Augmented Generation）を導入しているが、特に重工業分野では技術マニュアルに対する対応が不十分である。標準のRAGパイプラインが文書を固定サイズで処理するため、技術的な情報の一貫性が失われ、正確な回答ができないことが多い。解決策としては、文書構造に基づいたセマンティックチャンク化やマルチモーダルデータ処理を導入し、企業の知識資産を効果的に活用する必要がある。",
-    "link": "https://venturebeat.com/orchestration/most-rag-systems-dont-understand-documents-they-shred-them",
+    "title": "OpenAI、複数のAIコーディングエージェントを並行して実行できるmacOS用Codexデスクトップアプリを発表",
+    "title_en": "OpenAI launches a Codex desktop app for macOS to run multiple AI coding agents in parallel",
+    "summary": "OpenAIは新しいCodexデスクトップアプリを発表し、ソフトウェア開発のスタイルをAIアシスタントがいるチーム管理に変えるとしています。このアプリは、開発者が複数のコーディングタスクを同時に委任でき、自動化された作業を行い、長時間独立して動作するAIシステムを監督できる機能を提供します。最近の調査によれば、企業の大半がOpenAIのモデルを利用しており、競合他社との競争が激化する中、OpenAIはその地位を守るための鍵を握る製品となることを目指しています。",
+    "summary_en": "OpenAIは新しいCodexデスクトップアプリを発表し、ソフトウェア開発のスタイルをAIアシスタントがいるチーム管理に変えるとしています。このアプリは、開発者が複数のコーディングタスクを同時に委任でき、自動化された作業を行い、長時間独立して動作するAIシステムを監督できる機能を提供します。最近の調査によれば、企業の大半がOpenAIのモデルを利用しており、競合他社との競争が激化する中、OpenAIはその地位を守るための鍵を握る製品となることを目指しています。",
+    "link": "https://venturebeat.com/orchestration/openai-launches-a-codex-desktop-app-for-macos-to-run-multiple-ai-coding",
     "category": "AI",
-    "publishedAt": "2026-02-02 14:10"
+    "publishedAt": "2026-02-03 17:39"
   },
   {
     "source": "VentureBeat",
-    "title": "Arceeのアメリカ製オープンソースTrinity Largeと10Tチェックポイントが生のモデルインテリジェンスを稀に見る形で公開",
-    "title_en": "Arcee's U.S.-made, open source Trinity Large and 10T-checkpoint offer rare look at raw model intelligence",
-    "summary": "サンフランシスコのAIラボArceeが、新しい大規模言語モデル「Trinity Large」を発表しました。このモデルは、高い性能を持ちながらスパースな設計を採用しており、研究者が生のデータから学ぶことができる「TrueBase」モデルも同時に提供されています。また、Arceeはアメリカ製のオープンソースモデルの重要なプレイヤーとなり、特に規制の厳しい業界向けに透明性を提供しています。",
-    "summary_en": "サンフランシスコのAIラボArceeが、新しい大規模言語モデル「Trinity Large」を発表しました。このモデルは、高い性能を持ちながらスパースな設計を採用しており、研究者が生のデータから学ぶことができる「TrueBase」モデルも同時に提供されています。また、Arceeはアメリカ製のオープンソースモデルの重要なプレイヤーとなり、特に規制の厳しい業界向けに透明性を提供しています。",
-    "link": "https://venturebeat.com/technology/arcees-u-s-made-open-source-trinity-large-and-10t-checkpoint-offer-rare-look",
+    "title": "多くのRAGシステムは高度な文書を理解できず、文書を粉砕する",
+    "title_en": "Most RAG systems don’t understand sophisticated documents — they shred them",
+    "summary": "多くの企業がRAGを導入しているが、特に重工業においては効果が限定的である。標準的なRAGプロセスが文書を平面的なテキストとして扱うため、技術マニュアルの論理が失われ、正確な情報の提供が難しくなっている。この問題を解決するには、文書構造に基づいたセマンティックチャンク化や視覚情報の活用が必要とされている。",
+    "summary_en": "多くの企業がRAGを導入しているが、特に重工業においては効果が限定的である。標準的なRAGプロセスが文書を平面的なテキストとして扱うため、技術マニュアルの論理が失われ、正確な情報の提供が難しくなっている。この問題を解決するには、文書構造に基づいたセマンティックチャンク化や視覚情報の活用が必要とされている。",
+    "link": "https://venturebeat.com/orchestration/most-rag-systems-dont-understand-documents-they-shred-them",
     "category": "AI",
-    "publishedAt": "2026-02-02 14:10"
+    "publishedAt": "2026-02-03 17:39"
   },
   {
     "source": "NHK",
-    "title": "株価 値上がり 円安ドル高進み輸出関連銘柄買われる",
+    "title": "株価  2000円超の値上がり 5万4720円 終値の最高値更新",
     "title_en": "",
-    "summary": "週明けの東京株式市場では、円安ドル高が進行し、輸出関連銘柄の買いが強まっています。その影響で、日経平均株価は値上がりしています。市場全体に好影響を与えている状況です。",
+    "summary": "東京株式市場では、円安ドル高やアメリカ経済への期待が影響し、買い注文が広がりました。その結果、日経平均株価は大幅に上昇し、終値の最高値を更新しました。市場の活況が顕著な一日となりました。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260202/k10015041321000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260203/k10015042141000.html",
     "category": "経済",
-    "publishedAt": "2026-02-02 14:10"
+    "publishedAt": "2026-02-03 17:39"
   },
   {
     "source": "BBC",
-    "title": "ノルウェーの首相、エプスタインとの関係に関する皇太子妃の「判断ミス」を認める",
-    "title_en": "Norway's PM agrees crown princess had 'poor judgement' over Epstein links",
-    "summary": "ジョナス・ガー・ステューレ首相は、故人の性犯罪者との接触に関するメッテ・マリット妃自身の発言に同意したと述べ、彼女のコメントが重要であると認識していることを明らかにしました。",
-    "summary_en": "ジョナス・ガー・ステューレ氏は、故人の性犯罪者との接触に関するメッテ・マリット妃自身の発言に同意したと述べました。彼はこれに関しての見解を明らかにしました。妃のコメントが重要であると認識しています。",
-    "link": "https://www.bbc.com/news/articles/c1508llzw4qo?at_medium=RSS&at_campaign=rss",
+    "title": "クリントン夫妻、エプスタインに関する証言に応じることを合意 - 議会侮辱罪での投票迫る",
+    "title_en": "Clintons agree to testify on Epstein as vote looms to hold them in contempt of Congress",
+    "summary": "クリントン夫妻は、数カ月間無効だと主張していた下院監視委員会の要求に従うことを決定しました。委員会の召喚状に対する異議を唱えていましたが、最終的に協力する姿勢を示しました。これにより、委員会の調査が進展する可能性があります。",
+    "summary_en": "カップルは、数カ月間無効だと主張していた下院監視委員会の要求に従うことに決めました。委員会の召喚状に対する異議を唱えていましたが、最終的に協力する姿勢を示しました。これにより、委員会の調査が進展する可能性があります。",
+    "link": "https://www.bbc.com/news/articles/c14r685mne4o?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-02-02 14:10"
+    "publishedAt": "2026-02-03 17:39"
   },
   {
     "source": "NHK",
-    "title": "映画監督 長谷川和彦さん死去 80歳 「太陽を盗んだ男」など",
+    "title": "「感染性胃腸炎」患者数 3週連続増加 手洗いなど対策呼びかけ",
     "title_en": "",
-    "summary": "映画監督の長谷川和彦さんが、多臓器不全のため都内の病院で亡くなりました。彼は「太陽を盗んだ男」や「青春の殺人者」で知られる作品を手掛けました。享年は80歳でした。",
+    "summary": "感染性胃腸炎の患者数が最近3週連続で増加しています。専門家は予防策として手洗いや消毒の徹底を呼びかけています。感染を防ぐための注意が必要です。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260202/k10015041531000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260203/k10015042381000.html",
     "category": "その他",
-    "publishedAt": "2026-02-02 14:10"
+    "publishedAt": "2026-02-03 17:39"
   }
 ]
