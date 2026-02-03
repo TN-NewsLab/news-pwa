@@ -1,17 +1,11 @@
 {
-  "updatedAt": "2026-02-02T13:35:25.492Z",
+  "updatedAt": "2026-02-03T03:13:01.138Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Norway's PM agrees crown princess had 'poor judgement' over Epstein links",
-      "url": "https://www.bbc.com/news/articles/c1508llzw4qo?at_medium=RSS&at_campaign=rss",
-      "summary": "Jonas Gahr Støre says he agreed with Princess Mette-Marit's own remarks over her contacts with the late sex offender."
-    },
-    {
-      "source": "BBC World",
-      "title": "'Do you think you're the devil himself?' Epstein questioned in newly released interview",
-      "url": "https://www.bbc.com/news/videos/cx20zqw7v9ko?at_medium=RSS&at_campaign=rss",
-      "summary": "The footage, which is part of millions of files released by the US Department of Justice, shows the late sex offender being questioned by an unnamed interviewer."
+      "title": "Crown Princess's son arrested for alleged assault before rape trial in Norway",
+      "url": "https://www.bbc.com/news/articles/crrn44p9r59o?at_medium=RSS&at_campaign=rss",
+      "summary": "Marius Borg Høiby, who goes on trial on Tuesday, has been remanded in custody for four weeks after new allegations."
     },
     {
       "source": "BBC World",
@@ -20,48 +14,54 @@
       "summary": "The BBC's Russia editor reflects on the difficulties of working as a British journalist in Moscow."
     },
     {
-      "source": "BBC Technology",
-      "title": "AI 'slop' is transforming social media - and a backlash is brewing",
-      "url": "https://www.bbc.com/news/articles/c9wx2dz2v44o?at_medium=RSS&at_campaign=rss",
-      "summary": "Social media has been flooded with fake, AI-generated images and videos. But will the majority of users actually care?"
+      "source": "BBC World",
+      "title": "Israel reopens Gaza's key Rafah border crossing with Egypt",
+      "url": "https://www.bbc.com/news/articles/c99kdjdj9l8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Only dozens of Palestinians and no goods will be able to cross in both directions each day."
     },
     {
       "source": "BBC Technology",
-      "title": "Pornhub is now restricting access for UK users - will other sites follow suit?",
-      "url": "https://www.bbc.com/news/articles/cvg5er4ewg6o?at_medium=RSS&at_campaign=rss",
-      "summary": "The UK's largest porn site has blocked unregistered users from accessing explicit content in the country, but why motives remain unclear."
+      "title": "SpaceX to take over Elon Musk's AI firm",
+      "url": "https://www.bbc.com/news/articles/cq6vnrye06po?at_medium=RSS&at_campaign=rss",
+      "summary": "Musk's space exploration company and his AI start-up are merging."
     },
     {
       "source": "BBC Technology",
-      "title": "Musk's SpaceX applies to launch a million satellites into orbit",
-      "url": "https://www.bbc.com/news/articles/cyv5l24mrjmo?at_medium=RSS&at_campaign=rss",
-      "summary": "The firm wants to create a network of \"orbital data centres\" to power artificial intelligence."
+      "title": "China bans hidden car door handles over safety concerns",
+      "url": "https://www.bbc.com/news/articles/cp37g5nxe3lo?at_medium=RSS&at_campaign=rss",
+      "summary": "It makes China the first country to outlaw designs first popularised by Elon Musk's Tesla."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "What is the 'social media network for AI' Moltbook?",
+      "url": "https://www.bbc.com/news/articles/c62n410w5yno?at_medium=RSS&at_campaign=rss",
+      "summary": "The Reddit-like website which launched in late January allows AI bots to speak to each other."
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Vivo and Oppo’s telephoto extender comes to iPhone",
+        "#text": "Adobe Animate is shutting down next month",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/872058/pgytech-telephoto-extender-iphone",
+      "url": "https://www.theverge.com/news/872731/adobe-animate-app-shutdown-date",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The tragedy of Supernatural",
+        "#text": "Waymo raises $16 billion to take its robotaxi business ‘global’",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/871250/supernatural-meta-vr-fitness-community",
+      "url": "https://www.theverge.com/transportation/872651/waymo-raises-16-billion-investment-value-robotaxi",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Bill Gates says accusations contained in Epstein files are ‘absolutely absurd’",
+        "#text": "Here are the best Apple Watch deals available right now",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/871879/bill-gates-epstein-files-absolutely-absurd",
+      "url": "https://www.theverge.com/21289209/best-apple-watch-deals",
       "summary": "(要約準備中)"
     }
   ]
