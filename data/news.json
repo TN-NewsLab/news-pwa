@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-03T07:10:36.143Z",
+  "updatedAt": "2026-02-03T13:35:01.184Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,21 +9,27 @@
     },
     {
       "source": "BBC World",
-      "title": "Rape trial begins for son of Norway's crown princess in tense moment for royal family",
-      "url": "https://www.bbc.com/news/articles/ckgn8dnxjgwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Marius Borg Høiby is accused of 38 charges including four counts of rape in one of the biggest cases in Norway for years."
+      "title": "Paris prosecutors raid France offices of Elon Musk's X",
+      "url": "https://www.bbc.com/news/articles/ce3ex92557jo?at_medium=RSS&at_campaign=rss",
+      "summary": "The raid, involving cyber-crime officers, represents a dramatic escalation of an investigation that began in January 2025."
     },
     {
       "source": "BBC World",
-      "title": "After months of acrimony, Colombia's Petro is about to meet Trump",
-      "url": "https://www.bbc.com/news/articles/c62v187kl1ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Despite some recent cordiality, the Colombian and Americans leaders have long traded barbs and accusations."
+      "title": "Russian hits Ukraine energy sites in 'most powerful blow' so far this year",
+      "url": "https://www.bbc.com/news/articles/cpwng25114ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The attack - which reportedly consisted of more than 70 missiles and 450 drones - comes after a so-called \"energy truce\" expired at the weekend."
     },
     {
       "source": "BBC Technology",
-      "title": "SpaceX to take over Elon Musk's AI firm",
+      "title": "Paris prosecutors raid France offices of Elon Musk's X",
+      "url": "https://www.bbc.com/news/articles/ce3ex92557jo?at_medium=RSS&at_campaign=rss",
+      "summary": "The raid, involving cyber-crime officers, represents a dramatic escalation of an investigation that began in January 2025."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Musk's SpaceX and xAI merge to make world's most valuable private company",
       "url": "https://www.bbc.com/news/articles/cq6vnrye06po?at_medium=RSS&at_campaign=rss",
-      "summary": "Musk's space exploration company and his AI start-up are merging."
+      "summary": "Musk says the combined firm - which has been valued at more than $1tn - will be an \"innovation engine\"."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "It makes China the first country to stop the use of designs first made popular by Elon Musk's Tesla."
     },
     {
-      "source": "BBC Technology",
-      "title": "What is the 'social media network for AI' Moltbook?",
-      "url": "https://www.bbc.com/news/articles/c62n410w5yno?at_medium=RSS&at_campaign=rss",
-      "summary": "The Reddit-like website which launched in late January allows AI bots to speak to each other."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Adobe Animate is shutting down next month",
+        "#text": "Aluminium: Why Google’s Android for PC launch may be messy and controversial",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/872731/adobe-animate-app-shutdown-date",
+      "url": "https://www.theverge.com/tech/869659/aluminium-why-googles-android-for-pc-launch-may-be-messy-and-controversial",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Waymo raises $16 billion to take its robotaxi business ‘global’",
+        "#text": "YouTube now blocking background playback on mobile browsers",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/transportation/872651/waymo-raises-16-billion-investment-value-robotaxi",
+      "url": "https://www.theverge.com/news/872937/google-youtube-blocking-third-party-mobile-browsers-background-playback",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Here are the best Apple Watch deals available right now",
+        "#text": "The Model S changed everything",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/21289209/best-apple-watch-deals",
+      "url": "https://www.theverge.com/transportation/872631/tesla-model-s-obituary-discontinued-design-software-elon",
       "summary": "(要約準備中)"
     }
   ]
