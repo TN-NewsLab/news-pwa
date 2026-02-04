@@ -58,7 +58,8 @@ function createNewsCard(article) {
   card.className = "news-card";
 
   // タグを決める（tag → category → "その他" の順に採用）
-  const tag = article.tag || article.category || "その他";
+  //const tag = article.tag || article.category || "その他";
+  const tag = article.tag || "その他";
 
   // フィルタ用に data-tag 属性を付与
   card.dataset.tag = tag;
@@ -126,13 +127,40 @@ function setupTagFilter() {
 // ------------------------------------------------------
 // カテゴリ名の日本語化
 // ------------------------------------------------------
-function convertCategoryName(key) {
-  const map = {
-    "AI": "AIニュース",
-    "Economy": "経済ニュース",
-    "Politics": "その他ニュース"
-  };
-  return map[key] || key;
+// function convertCategoryName(key) {
+//   const map = {
+//     "AI": "AIニュース",
+//     "Economy": "経済ニュース",
+//     "Politics": "その他ニュース"
+//   };
+//   return map[key] || key;
+// }
+function convertCategoryName(raw) {
+  if (!raw) return "その他";
+
+  const key = raw.toLowerCase();
+
+  // AI系
+  if (
+    key.includes("ai") ||
+    key.includes("artificial intelligence") ||
+    key.includes("machine learning")
+  ) {
+    return "AIニュース";
+  }
+
+  // 経済・ビジネス系
+  if (
+    key.includes("economy") ||
+    key.includes("business") ||
+    key.includes("finance") ||
+    key.includes("market")
+  ) {
+    return "経済";
+  }
+
+  // それ以外は全部まとめて
+  return "その他";
 }
 
 // ------------------------------------------------------

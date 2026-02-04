@@ -8,7 +8,9 @@ const urlsToCache = [
   './style.css',
   './script_v2.js',
   './manifest.json',
-  './assets/icon-152.png'
+  './assets/icon-120.png',
+  './assets/icon-152.png',
+  './assets/icon-180.png'
 ];
 
 // // 必要ファイルをキャッシュして新SWを即有効化する初期セットアップ
