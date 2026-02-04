@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-03T19:13:43.014Z",
+  "updatedAt": "2026-02-04T03:08:48.527Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,15 +9,21 @@
     },
     {
       "source": "BBC World",
-      "title": "Clintons agree to testify in House Epstein probe",
-      "url": "https://www.bbc.com/news/articles/c14r685mne4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The couple will appear on two separate days in late February for a deposition after coming to an agreement with the House oversight committee. "
+      "title": "US says it shot down Iranian drone flying towards aircraft carrier",
+      "url": "https://www.bbc.com/news/articles/c3dmjn7n985o?at_medium=RSS&at_campaign=rss",
+      "summary": "A US military spokesman says the drone was shot down while approaching an American vessel in the Arabian Sea."
     },
     {
       "source": "BBC World",
-      "title": "Watch: BBC joins Colombian commandos fighting 'never-ending battle' against drug gangs",
-      "url": "https://www.bbc.com/news/articles/c04105ywkkqo?at_medium=RSS&at_campaign=rss",
-      "summary": "As the US and Colombian presidents meet, Orla Guerin joins a police unit tasked with finding and destroying jungle cocaine labs."
+      "title": "Spain announces plans to ban social media for under-16s",
+      "url": "https://www.bbc.com/news/articles/c5y2nddvmryo?at_medium=RSS&at_campaign=rss",
+      "summary": "Prime Minister Pedro Sánchez says the move will protect children from the \"digital Wild West\"."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Netflix and Warner Bros struggle to defend merger",
+      "url": "https://www.bbc.com/news/articles/c5ydndkmvy2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Concerns were raised by a subcommittee including potential price rises and the future of cinemas."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "Musk says the combined firm - which has been valued at more than $1tn - will be an \"innovation engine\"."
     },
     {
-      "source": "BBC Technology",
-      "title": "China bans hidden car door handles over safety concerns",
-      "url": "https://www.bbc.com/news/articles/cp37g5nxe3lo?at_medium=RSS&at_campaign=rss",
-      "summary": "It makes China the first country to stop the use of designs first made popular by Elon Musk's Tesla."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Apple’s Xcode adds OpenAI and Anthropic’s coding agents",
+        "#text": "Adobe actually won’t discontinue Animate",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/873300/apple-xcode-openai-anthropic-ai-agentic-coding",
+      "url": "https://www.theverge.com/tech/873621/adobe-animate-maintenance-mode-reverse-course",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The best deals on MacBooks right now",
+        "#text": "Republicans haul Netflix before Congress for being too ‘woke’",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals",
+      "url": "https://www.theverge.com/policy/873533/netflix-warner-bros-discovery-senate-antitrust-hearing",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "French police raid X&#8217;s Paris office as UK investigation continues",
+        "#text": "AMD hints Microsoft could launch its next-gen Xbox in 2027",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/873142/french-police-raid-x-investigation",
+      "url": "https://www.theverge.com/news/873490/microsoft-next-gen-xbox-console-2027-date-amd",
       "summary": "(要約準備中)"
     }
   ]
