@@ -58,7 +58,6 @@ function createNewsCard(article) {
   card.className = "news-card";
 
   // タグを決める（tag → category → "その他" の順に採用）
-  //const tag = article.tag || article.category || "その他";
   const tag = article.tag || "その他";
 
   // フィルタ用に data-tag 属性を付与
@@ -125,16 +124,8 @@ function setupTagFilter() {
 }
 
 // ------------------------------------------------------
-// カテゴリ名の日本語化
+// カテゴリ正規関数化
 // ------------------------------------------------------
-// function convertCategoryName(key) {
-//   const map = {
-//     "AI": "AIニュース",
-//     "Economy": "経済ニュース",
-//     "Politics": "その他ニュース"
-//   };
-//   return map[key] || key;
-// }
 function convertCategoryName(raw) {
   if (!raw) return "その他";
 
