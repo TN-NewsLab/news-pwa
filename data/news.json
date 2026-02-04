@@ -1,67 +1,67 @@
 {
-  "updatedAt": "2026-02-03T07:10:36.143Z",
+  "updatedAt": "2026-02-04T03:08:48.527Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Clintons agree to testify on Epstein as vote looms to hold them in contempt of Congress",
-      "url": "https://www.bbc.com/news/articles/c14r685mne4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The couple bows to the House Oversight Committee's demands after arguing for months that its subpoenas were invalid."
+      "title": "Thousands of Epstein documents taken down after victims identified",
+      "url": "https://www.bbc.com/news/articles/cn0k65pnxjxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US Department of Justice faces criticism from victims after names and unredacted images included in latest release."
     },
     {
       "source": "BBC World",
-      "title": "Rape trial begins for son of Norway's crown princess in tense moment for royal family",
-      "url": "https://www.bbc.com/news/articles/ckgn8dnxjgwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Marius Borg Høiby is accused of 38 charges including four counts of rape in one of the biggest cases in Norway for years."
+      "title": "US says it shot down Iranian drone flying towards aircraft carrier",
+      "url": "https://www.bbc.com/news/articles/c3dmjn7n985o?at_medium=RSS&at_campaign=rss",
+      "summary": "A US military spokesman says the drone was shot down while approaching an American vessel in the Arabian Sea."
     },
     {
       "source": "BBC World",
-      "title": "After months of acrimony, Colombia's Petro is about to meet Trump",
-      "url": "https://www.bbc.com/news/articles/c62v187kl1ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Despite some recent cordiality, the Colombian and Americans leaders have long traded barbs and accusations."
+      "title": "Spain announces plans to ban social media for under-16s",
+      "url": "https://www.bbc.com/news/articles/c5y2nddvmryo?at_medium=RSS&at_campaign=rss",
+      "summary": "Prime Minister Pedro Sánchez says the move will protect children from the \"digital Wild West\"."
     },
     {
       "source": "BBC Technology",
-      "title": "SpaceX to take over Elon Musk's AI firm",
+      "title": "Netflix and Warner Bros struggle to defend merger",
+      "url": "https://www.bbc.com/news/articles/c5ydndkmvy2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Concerns were raised by a subcommittee including potential price rises and the future of cinemas."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "X offices raided in France as UK opens fresh investigation into Grok",
+      "url": "https://www.bbc.com/news/articles/ce3ex92557jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Elon Musk's X and Grok platforms are facing increased scrutiny from authorities on both sides of the channel."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Musk's SpaceX and xAI merge to make world's most valuable private company",
       "url": "https://www.bbc.com/news/articles/cq6vnrye06po?at_medium=RSS&at_campaign=rss",
-      "summary": "Musk's space exploration company and his AI start-up are merging."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "China bans hidden car door handles over safety concerns",
-      "url": "https://www.bbc.com/news/articles/cp37g5nxe3lo?at_medium=RSS&at_campaign=rss",
-      "summary": "It makes China the first country to stop the use of designs first made popular by Elon Musk's Tesla."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "What is the 'social media network for AI' Moltbook?",
-      "url": "https://www.bbc.com/news/articles/c62n410w5yno?at_medium=RSS&at_campaign=rss",
-      "summary": "The Reddit-like website which launched in late January allows AI bots to speak to each other."
+      "summary": "Musk says the combined firm - which has been valued at more than $1tn - will be an \"innovation engine\"."
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Adobe Animate is shutting down next month",
+        "#text": "Adobe actually won’t discontinue Animate",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/872731/adobe-animate-app-shutdown-date",
+      "url": "https://www.theverge.com/tech/873621/adobe-animate-maintenance-mode-reverse-course",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Waymo raises $16 billion to take its robotaxi business ‘global’",
+        "#text": "Republicans haul Netflix before Congress for being too ‘woke’",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/transportation/872651/waymo-raises-16-billion-investment-value-robotaxi",
+      "url": "https://www.theverge.com/policy/873533/netflix-warner-bros-discovery-senate-antitrust-hearing",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Here are the best Apple Watch deals available right now",
+        "#text": "AMD hints Microsoft could launch its next-gen Xbox in 2027",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/21289209/best-apple-watch-deals",
+      "url": "https://www.theverge.com/news/873490/microsoft-next-gen-xbox-console-2027-date-amd",
       "summary": "(要約準備中)"
     }
   ]
