@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-02-04T07:10:42.759Z",
+  "updatedAt": "2026-02-04T13:35:36.043Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Thousands of Epstein documents taken down after victims identified",
-      "url": "https://www.bbc.com/news/articles/cn0k65pnxjxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US Department of Justice faces criticism from victims after names and unredacted images included in latest release."
+      "title": "Thousands without power in freezing Ukraine as renewed Russian strikes continue",
+      "url": "https://www.bbc.com/news/articles/crley6x0dgzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine's leader says regions including Kyiv and Kharkiv are among those suffering the most from blackouts as a result of recent attacks. "
     },
     {
       "source": "BBC World",
-      "title": "US says it shot down Iranian drone flying towards aircraft carrier",
-      "url": "https://www.bbc.com/news/articles/c3dmjn7n985o?at_medium=RSS&at_campaign=rss",
-      "summary": "A US military spokesman says the drone was shot down while approaching an American vessel in the Arabian Sea."
+      "title": "Israeli strikes kill 20 in Gaza, hospitals say, after soldier wounded by gunfire",
+      "url": "https://www.bbc.com/news/articles/cpqyg0g5r0po?at_medium=RSS&at_campaign=rss",
+      "summary": "Hospitals say several children were among those killed in strikes that Israel's military says it launched after a gun attack on its troops."
     },
     {
       "source": "BBC World",
-      "title": "Saif al-Islam Gaddafi, son of ex-Libyan leader, reportedly shot dead",
-      "url": "https://www.bbc.com/news/articles/cp37g4xgkxdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The 53-year-old, who was once widely seen as the second most powerful person in Libya, was killed on Tuesday according to Libyan media. "
+      "title": "Melinda French Gates says ex-husband Bill has questions to answer over Epstein",
+      "url": "https://www.bbc.com/news/articles/cr4kyk9nv5lo?at_medium=RSS&at_campaign=rss",
+      "summary": "She said her ex-husband and others named in the Epstein files needed to answer whatever questions remain."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Adobe actually won’t discontinue Animate",
+        "#text": "Stealing cable has evolved: the new face of TV piracy",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/873621/adobe-animate-maintenance-mode-reverse-course",
+      "url": "https://www.theverge.com/streaming/873416/piracy-streaming-boxes",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Republicans haul Netflix before Congress for being too ‘woke’",
+        "#text": "Anthropic says ‘Claude will remain ad-free,’ unlike ChatGPT",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/873533/netflix-warner-bros-discovery-senate-antitrust-hearing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/873686/anthropic-claude-ai-ad-free-super-bowl-advert-chatgpt",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "AMD hints Microsoft could launch its next-gen Xbox in 2027",
+        "#text": "Sen. Warren wants to know what Google Gemini’s built-in checkout means for user privacy",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/873490/microsoft-next-gen-xbox-console-2027-date-amd",
+      "url": "https://www.theverge.com/news/873476/senator-elizabeth-warren-google-gemini-ai-shopping-privacy",
       "summary": "(要約準備中)"
     }
   ]
