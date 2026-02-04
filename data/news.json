@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-04T13:35:36.043Z",
+  "updatedAt": "2026-02-04T19:08:36.168Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,15 +9,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Israeli strikes kill 20 in Gaza, hospitals say, after soldier wounded by gunfire",
-      "url": "https://www.bbc.com/news/articles/cpqyg0g5r0po?at_medium=RSS&at_campaign=rss",
-      "summary": "Hospitals say several children were among those killed in strikes that Israel's military says it launched after a gun attack on its troops."
-    },
-    {
-      "source": "BBC World",
       "title": "Melinda French Gates says ex-husband Bill has questions to answer over Epstein",
       "url": "https://www.bbc.com/news/articles/cr4kyk9nv5lo?at_medium=RSS&at_campaign=rss",
       "summary": "She said her ex-husband and others named in the Epstein files needed to answer whatever questions remain."
+    },
+    {
+      "source": "BBC World",
+      "title": "Andrew and Epstein asked exotic dancer for 'sex acts,' legal letter claims",
+      "url": "https://www.bbc.com/news/articles/ckgkjj5e28ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Lawyers for the unnamed woman claim she was 'treated like a prostitute' at Jeffrey Epstein's home."
     },
     {
       "source": "BBC Technology",
@@ -27,7 +27,7 @@
     },
     {
       "source": "BBC Technology",
-      "title": "Pinterest sacks workers for creating tool to track layoffs",
+      "title": "Pinterest sacks engineers for tracking staff job cuts",
       "url": "https://www.bbc.com/news/articles/cn0k670n0ydo?at_medium=RSS&at_campaign=rss",
       "summary": "The social media platform recently announced that it was axing around 15% of its workforce."
     },
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Stealing cable has evolved: the new face of TV piracy",
+        "#text": "OpenClaw&#8217;s AI &#8216;skill&#8217; extensions are a security nightmare",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/streaming/873416/piracy-streaming-boxes",
+      "url": "https://www.theverge.com/news/874011/openclaw-ai-skill-clawhub-extensions-security-nightmare",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Anthropic says ‘Claude will remain ad-free,’ unlike ChatGPT",
+        "#text": "The best iPad deals you can get right now",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/873686/anthropic-claude-ai-ad-free-super-bowl-advert-chatgpt",
+      "url": "https://www.theverge.com/21280354/best-ipad-deals-apple",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Sen. Warren wants to know what Google Gemini’s built-in checkout means for user privacy",
+        "#text": "I was detained by federal agents in Minneapolis",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/873476/senator-elizabeth-warren-google-gemini-ai-shopping-privacy",
+      "url": "https://www.theverge.com/policy/873656/alex-pretti-protester-detained-dhs-ice-whipple",
       "summary": "(要約準備中)"
     }
   ]
