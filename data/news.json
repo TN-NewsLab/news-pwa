@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2026-02-04T07:10:42.759Z",
+  "updatedAt": "2026-02-05T07:16:26.834Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Thousands of Epstein documents taken down after victims identified",
-      "url": "https://www.bbc.com/news/articles/cn0k65pnxjxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US Department of Justice faces criticism from victims after names and unredacted images included in latest release."
+      "title": "Fearing Russia will seize her town, war widow moves husband's grave to Kyiv",
+      "url": "https://www.bbc.com/news/articles/cvgr25e2lj5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Russia's gains on the battlefield have forced Natalia to rebury her husband."
     },
     {
       "source": "BBC World",
-      "title": "US says it shot down Iranian drone flying towards aircraft carrier",
-      "url": "https://www.bbc.com/news/articles/c3dmjn7n985o?at_medium=RSS&at_campaign=rss",
-      "summary": "A US military spokesman says the drone was shot down while approaching an American vessel in the Arabian Sea."
+      "title": "US must be prudent when supplying arms to Taiwan, Xi tells Trump",
+      "url": "https://www.bbc.com/news/articles/c62wpjd3j1zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Wednesday's call comes in the wake of a flurry of visits by Western leaders to China in recent months."
     },
     {
       "source": "BBC World",
-      "title": "Saif al-Islam Gaddafi, son of ex-Libyan leader, reportedly shot dead",
-      "url": "https://www.bbc.com/news/articles/cp37g4xgkxdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The 53-year-old, who was once widely seen as the second most powerful person in Libya, was killed on Tuesday according to Libyan media. "
+      "title": "'We are ready to talk': US news anchor Savannah Guthrie pleads for return of her abducted mother",
+      "url": "https://www.bbc.com/news/articles/c2e18wvrx9xo?at_medium=RSS&at_campaign=rss",
+      "summary": "\"She is without any medicine. She needs it to survive,\" says the NBC host about missing 84-year-old Nancy Guthrie."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "US launches plan to tackle China's critical minerals dominance",
+      "url": "https://www.bbc.com/news/articles/c5y41r5rzrno?at_medium=RSS&at_campaign=rss",
+      "summary": "The event was attended by representatives of more than 50 countries, the White House said."
     },
     {
       "source": "BBC Technology",
@@ -27,41 +33,35 @@
     },
     {
       "source": "BBC Technology",
-      "title": "Pinterest sacks workers for creating tool to track layoffs",
+      "title": "Pinterest sacks engineers for tracking staff job cuts",
       "url": "https://www.bbc.com/news/articles/cn0k670n0ydo?at_medium=RSS&at_campaign=rss",
       "summary": "The social media platform recently announced that it was axing around 15% of its workforce."
     },
     {
-      "source": "BBC Technology",
-      "title": "X offices raided in France as UK opens fresh investigation into Grok",
-      "url": "https://www.bbc.com/news/articles/ce3ex92557jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Elon Musk's X and Grok platforms are facing increased scrutiny from authorities on both sides of the channel."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Adobe actually won’t discontinue Animate",
+        "#text": "Valve’s Steam Machine has been delayed, and the RAM crisis will impact pricing",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/873621/adobe-animate-maintenance-mode-reverse-course",
+      "url": "https://www.theverge.com/games/874196/valve-steam-machine-frame-controller-delay-pricing-memory-crisis",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Republicans haul Netflix before Congress for being too ‘woke’",
+        "#text": "Google&#8217;s annual revenue tops $400 billion for the first time",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/873533/netflix-warner-bros-discovery-senate-antitrust-hearing",
+      "url": "https://www.theverge.com/news/874161/google-400-billion-revenue-q4-2025-earnings",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "AMD hints Microsoft could launch its next-gen Xbox in 2027",
+        "#text": "Senators grill Waymo and Tesla over robotaxi safety, liability, and China",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/873490/microsoft-next-gen-xbox-console-2027-date-amd",
+      "url": "https://www.theverge.com/transportation/873891/senate-hearing-autonomous-vehicles-robotaxi-waymo-tesla-legislation",
       "summary": "(要約準備中)"
     }
   ]
