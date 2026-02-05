@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "Qwen3-Coder-Nextがバイブコーダーに強力なオープンソースの超スパースモデルを提供、リポタスクのスループットが10倍向上",
-    "title_en": "Qwen3-Coder-Next offers vibe coders a powerful open source, ultra-sparse model with 10x higher throughput for repo tasks",
-    "summary": "AlibabaのQwenチームが新しい高性能AIモデル「Qwen3-Coder-Next」をリリースし、業界の競争が激化している。モデルは80億のパラメータを持ちながら、実際のコーディング作業において効率的な性能を発揮するよう設計されている。エージェントトレーニング手法を通じて、実世界のバグ修正などのタスクを学習し、従来の大規模モデルに対抗する能力を備えている。",
-    "summary_en": "AlibabaのQwenチームが新しい高性能AIモデル「Qwen3-Coder-Next」をリリースし、業界の競争が激化している。これにより、モデルは80億のパラメータを持ちながら、実際のコーディング作業において効率的な性能を発揮できるように設計されている。エージェントトレーニング手法を通じて、実世界のバグ修正などのタスクを学習させ、従来の大規模モデルに対抗する能力を備えている。",
-    "link": "https://venturebeat.com/technology/qwen3-coder-next-offers-vibe-coders-a-powerful-open-source-ultra-sparse",
+    "title": "「ブラウニーのレシピ問題」：LLMがリアルタイムの結果を提供するために必要な細かなコンテキスト",
+    "title_en": "The ‘brownie recipe problem’: why LLMs must have fine-grained context to deliver real-time results",
+    "summary": "最近の大規模言語モデル（LLM）は推論能力に優れていますが、コンテキストの理解には課題があります。InstacartのCTOは、ユーザーの好みや市場状況を考慮した製品選択の重要性を指摘し、複雑なデータ処理を小さな言語モデルに分割するアプローチを採用しています。また、Instacartは「単一の大規模エージェント」よりも、機能別のマイクロエージェントを活用し、異なる情報源との統合を効率化しようとしています。",
+    "summary_en": "最近の大規模言語モデル（LLM）は推論能力に優れていますが、コンテキストの理解には課題があります。InstacartのCTOは、ユーザの好みや市場状況を踏まえた製品選択の重要性を指摘し、複雑なデータ処理を小さな言語モデルに分割するアプローチを採用しています。また、Instacartは「単一の大規模エージェント」よりも、機能別のマイクロエージェントを活用し、異なる情報源との統合を効率化しようとしています。",
+    "link": "https://venturebeat.com/orchestration/the-brownie-recipe-problem-why-llms-must-have-fine-grained-context-to",
     "category": "AI",
-    "publishedAt": "2026-02-04 16:11"
+    "publishedAt": "2026-02-05 17:12"
   },
   {
     "source": "VentureBeat",
-    "title": "Apple、エージェントコーディング推進のためXcode 26.3にAnthropicのClaudeとOpenAIのCodexを統合",
-    "title_en": "Apple integrates Anthropic’s Claude and OpenAI’s Codex into Xcode 26.3 in push for ‘agentic coding’",
-    "summary": "Appleは、開発者ツールの主要なアップデートを発表し、AIエージェントがアプリ作成プロセスに大きな役割を果たす「エージェントコーディング」を導入しました。この新しいシステムは、AIが自律的にコードを書くことを可能にし、開発者は最小限の監視でプロジェクトを進められるようになります。しかし、AIが生成するコードのセキュリティに関する懸念も高まっており、実際の運用においては引き続き注意が必要です。",
-    "summary_en": "Appleは、開発者ツールの主要なアップデートを発表し、AIエージェントがアプリ作成プロセスに大きな役割を果たす「エージェントコーディング」を導入しました。この新しいシステムは、AIが自律的にコードを書くことを可能とし、開発者は最小限の監視でプロジェクトを進められるようになります。しかし、AIが生成するコードのセキュリティに関する懸念も高まっており、実際の運用においては引き続き注意が必要です。",
-    "link": "https://venturebeat.com/technology/apple-integrates-anthropics-claude-and-openais-codex-into-xcode-26-3-in-push",
+    "title": "MistralがVoxtral Transcribe 2を発表、デバイス上で動作するオープンソース音声モデル",
+    "title_en": "Mistral drops Voxtral Transcribe 2, an open-source speech model that runs on-device for pennies",
+    "summary": "パリのスタートアップMistral AIが、スマートフォンやラップトップで動作する音声からテキストへのモデルを発表しました。これにより、重要なデータを外部サーバに送信せずに処理できるため、医療や金融などの規制が厳しい業界への導入が期待されます。Mistralは、競争の激しい音声AI市場において、精度とコストの面で優位性を持ちつつ、データのプライバシーやローカル処理に重点を置いています。",
+    "summary_en": "パリのスタートアップMistral AIが、スマートフォンやラップトップで動作する音声からテキストへのモデルを発表しました。これにより、重要なデータを外部サーバに送信せずに処理できるため、医療や金融などの規制が厳しい業界への導入が期待されます。Mistralは、競争の激しい音声AI市場において、精度とコストの面で優位性を持ちつつ、データのプライバシーやローカル処理に重点を置いています。",
+    "link": "https://venturebeat.com/technology/mistral-drops-voxtral-transcribe-2-an-open-source-speech-model-that-runs-on",
     "category": "AI",
-    "publishedAt": "2026-02-04 16:11"
+    "publishedAt": "2026-02-05 17:12"
   },
   {
     "source": "NHK",
-    "title": "株価 値下がり “AI普及でソフトウエア需要減”の見方から",
+    "title": "株価 値下がり AI需要の先行きに対する慎重な見方から",
     "title_en": "",
-    "summary": "東京株式市場では、AIの普及によるソフトウエア需要減少の懸念から、半導体関連銘柄に売りが出ました。その影響で、日経平均株価は値下がりしました。投資家の不安感が市場全体に影響を与えています。",
+    "summary": "東京株式市場では、人工知能の需要に対する慎重な見方から、半導体関連銘柄に売り注文が集中しました。その結果、日経平均株価が値下がりしました。市場の動向が懸念された一日となりました。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260204/k10015043121000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260205/k10015043991000.html",
     "category": "経済",
-    "publishedAt": "2026-02-04 16:11"
+    "publishedAt": "2026-02-05 17:12"
   },
   {
     "source": "BBC",
-    "title": "被害者が特定された後、エプスタイン関連文書が数千件削除される",
-    "title_en": "Thousands of Epstein documents taken down after victims identified",
-    "summary": "米国司法省は最新の情報公開で、被害者の名前や加工されていない画像が含まれていたことに批判を受けている。これにより、被害者のプライバシーが侵害されたとの不満が高まっている。被害者たちは、政府の情報管理の重要性を訴えている。",
-    "summary_en": "米国司法省は最新の情報公開で、被害者の名前や加工されていない画像が含まれたことに対して批判を受けている。これにより、被害者のプライバシーが侵害されたとの不満が高まっている。被害者たちは、政府の情報管理の重要性を訴えている。",
-    "link": "https://www.bbc.com/news/articles/cn0k65pnxjxo?at_medium=RSS&at_campaign=rss",
+    "title": "ロシアが町を奪う懸念を抱え、戦争未亡人が夫の墓をキエフに移動",
+    "title_en": "Fearing Russia will seize her town, war widow moves husband's grave to Kyiv",
+    "summary": "ロシアの戦場での成果により、ナタリアは再び夫を埋葬することを余儀なくされました。状況の悪化が影響しており、彼女の悲しみが深まっています。戦争の影響が個人の生活に及んでいることを示す出来事です。",
+    "summary_en": "ロシアの戦場での成果により、ナタリアは再び夫を埋葬することを余儀なくされました。状況の悪化が影響しており、彼女の悲しみが深まっています。戦争の影響が個人の生活に及んでいることを示す出来事です。",
+    "link": "https://www.bbc.com/news/articles/cvgr25e2lj5o?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-02-04 16:12"
+    "publishedAt": "2026-02-05 17:13"
   },
   {
     "source": "NHK",
-    "title": "ザトウクジラの赤ちゃん 八丈島沖で初確認 繁殖海域北上か",
+    "title": "宇宙飛行士 油井さん「全速力で駆け抜けた」 長期滞在振り返る",
     "title_en": "",
-    "summary": "先月末、八丈島の沖合で生後1週間とみられるザトウクジラの赤ちゃんが撮影されました。専門家によると、この海域での生後まもないザトウクジラの確認は初めてとのことです。希少な現象として注目されています。",
+    "summary": "国際宇宙ステーションから帰還した宇宙飛行士の油井亀美也さんが、滞在中のアメリカからオンラインで会見を行いました。彼は長期滞在を「全速力で駆け抜けた」と振り返っています。体験や感想を共有する機会となりました。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260204/k10015043161000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260205/k10015043941000.html",
     "category": "その他",
-    "publishedAt": "2026-02-04 16:12"
+    "publishedAt": "2026-02-05 17:13"
   }
 ]
