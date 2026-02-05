@@ -1,23 +1,35 @@
 {
-  "updatedAt": "2026-02-05T07:16:26.834Z",
+  "updatedAt": "2026-02-05T13:39:08.228Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Fearing Russia will seize her town, war widow moves husband's grave to Kyiv",
-      "url": "https://www.bbc.com/news/articles/cvgr25e2lj5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Russia's gains on the battlefield have forced Natalia to rebury her husband."
+      "title": "Naked images remained in Epstein files despite outcry",
+      "url": "https://www.bbc.com/news/articles/c5yd10yp2m1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Four images seen by BBC Verify show partially clothed women with their faces and bodies unredacted. "
     },
     {
       "source": "BBC World",
       "title": "US must be prudent when supplying arms to Taiwan, Xi tells Trump",
       "url": "https://www.bbc.com/news/articles/c62wpjd3j1zo?at_medium=RSS&at_campaign=rss",
-      "summary": "Wednesday's call comes in the wake of a flurry of visits by Western leaders to China in recent months."
+      "summary": "Their call comes in the wake of a flurry of visits by Western leaders to China in recent months."
     },
     {
       "source": "BBC World",
-      "title": "'We are ready to talk': US news anchor Savannah Guthrie pleads for return of her abducted mother",
-      "url": "https://www.bbc.com/news/articles/c2e18wvrx9xo?at_medium=RSS&at_campaign=rss",
-      "summary": "\"She is without any medicine. She needs it to survive,\" says the NBC host about missing 84-year-old Nancy Guthrie."
+      "title": "55,000 Ukrainian soldiers killed in war with Russia, Zelensky says",
+      "url": "https://www.bbc.com/news/articles/cvgn2dzwd1do?at_medium=RSS&at_campaign=rss",
+      "summary": "The Ukrainian president also said a large number of people were \"officially missing\", meaning the total death toll is thought to be much higher."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "ChatGPT boss ridiculed for online 'tantrum' over rival's Super Bowl ad",
+      "url": "https://www.bbc.com/news/articles/ce3edyx74jko?at_medium=RSS&at_campaign=rss",
+      "summary": "Commenters said Altman's lengthy post shows \"a nerve was well and truly hit\" by Anthropic's advert."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "UK's £8bn research fund faces 'hard decisions' as it pauses new grants",
+      "url": "https://www.bbc.com/news/articles/c8e50x1r237o?at_medium=RSS&at_campaign=rss",
+      "summary": "UKRI boss Ian Chapman said it had been told by the government to \"focus and do fewer things better\".\n"
     },
     {
       "source": "BBC Technology",
@@ -26,42 +38,30 @@
       "summary": "The event was attended by representatives of more than 50 countries, the White House said."
     },
     {
-      "source": "BBC Technology",
-      "title": "Netflix and Warner Bros struggle to defend merger",
-      "url": "https://www.bbc.com/news/articles/c5ydndkmvy2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Concerns were raised by a subcommittee including potential price rises and the future of cinemas."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Pinterest sacks engineers for tracking staff job cuts",
-      "url": "https://www.bbc.com/news/articles/cn0k670n0ydo?at_medium=RSS&at_campaign=rss",
-      "summary": "The social media platform recently announced that it was axing around 15% of its workforce."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Valve’s Steam Machine has been delayed, and the RAM crisis will impact pricing",
+        "#text": "Spotify’s Page Match syncs your audiobooks and your physical ones",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/874196/valve-steam-machine-frame-controller-delay-pricing-memory-crisis",
+      "url": "https://www.theverge.com/entertainment/874134/spotify-page-match-audiobook-sync",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Google&#8217;s annual revenue tops $400 billion for the first time",
+        "#text": "Spotify is partnering with Bookshop.org to sell physical books",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/874161/google-400-billion-revenue-q4-2025-earnings",
+      "url": "https://www.theverge.com/entertainment/874150/spotify-bookshop-org-physical-books",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Senators grill Waymo and Tesla over robotaxi safety, liability, and China",
+        "#text": "Substack data breach exposed users’ emails and phone numbers",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/transportation/873891/senate-hearing-autonomous-vehicles-robotaxi-waymo-tesla-legislation",
+      "url": "https://www.theverge.com/tech/874255/substack-data-breach-user-emails-phone-numbers",
       "summary": "(要約準備中)"
     }
   ]
