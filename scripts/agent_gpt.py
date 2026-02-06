@@ -214,7 +214,7 @@ def classify_category(title, summary, initial_category):
     # --- 経済 キーワード ---
     economy_keywords = [
         "stock", "market", "shares", "inflation", "finance",
-        "経済", "企業", "株", "景気", "賃金", "資金", "金利"
+        "経済", "企業", "株", "株価", "景気", "賃金", "資金", "金利"
     ]
 
     # --- ① AI判定 ---
