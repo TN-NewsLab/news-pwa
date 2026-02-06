@@ -1,23 +1,35 @@
 {
-  "updatedAt": "2026-02-06T07:13:12.549Z",
+  "updatedAt": "2026-02-06T13:34:36.662Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "US and Iran talks to begin as fears of direct conflict continue",
+      "title": "More than 30 killed in blast at Pakistan mosque, officials say",
+      "url": "https://www.bbc.com/news/articles/cg7y7gz2835o?at_medium=RSS&at_campaign=rss",
+      "summary": "The cause of the explosion was not immediately clear, however reports have suggested it was carried out by a suicide bomber."
+    },
+    {
+      "source": "BBC World",
+      "title": "US and Iran hold talks as fears of direct conflict continue",
       "url": "https://www.bbc.com/news/articles/cr57g1y8286o?at_medium=RSS&at_campaign=rss",
       "summary": "The US has built up its military presence in the Middle East in response to Iran's violent crackdown on protests."
     },
     {
       "source": "BBC World",
-      "title": "We had sex in a Chinese hotel, then found we had been broadcast to thousands",
-      "url": "https://www.bbc.com/news/articles/c62rexy9y3no?at_medium=RSS&at_campaign=rss",
-      "summary": "A couple who stayed in Shenzhen discovered their intimate moments were filmed as spy-cam porn. "
+      "title": "Russian general shot several times in Moscow",
+      "url": "https://www.bbc.com/news/articles/c3686nzexp3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Lt Gen Vladimir Alexeyev is a senior figure in the main directorate of Russia's military general staff."
     },
     {
-      "source": "BBC World",
-      "title": "US police believe Savannah Guthrie's missing mother is 'still out there' ",
-      "url": "https://www.bbc.com/news/articles/c2e18wvrx9xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Nancy Guthrie's family post their second video message this week appealing for the 84-year-old's release."
+      "source": "BBC Technology",
+      "title": "TikTok told to change 'addictive design' by EU or face massive fines",
+      "url": "https://www.bbc.com/news/articles/cr7j7n315lmo?at_medium=RSS&at_campaign=rss",
+      "summary": "TikTok says it plans to challenge the \"categorically false and entirely meritless\" accusations."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Bitcoin falls to lowest level since Trump took office",
+      "url": "https://www.bbc.com/news/articles/cy09x24q0pro?at_medium=RSS&at_campaign=rss",
+      "summary": "The price of the digital currency has dropped significantly despite President Donald Trump’s public support."
     },
     {
       "source": "BBC Technology",
@@ -26,42 +38,30 @@
       "summary": "Commenters said Altman's lengthy post shows \"a nerve was well and truly hit\" by Anthropic's advert."
     },
     {
-      "source": "BBC Technology",
-      "title": "UK's £8bn research fund faces 'hard decisions' as it pauses new grants",
-      "url": "https://www.bbc.com/news/articles/c8e50x1r237o?at_medium=RSS&at_campaign=rss",
-      "summary": "UKRI boss Ian Chapman said it had been told by the government to \"focus and do fewer things better\".\n"
-    },
-    {
-      "source": "BBC Technology",
-      "title": "US launches plan to tackle China's critical minerals dominance",
-      "url": "https://www.bbc.com/news/articles/c5y41r5rzrno?at_medium=RSS&at_campaign=rss",
-      "summary": "The event was attended by representatives of more than 50 countries, the White House said."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "HBO is turning Baldur’s Gate into a TV show",
+        "#text": "Can China’s No. 2 automaker make it in America?",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/874682/hbo-baldurs-gate-3-tv-show-craig-mazin",
+      "url": "https://www.theverge.com/transportation/874551/geely-volvo-china-cars-us-software-restrictions",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Roblox is working to pull in adult players",
+        "#text": "How the men in the Epstein files defeated #MeToo",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/874675/roblox-earnings-q4-2025-increasing-adult-players",
+      "url": "https://www.theverge.com/tech/874721/epstein-thiel-musk-trump-metoo",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Republicans attack &#8216;woke&#8217; Netflix — and ignore YouTube",
+        "#text": "Uber found liable for sexual assault in first of thousands of similar lawsuits",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/streaming/874655/netflix-warner-bros-republican-culture-war-ted-sarandos-hearing",
+      "url": "https://www.theverge.com/transportation/874751/uber-sexual-assault-federal-case-verdict-liable",
       "summary": "(要約準備中)"
     }
   ]
