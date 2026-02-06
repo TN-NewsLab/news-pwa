@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-02-05T19:06:52.354Z",
+  "updatedAt": "2026-02-06T03:10:18.303Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "US and Iran talks to begin as fears of direct conflict continue",
+      "url": "https://www.bbc.com/news/articles/cr57g1y8286o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US has built up its military presence in the Middle East in response to Iran's violent crackdown on protests."
+    },
+    {
+      "source": "BBC World",
+      "title": "We had sex in a Chinese hotel, then found we had been broadcast to thousands",
+      "url": "https://www.bbc.com/news/articles/c62rexy9y3no?at_medium=RSS&at_campaign=rss",
+      "summary": "A couple who stayed in Shenzhen discovered their intimate moments were filmed as spy-cam porn. "
+    },
     {
       "source": "BBC World",
       "title": "Russia and Ukraine exchange prisoners as peace talks end without breakthrough",
       "url": "https://www.bbc.com/news/articles/c62np09q7l1o?at_medium=RSS&at_campaign=rss",
       "summary": "The swap - the first since October - sees 157 Ukrainians and 160 Russians returned home."
-    },
-    {
-      "source": "BBC World",
-      "title": "Starmer apologises to Epstein victims for believing Mandelson's 'lies'",
-      "url": "https://www.bbc.com/news/articles/cp37v4kyv3eo?at_medium=RSS&at_campaign=rss",
-      "summary": "The PM says the depth of the pair's relationship was not known when he was appointed US ambassador."
-    },
-    {
-      "source": "BBC World",
-      "title": "Suspect identified in disappearance of four-year-old in Australian outback",
-      "url": "https://www.bbc.com/news/articles/c368g5l33xzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Gus Lamont was last seen playing outside his home on a remote sheep station on 27 September. "
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "One of the best laptop power banks available is cheaper than ever",
+        "#text": "HBO is turning Baldur’s Gate into a TV show",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/874509/anker-laptop-power-bank-google-pixel-watch-4-deal-sale",
+      "url": "https://www.theverge.com/entertainment/874682/hbo-baldurs-gate-3-tv-show-craig-mazin",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "I tested several cases for the Switch 2 and these are the best",
+        "#text": "Roblox is working to pull in adult players",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/reviews/691319/best-switch-2-cases",
+      "url": "https://www.theverge.com/games/874675/roblox-earnings-q4-2025-increasing-adult-players",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Super Bowl LX ads: all AI everything",
+        "#text": "Republicans attack &#8216;woke&#8217; Netflix — and ignore YouTube",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/874504/super-bowl-lx-ads-big-game",
+      "url": "https://www.theverge.com/streaming/874655/netflix-warner-bros-republican-culture-war-ted-sarandos-hearing",
       "summary": "(要約準備中)"
     }
   ]
