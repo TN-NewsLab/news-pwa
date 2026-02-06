@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2026-02-06T13:34:36.662Z",
+  "updatedAt": "2026-02-06T19:07:53.439Z",
   "top": [
-    {
-      "source": "BBC World",
-      "title": "More than 30 killed in blast at Pakistan mosque, officials say",
-      "url": "https://www.bbc.com/news/articles/cg7y7gz2835o?at_medium=RSS&at_campaign=rss",
-      "summary": "The cause of the explosion was not immediately clear, however reports have suggested it was carried out by a suicide bomber."
-    },
-    {
-      "source": "BBC World",
-      "title": "US and Iran hold talks as fears of direct conflict continue",
-      "url": "https://www.bbc.com/news/articles/cr57g1y8286o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US has built up its military presence in the Middle East in response to Iran's violent crackdown on protests."
-    },
     {
       "source": "BBC World",
       "title": "Russian general shot several times in Moscow",
       "url": "https://www.bbc.com/news/articles/c3686nzexp3o?at_medium=RSS&at_campaign=rss",
       "summary": "Lt Gen Vladimir Alexeyev is a senior figure in the main directorate of Russia's military general staff."
+    },
+    {
+      "source": "BBC World",
+      "title": "Talks with US set to continue after 'good beginning', Iran's foreign minister says",
+      "url": "https://www.bbc.com/news/articles/cr57g1y8286o?at_medium=RSS&at_campaign=rss",
+      "summary": "Abbas Aragchi spoke after hours of talks in Oman ended, which the two countries entered with significantly different positions."
+    },
+    {
+      "source": "BBC World",
+      "title": "More than 30 killed in blast at Pakistan mosque, officials say",
+      "url": "https://www.bbc.com/news/articles/cg7y7gz2835o?at_medium=RSS&at_campaign=rss",
+      "summary": "Almost 170 were injured in the explosion, which took place during Friday prayers in the capital Islamabad."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Baldur's Gate to be turned into TV series - without the game's developers",
+      "url": "https://www.bbc.com/news/articles/c24g457y534o?at_medium=RSS&at_campaign=rss",
+      "summary": "The show will be made by Craig Mazin, who co-created the acclaimed game adaptation The Last Of Us."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "The price of the digital currency has dropped significantly despite President Donald Trump’s public support."
     },
     {
-      "source": "BBC Technology",
-      "title": "ChatGPT boss ridiculed for online 'tantrum' over rival's Super Bowl ad",
-      "url": "https://www.bbc.com/news/articles/ce3edyx74jko?at_medium=RSS&at_campaign=rss",
-      "summary": "Commenters said Altman's lengthy post shows \"a nerve was well and truly hit\" by Anthropic's advert."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Can China’s No. 2 automaker make it in America?",
+        "#text": "The Jeffrey Epstein Fortnite account is fake",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/transportation/874551/geely-volvo-china-cars-us-software-restrictions",
+      "url": "https://www.theverge.com/news/875014/jeffrey-epstein-fortnite-account-fake",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "How the men in the Epstein files defeated #MeToo",
+        "#text": "Here are the best AirPods deals you can get right now",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/874721/epstein-thiel-musk-trump-metoo",
+      "url": "https://www.theverge.com/21302051/best-apple-airpods-deals",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Uber found liable for sexual assault in first of thousands of similar lawsuits",
+        "#text": "Spotify’s About the Song offers context and trivia about your favorite tracks",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/transportation/874751/uber-sexual-assault-federal-case-verdict-liable",
+      "url": "https://www.theverge.com/entertainment/874945/spotify-about-the-song-ai-liner-notes",
       "summary": "(要約準備中)"
     }
   ]
