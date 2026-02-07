@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-02-07T07:01:59.555Z",
+  "updatedAt": "2026-02-07T13:12:08.548Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Trump removes video with racist clip depicting Obamas as apes",
-      "url": "https://www.bbc.com/news/articles/ce8r8y78g10o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president said he \"didn't make a mistake\", adding he had only seen the beginning of the video before it was posted. "
+      "title": "US wants Russia and Ukraine to end war by June, says Zelensky",
+      "url": "https://www.bbc.com/news/articles/cd0y0y9z231o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Ukrainian leader says difficult issues remain, as Russia carries out further strikes on energy facilities."
     },
     {
       "source": "BBC World",
-      "title": "Trump signs executive order threatening tariffs for countries trading with Iran",
-      "url": "https://www.bbc.com/news/articles/c4glgz2l83vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The order did not specify the rate that could be imposed, but used 25% as an example."
+      "title": "Trump says he 'didn't see' part of video with racist clip depicting Obamas as apes",
+      "url": "https://www.bbc.com/news/articles/ce8r8y78g10o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president says he \"didn't make a mistake\", adding he had only seen the beginning of the video before it was posted. "
     },
     {
       "source": "BBC World",
@@ -40,6 +40,15 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "The best way to watch the Olympics",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/tech/875154/how-to-watch-olympics-nintendo-muppets-installer",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "We found 20 Verge-approved gifts on sale ahead of Valentine’s Day",
         "@_type": "html"
       },
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/transportation/875199/apple-carplay-third-party-chatbots-rumor",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "This is the Trump Phone",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/gadgets/875190/trump-phone-t1-first-look-design-interview-eric-thomas-don-hendrickson",
       "summary": "(要約準備中)"
     }
   ]
