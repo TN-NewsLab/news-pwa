@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-02-06T19:07:53.439Z",
+  "updatedAt": "2026-02-07T02:50:02.616Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Russian general shot several times in Moscow",
-      "url": "https://www.bbc.com/news/articles/c3686nzexp3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Lt Gen Vladimir Alexeyev is a senior figure in the main directorate of Russia's military general staff."
+      "title": "Trump signs executive order threatening tariffs for countries trading with Iran",
+      "url": "https://www.bbc.com/news/articles/c4glgz2l83vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The order did not specify the rate that could be imposed, but used 25% as an example."
     },
     {
       "source": "BBC World",
-      "title": "Talks with US set to continue after 'good beginning', Iran's foreign minister says",
-      "url": "https://www.bbc.com/news/articles/cr57g1y8286o?at_medium=RSS&at_campaign=rss",
-      "summary": "Abbas Aragchi spoke after hours of talks in Oman ended, which the two countries entered with significantly different positions."
+      "title": "Trump removes video with racist clip depicting Obamas as apes",
+      "url": "https://www.bbc.com/news/articles/ce8r8y78g10o?at_medium=RSS&at_campaign=rss",
+      "summary": "The White House defended the post at first, calling to \"stop the fake outrage\", as members of both parties condemned the video. "
     },
     {
       "source": "BBC World",
-      "title": "More than 30 killed in blast at Pakistan mosque, officials say",
-      "url": "https://www.bbc.com/news/articles/cg7y7gz2835o?at_medium=RSS&at_campaign=rss",
-      "summary": "Almost 170 were injured in the explosion, which took place during Friday prayers in the capital Islamabad."
+      "title": "Milan-Cortina Games begin with vibrant opening ceremony",
+      "url": "https://www.bbc.com/sport/articles/czejep5z51wo?at_medium=RSS&at_campaign=rss",
+      "summary": "Andrea Bocelli and Mariah Carey perform as part of vibrant opening ceremony for the Milan-Cortina Winter Olympics."
     },
     {
       "source": "BBC Technology",
@@ -27,41 +27,41 @@
     },
     {
       "source": "BBC Technology",
-      "title": "TikTok told to change 'addictive design' by EU or face massive fines",
-      "url": "https://www.bbc.com/news/articles/cr7j7n315lmo?at_medium=RSS&at_campaign=rss",
-      "summary": "TikTok says it plans to challenge the \"categorically false and entirely meritless\" accusations."
+      "title": "Uber ordered to pay $8.5m over claim driver raped passenger",
+      "url": "https://www.bbc.com/news/articles/cq5y5w148p5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The verdict is expected to influence the outcome of thousands of other cases against the ride hailing firm."
     },
     {
       "source": "BBC Technology",
-      "title": "Bitcoin falls to lowest level since Trump took office",
-      "url": "https://www.bbc.com/news/articles/cy09x24q0pro?at_medium=RSS&at_campaign=rss",
-      "summary": "The price of the digital currency has dropped significantly despite President Donald Trump’s public support."
+      "title": "Google staff call for firm to cut ties with ICE",
+      "url": "https://www.bbc.com/news/articles/cvgjg98vmzjo?at_medium=RSS&at_campaign=rss",
+      "summary": "More than 900 Google employees signed a letter opposing company links to federal immigration actions. "
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The Jeffrey Epstein Fortnite account is fake",
+        "#text": "We found 20 Verge-approved gifts on sale ahead of Valentine’s Day",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/875014/jeffrey-epstein-fortnite-account-fake",
+      "url": "https://www.theverge.com/gadgets/873589/valentines-day-gifts-aura-aspen-amazfit-active-2-deal-sale",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Here are the best AirPods deals you can get right now",
+        "#text": "Apple might let you use ChatGPT from CarPlay",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/21302051/best-apple-airpods-deals",
+      "url": "https://www.theverge.com/transportation/875199/apple-carplay-third-party-chatbots-rumor",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Spotify’s About the Song offers context and trivia about your favorite tracks",
+        "#text": "This is the Trump Phone",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/874945/spotify-about-the-song-ai-liner-notes",
+      "url": "https://www.theverge.com/gadgets/875190/trump-phone-t1-first-look-design-interview-eric-thomas-don-hendrickson",
       "summary": "(要約準備中)"
     }
   ]
