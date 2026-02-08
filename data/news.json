@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-02-08T07:07:44.896Z",
+  "updatedAt": "2026-02-08T13:13:11.129Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Japanese people brave snow to vote in snap election ",
+      "title": "Japan's governing party projected to win snap election majority",
       "url": "https://www.bbc.com/news/articles/cx2y7d2z29xo?at_medium=RSS&at_campaign=rss",
-      "summary": "A coalition led by Takaichi is expected to clinch a decisive win, according to polls."
+      "summary": "A coalition led by current Prime Minister Sanae Takaichi is expected to clinch a decisive win, according to media projections after polls closed."
     },
     {
       "source": "BBC World",
-      "title": "Savannah Guthrie tells mother's possible kidnappers 'we will pay' in plea for her return",
-      "url": "https://www.bbc.com/news/articles/ce9y99eg0nno?at_medium=RSS&at_campaign=rss",
-      "summary": "\"We received your message,\" the US news anchor says in the latest video plea for the return of her mother Nancy Guthrie, 84, who is believed to be abducted. "
+      "title": "Polls close in Thai election pitting reformists against conservatives",
+      "url": "https://www.bbc.com/news/articles/cx2jn4z4eq0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Thai voters are choosing between sweeping change or more of the same in an election called after several coalition governments collapsed."
     },
     {
       "source": "BBC World",
-      "title": "France investigates ex-minister Jack Lang over Epstein links",
-      "url": "https://www.bbc.com/news/articles/crkrk567d7zo?at_medium=RSS&at_campaign=rss",
-      "summary": "The socialist grandee quits his role at a prestigious institute as he is investigated for the \"laundering of tax-fraud proceeds\"."
+      "title": "Russia names three suspects over shooting of general",
+      "url": "https://www.bbc.com/news/articles/cy7j6xe8862o?at_medium=RSS&at_campaign=rss",
+      "summary": "The suspects include the alleged gunman, Lyubomir Korba, whom Russia says fled to the UAE after the attack."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "Digital car keys are getting more sophisticated",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/transportation/873197/digital-key-car-ccc-plugfest-rivian",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "Netflix’s Warner Bros. merger puts rival streamers in survival mode",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/column/874781/netflix-warner-bros-merger-other-streamers",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "Former Tumblr head Jeff D’Onofrio steps in as acting CEO at the Washington Post",
         "@_type": "html"
       },
       "url": "https://www.theverge.com/tech/875433/tumblr-jeff-donofrio-ceo-washington-post-layoffs",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Super Bowl LX ads: all AI everything",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/entertainment/874504/super-bowl-lx-ads-big-game",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "GOG is already working on native Linux support",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/tech/875425/gog-native-linux-support",
       "summary": "(要約準備中)"
     }
   ]
