@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-02-08T13:13:11.129Z",
+  "updatedAt": "2026-02-08T18:55:36.370Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Japan's governing party projected to win snap election majority",
+      "title": "Japan's governing party on course for landslide election win",
       "url": "https://www.bbc.com/news/articles/cx2y7d2z29xo?at_medium=RSS&at_campaign=rss",
-      "summary": "A coalition led by current Prime Minister Sanae Takaichi is expected to clinch a decisive win, according to media projections after polls closed."
+      "summary": "A coalition led by current Prime Minister Sanae Takaichi is expected to clinch a decisive win, an exit poll suggests."
     },
     {
       "source": "BBC World",
-      "title": "Polls close in Thai election pitting reformists against conservatives",
+      "title": "Thai PM claims election victory as early results show conservatives ahead",
       "url": "https://www.bbc.com/news/articles/cx2jn4z4eq0o?at_medium=RSS&at_campaign=rss",
       "summary": "Thai voters are choosing between sweeping change or more of the same in an election called after several coalition governments collapsed."
     },
     {
       "source": "BBC World",
-      "title": "Russia names three suspects over shooting of general",
+      "title": "Russia names three suspects in shooting of general",
       "url": "https://www.bbc.com/news/articles/cy7j6xe8862o?at_medium=RSS&at_campaign=rss",
       "summary": "The suspects include the alleged gunman, Lyubomir Korba, whom Russia says fled to the UAE after the attack."
     },
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Digital car keys are getting more sophisticated",
+        "#text": "You need to listen to the new Mandy, Indiana record: URGH",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/transportation/873197/digital-key-car-ccc-plugfest-rivian",
+      "url": "https://www.theverge.com/entertainment/875469/mandy-indiana-urgh-review",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Netflix’s Warner Bros. merger puts rival streamers in survival mode",
+        "#text": "The iPhone 17e could launch soon with MagSafe and an A19 chip",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/column/874781/netflix-warner-bros-merger-other-streamers",
+      "url": "https://www.theverge.com/tech/875454/iphone-17e-launching-soon-magsafe-a19",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Former Tumblr head Jeff D’Onofrio steps in as acting CEO at the Washington Post",
+        "#text": "How I Built the Star Trek control panel of my dreams",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/875433/tumblr-jeff-donofrio-ceo-washington-post-layoffs",
+      "url": "https://www.theverge.com/tech/862070/lcars-homes-assistant-star-trek",
       "summary": "(要約準備中)"
     }
   ]
