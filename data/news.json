@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-09T13:48:10.038Z",
+  "updatedAt": "2026-02-09T19:40:45.309Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,15 +9,27 @@
     },
     {
       "source": "BBC World",
-      "title": "Japanese stocks surge as Takaichi secures historic election victory",
-      "url": "https://www.bbc.com/news/articles/cjd9k852zdjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Prime Minister Sanae Takaichi's Liberal Democratic Party  secured 316 out of 465 seats in Sunday's election."
+      "title": "Maxwell refuses to answer questions about Epstein in congressional hearing",
+      "url": "https://www.bbc.com/news/articles/cvgv5yre39zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ghislaine Maxwell, the jailed associate of sex offender Jeffrey Epstein, invoked her Fifth Amendment right to avoid self-incrimination."
     },
     {
       "source": "BBC World",
-      "title": "Maxwell won't answer questions from Congress, lawyer says",
-      "url": "https://www.bbc.com/news/articles/cvgv5yre39zo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ghislaine Maxwell,  the jailed associate of sex offender Jeffrey Epstein, will invoke her Fifth Amendment right to avoid self-incrimination."
+      "title": "Epstein survivors call for full release of files in video",
+      "url": "https://www.bbc.com/news/articles/clyz9pvwlw9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Millions of files relating to the late sex offender Jeffrey Epstein have been released by the DOJ but many have redactions."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Discord to start requiring face scan or ID to access adult content",
+      "url": "https://www.bbc.com/news/articles/c1d67vdlk1ko?at_medium=RSS&at_campaign=rss",
+      "summary": "The online chat service, which has 200 million monthly users, will blur adult content by default."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "AI chatbots pose 'dangerous' risk when giving medical advice, study suggests",
+      "url": "https://www.bbc.com/news/articles/c3093gjy2ero?at_medium=RSS&at_campaign=rss",
+      "summary": "It found people using AI for health reasons found it hard to identify what advice they should trust."
     },
     {
       "source": "BBC Technology",
@@ -26,42 +38,30 @@
       "summary": "A Meta spokesperson said the EU had \"no reason\" to intervene over it changing the app in January."
     },
     {
-      "source": "BBC Technology",
-      "title": "Baldur's Gate to be turned into TV series - without the game's developers",
-      "url": "https://www.bbc.com/news/articles/c24g457y534o?at_medium=RSS&at_campaign=rss",
-      "summary": "The show will be made by Craig Mazin, who co-created the acclaimed game adaptation The Last Of Us."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Uber ordered to pay $8.5m over claim driver raped passenger",
-      "url": "https://www.bbc.com/news/articles/cq5y5w148p5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The verdict is expected to influence the outcome of thousands of other cases against the ride hailing firm."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Animal Crossing started life as a dungeon crawler",
+        "#text": "Apple is killing the old HomeKit tomorrow",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/874895/super-nintendo-book-excerpt-animal-crossing-keza-macdonald",
+      "url": "https://www.theverge.com/tech/875859/apple-is-killing-the-old-homekit-tomorrow",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "HBO Max is finally launching in the UK next month",
+        "#text": "AI-generated ads dropped the ball at this year&#8217;s Super Bowl",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/streaming/875668/hbo-max-is-finally-launching-in-the-uk-next-month",
+      "url": "https://www.theverge.com/entertainment/875886/super-bowl-2026-ai-generated-ads-were-terrible",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Live Nation’s monopoly trial is reportedly fracturing Trump’s Justice Department",
+        "#text": "Ferrari’s first EV will have an interior designed by Jony Ive",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/875665/live-nation-ticketmaster-settlement-doj-discussions-monopoly-trial",
+      "url": "https://www.theverge.com/transportation/875799/ferrari-luce-jony-ive-interior-design-photos",
       "summary": "(要約準備中)"
     }
   ]
