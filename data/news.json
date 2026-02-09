@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-02-08T18:55:36.370Z",
+  "updatedAt": "2026-02-09T03:21:22.907Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Japan's governing party on course for landslide election win",
+      "title": "Japan's PM Takaichi on course to win snap election by landslide",
       "url": "https://www.bbc.com/news/articles/cx2y7d2z29xo?at_medium=RSS&at_campaign=rss",
-      "summary": "A coalition led by current Prime Minister Sanae Takaichi is expected to clinch a decisive win, an exit poll suggests."
+      "summary": "Her ruling coalition is set to clinch a decisive win, taking two-thirds of the seats in the House of Representatives."
     },
     {
       "source": "BBC World",
-      "title": "Thai PM claims election victory as early results show conservatives ahead",
+      "title": "Thai PM claims election victory with conservatives well ahead of rivals",
       "url": "https://www.bbc.com/news/articles/cx2jn4z4eq0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Thai voters are choosing between sweeping change or more of the same in an election called after several coalition governments collapsed."
+      "summary": "The ruling conservatives defied opinion polls predicting a win for the reformist People's Party."
     },
     {
       "source": "BBC World",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "You need to listen to the new Mandy, Indiana record: URGH",
+        "#text": "Super Bowl LX ads: all AI everything",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/875469/mandy-indiana-urgh-review",
+      "url": "https://www.theverge.com/entertainment/874504/super-bowl-lx-ads-big-game",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The iPhone 17e could launch soon with MagSafe and an A19 chip",
+        "#text": "YouTube Music starts putting lyrics behind a paywall",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/875454/iphone-17e-launching-soon-magsafe-a19",
+      "url": "https://www.theverge.com/streaming/875511/youtube-music-lyrics-paywall",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "How I Built the Star Trek control panel of my dreams",
+        "#text": "New York is considering two bills to rein in the AI industry",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/862070/lcars-homes-assistant-star-trek",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/875501/new-york-is-considering-two-bills-to-rein-in-the-ai-industry",
       "summary": "(要約準備中)"
     }
   ]
