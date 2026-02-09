@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-02-09T03:21:22.907Z",
+  "updatedAt": "2026-02-09T07:31:54.965Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Japan's PM Takaichi on course to win snap election by landslide",
-      "url": "https://www.bbc.com/news/articles/cx2y7d2z29xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Her ruling coalition is set to clinch a decisive win, taking two-thirds of the seats in the House of Representatives."
+      "title": "Japanese stocks surge as Takaichi secures historic election victory",
+      "url": "https://www.bbc.com/news/articles/cjd9k852zdjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Japanese stocked jumped as markets opened on Monday morning, after prime minister Sanae Takaichi won a landslide victory."
     },
     {
       "source": "BBC World",
-      "title": "Thai PM claims election victory with conservatives well ahead of rivals",
-      "url": "https://www.bbc.com/news/articles/cx2jn4z4eq0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The ruling conservatives defied opinion polls predicting a win for the reformist People's Party."
+      "title": "Seahawks dominate Patriots to win Super Bowl",
+      "url": "https://www.bbc.com/sport/american-football/articles/cjen2n5ql3zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Seattle Seahawks produce a devastating defensive display to beat the New England Patriots and claim their second Super Bowl victory."
     },
     {
       "source": "BBC World",
-      "title": "Russia names three suspects in shooting of general",
-      "url": "https://www.bbc.com/news/articles/cy7j6xe8862o?at_medium=RSS&at_campaign=rss",
-      "summary": "The suspects include the alleged gunman, Lyubomir Korba, whom Russia says fled to the UAE after the attack."
+      "title": "Bad Bunny piles on Puerto Rican patriotism at Super Bowl half-time show",
+      "url": "https://www.bbc.com/news/articles/c394g7nnzmzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Puerto Rican artist Bad Bunny made history with his entirely Spanish set on the sporting world's biggest stage."
     },
     {
       "source": "BBC Technology",
@@ -40,6 +40,15 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "OpenAI’s supposedly ‘leaked’ Super Bowl ad with ear buds and a shiny orb was a hoax",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/ai-artificial-intelligence/875615/openai-super-bowl-ai-hardware-leak-hoax-fake",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "Super Bowl LX ads: all AI everything",
         "@_type": "html"
       },
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/streaming/875511/youtube-music-lyrics-paywall",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "New York is considering two bills to rein in the AI industry",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/875501/new-york-is-considering-two-bills-to-rein-in-the-ai-industry",
       "summary": "(要約準備中)"
     }
   ]
