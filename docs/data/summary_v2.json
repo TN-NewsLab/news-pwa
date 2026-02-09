@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "TTT-Discoverは人間の専門家の2倍速でGPUカーネルを最適化 — 推論中にトレーニングを実施",
-    "title_en": "TTT-Discover optimizes GPU kernels 2x faster than human experts — by training during inference",
-    "summary": "スタンフォード大学、Nvidia、Together AIの研究者たちは、非常に複雑な問題に新しい解決策を見つける技術「TTT-Discover」を開発しました。この技術は、モデルが推論中にリアルタイムでトレーニングを続行し、特定の問題に対して焦点を合わせることを可能にします。企業向けには、特に高価値の低頻度の問題に対して有効で、既存のモデルでは解決困難な最適化のチャンスを提供します。",
-    "summary_en": "スタンフォード、Nvidia、Together AIの研究者たちは、非常に複雑な問題に新しい解決策を見つける技術「TTT-Discover」を開発しました。この技術は、モデルが推論中にリアルタイムでトレーニングを続行し、特定の問題に対して焦点を合わせることを可能にします。企業向けには、特に高価値の低頻度の問題に対して有効で、既存のモデルでは解決困難な最適化のチャンスを提供します。",
-    "link": "https://venturebeat.com/infrastructure/ttt-discover-optimizes-gpu-kernels-2x-faster-than-human-experts-by-training",
+    "title": "OpenClawの登場が企業に与える影響：5つの重要なポイント",
+    "title_en": "What the OpenClaw moment means for enterprises: 5 big takeaways",
+    "summary": "OpenClawの登場により、自律AIエージェントが一般の労働力に取り込まれ、従来のAIとは異なる新しい機能が実現しました。これにより、社員が職場で未承認のAIツールを使用する「シャドーIT」が広がっており、企業はデータの安全性や業務モデルの見直しを迫られています。今後、AIとの共同作業が進む中で、企業は適切なガバナンス体制を整備し、リスク管理に対応する必要があります。",
+    "summary_en": "OpenClawの登場により、自律AIエージェントが一般の労働力に取り込まれたことで、従来のAIとは異なる新しい機能が実現しました。これにより、社員が職場で未承認のAIツールを使用する「シャドーIT」が広がり、企業はデータの安全性や業務モデルの見直しを迫られています。今後、AIとの共同作業が進む中で、企業は適切なガバナンス体制を整備し、リスク管理に対応する必要があります。",
+    "link": "https://venturebeat.com/technology/what-the-openclaw-moment-means-for-enterprises-5-big-takeaways",
     "category": "AI",
-    "publishedAt": "2026-02-06 17:13"
+    "publishedAt": "2026-02-09 17:08"
   },
   {
     "source": "VentureBeat",
-    "title": "OpenAIがGPT-5.3-Codexを発表、AnthropicがClaudeをアップグレード - スーパーボウル広告を前にAIコーディング戦争が加熱",
-    "title_en": "OpenAI’s GPT-5.3-Codex drops as Anthropic upgrades Claude — AI coding wars heat up ahead of Super Bowl ads",
-    "summary": "OpenAIが新たに発表したGPT-5.3-Codexは、これまでで最も優れたコーディングエージェントであり、AIコーディング戦争の幕開けを示しています。このモデルは自己改善機能を持ち、従来のモデルより効率的に優れたベンチマークスコアを達成しています。競争が激化する中、OpenAIは広範なソフトウェア開発タスクを自動化する能力を強調し、企業向けプラットフォームとしての成長を目指しています。",
-    "summary_en": "OpenAIが新たに発表したGPT-5.3-Codexは、これまでで最も優れたコーディングエージェントであり、AIコーディング戦争の幕開けを示しています。このモデルは自己改善機能を持ち、従来のモデルより効率的に優れたベンチマークスコアを達成しています。競争が激化する中、OpenAIは広範なソフトウェア開発タスクを自動化する能力を強調し、企業向けプラットフォームとしての成長を目指しています。",
-    "link": "https://venturebeat.com/technology/openais-gpt-5-3-codex-drops-as-anthropic-upgrades-claude-ai-coding-wars-heat",
+    "title": "TTT-Discoverは推論中に学習することでGPUカーネルを人間の専門家の2倍の速度で最適化",
+    "title_en": "TTT-Discover optimizes GPU kernels 2x faster than human experts — by training during inference",
+    "summary": "スタンフォード大学、Nvidia、Together AIの研究者たちが開発した新技術TTT-Discoverは、問題解決をリアルタイムで進化させるもので、従来の静的モデルの限界を越えたアプローチを提供します。この技術は、問題解決時にモデルの重みを更新し、特定の課題に集中するためのデータを生成し、そのデータを活用して最適解を見つけます。特に、企業の高価値な最適化課題に適しており、証明可能な進行指標を有する問題に対して効果を発揮することが期待されています。",
+    "summary_en": "スタンフォード、Nvidia、Together AIの研究者たちが開発した新技術TTT-Discoverは、問題解決をリアルタイムで進化させるもので、従来の静的モデルの限界を越えたアプローチを提供します。この技術は、問題解決時にモデルの重みを更新し、特定の課題に集中するためのデータを生成し、そのデータを活用して最適解を見つけます。特に、企業の高価値な最適化課題に適しており、証明可能な進行指標を持つ問題に対して効果を発揮することが期待されています。",
+    "link": "https://venturebeat.com/infrastructure/ttt-discover-optimizes-gpu-kernels-2x-faster-than-human-experts-by-training",
     "category": "AI",
-    "publishedAt": "2026-02-06 17:13"
+    "publishedAt": "2026-02-09 17:08"
   },
   {
     "source": "NHK",
-    "title": "KDDI子会社で架空取引 累計で売上高2460億円を過大計上か",
+    "title": "リニア「山梨県駅」3月着工方針 品川～名古屋全駅で工事開始へ",
     "title_en": "",
-    "summary": "通信大手のKDDIは、子会社ビッグローブの架空取引により、グループ全体の売上高が過大に計上されていた可能性を明らかにしました。さらに、およそ330億円が外部に流出したおそれも指摘されています。詳細な調査が続いているため、予定されていた決算の発表は延期になりました。",
+    "summary": "リニア中央新幹線の山梨県駅が、来月に着工されることが決定しました。これにより、東京品川から名古屋間の全ての駅で工事が開始されることになります。JR東海が関係者への取材で明らかにしました。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260206/k10015045061000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260209/k10015047551000.html",
     "category": "その他",
-    "publishedAt": "2026-02-06 17:14"
+    "publishedAt": "2026-02-09 17:08"
   },
   {
     "source": "BBC",
-    "title": "米とイランの対話が始まる中、直接的な衝突の懸念が続く",
-    "title_en": "US and Iran talks to begin as fears of direct conflict continue",
-    "summary": "米国は、イランの抗議活動に対する暴力的な弾圧を受けて、中東での軍事的な存在感を強化しました。この動きは、地域の安定を確保するための戦略的一環とされています。米国の対応は、イランの行動を抑制する狙いがあります。",
-    "summary_en": "米国は、イランの抗議活動に対する暴力的な弾圧を受けて、中東での軍事的な存在感を強化しました。この動きは、地域の安定を確保するための戦略的一環とされています。米国の対応は、イランの行動を抑制する狙いがあります。",
-    "link": "https://www.bbc.com/news/articles/cr57g1y8286o?at_medium=RSS&at_campaign=rss",
-    "category": "その他",
-    "publishedAt": "2026-02-06 17:14"
+    "title": "日本株が高騰、タカイチ首相が歴史的選挙勝利を収める",
+    "title_en": "Japanese stocks surge as Takaichi secures historic election victory",
+    "summary": "日本の株式市場は、月曜日の朝に急上昇しました。これは、タカイチ・サナエ首相が圧勝したことへの反応です。投資家の期待感が高まっています。",
+    "summary_en": "日本の株式市場は、月曜日の朝に高騰しました。これは、タカイチ・サナエ首相が圧勝したことを受けた反応です。投資家の期待感が高まっています。",
+    "link": "https://www.bbc.com/news/articles/cjd9k852zdjo?at_medium=RSS&at_campaign=rss",
+    "category": "経済",
+    "publishedAt": "2026-02-09 17:08"
   },
   {
     "source": "NHK",
-    "title": "インフルエンザ患者数 前週の倍近くに増加 B型 半数近く占める",
+    "title": "東京電力が柏崎刈羽原発6号機を再び起動 17日間の停止経て",
     "title_en": "",
-    "summary": "最近、全国のインフルエンザ患者数が急増し、1医療機関当たりの患者数が30人を超えました。ここ4週間で患者数は増加し続け、B型インフルエンザが半数近くを占めています。感染拡大の兆しが見られる状況です。",
+    "summary": "東京電力は、柏崎刈羽原子力発電所6号機を再稼働させましたが、警報の不具合で一時停止していました。この停止は17日間続きました。営業運転の開始は当初の計画から延期され、来月に予定されています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260206/k10015045001000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260209/k10015047291000.html",
     "category": "その他",
-    "publishedAt": "2026-02-06 17:14"
+    "publishedAt": "2026-02-09 17:08"
   }
 ]
