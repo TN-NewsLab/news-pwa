@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2026-02-09T07:31:54.965Z",
+  "updatedAt": "2026-02-09T13:48:10.038Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Hong Kong court jails media tycoon and British citizen Jimmy Lai for 20 years",
+      "url": "https://www.bbc.com/news/articles/c8d5pl34vv0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Lai's supporters say this amounts to a death sentence, but authorities say it demonstrates the rule of law."
+    },
     {
       "source": "BBC World",
       "title": "Japanese stocks surge as Takaichi secures historic election victory",
       "url": "https://www.bbc.com/news/articles/cjd9k852zdjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Japanese stocked jumped as markets opened on Monday morning, after prime minister Sanae Takaichi won a landslide victory."
+      "summary": "Prime Minister Sanae Takaichi's Liberal Democratic Party  secured 316 out of 465 seats in Sunday's election."
     },
     {
       "source": "BBC World",
-      "title": "Seahawks dominate Patriots to win Super Bowl",
-      "url": "https://www.bbc.com/sport/american-football/articles/cjen2n5ql3zo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Seattle Seahawks produce a devastating defensive display to beat the New England Patriots and claim their second Super Bowl victory."
+      "title": "Maxwell won't answer questions from Congress, lawyer says",
+      "url": "https://www.bbc.com/news/articles/cvgv5yre39zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ghislaine Maxwell,  the jailed associate of sex offender Jeffrey Epstein, will invoke her Fifth Amendment right to avoid self-incrimination."
     },
     {
-      "source": "BBC World",
-      "title": "Bad Bunny piles on Puerto Rican patriotism at Super Bowl half-time show",
-      "url": "https://www.bbc.com/news/articles/c394g7nnzmzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Puerto Rican artist Bad Bunny made history with his entirely Spanish set on the sporting world's biggest stage."
+      "source": "BBC Technology",
+      "title": "EU tells Meta to let rivals run AI chatbots on WhatsApp",
+      "url": "https://www.bbc.com/news/articles/cqxdj77welpo?at_medium=RSS&at_campaign=rss",
+      "summary": "A Meta spokesperson said the EU had \"no reason\" to intervene over it changing the app in January."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "The verdict is expected to influence the outcome of thousands of other cases against the ride hailing firm."
     },
     {
-      "source": "BBC Technology",
-      "title": "Google staff call for firm to cut ties with ICE",
-      "url": "https://www.bbc.com/news/articles/cvgjg98vmzjo?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 900 Google employees signed a letter opposing company links to federal immigration actions. "
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "OpenAI’s supposedly ‘leaked’ Super Bowl ad with ear buds and a shiny orb was a hoax",
+        "#text": "Animal Crossing started life as a dungeon crawler",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/875615/openai-super-bowl-ai-hardware-leak-hoax-fake",
+      "url": "https://www.theverge.com/entertainment/874895/super-nintendo-book-excerpt-animal-crossing-keza-macdonald",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Super Bowl LX ads: all AI everything",
+        "#text": "HBO Max is finally launching in the UK next month",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/874504/super-bowl-lx-ads-big-game",
+      "url": "https://www.theverge.com/streaming/875668/hbo-max-is-finally-launching-in-the-uk-next-month",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "YouTube Music starts putting lyrics behind a paywall",
+        "#text": "Live Nation’s monopoly trial is reportedly fracturing Trump’s Justice Department",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/streaming/875511/youtube-music-lyrics-paywall",
+      "url": "https://www.theverge.com/policy/875665/live-nation-ticketmaster-settlement-doj-discussions-monopoly-trial",
       "summary": "(要約準備中)"
     }
   ]
