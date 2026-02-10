@@ -1,23 +1,35 @@
 {
-  "updatedAt": "2026-02-10T07:32:02.080Z",
+  "updatedAt": "2026-02-10T13:53:49.130Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Maxwell refuses to answer questions about Epstein in congressional hearing",
-      "url": "https://www.bbc.com/news/articles/cvgv5yre39zo?at_medium=RSS&at_campaign=rss",
-      "summary": "A video released by members of Congress shows Maxwell, the jailed associate of Jeffrey Epstein, refusing to answer questions about the late sex offender."
+      "title": "US lawmakers accuse justice department of 'inappropriately' redacting Epstein files",
+      "url": "https://www.bbc.com/news/articles/cn5gzepnw4lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Republican Thomas Massie and Democrat Ro Khanna say the DOJ is not complying with their transparency law."
     },
     {
       "source": "BBC World",
-      "title": "Australia police defend actions after violence at protest over Israeli president visit",
-      "url": "https://www.bbc.com/news/articles/cn0zed0dekgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Videos from the rally appear to show officers punching protesters and dragging praying men away."
+      "title": "Macron urges Europe to start acting like world power",
+      "url": "https://www.bbc.com/news/articles/ce8n1zdnpd3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The French president warns of growing threats from China, Russia and now the US, saying Europe faces a \"wake-up call\"."
     },
     {
       "source": "BBC World",
-      "title": "Trump threatens to block opening of US-Canada bridge",
-      "url": "https://www.bbc.com/news/articles/cpw052pkvl0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Gordie Howe International Bridge, which connects Michigan to Ontario, is set to open this year."
+      "title": "Chappell Roan leaves talent agency led by Casey Wasserman after Epstein fallout",
+      "url": "https://www.bbc.com/news/articles/cewz1keql5no?at_medium=RSS&at_campaign=rss",
+      "summary": "Wasserman's flirtatious emails to Ghislaine Maxwell were revealed in the Epstein files."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Apple and Google agree to change app stores after 'effective duopoly' claim",
+      "url": "https://www.bbc.com/news/articles/c626rng1v63o?at_medium=RSS&at_campaign=rss",
+      "summary": "The UK's markets regulator says the proposed commitments \"will boost the UK's app economy\"."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Instagram and YouTube owners built 'addiction machines', trial hears",
+      "url": "https://www.bbc.com/news/articles/c3wlpqpe2z4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The tech giants are under scrutiny over social media addiction in a landmark jury trial in Los Angeles"
     },
     {
       "source": "BBC Technology",
@@ -26,42 +38,30 @@
       "summary": "The online chat service, which has 200 million monthly users, will blur adult content by default."
     },
     {
-      "source": "BBC Technology",
-      "title": "AI chatbots pose 'dangerous' risk when giving medical advice, study suggests",
-      "url": "https://www.bbc.com/news/articles/c3093gjy2ero?at_medium=RSS&at_campaign=rss",
-      "summary": "It found people using AI for health reasons found it hard to identify what advice they should trust."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "EU tells Meta to let rivals run AI chatbots on WhatsApp",
-      "url": "https://www.bbc.com/news/articles/cqxdj77welpo?at_medium=RSS&at_campaign=rss",
-      "summary": "A Meta spokesperson said the EU had \"no reason\" to intervene over it changing the app in January."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "New Mexico goes to trial to accuse Meta of facilitating child predators",
+        "#text": "Could the Trump Phone be a good phone?",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/876168/new-mexico-attorney-general-meta-child-predator-social-media-addiction-trial",
+      "url": "https://www.theverge.com/podcast/876188/trump-phone-specs-price-date-moltbook-openclaw-vergecast",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "MrBeast just bought a banking app",
+        "#text": "Discord’s age verification mandate is a leap toward a gated internet",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/876080/mrbeast-step-mobile-banking-app",
+      "url": "https://www.theverge.com/policy/876131/discord-age-verification-mandates-web-future",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "ChatGPT&#8217;s cheapest options now show you ads",
+        "#text": "Vibe coding Nothing’s apps is fun, until you try to make them useful",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/876029/openai-testing-ads-in-chatgpt",
+      "url": "https://www.theverge.com/tech/876229/nothing-essential-ai-app-builder",
       "summary": "(要約準備中)"
     }
   ]
