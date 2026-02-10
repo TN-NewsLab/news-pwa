@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-02-10T13:53:49.130Z",
+  "updatedAt": "2026-02-10T19:32:02.337Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "FBI releases images of masked person in hunt for Savannah Guthrie's mother",
+      "url": "https://www.bbc.com/news/articles/cy4wdgxr081o?at_medium=RSS&at_campaign=rss",
+      "summary": "The mother of the news anchor Savannah disappeared in the middle of night from her Tucson, Arizona, home and was last seen on 31 January."
+    },
     {
       "source": "BBC World",
       "title": "US lawmakers accuse justice department of 'inappropriately' redacting Epstein files",
@@ -12,12 +18,6 @@
       "title": "Macron urges Europe to start acting like world power",
       "url": "https://www.bbc.com/news/articles/ce8n1zdnpd3o?at_medium=RSS&at_campaign=rss",
       "summary": "The French president warns of growing threats from China, Russia and now the US, saying Europe faces a \"wake-up call\"."
-    },
-    {
-      "source": "BBC World",
-      "title": "Chappell Roan leaves talent agency led by Casey Wasserman after Epstein fallout",
-      "url": "https://www.bbc.com/news/articles/cewz1keql5no?at_medium=RSS&at_campaign=rss",
-      "summary": "Wasserman's flirtatious emails to Ghislaine Maxwell were revealed in the Epstein files."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Could the Trump Phone be a good phone?",
+        "#text": "Sharge’s new power bank can charge two laptops while putting on a light show",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/podcast/876188/trump-phone-specs-price-date-moltbook-openclaw-vergecast",
+      "url": "https://www.theverge.com/tech/876432/sharge-shargeek-300w-power-bank-rgb-lighting-kickstarter",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Discord’s age verification mandate is a leap toward a gated internet",
+        "#text": "Facebook can animate your profile pic with AI",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/876131/discord-age-verification-mandates-web-future",
+      "url": "https://www.theverge.com/tech/876480/meta-facebook-animate-profile-picture-restyle-ai",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Vibe coding Nothing’s apps is fun, until you try to make them useful",
+        "#text": "An Ark showed me augmented reality’s true artistic potential",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/876229/nothing-essential-ai-app-builder",
+      "url": "https://www.theverge.com/gadgets/875869/an-ark-mixed-reality-simon-stephens-sarah-frankcom-todd-eckert",
       "summary": "(要約準備中)"
     }
   ]
