@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-09T19:40:45.309Z",
+  "updatedAt": "2026-02-10T03:29:01.025Z",
   "top": [
     {
       "source": "BBC World",
@@ -11,7 +11,7 @@
       "source": "BBC World",
       "title": "Maxwell refuses to answer questions about Epstein in congressional hearing",
       "url": "https://www.bbc.com/news/articles/cvgv5yre39zo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ghislaine Maxwell, the jailed associate of sex offender Jeffrey Epstein, invoked her Fifth Amendment right to avoid self-incrimination."
+      "summary": "A video released by members of Congress shows Maxwell, the jailed associate of Jeffrey Epstein, refusing to answer questions about the late sex offender."
     },
     {
       "source": "BBC World",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Apple is killing the old HomeKit tomorrow",
+        "#text": "New Mexico goes to trial to accuse Meta of facilitating child predators",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/875859/apple-is-killing-the-old-homekit-tomorrow",
+      "url": "https://www.theverge.com/policy/876168/new-mexico-attorney-general-meta-child-predator-social-media-addiction-trial",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "AI-generated ads dropped the ball at this year&#8217;s Super Bowl",
+        "#text": "MrBeast just bought a banking app",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/875886/super-bowl-2026-ai-generated-ads-were-terrible",
+      "url": "https://www.theverge.com/tech/876080/mrbeast-step-mobile-banking-app",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Ferrari’s first EV will have an interior designed by Jony Ive",
+        "#text": "ChatGPT&#8217;s cheapest options now show you ads",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/transportation/875799/ferrari-luce-jony-ive-interior-design-photos",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/876029/openai-testing-ads-in-chatgpt",
       "summary": "(要約準備中)"
     }
   ]
