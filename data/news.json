@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-02-10T19:32:02.337Z",
+  "updatedAt": "2026-02-11T03:25:51.038Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Ex-police chief said Trump told him in 2006 'everyone' knew of Epstein's behaviour",
+      "url": "https://www.bbc.com/news/articles/cx2407jrn83o?at_medium=RSS&at_campaign=rss",
+      "summary": "The now-president allegedly called police in Florida who were investigating Epstein and said \"thank goodness you're stopping him\"."
+    },
     {
       "source": "BBC World",
       "title": "FBI releases images of masked person in hunt for Savannah Guthrie's mother",
@@ -9,15 +15,9 @@
     },
     {
       "source": "BBC World",
-      "title": "US lawmakers accuse justice department of 'inappropriately' redacting Epstein files",
-      "url": "https://www.bbc.com/news/articles/cn5gzepnw4lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Republican Thomas Massie and Democrat Ro Khanna say the DOJ is not complying with their transparency law."
-    },
-    {
-      "source": "BBC World",
-      "title": "Macron urges Europe to start acting like world power",
-      "url": "https://www.bbc.com/news/articles/ce8n1zdnpd3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The French president warns of growing threats from China, Russia and now the US, saying Europe faces a \"wake-up call\"."
+      "title": "Laegreid wins bronze then confesses to affair on TV",
+      "url": "https://www.bbc.com/sport/articles/ckglnm521kko?at_medium=RSS&at_campaign=rss",
+      "summary": "Winter Olympics bronze medallist Sturla Holm Laegreid says on live TV that he made the \"biggest mistake\" by cheating on his girlfriend."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Sharge’s new power bank can charge two laptops while putting on a light show",
+        "#text": "The Toyota Highlander is now a three-row electric SUV with 320 miles of range",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/876432/sharge-shargeek-300w-power-bank-rgb-lighting-kickstarter",
+      "url": "https://www.theverge.com/transportation/875906/toyota-highlander-ev-suv-range-specs",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Facebook can animate your profile pic with AI",
+        "#text": "Amazon Ring’s Super Bowl ad sparks backlash amid fears of mass surveillance",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/876480/meta-facebook-animate-profile-picture-restyle-ai",
+      "url": "https://www.theverge.com/tech/876866/ring-search-party-super-bowl-ad-online-backlash",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "An Ark showed me augmented reality’s true artistic potential",
+        "#text": "Boston Dynamics CEO Robert Playter is stepping down after six years",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/875869/an-ark-mixed-reality-simon-stephens-sarah-frankcom-todd-eckert",
+      "url": "https://www.theverge.com/tech/876819/boston-dynamics-robots-ceo-steps-down-hyundai",
       "summary": "(要約準備中)"
     }
   ]
