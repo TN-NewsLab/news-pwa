@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-02-11T13:49:25.593Z",
+  "updatedAt": "2026-02-11T19:19:43.302Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Tumbler Ridge mass shooting: What we know so far",
-      "url": "https://www.bbc.com/news/articles/c1e98w35qyjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Nine people have been killed and 25 injured in the shootings at a school and home in a rural community in western Canada."
+      "title": "'It was terrifying': Tumbler Ridge's tight-knit community in shock after shooting",
+      "url": "https://www.bbc.com/news/articles/cddn078mnn5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Members of the remote community have spoken of their fear and uncertainty after nine people were killed."
     },
     {
       "source": "BBC World",
-      "title": "Police release man detained in connection to Nancy Guthrie disappearance",
-      "url": "https://www.bbc.com/news/articles/cr5l4yy3ezmo?at_medium=RSS&at_campaign=rss",
-      "summary": "Police had searched the home of the person, who was taken into custody at a traffic stop."
-    },
-    {
-      "source": "BBC World",
-      "title": "Watch: BBC in Tehran as Iran marks Islamic revolution anniversary",
+      "title": "Watch: BBC in Tehran sees government's 'political reply' to massive protests",
       "url": "https://www.bbc.com/news/videos/cewz2lxq2gvo?at_medium=RSS&at_campaign=rss",
       "summary": "Lyse Doucet is in Iran for the first time since the crackdown on nationwide anti-government protests.\n"
+    },
+    {
+      "source": "BBC World",
+      "title": "Powerful cyclone kills at least 31 as it tears through Madagascar port",
+      "url": "https://www.bbc.com/news/articles/c931zzzep0eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Madagascar's disaster management says roads are inaccessible with trees uprooted, power poles down and ninety percent of roofs ripped off."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "El Paso flights grounded 10 days for ‘special security reasons’",
+        "#text": "Samsung’s offering up to $900 of trade-in credit toward its new phones",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/transportation/877019/el-paso-airport-faa-flights-grounded-airspace-special-security",
+      "url": "https://www.theverge.com/gadgets/877258/samsung-unpacked-preorder-galaxy-s26-plus-ultra-ai",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "T-Mobile will live translate regular phone calls without an app",
+        "#text": "Microsoft fixes Notepad flaw that could trick users into clicking malicious Markdown links",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/877008/t-mobile-live-translation-languages-ai-network",
+      "url": "https://www.theverge.com/tech/877295/microsoft-notepad-markdown-security-vulnerability-remote-code-execution",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Uber Eats adds AI assistant to help with grocery shopping",
+        "#text": "Here are the 40 best Presidents Day deals you can already shop",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/transportation/876540/uber-eats-ai-chatbot-cart-assistant-grocery-shopping",
+      "url": "https://www.theverge.com/gadgets/875949/best-presidents-day-sales-deals-2026",
       "summary": "(要約準備中)"
     }
   ]
