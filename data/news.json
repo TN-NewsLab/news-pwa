@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2026-02-11T07:18:40.490Z",
+  "updatedAt": "2026-02-11T13:49:25.593Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "US lawmakers tell BBC Andrew should testify over Epstein files",
-      "url": "https://www.bbc.com/news/articles/cx2gmde0vjlo?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes after the King said the Royal Family were \"ready to support\" police in their inquiries. "
+      "title": "Tumbler Ridge mass shooting: What we know so far",
+      "url": "https://www.bbc.com/news/articles/c1e98w35qyjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Nine people have been killed and 25 injured in the shootings at a school and home in a rural community in western Canada."
     },
     {
       "source": "BBC World",
-      "title": "Watch: BBC in Tehran for first time since protest crackdown",
-      "url": "https://www.bbc.com/news/videos/c5yr82796j4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Lyse Doucet reports from Iran, where she says the pain is still raw after unprecedented force was used to put down the protests there."
+      "title": "Police release man detained in connection to Nancy Guthrie disappearance",
+      "url": "https://www.bbc.com/news/articles/cr5l4yy3ezmo?at_medium=RSS&at_campaign=rss",
+      "summary": "Police had searched the home of the person, who was taken into custody at a traffic stop."
     },
     {
       "source": "BBC World",
-      "title": "Netanyahu to meet Trump as Iran nuclear talks reach critical stage",
-      "url": "https://www.bbc.com/news/articles/c0k1j2j4607o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Israeli prime minister is expected to press Trump to pursue a deal that would halt Iran's uranium enrichment. "
+      "title": "Watch: BBC in Tehran as Iran marks Islamic revolution anniversary",
+      "url": "https://www.bbc.com/news/videos/cewz2lxq2gvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Lyse Doucet is in Iran for the first time since the crackdown on nationwide anti-government protests.\n"
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Children bombarded with weight loss drug ads online, says commissioner",
+      "url": "https://www.bbc.com/news/articles/c89kl834nv9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Children's Commissioner suggested social media advertising for children should be banned."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "The tech giants are under scrutiny over social media addiction in a landmark jury trial in Los Angeles"
     },
     {
-      "source": "BBC Technology",
-      "title": "Discord to start requiring face scan or ID to access adult content",
-      "url": "https://www.bbc.com/news/articles/c1d67vdlk1ko?at_medium=RSS&at_campaign=rss",
-      "summary": "The online chat service, which has 200 million monthly users, will blur adult content by default."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "The Toyota Highlander is now a three-row electric SUV with 320 miles of range",
+        "#text": "El Paso flights grounded 10 days for ‘special security reasons’",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/transportation/875906/toyota-highlander-ev-suv-range-specs",
+      "url": "https://www.theverge.com/transportation/877019/el-paso-airport-faa-flights-grounded-airspace-special-security",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Amazon Ring’s Super Bowl ad sparks backlash amid fears of mass surveillance",
+        "#text": "T-Mobile will live translate regular phone calls without an app",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/876866/ring-search-party-super-bowl-ad-online-backlash",
+      "url": "https://www.theverge.com/tech/877008/t-mobile-live-translation-languages-ai-network",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Boston Dynamics CEO Robert Playter is stepping down after six years",
+        "#text": "Uber Eats adds AI assistant to help with grocery shopping",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/876819/boston-dynamics-robots-ceo-steps-down-hyundai",
+      "url": "https://www.theverge.com/transportation/876540/uber-eats-ai-chatbot-cart-assistant-grocery-shopping",
       "summary": "(要約準備中)"
     }
   ]
