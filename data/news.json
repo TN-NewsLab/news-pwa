@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-02-11T19:19:43.302Z",
+  "updatedAt": "2026-02-12T03:21:35.976Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Police identify 18-year-old as suspect in Tumbler Ridge shooting ",
+      "url": "https://www.bbc.com/news/articles/ce8w95knp55o?at_medium=RSS&at_campaign=rss",
+      "summary": "Six people were killed and at least 25 others were injured at a school, and two others were found dead at a nearby home. "
+    },
     {
       "source": "BBC World",
       "title": "'It was terrifying': Tumbler Ridge's tight-knit community in shock after shooting",
@@ -9,15 +15,9 @@
     },
     {
       "source": "BBC World",
-      "title": "Watch: BBC in Tehran sees government's 'political reply' to massive protests",
-      "url": "https://www.bbc.com/news/videos/cewz2lxq2gvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Lyse Doucet is in Iran for the first time since the crackdown on nationwide anti-government protests.\n"
-    },
-    {
-      "source": "BBC World",
-      "title": "Powerful cyclone kills at least 31 as it tears through Madagascar port",
-      "url": "https://www.bbc.com/news/articles/c931zzzep0eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Madagascar's disaster management says roads are inaccessible with trees uprooted, power poles down and ninety percent of roofs ripped off."
+      "title": "US House votes to overturn Trump's tariffs on Canada",
+      "url": "https://www.bbc.com/news/articles/clyz2142e77o?at_medium=RSS&at_campaign=rss",
+      "summary": "Six Republican lawmakers joined Democrats to back a resolution that seeks to end the tariffs Trump imposed on Canada last year. "
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Samsung’s offering up to $900 of trade-in credit toward its new phones",
+        "#text": "Highguard’s developer reportedly lays off ‘most’ of its staff just over two weeks after launch",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/877258/samsung-unpacked-preorder-galaxy-s26-plus-ultra-ai",
+      "url": "https://www.theverge.com/games/877674/highguard-wildlight-entertainment-layoffs",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Microsoft fixes Notepad flaw that could trick users into clicking malicious Markdown links",
+        "#text": "Two more xAI co-founders are among those leaving after the SpaceX merger",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/877295/microsoft-notepad-markdown-security-vulnerability-remote-code-execution",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/877609/two-more-xai-co-founders-are-among-those-leaving-after-the-spacex-merger",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Here are the 40 best Presidents Day deals you can already shop",
+        "#text": "iOS 26.3 makes it easier to switch to Android",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/875949/best-presidents-day-sales-deals-2026",
+      "url": "https://www.theverge.com/tech/877587/ios-26-3-released-transfer-to-android",
       "summary": "(要約準備中)"
     }
   ]
