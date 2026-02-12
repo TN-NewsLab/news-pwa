@@ -1,41 +1,59 @@
 {
-  "updatedAt": "2026-02-12T07:17:30.706Z",
+  "updatedAt": "2026-02-12T13:44:36.746Z",
   "top": [
     {
       "source": "BBC World",
       "title": "Police identify 18-year-old as suspect in Tumbler Ridge shooting ",
       "url": "https://www.bbc.com/news/articles/ce8w95knp55o?at_medium=RSS&at_campaign=rss",
-      "summary": "Six people were killed and at least 25 others were injured at a school, and two others were found dead at a nearby home. "
+      "summary": "A candlelit vigil was held on Wednesday night in the remote British Columbia town where six people were killed and dozens injured."
     },
     {
       "source": "BBC World",
-      "title": "'It was terrifying': Tumbler Ridge's tight-knit community in shock after shooting",
-      "url": "https://www.bbc.com/news/articles/cddn078mnn5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Members of the remote community have spoken of their fear and uncertainty after nine people were killed."
+      "title": "Kim Jong Un chooses teen daughter as heir, says Seoul ",
+      "url": "https://www.bbc.com/news/articles/cn0e1g7kwglo?at_medium=RSS&at_campaign=rss",
+      "summary": "South Korea's spy agency says Ki Ju Ae's prominent public presence indicates she is the chosen heir."
     },
     {
       "source": "BBC World",
-      "title": "Lyse Doucet: In Tehran, rallies for Iran's revolution overshadowed by discontent and defiance",
-      "url": "https://www.bbc.com/news/articles/cdjm33kwxx4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC visits the Iranian capital for the first time since authorities used unprecedented force to put down protests last month."
+      "title": "Polls close in first election since Gen Z protests ousted Bangladesh leader",
+      "url": "https://www.bbc.com/news/articles/cy7jdmvn3l0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Voters are hoping for a return to democracy after 15 years of authoritarian rule under Sheikh Hasina."
     },
     {
       "source": "BBC Technology",
-      "title": "Children bombarded with weight loss drug ads online, says commissioner",
-      "url": "https://www.bbc.com/news/articles/c89kl834nv9o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Children's Commissioner suggested social media advertising for children should be banned."
+      "title": "AI safety leader says 'world is in peril' and quits to study poetry",
+      "url": "https://www.bbc.com/news/articles/c62dlvdq3e3o?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes in the same week an OpenAI researcher resigned amid concerns about its decision to start testing ChatGPT ads."
     },
     {
       "source": "BBC Technology",
-      "title": "Apple and Google agree to change app stores after 'effective duopoly' claim",
-      "url": "https://www.bbc.com/news/articles/c626rng1v63o?at_medium=RSS&at_campaign=rss",
-      "summary": "The UK's markets regulator says the proposed commitments \"will boost the UK's app economy\"."
+      "title": "Highguard game developer lays off staff just two weeks after release ",
+      "url": "https://www.bbc.com/news/articles/cy8ln4l0wq4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Its trailer got a prime Game Awards slot, but the online shooter has failed to find a large audience."
     },
     {
       "source": "BBC Technology",
-      "title": "Instagram and YouTube owners built 'addiction machines', trial hears",
-      "url": "https://www.bbc.com/news/articles/c3wlpqpe2z4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The tech giants are under scrutiny over social media addiction in a landmark jury trial in Los Angeles"
+      "title": "Instagram boss says 16 hours of daily use is 'problematic' not addiction",
+      "url": "https://www.bbc.com/news/articles/cn71mgmzljlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Instagram's Adam Mosseri faced questioning about the impact of his platform on minors.  "
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "HP ZBook Ultra G1a review: a business-class workstation that’s got game",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/tech/877688/hp-zbook-ultra-g1a-laptop-amd-strix-halo-review",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "ICE is pushing Minneapolis underground",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/policy/877106/minneapolis-ice-cbp-occupation-immigration-raid-mutual-aid",
+      "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
@@ -44,24 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/games/877674/highguard-wildlight-entertainment-layoffs",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Two more xAI co-founders are among those leaving after the SpaceX merger",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/877609/two-more-xai-co-founders-are-among-those-leaving-after-the-spacex-merger",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "iOS 26.3 makes it easier to switch to Android",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/tech/877587/ios-26-3-released-transfer-to-android",
       "summary": "(要約準備中)"
     }
   ]
