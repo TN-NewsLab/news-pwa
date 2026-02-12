@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "OpenClawの登場が企業に与える影響：5つの重要なポイント",
-    "title_en": "What the OpenClaw moment means for enterprises: 5 big takeaways",
-    "summary": "OpenClawの登場により、自律AIエージェントが一般の労働力に取り込まれ、従来のAIとは異なる新しい機能が実現しました。これにより、社員が職場で未承認のAIツールを使用する「シャドーIT」が広がっており、企業はデータの安全性や業務モデルの見直しを迫られています。今後、AIとの共同作業が進む中で、企業は適切なガバナンス体制を整備し、リスク管理に対応する必要があります。",
-    "summary_en": "OpenClawの登場により、自律AIエージェントが一般の労働力に取り込まれたことで、従来のAIとは異なる新しい機能が実現しました。これにより、社員が職場で未承認のAIツールを使用する「シャドーIT」が広がり、企業はデータの安全性や業務モデルの見直しを迫られています。今後、AIとの共同作業が進む中で、企業は適切なガバナンス体制を整備し、リスク管理に対応する必要があります。",
-    "link": "https://venturebeat.com/technology/what-the-openclaw-moment-means-for-enterprises-5-big-takeaways",
+    "title": "z.aiのオープンソースGLM-5が史上最低の幻覚発生率を達成し、新しいRL「スライム」技術を活用",
+    "title_en": "z.ai's open source GLM-5 achieves record low hallucination rate and leverages new RL 'slime' technique",
+    "summary": "中国のAIスタートアップZhupaiが新たに発表した大規模言語モデルGLM-5は、オープンソースライセンスを保持し、業界最優秀の知識信頼性を達成した。高度な文書生成能力を持つこのモデルは、特にコスト面でも競争力があり、企業向けに最適化されている。一方で、その性能には賛否があり、特に環境を意識しない実行重視のアプローチに懸念が寄せられている。",
+    "summary_en": "中国のAIスタートアップZhupaiが新たに発表した大規模言語モデルGLM-5は、オープンソースライセンスを保持し、業界最優秀の知識信頼性を達成した。高度な文書生成能力を持つこのモデルは、特にコスト面でも競争力があり、企業向けに最適化されている。一方で、その性能には賛否があり、特に環境を意識しない実行重視のアプローチに懸念が寄せられている。",
+    "link": "https://venturebeat.com/technology/z-ais-open-source-glm-5-achieves-record-low-hallucination-rate-and-leverages",
     "category": "AI",
-    "publishedAt": "2026-02-09 17:08"
+    "publishedAt": "2026-02-12 17:28"
   },
   {
     "source": "VentureBeat",
-    "title": "TTT-Discoverは推論中に学習することでGPUカーネルを人間の専門家の2倍の速度で最適化",
-    "title_en": "TTT-Discover optimizes GPU kernels 2x faster than human experts — by training during inference",
-    "summary": "スタンフォード大学、Nvidia、Together AIの研究者たちが開発した新技術TTT-Discoverは、問題解決をリアルタイムで進化させるもので、従来の静的モデルの限界を越えたアプローチを提供します。この技術は、問題解決時にモデルの重みを更新し、特定の課題に集中するためのデータを生成し、そのデータを活用して最適解を見つけます。特に、企業の高価値な最適化課題に適しており、証明可能な進行指標を有する問題に対して効果を発揮することが期待されています。",
-    "summary_en": "スタンフォード、Nvidia、Together AIの研究者たちが開発した新技術TTT-Discoverは、問題解決をリアルタイムで進化させるもので、従来の静的モデルの限界を越えたアプローチを提供します。この技術は、問題解決時にモデルの重みを更新し、特定の課題に集中するためのデータを生成し、そのデータを活用して最適解を見つけます。特に、企業の高価値な最適化課題に適しており、証明可能な進行指標を持つ問題に対して効果を発揮することが期待されています。",
-    "link": "https://venturebeat.com/infrastructure/ttt-discover-optimizes-gpu-kernels-2x-faster-than-human-experts-by-training",
+    "title": "AnthropicのClaude CoworkがWindowsに登場 — あなたの仕事を自動化したい",
+    "title_en": "Anthropic’s Claude Cowork finally lands on Windows — and it wants to automate your workday",
+    "summary": "AnthropicがWindows向けに新しいAIエージェントソフトウェア「Claude Cowork」をリリースし、デスクトップ市場の約70％に制圧を狙っています。このソフトウェアは、ファイル管理やタスク自動化機能を提供し、すでに企業のニーズに応じた迅速な採用が進んでいることも示しています。MicrosoftとAnthropicのパートナーシップの進展は、AI技術の選択肢を広げ、ソフトウェア業界全体に競争の新たな波をもたらしています。",
+    "summary_en": "AnthropicがWindows向けに新しいAIエージェントソフトウェア「Claude Cowork」をリリースし、デスクトップ市場の約70％に制圧を狙っています。このソフトウェアは、ファイル管理やタスク自動化機能を提供し、すでに企業のニーズに応じた迅速な採用が進んでいることも示しています。MicrosoftとAnthropicのパートナーシップの進展は、AI技術の選択肢を広げ、ソフトウェア業界全体に競争の新たな波をもたらしています。",
+    "link": "https://venturebeat.com/technology/anthropics-claude-cowork-finally-lands-on-windows-and-it-wants-to-automate",
     "category": "AI",
-    "publishedAt": "2026-02-09 17:08"
+    "publishedAt": "2026-02-12 17:28"
   },
   {
     "source": "NHK",
-    "title": "リニア「山梨県駅」3月着工方針 品川～名古屋全駅で工事開始へ",
+    "title": "PayPay Visaと提携し世界展開を推進 米への進出検討",
     "title_en": "",
-    "summary": "リニア中央新幹線の山梨県駅が、来月に着工されることが決定しました。これにより、東京品川から名古屋間の全ての駅で工事が開始されることになります。JR東海が関係者への取材で明らかにしました。",
+    "summary": "スマホ決済大手のPayPayは、Visaと提携し、国際展開を目指すと発表しました。最初のステップとしてアメリカ市場への進出を検討しています。これにより、グローバルな成長を加速させる狙いがあります。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260209/k10015047551000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260212/k10015050011000.html",
     "category": "その他",
-    "publishedAt": "2026-02-09 17:08"
+    "publishedAt": "2026-02-12 17:28"
   },
   {
     "source": "BBC",
-    "title": "日本株が高騰、タカイチ首相が歴史的選挙勝利を収める",
-    "title_en": "Japanese stocks surge as Takaichi secures historic election victory",
-    "summary": "日本の株式市場は、月曜日の朝に急上昇しました。これは、タカイチ・サナエ首相が圧勝したことへの反応です。投資家の期待感が高まっています。",
-    "summary_en": "日本の株式市場は、月曜日の朝に高騰しました。これは、タカイチ・サナエ首相が圧勝したことを受けた反応です。投資家の期待感が高まっています。",
-    "link": "https://www.bbc.com/news/articles/cjd9k852zdjo?at_medium=RSS&at_campaign=rss",
-    "category": "経済",
-    "publishedAt": "2026-02-09 17:08"
+    "title": "警察がタンブラリッジの銃撃事件の容疑者を18歳と特定",
+    "title_en": "Police identify 18-year-old as suspect in Tumbler Ridge shooting",
+    "summary": "学校で6人が死亡し、25人以上が負傷しました。また、近くの住宅で別に2人の遺体が発見されました。事件の詳細や原因はまだ明らかになっていません。",
+    "summary_en": "学校で6人が死亡し、25人以上が負傷しました。また、近くの住宅で別に2人の遺体が発見されました。事件の詳細や原因はまだ明らかになっていません。",
+    "link": "https://www.bbc.com/news/articles/ce8w95knp55o?at_medium=RSS&at_campaign=rss",
+    "category": "その他",
+    "publishedAt": "2026-02-12 17:28"
   },
   {
     "source": "NHK",
-    "title": "東京電力が柏崎刈羽原発6号機を再び起動 17日間の停止経て",
+    "title": "島根原発2号機 「プルサーマル発電」“2029年度中の開始想定”",
     "title_en": "",
-    "summary": "東京電力は、柏崎刈羽原子力発電所6号機を再稼働させましたが、警報の不具合で一時停止していました。この停止は17日間続きました。営業運転の開始は当初の計画から延期され、来月に予定されています。",
+    "summary": "中国電力は、松江市の島根原子力発電所2号機で、プルトニウムを加工した核燃料を使用する「プルサーマル発電」の開始を計画しています。発電の開始は、数年後を見込んでいます。この取り組みは、原子力エネルギーの利用の一環とされています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260209/k10015047291000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260212/k10015049881000.html",
     "category": "その他",
-    "publishedAt": "2026-02-09 17:08"
+    "publishedAt": "2026-02-12 17:28"
   }
 ]
