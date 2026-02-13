@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "z.aiのオープンソースGLM-5が史上最低の幻覚発生率を達成し、新しいRL「スライム」技術を活用",
-    "title_en": "z.ai's open source GLM-5 achieves record low hallucination rate and leverages new RL 'slime' technique",
-    "summary": "中国のAIスタートアップZhupaiが新たに発表した大規模言語モデルGLM-5は、オープンソースライセンスを保持し、業界最優秀の知識信頼性を達成した。高度な文書生成能力を持つこのモデルは、特にコスト面でも競争力があり、企業向けに最適化されている。一方で、その性能には賛否があり、特に環境を意識しない実行重視のアプローチに懸念が寄せられている。",
-    "summary_en": "中国のAIスタートアップZhupaiが新たに発表した大規模言語モデルGLM-5は、オープンソースライセンスを保持し、業界最優秀の知識信頼性を達成した。高度な文書生成能力を持つこのモデルは、特にコスト面でも競争力があり、企業向けに最適化されている。一方で、その性能には賛否があり、特に環境を意識しない実行重視のアプローチに懸念が寄せられている。",
-    "link": "https://venturebeat.com/technology/z-ais-open-source-glm-5-achieves-record-low-hallucination-rate-and-leverages",
+    "title": "Nvidiaの新技術、LLMの推論コストを8倍削減し精度は維持",
+    "title_en": "Nvidia’s new technique cuts LLM reasoning costs by 8x without losing accuracy",
+    "summary": "Nvidiaの研究者は、動的メモリスパース化（DMS）と呼ばれる新技術を開発し、大規模言語モデルの推論におけるメモリコストを最大8倍削減できると報告しています。この技術は、モデルが自らのメモリを効果的に管理し、重要なトークンを保持することで推論能力を維持しながらキャッシュを圧縮します。DMSの実装により、企業のインフラが効率的になり、ユーザーの待ち時間が短縮され、処理能力が向上します。",
+    "summary_en": "Nvidiaの研究者は、動的メモリスパース化（DMS）と呼ばれる新技術を開発し、大規模言語モデルの推論におけるメモリコストを最大8倍削減できると報告しています。この技術は、モデルが自らのメモリを効果的に管理し、重要なトークンを保持することで推論能力を維持しながらキャッシュを圧縮します。DMSの実装により、企業のインフラが効率的になり、ユーザーの待ち時間が短縮され、処理能力が向上します。",
+    "link": "https://venturebeat.com/orchestration/nvidias-new-technique-cuts-llm-reasoning-costs-by-8x-without-losing-accuracy",
     "category": "AI",
-    "publishedAt": "2026-02-12 17:28"
+    "publishedAt": "2026-02-13 17:08"
   },
   {
     "source": "VentureBeat",
-    "title": "AnthropicのClaude CoworkがWindowsに登場 — あなたの仕事を自動化したい",
-    "title_en": "Anthropic’s Claude Cowork finally lands on Windows — and it wants to automate your workday",
-    "summary": "AnthropicがWindows向けに新しいAIエージェントソフトウェア「Claude Cowork」をリリースし、デスクトップ市場の約70％に制圧を狙っています。このソフトウェアは、ファイル管理やタスク自動化機能を提供し、すでに企業のニーズに応じた迅速な採用が進んでいることも示しています。MicrosoftとAnthropicのパートナーシップの進展は、AI技術の選択肢を広げ、ソフトウェア業界全体に競争の新たな波をもたらしています。",
-    "summary_en": "AnthropicがWindows向けに新しいAIエージェントソフトウェア「Claude Cowork」をリリースし、デスクトップ市場の約70％に制圧を狙っています。このソフトウェアは、ファイル管理やタスク自動化機能を提供し、すでに企業のニーズに応じた迅速な採用が進んでいることも示しています。MicrosoftとAnthropicのパートナーシップの進展は、AI技術の選択肢を広げ、ソフトウェア業界全体に競争の新たな波をもたらしています。",
-    "link": "https://venturebeat.com/technology/anthropics-claude-cowork-finally-lands-on-windows-and-it-wants-to-automate",
+    "title": "MiniMaxの新しいオープンM2.5およびM2.5 Lightning、Claude Opus 4.6の20分の1のコストでほぼ最先端を実現",
+    "title_en": "MiniMax's new open M2.5 and M2.5 Lightning near state-of-the-art while costing 1/20th of Claude Opus 4.6",
+    "summary": "中国のAIスタートアップMiniMaxが新たに発表したM2.5言語モデルは、AIの利用コストを大幅に削減し、高度なAIを求める企業にとって魅力的な選択肢となることが期待されています。このモデルは、エンタープライズ向けの複雑なタスクを手頃な価格で処理する能力を持ち、AIが単なる「チャットボット」から「作業者」へと進化することを示唆しています。MiniMaxはこの技術を通じて、AIの運用における新たな可能性を切り拓くことを目指しています。",
+    "summary_en": "中国のAIスタートアップMiniMaxが新たに発表したM2.5言語モデルは、AIの利用コストを大幅に削減し、高度なAIを求める企業にとって魅力的な選択肢となることが期待されています。このモデルは、エンタープライズ向けの複雑なタスクを手頃な価格で処理する能力を持ち、AIが単なる「チャットボット」から「作業者」へと進化することを示唆しています。MiniMaxはこの技術を通じて、AIの運用における新たな可能性を切り拓くことを目指しています。",
+    "link": "https://venturebeat.com/technology/minimaxs-new-open-m2-5-and-m2-5-lightning-near-state-of-the-art-while",
     "category": "AI",
-    "publishedAt": "2026-02-12 17:28"
+    "publishedAt": "2026-02-13 17:08"
   },
   {
     "source": "NHK",
-    "title": "PayPay Visaと提携し世界展開を推進 米への進出検討",
+    "title": "日銀 田村審議委員「2％物価安定」“賃上げ確認で達成判断も”",
     "title_en": "",
-    "summary": "スマホ決済大手のPayPayは、Visaと提携し、国際展開を目指すと発表しました。最初のステップとしてアメリカ市場への進出を検討しています。これにより、グローバルな成長を加速させる狙いがあります。",
+    "summary": "日銀の審議委員が横浜市で講演し、賃上げの動きが確認されれば、春には「2％の物価安定」達成の判断が可能になると述べました。これは日銀の金融政策に関連する重要な見解です。物価安定の達成に向けた期待が高まっています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260212/k10015050011000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260213/k10015051031000.html",
     "category": "その他",
-    "publishedAt": "2026-02-12 17:28"
+    "publishedAt": "2026-02-13 17:08"
   },
   {
     "source": "BBC",
-    "title": "警察がタンブラリッジの銃撃事件の容疑者を18歳と特定",
-    "title_en": "Police identify 18-year-old as suspect in Tumbler Ridge shooting",
-    "summary": "学校で6人が死亡し、25人以上が負傷しました。また、近くの住宅で別に2人の遺体が発見されました。事件の詳細や原因はまだ明らかになっていません。",
-    "summary_en": "学校で6人が死亡し、25人以上が負傷しました。また、近くの住宅で別に2人の遺体が発見されました。事件の詳細や原因はまだ明らかになっていません。",
-    "link": "https://www.bbc.com/news/articles/ce8w95knp55o?at_medium=RSS&at_campaign=rss",
+    "title": "トランプ氏が温室効果ガスが公衆衛生を危険にさらすという画期的な判決を撤回",
+    "title_en": "Trump revokes landmark ruling that greenhouse gases endanger public health",
+    "summary": "ホワイトハウスはこれを米国史上最大の規制緩和と称しているが、環境保護団体はこれが国民にとって高い代償を伴う結果になると懸念している。",
+    "summary_en": "ホワイトハウスはこれを米国史上最大の規制緩和と呼んでいるが、環境保護団体はこれが国民にとって高くつく結果になると懸念している。",
+    "link": "https://www.bbc.com/news/articles/cn0zdd7yl4vo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-02-12 17:28"
+    "publishedAt": "2026-02-13 17:08"
   },
   {
     "source": "NHK",
-    "title": "島根原発2号機 「プルサーマル発電」“2029年度中の開始想定”",
+    "title": "診療報酬加算引き上げへ 中医協が改定案答申 患者窓口負担も増",
     "title_en": "",
-    "summary": "中国電力は、松江市の島根原子力発電所2号機で、プルトニウムを加工した核燃料を使用する「プルサーマル発電」の開始を計画しています。発電の開始は、数年後を見込んでいます。この取り組みは、原子力エネルギーの利用の一環とされています。",
+    "summary": "中医協は、賃上げを行う医療機関への加算を引き上げ、基本料に上乗せできる「物価対応料」を新設する改定案を答申しました。これにより、医療機関の収入が増加する一方で、患者の窓口負担も増えることになります。医療費の見直しが進む中、影響が広がる可能性があります。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260212/k10015049881000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260213/k10015050791000.html",
     "category": "その他",
-    "publishedAt": "2026-02-12 17:28"
+    "publishedAt": "2026-02-13 17:08"
   }
 ]
