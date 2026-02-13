@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-02-13T07:14:59.341Z",
+  "updatedAt": "2026-02-13T13:36:35.588Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Rubio warns Europe of new era in geopolitics before big Munich speech",
+      "url": "https://www.bbc.com/news/articles/c99jxryd9xko?at_medium=RSS&at_campaign=rss",
+      "summary": "The US Secretary of State will address the first major transatlantic meeting since Donald Trump threatened to annex Greenland."
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: How Andrew's BBC interview compares to what Epstein emails tell us now",
+      "url": "https://www.bbc.com/news/videos/c20jepq911zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Following the latest release of the Epstein files, claims made by the then Prince Andrew in 2019 are under fresh scrutiny."
+    },
     {
       "source": "BBC World",
       "title": "Trump revokes landmark ruling that greenhouse gases endanger public health",
@@ -8,16 +20,10 @@
       "summary": "The White House calls it the largest deregulation in US history, but environmentalists say it will prove costly for Americans."
     },
     {
-      "source": "BBC World",
-      "title": "Analysis: Trump takes victory lap after biggest climate rollback yet",
-      "url": "https://www.bbc.com/news/articles/cvg8xjm8932o?at_medium=RSS&at_campaign=rss",
-      "summary": "The move marks the culmination of a decade-long push by the president to tear up climate policies he argues stifle industry."
-    },
-    {
-      "source": "BBC World",
-      "title": "Minnesota immigration enforcement surge is ending, Trump border tsar says",
-      "url": "https://www.bbc.com/news/articles/c2lr9w29zwyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Two US citizens were killed in Minneapolis during the crackdown dubbed \"Operation Metro Surge\". "
+      "source": "BBC Technology",
+      "title": "John Wick game starring Keanu Reeves unveiled at PlayStation showcase",
+      "url": "https://www.bbc.com/news/articles/cp8533g3201o?at_medium=RSS&at_campaign=rss",
+      "summary": "It's not the first time the iconic hitman has appeared in games, but Saber's will be the first voiced by Reeves."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "Separately, message board 4chan says it will refuse to pay an expected £520,000 fine from the media regulator."
     },
     {
-      "source": "BBC Technology",
-      "title": "AI safety leader says 'world is in peril' and quits to study poetry",
-      "url": "https://www.bbc.com/news/articles/c62dlvdq3e3o?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes in the same week an OpenAI researcher resigned amid concerns about its decision to start testing ChatGPT ads."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "A surprise God of War prequel is out on the PS5 right now",
+        "#text": "The hottest indie game is about breeding cats with ADHD and dyslexia",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/878375/god-of-war-sons-of-sparta-trilogy-sony-playstation-ps5-release-date-trailer",
+      "url": "https://www.theverge.com/entertainment/877906/mewgenics-steam-sales-edmund-mcmillen-interview",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Ring cancels its partnership with Flock Safety after surveillance backlash",
+        "#text": "HP&#8217;s laptop subscriptions are a great deal — for HP",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/878447/ring-flock-partnership-canceled",
+      "url": "https://www.theverge.com/report/878333/hp-laptop-subscription-elitebook-omen-gaming-bad-deal",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "PlayStation State of Play February 2026: all the news and trailers",
+        "#text": "Tenways’ compact e-bike twists and folds to go flat",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/877875/playstation-state-of-play-february-2026-ps5-news-trailers",
+      "url": "https://www.theverge.com/transportation/877796/tenways-cgo-compact-e-bike-twists-folds-flat",
       "summary": "(要約準備中)"
     }
   ]
