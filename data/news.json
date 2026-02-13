@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-02-12T19:20:26.228Z",
+  "updatedAt": "2026-02-13T03:21:55.863Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Trump revokes landmark ruling that greenhouse gases endanger public health",
+      "url": "https://www.bbc.com/news/articles/cn0zdd7yl4vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The White House calls it the largest deregulation in US history, but environmentalists say it will prove costly for Americans."
+    },
+    {
+      "source": "BBC World",
+      "title": "Analysis: Trump takes victory lap after biggest climate rollback yet",
+      "url": "https://www.bbc.com/news/articles/cvg8xjm8932o?at_medium=RSS&at_campaign=rss",
+      "summary": "The move marks the culmination of a decade-long push by the president to tear up climate policies he argues stifle industry."
+    },
     {
       "source": "BBC World",
       "title": "Minnesota immigration enforcement surge is ending, Trump border tsar says",
@@ -8,16 +20,10 @@
       "summary": "Two US citizens were killed in Minneapolis during the crackdown dubbed \"Operation Metro Surge\". "
     },
     {
-      "source": "BBC World",
-      "title": "Kim Jong Un chooses teen daughter as heir, says Seoul ",
-      "url": "https://www.bbc.com/news/articles/cn0e1g7kwglo?at_medium=RSS&at_campaign=rss",
-      "summary": "South Korea's spy agency says Ki Ju Ae's prominent public presence indicates she is the chosen heir."
-    },
-    {
-      "source": "BBC World",
-      "title": "Norway's former PM charged with gross corruption over Epstein links",
-      "url": "https://www.bbc.com/news/articles/c5yqr8eggvwo?at_medium=RSS&at_campaign=rss",
-      "summary": "The charge was brought after the Council of Europe lifted his immunity, which he had as its former secretary general."
+      "source": "BBC Technology",
+      "title": "AI coding platform's flaws allow BBC reporter to be hacked ",
+      "url": "https://www.bbc.com/news/articles/cy4wnw04e8wo?at_medium=RSS&at_campaign=rss",
+      "summary": "Vibe-coding tools - which let people without coding skills create apps using AI - are exploding in popularity."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "It comes in the same week an OpenAI researcher resigned amid concerns about its decision to start testing ChatGPT ads."
     },
     {
-      "source": "BBC Technology",
-      "title": "Prince Harry thanks bereaved families taking on social media firms",
-      "url": "https://www.bbc.com/news/articles/ce8w968y7p1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Duke of Sussex addressed parents claiming Instagram and YouTube damage young people's mental health."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Two powerful, OLED-equipped gaming laptops are hundreds off",
+        "#text": "A surprise God of War prequel is out on the PS5 right now",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/878209/asus-acer-oled-rtx-5070ti-gaming-laptop-deal-sale",
+      "url": "https://www.theverge.com/games/878375/god-of-war-sons-of-sparta-trilogy-sony-playstation-ps5-release-date-trailer",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Eufy’s midrange X10 Pro Omni robovac has fallen to its best-ever price",
+        "#text": "Ring cancels its partnership with Flock Safety after surveillance backlash",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/877673/eufy-x10-pro-omni-nothing-phone-3-deal-sale",
+      "url": "https://www.theverge.com/news/878447/ring-flock-partnership-canceled",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Jeffrey Epstein might not have created /pol/, but he helped carry out its mission",
+        "#text": "PlayStation State of Play February 2026: all the news and trailers",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/877903/jeffrey-epstein-4chan-pol-moot",
+      "url": "https://www.theverge.com/games/877875/playstation-state-of-play-february-2026-ps5-news-trailers",
       "summary": "(要約準備中)"
     }
   ]
