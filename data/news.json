@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-02-14T13:12:18.521Z",
+  "updatedAt": "2026-02-14T18:53:51.158Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Rubio says US and Europe 'belong together' despite tensions",
+      "url": "https://www.bbc.com/news/articles/c2lrdq47149o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US secretary of state reassures European leaders that the Trump administration backs the transatlantic alliance."
+    },
     {
       "source": "BBC World",
       "title": "Gisèle Pelicot tells BBC: I felt crushed by horror - but I don't feel anger",
@@ -14,10 +20,10 @@
       "summary": "A search has been carried out in Tuscon, Arizona, close to where the 84-year-old was abducted nearly two weeks ago."
     },
     {
-      "source": "BBC World",
-      "title": "Can Bangladesh's new leader bring change after election landslide?",
-      "url": "https://www.bbc.com/news/articles/cn0ex5d4g6xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Tarique Rahman is set to be Bangladesh's next prime minister, 18 months after mass protests ousted its longest-serving leader."
+      "source": "BBC Technology",
+      "title": "Stroke survivors trial new at-home tech: 'It's given me my freedom back'",
+      "url": "https://www.bbc.com/news/articles/cn87gj9k301o?at_medium=RSS&at_campaign=rss",
+      "summary": "Participants in the NHS 'Triceps' trial wear a device in their ear which emits electrical pulses while they do rehab.\n"
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "A Super Bowl advert had sparked new scrutiny of the smart doorbell company's privacy practices."
     },
     {
-      "source": "BBC Technology",
-      "title": "AI coding platform's flaws allow BBC reporter to be hacked ",
-      "url": "https://www.bbc.com/news/articles/cy4wnw04e8wo?at_medium=RSS&at_campaign=rss",
-      "summary": "Vibe-coding tools - which let people without coding skills create apps using AI - are exploding in popularity."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "How to un-Big Tech your online life",
+        "#text": "iBuyPower’s gaming desktops are discounted for Presidents Day",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/879114/best-big-tech-app-alternatives-installer",
+      "url": "https://www.theverge.com/gadgets/878927/ibuypower-gaming-desktop-pc-presidents-day-sale-deal",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Ring’s Flock breakup doesn’t fix its real problem",
+        "#text": "Georgia Tech announced the finalists in its wild musical instrument competition",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/report/879320/ring-flock-partnership-breakup-does-not-fix-problems",
+      "url": "https://www.theverge.com/entertainment/879482/georgia-techs-musical-instrument-competition-fiddle-henge",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "DJI’s first robovac is an autonomous cleaning drone you can’t trust",
+        "#text": "The Pocket Taco is the best way to turn your phone into a Game Boy",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/877012/dji-romo-review-robot-vacuum-drone-mop",
+      "url": "https://www.theverge.com/tech/877491/gamesir-pocket-taco-wireless-bluetooth-controller-clamp-hands-on",
       "summary": "(要約準備中)"
     }
   ]
