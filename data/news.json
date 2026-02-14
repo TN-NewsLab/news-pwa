@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T19:09:14.052Z",
+  "updatedAt": "2026-02-14T03:07:48.525Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,9 +9,9 @@
     },
     {
       "source": "BBC World",
-      "title": "Bangladesh Nationalist Party sweeps to victory in first election since Gen Z uprising",
-      "url": "https://www.bbc.com/news/articles/cgrzwn4yg7jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Voters are hoping for a return to democracy after 15 years of authoritarian rule under Sheikh Hasina."
+      "title": "Can Bangladesh's new leader bring change after election landslide?",
+      "url": "https://www.bbc.com/news/articles/cn0ex5d4g6xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Tarique Rahman is set to be Bangladesh's next prime minister, 18 months after mass protests ousted its longest-serving leader."
     },
     {
       "source": "BBC World",
@@ -27,41 +27,41 @@
     },
     {
       "source": "BBC Technology",
+      "title": "Amazon's Ring ends deal with surveillance firm after backlash",
+      "url": "https://www.bbc.com/news/articles/cwy8dxz1g7zo?at_medium=RSS&at_campaign=rss",
+      "summary": "A Super Bowl advert had sparked new scrutiny of the smart doorbell company's privacy practices."
+    },
+    {
+      "source": "BBC Technology",
       "title": "AI coding platform's flaws allow BBC reporter to be hacked ",
       "url": "https://www.bbc.com/news/articles/cy4wnw04e8wo?at_medium=RSS&at_campaign=rss",
       "summary": "Vibe-coding tools - which let people without coding skills create apps using AI - are exploding in popularity."
     },
     {
-      "source": "BBC Technology",
-      "title": "Porn site fined £800,000 for not rolling out age checks",
-      "url": "https://www.bbc.com/news/articles/cz6ejedj59no?at_medium=RSS&at_campaign=rss",
-      "summary": "Separately, message board 4chan says it will refuse to pay an expected £520,000 fine from the media regulator."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Steam beta lets users add their PC specs to reviews",
+        "#text": "4chan’s creator says ‘Epstein had nothing to do’ with creating infamous far-right board /pol/",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/878920/steam-reviews-pc-specs-beta",
+      "url": "https://www.theverge.com/tech/879132/moot-4chan-jeffrey-epstein-meeting-pol",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Here are the 50 best Presidents Day deals we’ve found so far",
+        "#text": "The Verge’s 2026 Valentine’s Day gift guide (for him)",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/875949/best-presidents-day-sales-deals-2026",
+      "url": "https://www.theverge.com/gadgets/865396/valentines-day-2026-gift-ideas-for-him-boyfriend-husband-partner",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "What’s behind the mass exodus at xAI?",
+        "#text": "The Beats Studio Buds Plus are on sale for less than $100 for Presidents Day",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/878761/mass-exodus-at-xai-grok-elon-musk-restructuring",
+      "url": "https://www.theverge.com/gadgets/878951/beats-studio-buds-plus-earbuds-presidents-day-sale-deal",
       "summary": "(要約準備中)"
     }
   ]
