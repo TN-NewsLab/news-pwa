@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-02-15T03:22:21.216Z",
+  "updatedAt": "2026-02-15T07:07:25.806Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Iran ready to discuss compromises to reach nuclear deal, minister tells BBC in Tehran",
+      "url": "https://www.bbc.com/news/articles/clyz4y3zwz5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Majid Takht-Ravanchi, Iran's deputy foreign minister, tells the BBC's Lyse Doucet that the ball was \"in America's court to prove that they want to do a deal\"."
+    },
     {
       "source": "BBC World",
       "title": "Russia killed opposition leader Alexei Navalny using dart frog toxin, UK says",
@@ -12,12 +18,6 @@
       "title": "Rubio says US and Europe 'belong together' despite tensions",
       "url": "https://www.bbc.com/news/articles/c2lrdq47149o?at_medium=RSS&at_campaign=rss",
       "summary": "The US secretary of state reassures European leaders that the Trump administration backs the transatlantic alliance."
-    },
-    {
-      "source": "BBC World",
-      "title": "Motorbike raids on villages kill at least 30 in Nigeria",
-      "url": "https://www.bbc.com/news/articles/ckg1y0nk641o?at_medium=RSS&at_campaign=rss",
-      "summary": "Assailants shot dead or cut the throats of their victims, lit homes on fire and abducted multiple people in Niger state, Nigeria."
     },
     {
       "source": "BBC Technology",
