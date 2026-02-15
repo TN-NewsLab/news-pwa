@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-02-14T18:53:51.158Z",
+  "updatedAt": "2026-02-15T03:22:21.216Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Russia killed opposition leader Alexei Navalny using dart frog toxin, UK says",
+      "url": "https://www.bbc.com/news/articles/cwyk4lz4e3eo?at_medium=RSS&at_campaign=rss",
+      "summary": "There is no innocent explanation for the toxin being found in samples taken from Navalny's body, Foreign Office says."
+    },
     {
       "source": "BBC World",
       "title": "Rubio says US and Europe 'belong together' despite tensions",
@@ -9,15 +15,9 @@
     },
     {
       "source": "BBC World",
-      "title": "Gisèle Pelicot tells BBC: I felt crushed by horror - but I don't feel anger",
-      "url": "https://www.bbc.com/news/articles/c9q5l22ryy4o?at_medium=RSS&at_campaign=rss",
-      "summary": "In an extensive interview with Newsnight, the woman at the heart of France's biggest rape trial speaks about betrayal, healing and choosing the right path. "
-    },
-    {
-      "source": "BBC World",
-      "title": "Police activity under way near Nancy Guthrie's home",
-      "url": "https://www.bbc.com/news/articles/cly8j19rql7o?at_medium=RSS&at_campaign=rss",
-      "summary": "A search has been carried out in Tuscon, Arizona, close to where the 84-year-old was abducted nearly two weeks ago."
+      "title": "Motorbike raids on villages kill at least 30 in Nigeria",
+      "url": "https://www.bbc.com/news/articles/ckg1y0nk641o?at_medium=RSS&at_campaign=rss",
+      "summary": "Assailants shot dead or cut the throats of their victims, lit homes on fire and abducted multiple people in Niger state, Nigeria."
     },
     {
       "source": "BBC Technology",
@@ -40,6 +40,15 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "Jikipedia turns Epstein’s emails into an encyclopedia of his powerful friends",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/policy/879508/jikipedia-epstein-email-encyclopedia",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "iBuyPower’s gaming desktops are discounted for Presidents Day",
         "@_type": "html"
       },
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/entertainment/879482/georgia-techs-musical-instrument-competition-fiddle-henge",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "The Pocket Taco is the best way to turn your phone into a Game Boy",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/tech/877491/gamesir-pocket-taco-wireless-bluetooth-controller-clamp-hands-on",
       "summary": "(要約準備中)"
     }
   ]
