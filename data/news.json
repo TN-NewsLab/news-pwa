@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-15T07:07:25.806Z",
+  "updatedAt": "2026-02-15T13:14:15.071Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,15 +9,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Russia killed opposition leader Alexei Navalny using dart frog toxin, UK says",
-      "url": "https://www.bbc.com/news/articles/cwyk4lz4e3eo?at_medium=RSS&at_campaign=rss",
-      "summary": "There is no innocent explanation for the toxin being found in samples taken from Navalny's body, Foreign Office says."
+      "title": "Eleven killed in Israeli strikes on Gaza, rescuers say",
+      "url": "https://www.bbc.com/news/articles/c8r15eyvk2do?at_medium=RSS&at_campaign=rss",
+      "summary": "The Palestinian Red Crescent say a strike on a tent encampment in northern Gaza killed at least six people."
     },
     {
       "source": "BBC World",
-      "title": "Rubio says US and Europe 'belong together' despite tensions",
-      "url": "https://www.bbc.com/news/articles/c2lrdq47149o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US secretary of state reassures European leaders that the Trump administration backs the transatlantic alliance."
+      "title": "Russia killed opposition leader Alexei Navalny using dart frog toxin, UK says",
+      "url": "https://www.bbc.com/news/articles/cwyk4lz4e3eo?at_medium=RSS&at_campaign=rss",
+      "summary": "There is no innocent explanation for the toxin being found in samples taken from Navalny's body, Foreign Office says."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "Why are Epstein’s emails full of equals signs?",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/policy/879016/epstein-files-emails-text-errors-encoding",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "AI can’t make good video game worlds yet, and it might never be able to",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/column/879524/ai-video-game-worlds-project-genie",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "Jikipedia turns Epstein’s emails into an encyclopedia of his powerful friends",
         "@_type": "html"
       },
       "url": "https://www.theverge.com/policy/879508/jikipedia-epstein-email-encyclopedia",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "iBuyPower’s gaming desktops are discounted for Presidents Day",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/gadgets/878927/ibuypower-gaming-desktop-pc-presidents-day-sale-deal",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Georgia Tech announced the finalists in its wild musical instrument competition",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/entertainment/879482/georgia-techs-musical-instrument-competition-fiddle-henge",
       "summary": "(要約準備中)"
     }
   ]
