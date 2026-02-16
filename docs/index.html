@@ -24,9 +24,19 @@
     </div>
   
     <div class="event-banner">
-
-    <p>今日の最新ニュースだよ😄</p>
+    <p id="today-news">今日の最新ニュース</p>
     </div>
+
+    <script>
+        const today = new Date();
+        const formatted = today.getFullYear() + "年"
+                        + (today.getMonth() + 1) + "月"
+                        + today.getDate() + "日";
+
+        document.getElementById("today-news").textContent =
+            formatted + "の最新ニュース";
+    </script>
+    
     <div id="news-list"></div>
     <div id="news-container"></div>
   </div>
