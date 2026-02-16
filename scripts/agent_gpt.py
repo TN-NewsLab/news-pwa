@@ -202,17 +202,16 @@ Summary:
     return title_ja, summary_ja
 
 # ********** カテゴリ判定（AI / 経済 / その他） **********
-def classify_category(title: str, summary: str, feed_key: str, description: str = "") -> str:
+# 3分類: AI / 経済 / その他
+def classify_category(title: str, summary: str, feed_key: str, description: str = "", debug: bool = False) -> str:
     key = (feed_key or "").strip().lower()
-
     text = f"{title} {description} {summary}"
     t = text.lower()
 
-    # 「AI」単体の誤検出抑制（said等）
+    # AIマーカー（said等の誤検出抑制）
     has_ai_marker = bool(re.search(r"(?i)(?<![a-z])ai(?![a-z])", text)) or ("人工知能" in text)
 
-    # --- 強い金融語（これが出たら“経済”判定に使う）---
-    # ※「企業」「資金」「コスト」みたいな汎用語は入れない（誤爆源）
+    # ✅ 経済は「金融ド直球」だけにする（汎用語は入れない！）
     finance_strong = [
         # JP
         "株", "株価", "銘柄", "決算", "業績", "投資", "相場", "バブル",
@@ -228,47 +227,42 @@ def classify_category(title: str, summary: str, feed_key: str, description: str 
         "interest rate", "bond", "treasury", "yield",
         "nasdaq", "dow", "s&p", "nikkei", "topix", "forex", "fx",
     ]
-    finance_hits = sum(1 for k in finance_strong if k in t)
+    finance_hits = [k for k in finance_strong if k in t]
 
-    # --- AI（A方針：生成AI/LLM中心 + AIインフラ） ---
+    # ✅ AI（A方針：生成AI/LLM中心 + AIインフラ）
     ai_core = [
         "chatgpt", "openai", "gpt", "llm", "large language model",
         "anthropic", "claude", "gemini", "deepseek",
         "生成ai", "大規模言語モデル", "基盤モデル",
-        "diffusion", "stable diffusion", "midjourney"
     ]
     ai_infra = [
         "hbm", "dram", "memory", "メモリ", "gpu", "nvidia", "cuda",
-        "accelerator", "アクセラレータ",
         "datacenter", "data center", "データセンター",
-        "training", "inference", "推論", "学習", "トレーニング",
+        "training", "inference", "推論", "学習",
         "ai向け", "ai用", "ai対応"
     ]
+    is_ai = any(k in t for k in ai_core) or (has_ai_marker and any(k in t for k in ai_infra))
 
-    is_ai_core = any(k in t for k in ai_core)
-    is_ai_infra = has_ai_marker and any(k in t for k in ai_infra)
+    # --- デバッグ（誤爆犯人ワードを見る）---
+    if debug:
+        print("DEBUG classify:", {"feed_key": key, "finance_hits": finance_hits, "is_ai": is_ai, "title": title})
 
-    # ① 経済フィードは経済固定（株落ち防止）
+    # ① economyフィードは経済固定
     if key == "economy":
         return "経済"
 
-    # ② AIフィードは原則AI（ただし株っぽい時だけ経済へ）
+    # ② aiフィード（VentureBeatなど）は基本AI固定
+    #    ただし「AI関連銘柄/AIバブル」みたいに金融語が出たら経済に逃がす
     if key == "ai":
-        if finance_hits >= 1:  # 「株」「銘柄」「決算」などが出たら経済にする
+        if finance_hits:
             return "経済"
         return "AI"
 
-    # ③ 他フィード（world / japan_politics など）は、
-    #    金融が強い → 経済、AIが主題 → AI、それ以外 → その他
-    #    ※AI関連銘柄/AIバブルなどは has_ai_marker + finance で経済になりやすい
-    if finance_hits >= 2:
+    # ③ 他フィードは「金融が強い→経済」「AI主題→AI」「それ以外→その他」
+    if len(finance_hits) >= 2 or (finance_hits and has_ai_marker):
         return "経済"
-    if finance_hits >= 1 and has_ai_marker:
-        return "経済"
-
-    if is_ai_core or is_ai_infra:
+    if is_ai:
         return "AI"
-
     return "その他"
 
 # ********** timestamp生成 **********
@@ -341,7 +335,8 @@ def main():
                 title_ja, summary_ja = translate_to_japanese(title_en, summary_en)
             
             # カテゴリ判定（title + description + summary で判定）
-            category_final = classify_category(title, summary, category, description)
+            #category_final = classify_category(title, summary, category, description)
+            category_final = classify_category(title, summary, category, description, debug=True)
             #デバッグ用ここから
             print(f"DEBUG FINAL: feed={category} -> {category_final} | {title}")
             #デバッグ用ここまで
