@@ -297,9 +297,6 @@ def main():
     output_items = []
 
     for category, info in RSS_SOURCES.items():
-        #デバッグ用ここから
-        print("DEBUG category key:", repr(category), "-> normalized:", repr((category or "").strip().lower()))
-        #デバッグ用ここまで
         print(f"\n🔁 [{info['source']}] RSS取得中...")
 
         # --- AIカテゴリは 2件ロジック ---
@@ -340,10 +337,7 @@ def main():
             # VentureBeatは全部「AI」に固定
             if info.get("source") == "VentureBeat":
                 category_final = "AI"
-                        
-            #デバッグ用ここから
-            print(f"DEBUG FINAL: source={info.get('source')} feed={category} -> {category_final} | {title}")
-            #デバッグ用ここまで
+
             timestamp = format_timestamp(entry)
 
             output_items.append({
@@ -359,10 +353,7 @@ def main():
 
     with open(DATA_PATH, "w", encoding="utf-8") as f:
         json.dump(output_items, f, ensure_ascii=False, indent=2)
-        #デバッグ用ここから
-        print("DEBUG DATA_PATH =", str(DATA_PATH.resolve()))
-        #デバッグ用ここまで
-
+ 
     print(f"\n✅ 複数ニュースまとめて {os.path.basename(DATA_PATH)} を生成しました！")
 
 if __name__ == "__main__":
