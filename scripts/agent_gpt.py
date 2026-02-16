@@ -201,77 +201,45 @@ Summary:
 
     return title_ja, summary_ja
 
-# ********** カテゴリ判定 **********
-# def classify_category(title, summary, initial_category):
-#     text = (title + " " + summary).lower()
-
-#     # --- AI キーワード ---
-#     ai_keywords = [
-#         "ai", "artificial intelligence", "gpt", "chatgpt",
-#         "openai", "neural", "model", "llm", "gemini",
-#         "anthropic", "deepseek", "生成ai", "機械学習"
-#     ]
-
-#     # --- 経済 キーワード ---
-#     economy_keywords = [
-#         "stock", "market", "shares", "inflation", "finance",
-#         "経済", "企業", "株", "株価", "景気", "賃金", "資金", "金利"
-#     ]
-
-#     # --- ① AI判定 ---
-#     # if any(k in text for k in ai_keywords):
-#     #     return "AI"
-
-#     # --- ② 経済判定 ---
-#     if any(k in text for k in economy_keywords):
-#         return "経済"
-
-#     # --- ③ どちらでもない場合 → その他 ---
-#     return "その他"
-
 # ********** カテゴリ判定（AI / 経済 / その他） **********
-def classify_category(title: str, summary: str, initial_category: str, description: str = "") -> str:
-    # --- 正規化（ここ超重要）---
-    key = (initial_category or "").strip().lower()
+import re
 
-    # RSSキーが別の形で渡ってきても救う（事故防止）
-    if key in ["economy", "経済", "cat5", "nhk-economy", "nhk_economy"]:
-        return "経済"
+def classify_category(title: str, summary: str, initial_category: str, description: str = "") -> str:
+    key = (initial_category or "").strip().lower()
 
     text = f"{title} {description} {summary}"
     t = text.lower()
 
-    # 「AI」単体の誤検出を抑える（said等）
+    # --- AIマーカー（said等の誤検出抑制）---
     has_ai_marker = bool(re.search(r"(?i)(?<![a-z])ai(?![a-z])", text)) or ("人工知能" in text)
 
-    # --- finance文脈（最優先で経済）---
-    finance_keywords = [
-        # EN
-        "stock", "stocks", "share", "shares", "equity", "market", "earnings", "revenue",
-        "invest", "investor", "fund", "etf", "ipo", "valuation",
-        "inflation", "interest rate", "bond", "treasury", "yield",
-        "fx", "forex", "yen", "dollar", "euro", "nasdaq", "dow", "s&p", "nikkei", "topix",
-        # JP
-        "株", "株価", "銘柄", "決算", "業績", "投資", "相場", "バブル", "急騰", "暴落", "反発", "調整",
-        "金利", "利上げ", "利下げ", "国債", "債券", "利回り", "為替", "円高", "円安",
-        "日経", "日経平均", "topix", "ダウ", "ナスダック", "s&p"
+    # --- 経済：強い金融・相場語（ここに当たった時だけ経済にする）---
+    finance_strong_keywords = [
+        # JP（強い）
+        "株", "株価", "銘柄", "決算", "業績", "投資", "相場", "バブル",
+        "急騰", "暴落", "反発", "調整",
+        "金利", "利上げ", "利下げ", "国債", "債券", "利回り",
+        "為替", "円高", "円安",
+        "日経", "日経平均", "topix", "ダウ", "ナスダック", "s&p",
+        "時価総額", "ipo", "etf",
+
+        # EN（強い）
+        "stock", "stocks", "share", "shares", "equity", "earnings", "revenue",
+        "invest", "investor", "fund", "ipo", "etf", "valuation",
+        "interest rate", "bond", "treasury", "yield",
+        "nasdaq", "dow", "s&p", "nikkei", "topix", "forex", "fx",
     ]
 
-    if any(k in t for k in finance_keywords):
-        return "経済"
+    # ※「企業」「資金」みたいな汎用語は入れない（誤爆するから）
+    finance_hits = sum(1 for k in finance_strong_keywords if k in t)
 
-    # --- AI：生成AI/LLM中心（A方針）---
+    # --- AI：A方針（生成AI/LLM中心 + AIインフラ） ---
     ai_core_keywords = [
         "chatgpt", "openai", "gpt", "llm", "large language model",
         "anthropic", "claude", "gemini", "deepseek",
         "生成ai", "大規模言語モデル", "基盤モデル",
         "diffusion", "stable diffusion", "midjourney"
     ]
-
-    if any(k in t for k in ai_core_keywords):
-        return "AI"
-
-    # --- AIインフラ（AIマーカーがある時だけAI扱い）---
     ai_infra_keywords = [
         "hbm", "dram", "memory", "メモリ", "gpu", "nvidia", "cuda",
         "accelerator", "アクセラレータ",
@@ -280,7 +248,27 @@ def classify_category(title: str, summary: str, initial_category: str, descripti
         "ai向け", "ai用", "ai対応"
     ]
 
-    if has_ai_marker and any(k in t for k in ai_infra_keywords):
+    ai_core_hits = sum(1 for k in ai_core_keywords if k in t)
+    ai_infra_hit = has_ai_marker and any(k in t for k in ai_infra_keywords)
+
+    # ① 経済RSSは経済固定（株落ち防止）
+    #    ※ここは運用上いちばん安定するので残すのがおすすめ
+    if key == "economy":
+        return "経済"
+
+    # ② 経済優先は「強い金融語が2個以上」または「AIマーカー+強い金融語1個以上」
+    #    → AI銘柄/AIバブルは経済になる
+    if finance_hits >= 2:
+        return "経済"
+    if finance_hits >= 1 and has_ai_marker:
+        return "経済"
+
+    # ③ AI：生成AI/LLMコア語彙があればAI
+    if ai_core_hits >= 1:
+        return "AI"
+
+    # ④ AIインフラ：AIマーカー + インフラ語彙でAI
+    if ai_infra_hit:
         return "AI"
 
     return "その他"
@@ -354,13 +342,7 @@ def main():
                 summary_en = summary
                 print(f"🌐 [{info['source']}] 日本語翻訳中...")
                 title_ja, summary_ja = translate_to_japanese(title_en, summary_en)
-
-            # カテゴリ判定は従来どおり「元のタイトル＋要約」で行う
-            # if category == "ai":
-            #     category_final = "AI"
-            # else:            
-            #     category_final = classify_category(title, summary, category)
-
+            
             # カテゴリ判定（title + description + summary で判定）
             category_final = classify_category(title, summary, category, description)
 
