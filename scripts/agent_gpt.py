@@ -303,10 +303,9 @@ def main():
     output_items = []
 
     for category, info in RSS_SOURCES.items():
-        #デバッグプリント　ここから↓
+        #デバッグ用ここから
         print("DEBUG category key:", repr(category), "-> normalized:", repr((category or "").strip().lower()))
-        #デバッグプリント　ここまで↑　
-
+        #デバッグ用ここまで
         print(f"\n🔁 [{info['source']}] RSS取得中...")
 
         # --- AIカテゴリは 2件ロジック ---
@@ -343,7 +342,9 @@ def main():
             
             # カテゴリ判定（title + description + summary で判定）
             category_final = classify_category(title, summary, category, description)
-
+            #デバッグ用ここから
+            print(f"DEBUG FINAL: feed={category} -> {category_final} | {title}")
+            #デバッグ用ここまで
             timestamp = format_timestamp(entry)
 
             output_items.append({
@@ -359,9 +360,9 @@ def main():
 
     with open(DATA_PATH, "w", encoding="utf-8") as f:
         json.dump(output_items, f, ensure_ascii=False, indent=2)
-        #デバッグプリント　ここから
+        #デバッグ用ここから
         print("DEBUG DATA_PATH =", str(DATA_PATH.resolve()))
-        #デバッグプリント　ここまで
+        #デバッグ用ここまで
 
     print(f"\n✅ 複数ニュースまとめて {os.path.basename(DATA_PATH)} を生成しました！")
 
