@@ -359,6 +359,9 @@ def main():
 
     with open(DATA_PATH, "w", encoding="utf-8") as f:
         json.dump(output_items, f, ensure_ascii=False, indent=2)
+        #デバッグプリント　ここから
+        print("DEBUG DATA_PATH =", str(DATA_PATH.resolve()))
+        #デバッグプリント　ここまで
 
     print(f"\n✅ 複数ニュースまとめて {os.path.basename(DATA_PATH)} を生成しました！")
 
