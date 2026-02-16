@@ -1,4 +1,5 @@
 import os
+import re
 import requests
 import feedparser
 import json
@@ -362,7 +363,7 @@ def main():
             #     category_final = "AI"
             # else:            
             #     category_final = classify_category(title, summary, category)
-            
+
             # カテゴリ判定（title + description + summary で判定）
             category_final = classify_category(title, summary, category, description)
 
