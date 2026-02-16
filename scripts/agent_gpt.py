@@ -201,31 +201,94 @@ Summary:
     return title_ja, summary_ja
 
 # ********** カテゴリ判定 **********
-def classify_category(title, summary, initial_category):
-    text = (title + " " + summary).lower()
+# def classify_category(title, summary, initial_category):
+#     text = (title + " " + summary).lower()
 
-    # --- AI キーワード ---
-    ai_keywords = [
-        "ai", "artificial intelligence", "gpt", "chatgpt",
-        "openai", "neural", "model", "llm", "gemini",
-        "anthropic", "deepseek", "生成ai", "機械学習"
+#     # --- AI キーワード ---
+#     ai_keywords = [
+#         "ai", "artificial intelligence", "gpt", "chatgpt",
+#         "openai", "neural", "model", "llm", "gemini",
+#         "anthropic", "deepseek", "生成ai", "機械学習"
+#     ]
+
+#     # --- 経済 キーワード ---
+#     economy_keywords = [
+#         "stock", "market", "shares", "inflation", "finance",
+#         "経済", "企業", "株", "株価", "景気", "賃金", "資金", "金利"
+#     ]
+
+#     # --- ① AI判定 ---
+#     # if any(k in text for k in ai_keywords):
+#     #     return "AI"
+
+#     # --- ② 経済判定 ---
+#     if any(k in text for k in economy_keywords):
+#         return "経済"
+
+#     # --- ③ どちらでもない場合 → その他 ---
+#     return "その他"
+
+# ********** カテゴリ判定（AI / 経済 / その他） **********
+def classify_category(title: str, summary: str, initial_category: str, description: str = "") -> str:
+    text = f"{title} {description} {summary}"
+    t = text.lower()
+
+    # --- AIマーカー（"said"などの誤検出を避ける） ---
+    # - "AI向け" のように日本語が続くケースも拾う
+    has_ai_marker = bool(re.search(r"(?i)(?<![a-z])ai(?![a-z])", text)) or ("人工知能" in text)
+
+    # --- 経済：金融・相場文脈（これが出たら最優先で経済） ---
+    finance_keywords = [
+        # EN
+        "stock", "stocks", "share", "shares", "equity", "market", "earnings", "revenue",
+        "invest", "investor", "fund", "etf", "ipo", "valuation",
+        "inflation", "rate hike", "interest rate", "bond", "treasury", "yield",
+        "fx", "forex", "yen", "dollar", "euro", "nasdaq", "dow", "s&p", "nikkei", "topix",
+        "profit", "loss",
+
+        # JP
+        "経済", "景気", "企業", "株", "株価", "銘柄", "決算", "上方修正", "下方修正", "業績",
+        "投資", "資金", "ファンド", "etf", "ipo", "時価総額",
+        "相場", "バブル", "急騰", "暴落", "反発", "調整",
+        "金利", "利上げ", "利下げ", "国債", "債券", "利回り",
+        "為替", "円高", "円安", "ドル", "ユーロ",
+        "日経", "日経平均", "topix", "ダウ", "ナスダック", "s&p"
     ]
 
-    # --- 経済 キーワード ---
-    economy_keywords = [
-        "stock", "market", "shares", "inflation", "finance",
-        "経済", "企業", "株", "株価", "景気", "賃金", "資金", "金利"
+    # --- AI：A方針（生成AI/LLM中心 + AIインフラ） ---
+    ai_core_keywords = [
+        # 生成AI/LLM・主要プレイヤー
+        "chatgpt", "openai", "gpt", "llm", "large language model",
+        "anthropic", "claude", "gemini", "deepseek",
+        "生成ai", "大規模言語モデル", "基盤モデル",
+        "diffusion", "stable diffusion", "midjourney"
     ]
 
-    # --- ① AI判定 ---
-    # if any(k in text for k in ai_keywords):
-    #     return "AI"
+    ai_infra_keywords = [
+        # AI向けハード/メモリ/計算資源・データセンター系（※AIマーカーがある時だけAI扱い）
+        "hbm", "dram", "memory", "メモリ", "gpu", "nvidia", "cuda",
+        "accelerator", "アクセラレータ",
+        "datacenter", "data center", "データセンター",
+        "training", "inference", "推論", "学習", "トレーニング",
+        "ai向け", "ai用", "ai対応"
+    ]
 
-    # --- ② 経済判定 ---
-    if any(k in text for k in economy_keywords):
+    # ① 経済RSSは経済固定（株落ち防止・最強のヒント）
+    if initial_category == "economy":
         return "経済"
 
-    # --- ③ どちらでもない場合 → その他 ---
+    # ② finance文脈があれば経済（AI銘柄/AIバブルはここで経済になる）
+    if any(k in t for k in finance_keywords):
+        return "経済"
+
+    # ③ 生成AI/LLMコア語彙があればAI（ただし上の経済が優先）
+    if any(k in t for k in ai_core_keywords):
+        return "AI"
+
+    # ④ 「AI向けメモリ」など：AIマーカー + インフラ語彙 → AI
+    if has_ai_marker and any(k in t for k in ai_infra_keywords):
+        return "AI"
+
     return "その他"
 
 # ********** timestamp生成 **********
@@ -295,10 +358,13 @@ def main():
                 title_ja, summary_ja = translate_to_japanese(title_en, summary_en)
 
             # カテゴリ判定は従来どおり「元のタイトル＋要約」で行う
-            if category == "ai":
-                category_final = "AI"
-            else:            
-                category_final = classify_category(title, summary, category)
+            # if category == "ai":
+            #     category_final = "AI"
+            # else:            
+            #     category_final = classify_category(title, summary, category)
+            
+            # カテゴリ判定（title + description + summary で判定）
+            category_final = classify_category(title, summary, category, description)
 
             timestamp = format_timestamp(entry)
 
