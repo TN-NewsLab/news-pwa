@@ -202,45 +202,42 @@ Summary:
     return title_ja, summary_ja
 
 # ********** カテゴリ判定（AI / 経済 / その他） **********
-import re
-
-def classify_category(title: str, summary: str, initial_category: str, description: str = "") -> str:
-    key = (initial_category or "").strip().lower()
+def classify_category(title: str, summary: str, feed_key: str, description: str = "") -> str:
+    key = (feed_key or "").strip().lower()
 
     text = f"{title} {description} {summary}"
     t = text.lower()
 
-    # --- AIマーカー（said等の誤検出抑制）---
+    # 「AI」単体の誤検出抑制（said等）
     has_ai_marker = bool(re.search(r"(?i)(?<![a-z])ai(?![a-z])", text)) or ("人工知能" in text)
 
-    # --- 経済：強い金融・相場語（ここに当たった時だけ経済にする）---
-    finance_strong_keywords = [
-        # JP（強い）
+    # --- 強い金融語（これが出たら“経済”判定に使う）---
+    # ※「企業」「資金」「コスト」みたいな汎用語は入れない（誤爆源）
+    finance_strong = [
+        # JP
         "株", "株価", "銘柄", "決算", "業績", "投資", "相場", "バブル",
-        "急騰", "暴落", "反発", "調整",
+        "急騰", "暴落", "反発", "調整", "時価総額",
         "金利", "利上げ", "利下げ", "国債", "債券", "利回り",
         "為替", "円高", "円安",
         "日経", "日経平均", "topix", "ダウ", "ナスダック", "s&p",
-        "時価総額", "ipo", "etf",
+        "ipo", "etf",
 
-        # EN（強い）
+        # EN
         "stock", "stocks", "share", "shares", "equity", "earnings", "revenue",
         "invest", "investor", "fund", "ipo", "etf", "valuation",
         "interest rate", "bond", "treasury", "yield",
         "nasdaq", "dow", "s&p", "nikkei", "topix", "forex", "fx",
     ]
+    finance_hits = sum(1 for k in finance_strong if k in t)
 
-    # ※「企業」「資金」みたいな汎用語は入れない（誤爆するから）
-    finance_hits = sum(1 for k in finance_strong_keywords if k in t)
-
-    # --- AI：A方針（生成AI/LLM中心 + AIインフラ） ---
-    ai_core_keywords = [
+    # --- AI（A方針：生成AI/LLM中心 + AIインフラ） ---
+    ai_core = [
         "chatgpt", "openai", "gpt", "llm", "large language model",
         "anthropic", "claude", "gemini", "deepseek",
         "生成ai", "大規模言語モデル", "基盤モデル",
         "diffusion", "stable diffusion", "midjourney"
     ]
-    ai_infra_keywords = [
+    ai_infra = [
         "hbm", "dram", "memory", "メモリ", "gpu", "nvidia", "cuda",
         "accelerator", "アクセラレータ",
         "datacenter", "data center", "データセンター",
@@ -248,27 +245,28 @@ def classify_category(title: str, summary: str, initial_category: str, descripti
         "ai向け", "ai用", "ai対応"
     ]
 
-    ai_core_hits = sum(1 for k in ai_core_keywords if k in t)
-    ai_infra_hit = has_ai_marker and any(k in t for k in ai_infra_keywords)
+    is_ai_core = any(k in t for k in ai_core)
+    is_ai_infra = has_ai_marker and any(k in t for k in ai_infra)
 
-    # ① 経済RSSは経済固定（株落ち防止）
-    #    ※ここは運用上いちばん安定するので残すのがおすすめ
+    # ① 経済フィードは経済固定（株落ち防止）
     if key == "economy":
         return "経済"
 
-    # ② 経済優先は「強い金融語が2個以上」または「AIマーカー+強い金融語1個以上」
-    #    → AI銘柄/AIバブルは経済になる
+    # ② AIフィードは原則AI（ただし株っぽい時だけ経済へ）
+    if key == "ai":
+        if finance_hits >= 1:  # 「株」「銘柄」「決算」などが出たら経済にする
+            return "経済"
+        return "AI"
+
+    # ③ 他フィード（world / japan_politics など）は、
+    #    金融が強い → 経済、AIが主題 → AI、それ以外 → その他
+    #    ※AI関連銘柄/AIバブルなどは has_ai_marker + finance で経済になりやすい
     if finance_hits >= 2:
         return "経済"
     if finance_hits >= 1 and has_ai_marker:
         return "経済"
 
-    # ③ AI：生成AI/LLMコア語彙があればAI
-    if ai_core_hits >= 1:
-        return "AI"
-
-    # ④ AIインフラ：AIマーカー + インフラ語彙でAI
-    if ai_infra_hit:
+    if is_ai_core or is_ai_infra:
         return "AI"
 
     return "その他"
