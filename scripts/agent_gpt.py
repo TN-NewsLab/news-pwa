@@ -335,10 +335,14 @@ def main():
                 title_ja, summary_ja = translate_to_japanese(title_en, summary_en)
             
             # カテゴリ判定（title + description + summary で判定）
-            #category_final = classify_category(title, summary, category, description)
-            category_final = classify_category(title, summary, category, description, debug=True)
+            category_final = classify_category(title, summary, category, description)
+            
+            # VentureBeatは全部「AI」に固定
+            if info.get("source") == "VentureBeat":
+            category_final = "AI"
+                        
             #デバッグ用ここから
-            print(f"DEBUG FINAL: feed={category} -> {category_final} | {title}")
+            print(f"DEBUG FINAL: source={info.get('source')} feed={category} -> {category_final} | {title}")
             #デバッグ用ここまで
             timestamp = format_timestamp(entry)
 
