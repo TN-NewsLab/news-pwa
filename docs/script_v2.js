@@ -78,7 +78,7 @@ function createNewsCard(article) {
 
   // タグ名に応じてクラスを付与
   const tagClass =
-      tag === "AIニュース" ? "tag-ai" :
+      tag === "AI" ? "tag-ai" :
       tag === "経済" ? "tag-economy" :
       tag === "その他" ? "tag-other" :
       "tag-all";
@@ -127,30 +127,19 @@ function setupTagFilter() {
 // カテゴリ正規関数化
 // ------------------------------------------------------
 function convertCategoryName(raw) {
-  if (!raw) return "その他";
+  const key = (raw ?? "").toString().trim();
+  if (!key) return "その他";
 
-  const key = raw.toLowerCase();
+  // もう 3カテゴリに寄せる（厳密に）
+  if (key === "AI") return "AI";
+  if (key === "経済") return "経済";
+  if (key === "その他") return "その他";
 
-  // AI系
-  if (
-    key.includes("ai") ||
-    key.includes("artificial intelligence") ||
-    key.includes("machine learning")
-  ) {
-    return "AIニュース";
-  }
+  // 念のため：英語が来た時の救済（将来用）
+  const lower = key.toLowerCase();
+  if (lower === "ai") return "AI";
+  if (["economy", "business", "finance", "market"].includes(lower)) return "経済";
 
-  // 経済・ビジネス系
-  if (
-    key.includes("economy") ||
-    key.includes("business") ||
-    key.includes("finance") ||
-    key.includes("market")
-  ) {
-    return "経済";
-  }
-
-  // それ以外は全部まとめて
   return "その他";
 }
 
