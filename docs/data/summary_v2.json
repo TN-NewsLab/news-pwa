@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "Nvidiaの新技術、LLMの推論コストを8倍削減し精度は維持",
-    "title_en": "Nvidia’s new technique cuts LLM reasoning costs by 8x without losing accuracy",
-    "summary": "Nvidiaの研究者は、動的メモリスパース化（DMS）と呼ばれる新技術を開発し、大規模言語モデルの推論におけるメモリコストを最大8倍削減できると報告しています。この技術は、モデルが自らのメモリを効果的に管理し、重要なトークンを保持することで推論能力を維持しながらキャッシュを圧縮します。DMSの実装により、企業のインフラが効率的になり、ユーザーの待ち時間が短縮され、処理能力が向上します。",
-    "summary_en": "Nvidiaの研究者は、動的メモリスパース化（DMS）と呼ばれる新技術を開発し、大規模言語モデルの推論におけるメモリコストを最大8倍削減できると報告しています。この技術は、モデルが自らのメモリを効果的に管理し、重要なトークンを保持することで推論能力を維持しながらキャッシュを圧縮します。DMSの実装により、企業のインフラが効率的になり、ユーザーの待ち時間が短縮され、処理能力が向上します。",
-    "link": "https://venturebeat.com/orchestration/nvidias-new-technique-cuts-llm-reasoning-costs-by-8x-without-losing-accuracy",
-    "category": "AI",
-    "publishedAt": "2026-02-13 17:08"
+    "title": "企業のノートパソコンに自律エージェントにシェルアクセスを与えずにOpenClawをテストする方法",
+    "title_en": "How to test OpenClaw without giving an autonomous agent shell access to your corporate laptop",
+    "summary": "最近、オープンソースのAIエージェントOpenClawが急速に拡大し、企業環境での展開が進む中、重大なセキュリティリスクが浮上しています。特に、認証トークンの漏洩やリモートコード実行の脆弱性が存在し、企業データが危険にさらされています。CloudflareのMoltworkerフレームワークは、こうした脅威に対抗するための安全なテスト環境を提供し、隔離されたコンテナ内でのエージェント実行を可能にしています。",
+    "summary_en": "最近、オープンソースのAIエージェントOpenClawが急速に拡大し、企業環境での展開が進む中、重大なセキュリティリスクが浮上しています。特に、認証トークンの漏洩やリモートコード実行の脆弱性が存在し、企業データが危険にさらされています。CloudflareのMoltworkerフレームワークは、こうした脅威に対抗するための安全なテスト環境を提供し、隔離されたコンテナ内でのエージェント実行を可能にしています。",
+    "link": "https://venturebeat.com/security/how-to-test-openclaw-without-giving-an-autonomous-agent-shell-access-to-your",
+    "category": "経済",
+    "publishedAt": "2026-02-16 14:48"
   },
   {
     "source": "VentureBeat",
-    "title": "MiniMaxの新しいオープンM2.5およびM2.5 Lightning、Claude Opus 4.6の20分の1のコストでほぼ最先端を実現",
-    "title_en": "MiniMax's new open M2.5 and M2.5 Lightning near state-of-the-art while costing 1/20th of Claude Opus 4.6",
-    "summary": "中国のAIスタートアップMiniMaxが新たに発表したM2.5言語モデルは、AIの利用コストを大幅に削減し、高度なAIを求める企業にとって魅力的な選択肢となることが期待されています。このモデルは、エンタープライズ向けの複雑なタスクを手頃な価格で処理する能力を持ち、AIが単なる「チャットボット」から「作業者」へと進化することを示唆しています。MiniMaxはこの技術を通じて、AIの運用における新たな可能性を切り拓くことを目指しています。",
-    "summary_en": "中国のAIスタートアップMiniMaxが新たに発表したM2.5言語モデルは、AIの利用コストを大幅に削減し、高度なAIを求める企業にとって魅力的な選択肢となることが期待されています。このモデルは、エンタープライズ向けの複雑なタスクを手頃な価格で処理する能力を持ち、AIが単なる「チャットボット」から「作業者」へと進化することを示唆しています。MiniMaxはこの技術を通じて、AIの運用における新たな可能性を切り拓くことを目指しています。",
-    "link": "https://venturebeat.com/technology/minimaxs-new-open-m2-5-and-m2-5-lightning-near-state-of-the-art-while",
-    "category": "AI",
-    "publishedAt": "2026-02-13 17:08"
+    "title": "Nvidiaの新技術がLLMの推論コストを8倍削減、精度は維持",
+    "title_en": "Nvidia’s new technique cuts LLM reasoning costs by 8x without losing accuracy",
+    "summary": "Nvidiaの研究者は、言語モデルの推論におけるメモリコストを最大8倍削減する技術「動的メモリスパース化（DMS）」を開発しました。このアプローチは、モデルが自ら重要なトークンを識別することでキャッシュを効率的に管理し、推論能力を向上させつつメモリを節約します。実験結果では、DMSを使用したモデルが、従来のモデルと比較して高いスループットを維持したまま、より深く且つ広い考察を行うことが可能であることが示されました。",
+    "summary_en": "Nvidiaの研究者は、言語モデルの推論におけるメモリコストを最大8倍削減する技術「動的メモリスパース化（DMS）」を開発しました。このアプローチは、モデルが自ら重要なトークンを識別することでキャッシュを効率的に管理し、推論能力を向上させつつメモリを節約します。実験結果では、DMSを使用したモデルが、従来のモデルと比較して高いスループットを維持したまま、より深く且つ広い考察を行うことが可能であることが示されました。",
+    "link": "https://venturebeat.com/orchestration/nvidias-new-technique-cuts-llm-reasoning-costs-by-8x-without-losing-accuracy",
+    "category": "経済",
+    "publishedAt": "2026-02-16 14:49"
   },
   {
     "source": "NHK",
-    "title": "日銀 田村審議委員「2％物価安定」“賃上げ確認で達成判断も”",
+    "title": "ロッテリアは全店舗ゼッテリアに 会社名は「バーガー・ワン」",
     "title_en": "",
-    "summary": "日銀の審議委員が横浜市で講演し、賃上げの動きが確認されれば、春には「2％の物価安定」達成の判断が可能になると述べました。これは日銀の金融政策に関連する重要な見解です。物価安定の達成に向けた期待が高まっています。",
+    "summary": "ハンバーガーチェーンの「ロッテリア」が社名を「バーガー・ワン」に変更しました。今後、ロッテリアの店舗名は使用されなくなります。新たなブランド名での展開が期待されます。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260213/k10015051031000.html",
-    "category": "その他",
-    "publishedAt": "2026-02-13 17:08"
+    "link": "http://www3.nhk.or.jp/news/html/20260216/k10015053151000.html",
+    "category": "経済",
+    "publishedAt": "2026-02-16 14:49"
   },
   {
     "source": "BBC",
-    "title": "トランプ氏が温室効果ガスが公衆衛生を危険にさらすという画期的な判決を撤回",
-    "title_en": "Trump revokes landmark ruling that greenhouse gases endanger public health",
-    "summary": "ホワイトハウスはこれを米国史上最大の規制緩和と称しているが、環境保護団体はこれが国民にとって高い代償を伴う結果になると懸念している。",
-    "summary_en": "ホワイトハウスはこれを米国史上最大の規制緩和と呼んでいるが、環境保護団体はこれが国民にとって高くつく結果になると懸念している。",
-    "link": "https://www.bbc.com/news/articles/cn0zdd7yl4vo?at_medium=RSS&at_campaign=rss",
+    "title": "米国 Attorney General、エプスタインに関するすべてのファイルが公開されたと発言し批判を受ける",
+    "title_en": "US attorney general criticised after saying all Epstein files have been released",
+    "summary": "法律を策定した議員を含む出席者は、公開された情報が不十分であると主張しています。彼らは、より詳細で透明性のある情報提供を求めています。現在の公開状況に対する不満が高まっています。",
+    "summary_en": "法律を策定した議員を含む出席者は、公開された情報が不十分であると主張しています。彼らは、より詳細で透明性のある情報提供を求めています。現在の公開状況に対する不満が高まっています。",
+    "link": "https://www.bbc.com/news/articles/cz7genjx9njo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-02-13 17:08"
+    "publishedAt": "2026-02-16 14:49"
   },
   {
     "source": "NHK",
-    "title": "診療報酬加算引き上げへ 中医協が改定案答申 患者窓口負担も増",
+    "title": "米 ブタの腎臓を患者に移植する治験 腎臓は最長で270日余機能",
     "title_en": "",
-    "summary": "中医協は、賃上げを行う医療機関への加算を引き上げ、基本料に上乗せできる「物価対応料」を新設する改定案を答申しました。これにより、医療機関の収入が増加する一方で、患者の窓口負担も増えることになります。医療費の見直しが進む中、影響が広がる可能性があります。",
+    "summary": "アメリカの病院で行われているブタの腎臓移植の治験に関する最新情報が、日本人医師によって発表されました。移植された腎臓は、最も長い患者で270日以上機能したとのことです。この進展は、動物由来の臓器移植の可能性を示唆しています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260213/k10015050791000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260215/k10015052551000.html",
     "category": "その他",
-    "publishedAt": "2026-02-13 17:08"
+    "publishedAt": "2026-02-16 14:49"
   }
 ]
