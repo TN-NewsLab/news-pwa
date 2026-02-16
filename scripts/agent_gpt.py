@@ -317,6 +317,10 @@ def main():
     output_items = []
 
     for category, info in RSS_SOURCES.items():
+        #デバッグプリント　ここから↓
+        print("DEBUG category key:", repr(category), "-> normalized:", repr((category or "").strip().lower()))
+        #デバッグプリント　ここまで↑　
+
         print(f"\n🔁 [{info['source']}] RSS取得中...")
 
         # --- AIカテゴリは 2件ロジック ---
