@@ -339,7 +339,7 @@ def main():
             
             # VentureBeatは全部「AI」に固定
             if info.get("source") == "VentureBeat":
-            category_final = "AI"
+                category_final = "AI"
                         
             #デバッグ用ここから
             print(f"DEBUG FINAL: source={info.get('source')} feed={category} -> {category_final} | {title}")
