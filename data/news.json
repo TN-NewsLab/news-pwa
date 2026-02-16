@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-02-16T13:39:08.356Z",
+  "updatedAt": "2026-02-16T19:03:20.082Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "'It's never too late': Savannah Guthrie's new plea for mother's release as FBI analyses glove",
-      "url": "https://www.bbc.com/news/articles/c5yrv2g16e2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The FBI says it recovered a DNA sample from the glove, which was found in a field a few miles from Guthrie's home."
+      "title": "Navalny's mother says she always knew he was murdered after poison finding",
+      "url": "https://www.bbc.com/news/articles/cq6qg6l31l3o?at_medium=RSS&at_campaign=rss",
+      "summary": "On the second anniversary of his death, Lyudmila Navalnaya says her son did not \"simply die in prison\"."
     },
     {
       "source": "BBC World",
@@ -33,35 +33,35 @@
     },
     {
       "source": "BBC Technology",
-      "title": "Stroke survivors trial new at-home tech: 'It's given me my freedom back'",
-      "url": "https://www.bbc.com/news/articles/cn87gj9k301o?at_medium=RSS&at_campaign=rss",
-      "summary": "Participants in the NHS 'Triceps' trial wear a device in their ear which emits electrical pulses while they do rehab.\n"
+      "title": "New Silent Hill game inspired by tiny fishing village in Fife",
+      "url": "https://www.bbc.com/news/articles/c043n0kl71wo?at_medium=RSS&at_campaign=rss",
+      "summary": "Silent Hill: Townfall is set in the fictional St Amelia, based on the real village of St Monans in the East Neuk of Fife."
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Samsung ad confirms rumors of a useful S26 ‘privacy display’",
+        "#text": "Here are 50 Presidents Day deals actually worth shopping for",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/879652/samsung-galaxy-s26-privacy-display-ad-flex-magic-pixel",
+      "url": "https://www.theverge.com/gadgets/875949/best-presidents-day-sales-deals-2026",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "After spooking Hollywood, ByteDance will tweak safeguards on new AI model",
+        "#text": "Apple’s doing something on March 4th",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/879644/bytedance-seedance-safeguards-ai-video-copyright-infringement",
+      "url": "https://www.theverge.com/tech/879671/apple-special-experience-event-march-2026",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "A Star is born",
+        "#text": "Let&#8217;s talk about Ring, lost dogs, and the surveillance state",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/streaming/879129/netflix-star-search-live",
+      "url": "https://www.theverge.com/podcast/879203/ring-search-party-super-bowl-ai-surveillance-privacy-security",
       "summary": "(要約準備中)"
     }
   ]
