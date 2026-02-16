@@ -1,12 +1,6 @@
 {
-  "updatedAt": "2026-02-16T07:19:52.262Z",
+  "updatedAt": "2026-02-16T13:39:08.356Z",
   "top": [
-    {
-      "source": "BBC World",
-      "title": "US attorney general criticised after saying all Epstein files have been released",
-      "url": "https://www.bbc.com/news/articles/cz7genjx9njo?at_medium=RSS&at_campaign=rss",
-      "summary": "Lawmakers, including those who wrote the law requiring their publication, argue the release is insufficient."
-    },
     {
       "source": "BBC World",
       "title": "'It's never too late': Savannah Guthrie's new plea for mother's release as FBI analyses glove",
@@ -15,15 +9,27 @@
     },
     {
       "source": "BBC World",
-      "title": "Ukraine's ex-energy minister detained while attempting to leave country",
-      "url": "https://www.bbc.com/news/articles/c4g5380xwqjo?at_medium=RSS&at_campaign=rss",
-      "summary": "His detention comes as he faces legal proceedings after being dismissed in a corruption scandal."
+      "title": "Trump's new world order has become real and Europe is having to adjust fast",
+      "url": "https://www.bbc.com/news/articles/cddn002g6qzo?at_medium=RSS&at_campaign=rss",
+      "summary": "European nations are asking whether traditional alliances can suffice, or whether they should be diversifying"
+    },
+    {
+      "source": "BBC World",
+      "title": "Bondi Beach shooting accused faces court for the first time",
+      "url": "https://www.bbc.com/news/articles/c3rzwe7lr4jo?at_medium=RSS&at_campaign=rss",
+      "summary": "The 24-year-old faces 59 charges, including 15 counts of murder and one of committing a terrorist attack."
     },
     {
       "source": "BBC Technology",
-      "title": "Starmer pledges to close loopholes in social media crackdown",
+      "title": "We will do battle with AI chatbots as we did with Grok, says Starmer",
       "url": "https://www.bbc.com/news/articles/cvg38x13x5yo?at_medium=RSS&at_campaign=rss",
       "summary": "The government's new plans will mean no online platform will get a \"free pass\" on children's safety on the internet, the prime minister says."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "ByteDance to curb AI video app after Disney legal threat",
+      "url": "https://www.bbc.com/news/articles/c93wq6xqgy1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Videos featuring Spider-Man and other characters which are Disney's intellectual property have gone viral since Seedance's update."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "Participants in the NHS 'Triceps' trial wear a device in their ear which emits electrical pulses while they do rehab.\n"
     },
     {
-      "source": "BBC Technology",
-      "title": "John Wick game starring Keanu Reeves unveiled at PlayStation showcase",
-      "url": "https://www.bbc.com/news/articles/cp8533g3201o?at_medium=RSS&at_campaign=rss",
-      "summary": "It's not the first time the iconic hitman has appeared in games, but Saber's will be the first voiced by Reeves."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "OpenClaw founder Peter Steinberger is joining OpenAI",
+        "#text": "Samsung ad confirms rumors of a useful S26 ‘privacy display’",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/879623/openclaw-founder-peter-steinberger-joins-openai",
+      "url": "https://www.theverge.com/gadgets/879652/samsung-galaxy-s26-privacy-display-ad-flex-magic-pixel",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "You need to watch the intensely surreal cult classic Possession",
+        "#text": "After spooking Hollywood, ByteDance will tweak safeguards on new AI model",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/879602/cult-classic-possession-1981-review-isabelle-adjani",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/879644/bytedance-seedance-safeguards-ai-video-copyright-infringement",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Here are the 55 best Presidents Day deals we’ve found so far",
+        "#text": "A Star is born",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/875949/best-presidents-day-sales-deals-2026",
+      "url": "https://www.theverge.com/streaming/879129/netflix-star-search-live",
       "summary": "(要約準備中)"
     }
   ]
