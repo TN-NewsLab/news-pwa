@@ -1,12 +1,6 @@
 {
-  "updatedAt": "2026-02-15T18:55:18.670Z",
+  "updatedAt": "2026-02-16T03:19:21.789Z",
   "top": [
-    {
-      "source": "BBC World",
-      "title": "Iran ready to discuss compromises to reach nuclear deal, minister tells BBC in Tehran",
-      "url": "https://www.bbc.com/news/articles/clyz4y3zwz5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Majid Takht-Ravanchi, Iran's deputy foreign minister, tells the BBC's Lyse Doucet that the ball was \"in America's court to prove that they want to do a deal\"."
-    },
     {
       "source": "BBC World",
       "title": "Ukraine's ex-energy minister detained while attempting to leave country",
@@ -15,9 +9,21 @@
     },
     {
       "source": "BBC World",
-      "title": "Eleven killed in Israeli strikes on Gaza, rescuers say",
-      "url": "https://www.bbc.com/news/articles/c8r15eyvk2do?at_medium=RSS&at_campaign=rss",
-      "summary": "The Palestinian Red Crescent say a strike on a tent encampment in northern Gaza killed at least six people."
+      "title": "FBI analysing recovered glove that appears to match those worn in Guthrie suspect video",
+      "url": "https://www.bbc.com/news/articles/c5yrv2g16e2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The FBI says it recovered a DNA sample from the glove, which was found in a field a few miles from Guthrie's home."
+    },
+    {
+      "source": "BBC World",
+      "title": "Iran ready to discuss compromises to reach nuclear deal, minister tells BBC in Tehran",
+      "url": "https://www.bbc.com/news/articles/clyz4y3zwz5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Majid Takht-Ravanchi, Iran's deputy foreign minister, tells the BBC's Lyse Doucet that the ball was \"in America's court to prove that they want to do a deal\"."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "No free pass for internet platforms on child safety, Starmer says",
+      "url": "https://www.bbc.com/news/articles/cvg38x13x5yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The government announces a consultation on online safety, including on a possible social media ban for under-16s."
     },
     {
       "source": "BBC Technology",
@@ -32,10 +38,13 @@
       "summary": "It's not the first time the iconic hitman has appeared in games, but Saber's will be the first voiced by Reeves."
     },
     {
-      "source": "BBC Technology",
-      "title": "Amazon's Ring ends deal with surveillance firm after backlash",
-      "url": "https://www.bbc.com/news/articles/cwy8dxz1g7zo?at_medium=RSS&at_campaign=rss",
-      "summary": "A Super Bowl advert had sparked new scrutiny of the smart doorbell company's privacy practices."
+      "source": "The Verge",
+      "title": {
+        "#text": "OpenClaw founder Peter Steinberger is joining OpenAI",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/ai-artificial-intelligence/879623/openclaw-founder-peter-steinberger-joins-openai",
+      "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/gadgets/875949/best-presidents-day-sales-deals-2026",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "I hate my AI pet with every fiber of my being",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/gadgets/877858/life-with-casio-moflin-robot-ai-pet",
       "summary": "(要約準備中)"
     }
   ]
