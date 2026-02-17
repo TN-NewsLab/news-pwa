@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-17T07:15:53.627Z",
+  "updatedAt": "2026-02-17T13:39:23.936Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,15 +9,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Trump says he will be 'indirectly' involved in Iran nuclear talks",
-      "url": "https://www.bbc.com/news/articles/cwyknjnd706o?at_medium=RSS&at_campaign=rss",
-      "summary": "Speaking ahead of negotiations on Tuesday, the US president says he believes Iran wants to make a deal."
+      "title": "Third round of Russia-Ukraine talks to take place as strikes continue",
+      "url": "https://www.bbc.com/news/articles/cge812y2549o?at_medium=RSS&at_campaign=rss",
+      "summary": "Expectations for a breakthrough are low as delegations meet for a third time to try and negotiate an end to the war. "
     },
     {
       "source": "BBC World",
-      "title": "US build-up of warships and fighter jets tracked near Iran",
-      "url": "https://www.bbc.com/news/articles/c1d64p3q2d0o?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Verify has seen US aircraft carrier USS Abraham Lincoln near Iran ahead of talks between the two countries"
+      "title": "US Senator Mark Kelly tells BBC he will 'seriously consider' White House run",
+      "url": "https://www.bbc.com/news/articles/cy9gdvl4zv4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The former Navy captain and astronaut says \"we're in some seriously challenging times\"."
     },
     {
       "source": "BBC Technology",
@@ -27,7 +27,7 @@
     },
     {
       "source": "BBC Technology",
-      "title": "The tech bros might show more humility in Delhi – but will they make AI any safer?",
+      "title": "Could Bill Gates and political tussles overshadow AI safety debate in Delhi?",
       "url": "https://www.bbc.com/news/articles/cr5l6gnen72o?at_medium=RSS&at_campaign=rss",
       "summary": "As global tech leaders meet Delhi, India hopes to level the playing field for countries outside the US and China."
     },
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Valve’s Steam Deck OLED will be ‘intermittently’ out of stock because of the RAM crisis",
+        "#text": "Laurie Spiegel on the difference between algorithmic music and ‘AI’",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/879845/valve-steam-deck-oled-out-of-stock-memory-storage-ram-crisis",
+      "url": "https://www.theverge.com/report/879819/laurie-spiegel-is-celebrating-40-of-music-mouse-with-a-modern-revival",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Apple starts testing end-to-end encrypted RCS messages on iPhone",
+        "#text": "Who needs a laptop when you have a folding phone?",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/879792/apple-iphone-android-rcs-messages-end-to-end-encrypted",
+      "url": "https://www.theverge.com/tech/878485/samsung-galaxy-z-fold-7-travel-keyboard-logitech-laptop-replacement",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Apple’s Podcasts app will let you ‘seamlessly’ switch between audio and video shows",
+        "#text": "Samsung is slopping AI ads all over its social channels",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/879749/apple-podcasts-video-swap-hls-live-streaming",
+      "url": "https://www.theverge.com/tech/879864/samsung-ai-generated-edited-video-ads-slop",
       "summary": "(要約準備中)"
     }
   ]
