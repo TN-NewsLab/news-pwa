@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-02-18T07:16:47.851Z",
+  "updatedAt": "2026-02-18T13:41:11.801Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "'Difficult' Russia-Ukraine peace talks end without breakthrough",
+      "url": "https://www.bbc.com/news/articles/c0k1xj0d708o?at_medium=RSS&at_campaign=rss",
+      "summary": "The second day of negotiations between Ukraine and Russia ended after just two hours."
+    },
     {
       "source": "BBC World",
       "title": "I would scream in my sleep: Women from Syria's Alawite minority tell of kidnap and rape",
@@ -9,15 +15,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Witkoff says 'meaningful progress' made as Ukraine talks enter second day",
-      "url": "https://www.bbc.com/news/articles/cgk2mlv2k1ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The US special envoy struck an optimistic note after the first day of talks in Geneva, but hopes for a breakthrough remain low. "
-    },
-    {
-      "source": "BBC World",
-      "title": "Rescuers search for 10 missing skiers after California avalanche",
+      "title": "Rescuers search for nine missing skiers after California avalanche",
       "url": "https://www.bbc.com/news/articles/c62dke15357o?at_medium=RSS&at_campaign=rss",
       "summary": "Rescuers are racing to the scene, which has seen about 30 inches (76cm) of snowfall in the last 24 hours."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Call of Duty advert banned for trivialising sexual violence",
+      "url": "https://www.bbc.com/news/articles/czd831elpz5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Activision Blizzard UK Ltd said the ad for Call of Duty: Black Ops 7 was targeted at adults."
     },
     {
       "source": "BBC Technology",
@@ -27,41 +33,35 @@
     },
     {
       "source": "BBC Technology",
-      "title": "How dark web agent spotted bedroom wall clue to rescue girl from years of harm",
-      "url": "https://www.bbc.com/news/articles/cx2gn239exlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Detectives desperate to locate a 12-year-old, seen abused online, found a surprising lead.\n"
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Could Bill Gates and political tussles overshadow AI safety debate in Delhi?",
-      "url": "https://www.bbc.com/news/articles/cr5l6gnen72o?at_medium=RSS&at_campaign=rss",
-      "summary": "As global tech leaders meet Delhi, India hopes to level the playing field for countries outside the US and China."
+      "title": "V&A displays first YouTube video and watchpage",
+      "url": "https://www.bbc.com/news/articles/cp324wwn1nxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The original YouTube experience from 2005 has been recreated using internet archives."
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Meta&#8217;s new deal with Nvidia buys up millions of AI chips",
+        "#text": "Mark Zuckerberg is taking the stand as social media goes on trial",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/880513/nvidia-meta-ai-grace-vera-chips",
+      "url": "https://www.theverge.com/policy/880375/meta-ceo-mark-zuckerberg-testimony-los-angeles-social-media-addiction-trial",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Stephen Colbert says CBS banned him from airing this James Talarico interview",
+        "#text": "Perplexity joins anti-ad camp as AI companies battle over trust and revenue ",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/880009/stephen-colbert-cbs-fcc-brendan-carr-talarico-interview",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/880562/perplexity-ditches-ai-ads",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The best deals on MacBooks right now",
+        "#text": "Tesla won’t use the term ‘Autopilot’ in California anymore",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals",
+      "url": "https://www.theverge.com/transportation/880548/tesla-autopilot-california-dmv-marketing-update",
       "summary": "(要約準備中)"
     }
   ]
