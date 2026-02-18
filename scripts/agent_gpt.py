@@ -11,6 +11,7 @@ from openai import OpenAI
 from dotenv import load_dotenv
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
+from translation_parser import parse_translation_response
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 DATA_PATH = REPO_ROOT / "docs" / "data" / "summary_v2.json"
@@ -162,44 +163,22 @@ Summary:
 {summary_en}
 """.strip()
 
-    res = client.chat.completions.create(
-        model="gpt-4o-mini",
-        messages=[
-            {"role": "system", "content": system_prompt},
-            {"role": "user", "content": user_prompt}
-        ]
-    )
-
-    content = res.choices[0].message.content
-
-    if not isinstance(content, str):
-        content = str(content)
-
-    text = content.strip()
-
-    # ```json ～ ``` で返ってきた場合のケア
-    if text.startswith("```"):
-        lines = text.splitlines()
-        # コードフェンス行を削る
-        lines = [l for l in lines if not l.strip().startswith("```")]
-        text = "\n".join(lines).strip()
-
-    title_ja = title_en
-    summary_ja = summary_en
-
     try:
-        data = json.loads(text)
-        t = data.get("title_ja")
-        s = data.get("summary_ja")
-        if isinstance(t, str) and t.strip():
-            title_ja = t.strip()
-        if isinstance(s, str) and s.strip():
-            summary_ja = s.strip()
+        res = client.chat.completions.create(
+            model="gpt-4o-mini",
+            messages=[
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": user_prompt}
+            ]
+        )
+        content = res.choices[0].message.content
+        return parse_translation_response(content)
     except Exception as e:
-        print("⚠️ 翻訳結果のJSONパースに失敗:", e)
-        print("  返却テキスト:", text[:200], "...")
-
-    return title_ja, summary_ja
+        return {
+            "en_title": "",
+            "en_summary": "",
+            "error": str(e)
+        }
 
 # ********** カテゴリ判定（AI / 経済 / その他） **********
 # 3分類: AI / 経済 / その他
@@ -329,7 +308,12 @@ def main():
                 title_en = title
                 summary_en = summary
                 print(f"🌐 [{info['source']}] 日本語翻訳中...")
-                title_ja, summary_ja = translate_to_japanese(title_en, summary_en)
+                translation = translate_to_japanese(title_en, summary_en)
+                if translation["error"] == "":
+                    title_ja = translation["en_title"] or title
+                    summary_ja = translation["en_summary"] or summary
+                else:
+                    print("⚠️ 翻訳結果のJSONパースに失敗:", translation["error"])
             
             # カテゴリ判定（title + description + summary で判定）
             category_final = classify_category(title, summary, category, description)
