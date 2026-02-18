@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2026-02-17T19:15:08.965Z",
+  "updatedAt": "2026-02-18T03:17:11.588Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Jesse Jackson: A life in pictures",
-      "url": "https://www.bbc.com/news/articles/cn0zjz58nzqo?at_medium=RSS&at_campaign=rss",
-      "summary": "A look back at the remarkable life of the US civil rights activist, who died on Tuesday aged 84. "
+      "title": "US civil rights leader Jesse Jackson dies aged 84",
+      "url": "https://www.bbc.com/news/articles/cp81l0e1eg5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Tributes poured in from politicians who described Jackson as an agent of change and transformative leader. "
     },
     {
       "source": "BBC World",
-      "title": "First day of Russia-Ukraine peace talks ends in Geneva",
-      "url": "https://www.bbc.com/news/articles/cge812y2549o?at_medium=RSS&at_campaign=rss",
-      "summary": "Negotiations will continue on Wednesday, but expectations for a breakthrough on ending the war are low."
+      "title": "Stephen Colbert says CBS spiked interview with Democrat over FCC fears",
+      "url": "https://www.bbc.com/news/articles/cze0dk3yd5eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The network denies it stopped the interview with a Texas Democrat from airing but warned it could run afoul of the US broadcast media watchdog. "
     },
     {
       "source": "BBC World",
-      "title": "Facing a demographic catastrophe, Ukraine is paying for troops to freeze their sperm",
-      "url": "https://www.bbc.com/news/articles/cqxd9549y4xo?at_medium=RSS&at_campaign=rss",
-      "summary": "The law funds troops who want to freeze their eggs or their sperm, as Ukraine's population plummets."
+      "title": "I would scream in my sleep: Women from Syria's Alawite minority tell of kidnap and rape",
+      "url": "https://www.bbc.com/news/articles/cn5g751pl7lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC hears harrowing accounts of assaults appearing to target the sect of former President Assad."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "'I do not trust them' - top streamers left concerned by Discord age checks",
+      "url": "https://www.bbc.com/news/articles/cn4g8ynpwl8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The platform's plan to roll out global age checks has caused concern in streaming communities."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "As global tech leaders meet Delhi, India hopes to level the playing field for countries outside the US and China."
     },
     {
-      "source": "BBC Technology",
-      "title": "We will do battle with AI chatbots as we did with Grok, says Starmer",
-      "url": "https://www.bbc.com/news/articles/cvg38x13x5yo?at_medium=RSS&at_campaign=rss",
-      "summary": "The government's new plans will mean no online platform will get a \"free pass\" on children's safety on the internet, the prime minister says."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "WordPress’s new AI assistant will let users edit their sites with prompts",
+        "#text": "Meta&#8217;s new deal with Nvidia buys up millions of AI chips",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/880223/wordpress-launches-ai-assistant",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/880513/nvidia-meta-ai-grace-vera-chips",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Here are the best Presidents Day deals you can still grab",
+        "#text": "Stephen Colbert says CBS banned him from airing this James Talarico interview",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/875949/best-presidents-day-sales-deals-2026",
+      "url": "https://www.theverge.com/policy/880009/stephen-colbert-cbs-fcc-brendan-carr-talarico-interview",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "This backup camera cleaner hides behind your license plate",
+        "#text": "The best deals on MacBooks right now",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/877893/lens-lizard-backup-camera-cleaner-aftermarket-wiper-fluid-kickstarter",
+      "url": "https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals",
       "summary": "(要約準備中)"
     }
   ]
