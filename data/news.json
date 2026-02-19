@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-02-19T13:42:42.682Z",
+  "updatedAt": "2026-02-19T19:09:42.098Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "South Korea's ex-president jailed for life over martial law attempt",
-      "url": "https://www.bbc.com/news/articles/cx28y8xd1vjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Yoon Suk Yeol's December 2024 martial law bid fundamentally damaged South Korea's democracy, a judge told the court."
+      "title": "Trump says world has 10 days to see if Iran deal reached",
+      "url": "https://www.bbc.com/news/articles/c86yjnw4x49o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US is surging forces to the Middle East amid negotiations with the Islamic Republic over its nuclear programme."
     },
     {
       "source": "BBC World",
@@ -15,9 +15,21 @@
     },
     {
       "source": "BBC World",
-      "title": "White House presses Iran to make deal, while ramping up military presence",
-      "url": "https://www.bbc.com/news/articles/c204zpz0lyro?at_medium=RSS&at_campaign=rss",
-      "summary": "US media reports that Trump has discussed attack options with advisers, and a  strike could happen as early as Saturday."
+      "title": "Trump's Board of Peace members pledge $7bn in Gaza relief",
+      "url": "https://www.bbc.com/news/articles/cp8rke05kv4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump said it \"looks like\" Hamas will disarm, even though there are signs the group is regrouping."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Microsoft error sees confidential emails exposed to AI tool Copilot",
+      "url": "https://www.bbc.com/news/articles/c8jxevd8mdyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The company says it has addressed the issue and it \"did not provide anyone access to information they weren't already authorised to see\"."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "SpaceX rocket fireball linked to plume of polluting lithium",
+      "url": "https://www.bbc.com/news/articles/cpd8z4eqlxno?at_medium=RSS&at_campaign=rss",
+      "summary": "A SpaceX Falcon 9 crashed to Earth last year. Now scientists have measured the pollution it caused."
     },
     {
       "source": "BBC Technology",
@@ -26,42 +38,30 @@
       "summary": "The government is proposing that intimate image abuse should be treated more severely."
     },
     {
-      "source": "BBC Technology",
-      "title": "Bill Gates pulls out of India's AI summit over Epstein files controversy",
-      "url": "https://www.bbc.com/news/articles/c309qv9zglno?at_medium=RSS&at_campaign=rss",
-      "summary": "The Gates Foundation said the decision was made to \"ensure the focus remains on the summit's key priorities\"."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Zuckerberg defends Meta in landmark social media addiction trial",
-      "url": "https://www.bbc.com/news/articles/c5y42znjnjvo?at_medium=RSS&at_campaign=rss",
-      "summary": "The billionaire boss said he \"always\" regretted not making faster progress to identify users under 13."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "The RAM shortage is coming for everything you care about",
+        "#text": "Sony is closing the studio behind the Demon&#8217;s Souls and Shadow of the Colossus remakes",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/880812/ramageddon-ram-shortage-memory-crisis-price-2026-phones-laptops",
+      "url": "https://www.theverge.com/games/881578/sony-close-bluepoint-games-studio-remaster-remake-demons-souls-shadow-colossus-god-of-war",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The biggest app in the whole wide world",
+        "#text": "The AI security nightmare is here and it looks suspiciously like lobster",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/876196/top-app-store-apps-developers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/881574/cline-openclaw-prompt-injection-hack",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Mark Zuckerberg and his Ray-Ban entourage have their day in court",
+        "#text": "Baseus’ retractable, 6-in-1 travel adapter is on sale for its lowest price to date",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/881210/mark-zuckerberg-meta-ceo-testimony-filters",
+      "url": "https://www.theverge.com/gadgets/881424/baseus-enercore-cg11-universal-travel-adapter-deal-sale",
       "summary": "(要約準備中)"
     }
   ]
