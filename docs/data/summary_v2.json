@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "AnthropicのSonnet 4.6、フラッグシップAIと同等の性能を持ちながらコストは1/5に抑え、企業の導入を加速",
-    "title_en": "Anthropic's Sonnet 4.6 matches flagship AI performance at one-fifth the cost, accelerating enterprise adoption",
-    "summary": "Anthropicが新モデル「Claude Sonnet 4.6」を発表し、中価格帯で高性能なAIを提供することで業界に大きな変革をもたらしています。このモデルは、コーディングや長期的な推論能力を全面的にアップグレードし、従来よりも大幅にコストを削減しつつ高い性能を発揮します。企業はこの新しい能力を利用することで、AIエージェントをより効率的に運用できるようになり、競争力が向上する可能性があります。",
-    "summary_en": "Anthropicが新モデル「Claude Sonnet 4.6」を発表し、中価格帯で高性能なAIを提供することで業界に大きな変革をもたらしています。このモデルは、コーディングや長期的な推論能力を全面的にアップグレードし、従来よりも大幅にコストを削減しつつ高い性能を発揮します。企業はこの新しい能力を利用することで、AIエージェントをより効率的に運用できるようになり、競争力が向上する可能性があります。",
-    "link": "https://venturebeat.com/technology/anthropics-sonnet-4-6-matches-flagship-ai-performance-at-one-fifth-the-cost",
+    "title": "新しいエージェントフレームワークが人間設計のAIシステムと一致 — デプロイにゼロ推論コストを追加",
+    "title_en": "New agent framework matches human-engineered AI systems — and adds zero inference cost to deploy",
+    "summary": "AIエージェントの進化を目指す研究者たちは、グループ全体が共に進化する「グループ進化エージェント（GEA）」フレームワークを開発しました。このシステムは、エージェントが互いの経験を共有し、高い適応能力を持ちながら効率よく問題を解決することを可能にします。実験では、GEAが従来の自己進化フレームワークに対して大幅な性能向上を示し、企業でのAI活用における重要な進展をもたらしました。",
+    "summary_en": "AIエージェントの進化を目指す研究者たちは、グループ全体が共に進化する「グループ進化エージェント（GEA）」フレームワークを開発しました。このシステムは、エージェントが互いの経験を共有し合い、高い適応能力を持ち、効率よく問題を解決することを可能にします。実験では、GEAが従来の自己進化フレームワークに対して大幅な性能向上を示し、企業でのAI活用において重要な進展をもたらしました。",
+    "link": "https://venturebeat.com/orchestration/new-agent-framework-matches-human-engineered-ai-systems-and-adds-zero",
     "category": "AI",
-    "publishedAt": "2026-02-18 17:16"
+    "publishedAt": "2026-02-19 18:28"
   },
   {
     "source": "VentureBeat",
-    "title": "OpenAIによるOpenClawの買収がChatGPT時代の終焉の始まりを示唆",
-    "title_en": "OpenAI's acquisition of OpenClaw signals the beginning of the end of the ChatGPT era",
-    "summary": "OpenClawの創設者がOpenAIに参加し、同プロジェクトが独立した財団に移行することが発表されました。これにより、企業AIの中心が会話型インターフェースから自律エージェントへとシフトしていることが示されています。今後、OpenClawがOpenAIのプラットフォームの基盤となるかどうかは、その独自性が大企業の枠の中で維持できるかにかかっています。",
-    "summary_en": "OpenClawの創設者がOpenAIに参加し、同プロジェクトは独立した財団に移行することが発表されました。これにより、企業AIの中心が会話型インターフェースから自律エージェントへとシフトしていることが示されています。今後、OpenClawがOpenAIのプラットフォームの基盤となるかどうかは、その独自性が大企業の枠の中で維持できるかにかかっています。",
-    "link": "https://venturebeat.com/technology/openais-acquisition-of-openclaw-signals-the-beginning-of-the-end-of-the",
+    "title": "アリババのQwen 3.5 397B-A17が、より大きな兆パラメータモデルをコストのわずかな部分で上回る",
+    "title_en": "Alibaba's Qwen 3.5 397B-A17 beats its larger trillion-parameter model — at a fraction of the cost",
+    "summary": "アリババは新しいモデルQwen 3.5を発表し、3970億のパラメータを持つが、実際には170億に制限されたアクティブパラメータを提供する。このモデルは、高速な処理能力とマルチモーダルな機能を提供し、推論コストを60%削減しながら、いくつかの業務用AIベンチマークで強力な性能を発揮している。また、オープンソースとしてリリースされ、商業利用や改変が可能なライセンスで提供されている。",
+    "summary_en": "Alibabaは新しいモデルQwen3.5を発表し、3970億のパラメータを持つが、実際にアクティブなパラメータは170億に制限されている。このモデルは、高速な処理能力とマルチモーダルな機能を提供し、推論コストを60%削減しながら、複数の業務用AIベンチマークで強力な性能を示している。また、オープンソースとしてリリースされ、商業利用や改変が可能なライセンスの下で提供されている。",
+    "link": "https://venturebeat.com/technology/alibabas-qwen-3-5-397b-a17-beats-its-larger-trillion-parameter-model-at-a",
     "category": "AI",
-    "publishedAt": "2026-02-18 17:16"
+    "publishedAt": "2026-02-19 18:28"
   },
   {
     "source": "NHK",
-    "title": "政府 対米投資の第1弾発表 赤澤経産相 “双方にメリット”強調",
+    "title": "円相場 1円以上値下がり",
     "title_en": "",
-    "summary": "日米合意に基づき、日本からアメリカへの投資として3つのプロジェクトが選定されました。赤澤経済産業大臣は、これが日米の相互利益や経済安全保障の確保に寄与することを強調しました。双方にメリットがあるとの認識が示されています。",
+    "summary": "最近の東京外国為替市場では、アメリカの景気が堅調との見方からドル買い・円売りが進みました。これにより円相場は1円以上下落しました。市場の動向はアメリカ経済の影響を受けています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260218/k10015054891000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260219/k10015056291000.html",
     "category": "経済",
-    "publishedAt": "2026-02-18 17:16"
+    "publishedAt": "2026-02-19 18:28"
   },
   {
     "source": "BBC",
-    "title": "夢の中で叫ぶ：シリアのアラウィー派の女性たちが語る誘拐と強姦",
-    "title_en": "I would scream in my sleep: Women from Syria's Alawite minority tell of kidnap and rape",
-    "summary": "BBCは、元大統領アサド派を標的としたとされる暴力の痛ましい報告を伝えています。これらの攻撃は、宗派的な対立の中で発生している可能性があります。状況は非常に深刻であり、影響を受けた人々の苦しみが浮き彫りになっています。",
-    "summary_en": "BBCは、元大統領アサド派を標的としたと思われる暴力の痛ましい報告を伝えています。これらの攻撃は、宗派的な対立の中で発生している可能性があります。状況は非常に深刻であり、影響を受けた人々の苦しみが浮き彫りになっています。",
-    "link": "https://www.bbc.com/news/articles/cn5g751pl7lo?at_medium=RSS&at_campaign=rss",
+    "title": "ホワイトハウス、イランとの合意を促進し、軍事プレゼンスを強化",
+    "title_en": "White House presses Iran to make deal, while ramping up military presence",
+    "summary": "米国メディアの報道によると、トランプ氏がアドバイザーと攻撃オプションについて話し合ったという。早ければ今週末にも攻撃が実行される可能性がある。緊張が高まる中での動向が注目されている。",
+    "summary_en": "米国メディアの報道によると、トランプ氏がアドバイザーと攻撃オプションについて話し合ったという。早ければ今週末にも攻撃が実行される可能性がある。緊張が高まる中での動向が注目されている。",
+    "link": "https://www.bbc.com/news/articles/c204zpz0lyro?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-02-18 17:16"
+    "publishedAt": "2026-02-19 18:28"
   },
   {
     "source": "NHK",
-    "title": "花粉の飛散予測 平年の約1.3倍に 2月下旬から飛散エリア拡大か",
+    "title": "iPS細胞を使った2つの再生医療製品 製造販売を了承するか審議",
     "title_en": "",
-    "summary": "今年の花粉飛散量は平年の約1.3倍と予想されており、特に東日本と西日本で飛散エリアが急速に広がる可能性があります。これは昨年の猛暑の影響によるものです。気象会社は対策を講じるよう呼びかけています。",
+    "summary": "心臓病とパーキンソン病の治療に向けたiPS細胞を用いた再生医療製品について、厚生労働省の専門家部会で審議が行われています。製造販売の承認がどうなるかが注目されています。これにより、世界初の実用化が近づく可能性があります。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260217/k10015054011000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260219/k10015056071000.html",
     "category": "その他",
-    "publishedAt": "2026-02-18 17:17"
+    "publishedAt": "2026-02-19 18:28"
   }
 ]
