@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-02-19T03:15:35.205Z",
+  "updatedAt": "2026-02-19T07:15:30.080Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Eight skiers found dead after California avalanche",
-      "url": "https://www.bbc.com/news/articles/cvg19dp4vxgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Fifteen skiers went missing on Tuesday following a massive avalanche in California's Lake Tahoe region. One person remains missing but is presumed dead."
+      "title": "White House says Iran would be 'wise' to make deal, as US ramps up military presence",
+      "url": "https://www.bbc.com/news/articles/c204zpz0lyro?at_medium=RSS&at_campaign=rss",
+      "summary": "US media reports that Trump has discussed attack options with advisers, and a  strike could happen as early as Saturday."
     },
     {
       "source": "BBC World",
-      "title": "Do not give away Diego Garcia, Trump tells UK in fresh attack on Chagos deal",
-      "url": "https://www.bbc.com/news/articles/c309qqyer8yo?at_medium=RSS&at_campaign=rss",
-      "summary": "The president's comments come just a day after the US gave its official backing to the UK's Chagos deal."
+      "title": "Martial law, protests and a president tried for insurrection: How did South Korea get here?",
+      "url": "https://www.bbc.com/news/videos/c70kw0nrxreo?at_medium=RSS&at_campaign=rss",
+      "summary": "A court is due to deliver its verdict in the insurrection trial of Yoon Suk Yeol."
     },
     {
       "source": "BBC World",
@@ -40,6 +40,15 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "Mark Zuckerberg and his Ray-Ban entourage have their day in court",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/policy/881210/mark-zuckerberg-meta-ceo-testimony-filters",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "The RAM crunch could kill products and even entire companies, memory exec admits",
         "@_type": "html"
       },
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/tech/880594/dyson-pencilwash-wet-floor-cleaner-thin-battery-handle",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Meta is reportedly planning to launch a smartwatch this year",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/tech/881065/meta-smartwatch-plans-2026",
       "summary": "(要約準備中)"
     }
   ]
