@@ -1,67 +1,67 @@
 {
-  "updatedAt": "2026-02-18T19:15:11.766Z",
+  "updatedAt": "2026-02-19T03:15:35.205Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "'Difficult' Russia-Ukraine peace talks end without breakthrough",
-      "url": "https://www.bbc.com/news/articles/c0k1xj0d708o?at_medium=RSS&at_campaign=rss",
-      "summary": "The second day of negotiations between Ukraine and Russia ended after just two hours."
+      "title": "Eight skiers found dead after California avalanche",
+      "url": "https://www.bbc.com/news/articles/cvg19dp4vxgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Fifteen skiers went missing on Tuesday following a massive avalanche in California's Lake Tahoe region. One person remains missing but is presumed dead."
     },
     {
       "source": "BBC World",
-      "title": "Wave of arrests over killing of French nationalist piles pressure on far left",
-      "url": "https://www.bbc.com/news/articles/c62dzgy0q37o?at_medium=RSS&at_campaign=rss",
-      "summary": "Eleven people are in detention in connection with the killing of far-right student activist Quentin Deranque."
+      "title": "Do not give away Diego Garcia, Trump tells UK in fresh attack on Chagos deal",
+      "url": "https://www.bbc.com/news/articles/c309qqyer8yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The president's comments come just a day after the US gave its official backing to the UK's Chagos deal."
     },
     {
       "source": "BBC World",
-      "title": "Iran security official appears to fire on crowd at cemetery",
-      "url": "https://www.bbc.com/news/articles/cly8q62qe71o?at_medium=RSS&at_campaign=rss",
-      "summary": "It happened as people gathered to commemorate those killed during the government’s brutal crackdown on protesters"
+      "title": "Hamas is reasserting control in Gaza despite its heavy losses fighting Israel",
+      "url": "https://www.bbc.com/news/articles/c98g1klxnpxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Gazans say Hamas is again extending its control over security, tax revenue and government services."
     },
     {
       "source": "BBC Technology",
-      "title": "Zuckerberg arrives to testify in social media addiction trial",
+      "title": "Tech firms will have 48 hours to remove abusive images under new law",
+      "url": "https://www.bbc.com/news/articles/cz6ed1549yvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The government is proposing that intimate image abuse should be treated more severely."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Zuckerberg defends Meta in landmark social media addiction trial",
       "url": "https://www.bbc.com/news/articles/c5y42znjnjvo?at_medium=RSS&at_campaign=rss",
-      "summary": "The billionaire Meta chief executive faces questioning over whether use of Instagram harms children. \n"
+      "summary": "The billionaire boss said he \"always\" regretted not making faster progress to identify users under 13."
     },
     {
       "source": "BBC Technology",
-      "title": "Call of Duty advert banned for trivialising sexual violence",
-      "url": "https://www.bbc.com/news/articles/czd831elpz5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Activision Blizzard UK Ltd said the ad for Call of Duty: Black Ops 7 was targeted at adults."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "'I do not trust them' - top streamers left concerned by Discord age checks",
-      "url": "https://www.bbc.com/news/articles/cn4g8ynpwl8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The platform's plan to roll out global age checks has caused concern in streaming communities."
+      "title": "Etsy sells second-hand fashion app Depop to eBay for $1.2bn",
+      "url": "https://www.bbc.com/news/articles/cx240kme2k8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The \"pre-loved\" fashion firm has been sold by Etsy just five years after it bought the firm."
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Microsoft is bringing a built-in network speed test to Windows 11",
+        "#text": "The RAM crunch could kill products and even entire companies, memory exec admits",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/880756/windows-11-speed-test-build-in-update-preview",
+      "url": "https://www.theverge.com/tech/881062/ram-shortage-kill-products-companies-phison-ceo-interview",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Ken Watanabe didn’t think a kabuki movie would work",
+        "#text": "Dyson turned its skinny PencilVac into a lightweight wet floor cleaner",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/report/880620/ken-watanabe-interview-kokuho",
+      "url": "https://www.theverge.com/tech/880594/dyson-pencilwash-wet-floor-cleaner-thin-battery-handle",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Acer’s Chromebook Plus Spin 514 is $200 off, marking a new low price",
+        "#text": "Meta is reportedly planning to launch a smartwatch this year",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/880744/acer-chromebook-plus-spin-514-google-pixelsnap-deal-sale",
+      "url": "https://www.theverge.com/tech/881065/meta-smartwatch-plans-2026",
       "summary": "(要約準備中)"
     }
   ]
