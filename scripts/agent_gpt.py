@@ -175,8 +175,8 @@ Summary:
         return parse_translation_response(content)
     except Exception as e:
         return {
-            "en_title": "",
-            "en_summary": "",
+            "translated_title_ja": "",
+            "translated_summary_ja": "",
             "error": str(e)
         }
 
@@ -310,8 +310,8 @@ def main():
                 print(f"🌐 [{info['source']}] 日本語翻訳中...")
                 translation = translate_to_japanese(title_en, summary_en)
                 if translation["error"] == "":
-                    title_ja = translation["en_title"] or title
-                    summary_ja = translation["en_summary"] or summary
+                    title_ja = translation["translated_title_ja"] or title
+                    summary_ja = translation["translated_summary_ja"] or summary
                 else:
                     title_ja = "翻訳に失敗しました"
                     summary_ja = "翻訳に失敗しました。原文は英語フィールドを参照してください。"
