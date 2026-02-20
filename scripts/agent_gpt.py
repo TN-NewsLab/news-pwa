@@ -313,7 +313,12 @@ def main():
                     title_ja = translation["en_title"] or title
                     summary_ja = translation["en_summary"] or summary
                 else:
-                    print("⚠️ 翻訳結果のJSONパースに失敗:", translation["error"])
+                    title_ja = "翻訳に失敗しました"
+                    summary_ja = "翻訳に失敗しました。原文は英語フィールドを参照してください。"
+                    print(
+                        f"⚠️ [{info['source']}] 翻訳処理に失敗しました。"
+                        f" title_en / summary_en を保持して処理を継続します: {translation['error']}"
+                    )
             
             # カテゴリ判定（title + description + summary で判定）
             category_final = classify_category(title, summary, category, description)
