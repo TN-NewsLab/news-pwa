@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-02-19T19:09:42.098Z",
+  "updatedAt": "2026-02-20T03:11:07.407Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Trump says world has 10 days to see if Iran deal reached",
+      "title": "Trump says world has 10 days to see if Iran agrees deal or 'bad things happen'",
       "url": "https://www.bbc.com/news/articles/c86yjnw4x49o?at_medium=RSS&at_campaign=rss",
       "summary": "The US is surging forces to the Middle East amid negotiations with the Islamic Republic over its nuclear programme."
     },
@@ -27,41 +27,41 @@
     },
     {
       "source": "BBC Technology",
+      "title": "Nasa boss says Boeing Starliner failure one of worst in its history",
+      "url": "https://www.bbc.com/news/articles/cm2x3nlxg9jo?at_medium=RSS&at_campaign=rss",
+      "summary": "The agency released a critical report that puts the Starliner incident at same mistake level assigned to the fatal Columbia and Challenger shuttle disasters."
+    },
+    {
+      "source": "BBC Technology",
       "title": "SpaceX rocket fireball linked to plume of polluting lithium",
       "url": "https://www.bbc.com/news/articles/cpd8z4eqlxno?at_medium=RSS&at_campaign=rss",
       "summary": "A SpaceX Falcon 9 crashed to Earth last year. Now scientists have measured the pollution it caused."
     },
     {
-      "source": "BBC Technology",
-      "title": "Tech firms will have 48 hours to remove abusive images under new law",
-      "url": "https://www.bbc.com/news/articles/cz6ed1549yvo?at_medium=RSS&at_campaign=rss",
-      "summary": "The government is proposing that intimate image abuse should be treated more severely."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Sony is closing the studio behind the Demon&#8217;s Souls and Shadow of the Colossus remakes",
+        "#text": "The executive that helped build Meta’s ad machine is trying to expose it",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/881578/sony-close-bluepoint-games-studio-remaster-remake-demons-souls-shadow-colossus-god-of-war",
+      "url": "https://www.theverge.com/policy/881706/meta-executive-brian-boland-testimony-social-media-addiction-trial",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The AI security nightmare is here and it looks suspiciously like lobster",
+        "#text": "The Pitt has a sharp take on AI",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/881574/cline-openclaw-prompt-injection-hack",
+      "url": "https://www.theverge.com/entertainment/881016/hbo-the-pitt-generative-ai-charting",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Baseus’ retractable, 6-in-1 travel adapter is on sale for its lowest price to date",
+        "#text": "A $10K+ bounty is waiting for anyone who can unplug Ring doorbells from Amazon&#8217;s cloud",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/881424/baseus-enercore-cg11-universal-travel-adapter-deal-sale",
+      "url": "https://www.theverge.com/tech/881678/ring-doorbell-bounty-amazon-servers-fulu",
       "summary": "(要約準備中)"
     }
   ]
