@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "新しいエージェントフレームワークが人間設計のAIシステムと一致 — デプロイにゼロ推論コストを追加",
-    "title_en": "New agent framework matches human-engineered AI systems — and adds zero inference cost to deploy",
-    "summary": "AIエージェントの進化を目指す研究者たちは、グループ全体が共に進化する「グループ進化エージェント（GEA）」フレームワークを開発しました。このシステムは、エージェントが互いの経験を共有し、高い適応能力を持ちながら効率よく問題を解決することを可能にします。実験では、GEAが従来の自己進化フレームワークに対して大幅な性能向上を示し、企業でのAI活用における重要な進展をもたらしました。",
-    "summary_en": "AIエージェントの進化を目指す研究者たちは、グループ全体が共に進化する「グループ進化エージェント（GEA）」フレームワークを開発しました。このシステムは、エージェントが互いの経験を共有し合い、高い適応能力を持ち、効率よく問題を解決することを可能にします。実験では、GEAが従来の自己進化フレームワークに対して大幅な性能向上を示し、企業でのAI活用において重要な進展をもたらしました。",
-    "link": "https://venturebeat.com/orchestration/new-agent-framework-matches-human-engineered-ai-systems-and-adds-zero",
+    "title": "Google Gemini 3.1 Proの第一印象：要求に応じて調整可能な思考を持つ「Deep Think Mini」",
+    "title_en": "Google Gemini 3.1 Pro first impressions: a 'Deep Think Mini' with adjustable reasoning on demand",
+    "summary": "最近、GoogleがGemini 3.1 Proを発表し、思考レベルを三つに調整できる新機能を導入しました。これにより、開発者はタスクに応じてモデルの応答時間や深さを調整でき、効率的な運用が可能になります。新モデルは既存の競合と比較しても高い性能を示しており、企業向けのAI戦略に影響を与える可能性があります。",
+    "summary_en": "最近、GoogleがGemini 3.1 Proを発表し、思考レベルを三つに調整できる新機能を導入しました。これにより、開発者はタスクに応じてモデルの応答時間や深さを調整できるようになり、効率的な運用が可能になります。新モデルは既存の競合と比較しても高い性能を示しており、企業向けのAI戦略に影響を与える可能性があります。",
+    "link": "https://venturebeat.com/technology/google-gemini-3-1-pro-first-impressions-a-deep-think-mini-with-adjustable",
     "category": "AI",
-    "publishedAt": "2026-02-19 18:28"
+    "publishedAt": "2026-02-20 18:17"
   },
   {
     "source": "VentureBeat",
-    "title": "アリババのQwen 3.5 397B-A17が、より大きな兆パラメータモデルをコストのわずかな部分で上回る",
-    "title_en": "Alibaba's Qwen 3.5 397B-A17 beats its larger trillion-parameter model — at a fraction of the cost",
-    "summary": "アリババは新しいモデルQwen 3.5を発表し、3970億のパラメータを持つが、実際には170億に制限されたアクティブパラメータを提供する。このモデルは、高速な処理能力とマルチモーダルな機能を提供し、推論コストを60%削減しながら、いくつかの業務用AIベンチマークで強力な性能を発揮している。また、オープンソースとしてリリースされ、商業利用や改変が可能なライセンスで提供されている。",
-    "summary_en": "Alibabaは新しいモデルQwen3.5を発表し、3970億のパラメータを持つが、実際にアクティブなパラメータは170億に制限されている。このモデルは、高速な処理能力とマルチモーダルな機能を提供し、推論コストを60%削減しながら、複数の業務用AIベンチマークで強力な性能を示している。また、オープンソースとしてリリースされ、商業利用や改変が可能なライセンスの下で提供されている。",
-    "link": "https://venturebeat.com/technology/alibabas-qwen-3-5-397b-a17-beats-its-larger-trillion-parameter-model-at-a",
+    "title": "Google、Gemini 3.1 Proを発表し、2倍以上の推論性能向上でAIの頂点に返り咲く",
+    "title_en": "Google launches Gemini 3.1 Pro, retaking AI crown with 2X+ reasoning performance boost",
+    "summary": "最近、Googleは最も強力なAIモデルであるGemini 3.1 Proを発表し、革新的なロジックの評価基準で大きな成績向上を達成しました。このモデルは、科学やエンジニアリングのワークフローに対応した高度な計画や合成を可能にし、企業向けのアプリケーションでも注目されています。価格面では、パフォーマンスの向上が維持されており、開発者にとってコストパフォーマンスが良好な選択肢となっています。",
+    "summary_en": "最近、Googleは最も強力なAIモデルであるGemini 3.1 Proを発表し、革新的なロジックの評価基準で大きな成績向上を達成しました。このモデルは、科学やエンジニアリングのワークフローに対応した高度な計画や合成を可能にし、企業向けのアプリケーションでも注目されています。価格面では、パフォーマンスの向上が維持されており、開発者にとってコストパフォーマンスが良好な選択肢となっています。",
+    "link": "https://venturebeat.com/technology/google-launches-gemini-3-1-pro-retaking-ai-crown-with-2x-reasoning",
     "category": "AI",
-    "publishedAt": "2026-02-19 18:28"
+    "publishedAt": "2026-02-20 18:17"
   },
   {
     "source": "NHK",
-    "title": "円相場 1円以上値下がり",
+    "title": "スーパーのコメ平均価格 5キロ4122円 3週ぶり値下がり",
     "title_en": "",
-    "summary": "最近の東京外国為替市場では、アメリカの景気が堅調との見方からドル買い・円売りが進みました。これにより円相場は1円以上下落しました。市場の動向はアメリカ経済の影響を受けています。",
+    "summary": "農林水産省の発表によると、スーパーでのコメの平均価格が最近、5キロ当たり4122円となり、前の週から82円下がりました。これは3週間ぶりの値下がりです。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260219/k10015056291000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260220/k10015057341000.html",
     "category": "経済",
-    "publishedAt": "2026-02-19 18:28"
+    "publishedAt": "2026-02-20 18:17"
   },
   {
     "source": "BBC",
-    "title": "ホワイトハウス、イランとの合意を促進し、軍事プレゼンスを強化",
-    "title_en": "White House presses Iran to make deal, while ramping up military presence",
-    "summary": "米国メディアの報道によると、トランプ氏がアドバイザーと攻撃オプションについて話し合ったという。早ければ今週末にも攻撃が実行される可能性がある。緊張が高まる中での動向が注目されている。",
-    "summary_en": "米国メディアの報道によると、トランプ氏がアドバイザーと攻撃オプションについて話し合ったという。早ければ今週末にも攻撃が実行される可能性がある。緊張が高まる中での動向が注目されている。",
-    "link": "https://www.bbc.com/news/articles/c204zpz0lyro?at_medium=RSS&at_campaign=rss",
+    "title": "トランプ氏、イランが合意に応じるかどうか世界に10日間があると発言、そうでなければ『悪いことが起きる』",
+    "title_en": "Trump says world has 10 days to see if Iran agrees deal or 'bad things happen'",
+    "summary": "アメリカは、中東に部隊を増派しています。これは、イスラム共和国との核プログラムに関する交渉が行われているためです。緊張が高まる中での動きとして注目されています。",
+    "summary_en": "アメリカは、中東に部隊を増派しています。これは、イスラム共和国との核プログラムに関する交渉が行われているためです。緊張が高まる中での動きとして注目されています。",
+    "link": "https://www.bbc.com/news/articles/c86yjnw4x49o?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-02-19 18:28"
+    "publishedAt": "2026-02-20 18:17"
   },
   {
     "source": "NHK",
-    "title": "iPS細胞を使った2つの再生医療製品 製造販売を了承するか審議",
+    "title": "再生医療でクリニック側に改善命令 届け出の計画と異なる処置",
     "title_en": "",
-    "summary": "心臓病とパーキンソン病の治療に向けたiPS細胞を用いた再生医療製品について、厚生労働省の専門家部会で審議が行われています。製造販売の承認がどうなるかが注目されています。これにより、世界初の実用化が近づく可能性があります。",
+    "summary": "東京のクリニックが、再生医療において国に届け出た計画とは異なるがん治療を実施していたとして、厚生労働省が改善命令を出しました。また、このクリニックでの再生医療による健康被害の報告はまだないため、さらなる調査が行われています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260219/k10015056071000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260220/k10015056991000.html",
     "category": "その他",
-    "publishedAt": "2026-02-19 18:28"
+    "publishedAt": "2026-02-20 18:17"
   }
 ]
