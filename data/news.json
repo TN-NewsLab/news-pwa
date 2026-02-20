@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-20T03:11:07.407Z",
+  "updatedAt": "2026-02-20T07:14:49.066Z",
   "top": [
     {
       "source": "BBC World",
@@ -15,9 +15,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Trump's Board of Peace members pledge $7bn in Gaza relief",
-      "url": "https://www.bbc.com/news/articles/cp8rke05kv4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump said it \"looks like\" Hamas will disarm, even though there are signs the group is regrouping."
+      "title": "Grey's Anatomy star Eric Dane dies at 53 after ALS diagnosis",
+      "url": "https://www.bbc.com/news/articles/c78j01n775ko?at_medium=RSS&at_campaign=rss",
+      "summary": "The actor, who also starred in HBO's Euphoria, battled the most common form of motor neurone disease. "
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Starmer 'appeasing' big tech firms, says online safety campaigner",
+      "url": "https://www.bbc.com/news/articles/cdr2gm4y4ygo?at_medium=RSS&at_campaign=rss",
+      "summary": "Baroness Kidron tells the BBC the PM has being \"late to the party\" in regulating social media."
     },
     {
       "source": "BBC Technology",
@@ -30,12 +36,6 @@
       "title": "Nasa boss says Boeing Starliner failure one of worst in its history",
       "url": "https://www.bbc.com/news/articles/cm2x3nlxg9jo?at_medium=RSS&at_campaign=rss",
       "summary": "The agency released a critical report that puts the Starliner incident at same mistake level assigned to the fatal Columbia and Challenger shuttle disasters."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "SpaceX rocket fireball linked to plume of polluting lithium",
-      "url": "https://www.bbc.com/news/articles/cpd8z4eqlxno?at_medium=RSS&at_campaign=rss",
-      "summary": "A SpaceX Falcon 9 crashed to Earth last year. Now scientists have measured the pollution it caused."
     },
     {
       "source": "The Verge",
