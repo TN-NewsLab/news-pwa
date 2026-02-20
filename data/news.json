@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-20T07:14:49.066Z",
+  "updatedAt": "2026-02-20T13:33:24.561Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,21 +9,21 @@
     },
     {
       "source": "BBC World",
-      "title": "Sudan atrocities are 'hallmarks of genocide', UN says",
-      "url": "https://www.bbc.com/news/articles/cpqw74d81jqo?at_medium=RSS&at_campaign=rss",
-      "summary": "A UN fact-finding mission issued the report after investigating the capture of el-Fasher by the Rapid Support Forces."
+      "title": "Austrian climber found guilty after girlfriend froze to death on mountain",
+      "url": "https://www.bbc.com/news/articles/c0k1xkllknmo?at_medium=RSS&at_campaign=rss",
+      "summary": "The woman died of hypothermia during a climbing trip on the Grossglockner mountain in January 2025."
     },
     {
       "source": "BBC World",
-      "title": "Grey's Anatomy star Eric Dane dies at 53 after ALS diagnosis",
-      "url": "https://www.bbc.com/news/articles/c78j01n775ko?at_medium=RSS&at_campaign=rss",
-      "summary": "The actor, who also starred in HBO's Euphoria, battled the most common form of motor neurone disease. "
+      "title": "Venezuelan opposition politician released after amnesty law passed",
+      "url": "https://www.bbc.com/news/articles/cy57en3590no?at_medium=RSS&at_campaign=rss",
+      "summary": "Juan Pablo Guanipa announces that he has been freed after \"almost nine months\" of imprisonment."
     },
     {
       "source": "BBC Technology",
-      "title": "Starmer 'appeasing' big tech firms, says online safety campaigner",
-      "url": "https://www.bbc.com/news/articles/cdr2gm4y4ygo?at_medium=RSS&at_campaign=rss",
-      "summary": "Baroness Kidron tells the BBC the PM has being \"late to the party\" in regulating social media."
+      "title": "Urgent research needed to tackle AI threats, says Google AI boss",
+      "url": "https://www.bbc.com/news/articles/c0q3g0ln274o?at_medium=RSS&at_campaign=rss",
+      "summary": "But the head of the US delegation at the AI Impact Summit in Delhi says: \"We totally reject global governance of AI.\""
     },
     {
       "source": "BBC Technology",
@@ -33,35 +33,35 @@
     },
     {
       "source": "BBC Technology",
-      "title": "Nasa boss says Boeing Starliner failure one of worst in its history",
-      "url": "https://www.bbc.com/news/articles/cm2x3nlxg9jo?at_medium=RSS&at_campaign=rss",
-      "summary": "The agency released a critical report that puts the Starliner incident at same mistake level assigned to the fatal Columbia and Challenger shuttle disasters."
+      "title": "Asos co-founder dies after Thailand apartment block fall",
+      "url": "https://www.bbc.com/news/articles/ce8w0n061ryo?at_medium=RSS&at_campaign=rss",
+      "summary": "Quentin Griffiths co-founded Asos in 2000 and remained a significant shareholder after leaving the firm five years later."
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The executive that helped build Meta’s ad machine is trying to expose it",
+        "#text": "Meta will ruin its smart glasses by being Meta",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/881706/meta-executive-brian-boland-testimony-social-media-addiction-trial",
+      "url": "https://www.theverge.com/column/881744/meta-smart-glasses-facial-recognition-rayban-privacy-wearables",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The Pitt has a sharp take on AI",
+        "#text": "Tesla&#8217;s cheaper $60,000 Cybertruck is still a Cybertruck",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/881016/hbo-the-pitt-generative-ai-charting",
+      "url": "https://www.theverge.com/transportation/881873/tesla-cybertruck-awd-price-cut",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "A $10K+ bounty is waiting for anyone who can unplug Ring doorbells from Amazon&#8217;s cloud",
+        "#text": "Will Stancil, man of the people or just an annoying guy?",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/881678/ring-doorbell-bounty-amazon-servers-fulu",
+      "url": "https://www.theverge.com/policy/881024/will-stancil-minneapolis-ice-commuting-profile",
       "summary": "(要約準備中)"
     }
   ]
