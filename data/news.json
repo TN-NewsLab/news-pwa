@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-02-20T19:06:05.641Z",
+  "updatedAt": "2026-02-21T02:48:07.507Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Tariffs ruling is major blow to Trump's second-term agenda",
-      "url": "https://www.bbc.com/news/articles/cx2jqgdn719o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Supreme Court has weakened Trump's hand in dealing with other nations, writes Anthony Zurcher."
+      "title": "Trump brings in new 10% tariff as Supreme Court rejects his global import taxes",
+      "url": "https://www.bbc.com/news/articles/cn8146l0n55o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Supreme Court decision striking down some of Trump's most sweeping tariffs injects new uncertainty into global trade."
     },
     {
       "source": "BBC World",
-      "title": "Nasa targets early March to send humans back around the Moon ",
-      "url": "https://www.bbc.com/news/articles/c86y1g6wde3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Nasa sets the launch date following a successful \"wet dress rehearsal\" of the Artemis II mission."
+      "title": "Trump lashes out at Supreme Court justices over tariffs ruling ",
+      "url": "https://www.bbc.com/news/articles/cd9g0e7zd8wo?at_medium=RSS&at_campaign=rss",
+      "summary": "The six justices who voted against the tariffs, dealing a major blow to his signature economic policy, should be \"absolutely ashamed\", Trump said. "
     },
     {
       "source": "BBC World",
-      "title": "Austrian climber found guilty after girlfriend froze to death on mountain",
-      "url": "https://www.bbc.com/news/articles/c0k1xkllknmo?at_medium=RSS&at_campaign=rss",
-      "summary": "The woman died of hypothermia during a climbing trip on the Grossglockner mountain in January 2025."
+      "title": "Trump says he is considering limited military strike on Iran",
+      "url": "https://www.bbc.com/news/articles/cdxzk4gvzp0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump's new threat came a day after he appeared to give Iran about 10 days to agree to a deal to curb its nuclear programme."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Trump Mobile is just Liberty Mobile in gold foil",
+        "#text": "The best e-reader to buy right now",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/882064/trump-mobile-liberty-mobile-wireless-mvno",
+      "url": "https://www.theverge.com/23769068/best-ebook-readers",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Everything is gambling now: the latest news on prediction markets like Polymarket and Kalshi",
+        "#text": "Xbox shakeup: Phil Spencer and Sarah Bond are leaving Microsoft",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/868238/prediction-markets-polymarket-kalshi-robinhood",
+      "url": "https://www.theverge.com/games/882363/xbox-microsoft-phil-spencer-out",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Smart glasses in court are a privacy nightmare",
+        "#text": "Microsoft says today’s Xbox shake-up doesn’t mean game studio layoffs",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/882030/smart-glasses-in-court-meta-mark-zuckerberg",
+      "url": "https://www.theverge.com/games/882377/microsoft-says-todays-xbox-shakeup-doesnt-mean-game-studio-layoffs",
       "summary": "(要約準備中)"
     }
   ]
