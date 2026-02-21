@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-21T07:01:29.495Z",
+  "updatedAt": "2026-02-21T13:11:21.986Z",
   "top": [
     {
       "source": "BBC World",
@@ -15,9 +15,21 @@
     },
     {
       "source": "BBC World",
-      "title": "Trump says he is considering limited military strike on Iran",
-      "url": "https://www.bbc.com/news/articles/cdxzk4gvzp0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump's new threat came a day after he appeared to give Iran about 10 days to agree to a deal to curb its nuclear programme."
+      "title": "Killing of nationalist student leaves French far left in deep trouble as elections loom",
+      "url": "https://www.bbc.com/news/articles/cnv61zv534eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Far-left militants are suspected of being behind Quentin Deranque's death and the party of Jean-Luc Mélenchon is being widely condemned."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Why fake AI videos of UK urban decline are taking over social media",
+      "url": "https://www.bbc.com/news/articles/c4g8r23yv71o?at_medium=RSS&at_campaign=rss",
+      "summary": "Deepfakes showing grim taxpayer-funded waterparks have gone viral and drawn some racist responses."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Tumbler Ridge suspect's ChatGPT account banned before shooting",
+      "url": "https://www.bbc.com/news/articles/cn4gq352w89o?at_medium=RSS&at_campaign=rss",
+      "summary": "OpenAI said the account's activity did not meet the threshold to flag it to authorities when it was identified."
     },
     {
       "source": "BBC Technology",
@@ -26,16 +38,22 @@
       "summary": "But the head of the US delegation at the AI Impact Summit in Delhi says: \"We totally reject global governance of AI.\""
     },
     {
-      "source": "BBC Technology",
-      "title": "Microsoft error sees confidential emails exposed to AI tool Copilot",
-      "url": "https://www.bbc.com/news/articles/c8jxevd8mdyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The company says it has addressed the issue and it \"did not provide anyone access to information they weren't already authorised to see\"."
+      "source": "The Verge",
+      "title": {
+        "#text": "Stellantis is in a crisis of its own making",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/transportation/881987/stellantis-crisis-ev-loss-sales-regulations",
+      "summary": "(要約準備中)"
     },
     {
-      "source": "BBC Technology",
-      "title": "Asos co-founder dies after Thailand apartment block fall",
-      "url": "https://www.bbc.com/news/articles/ce8w0n061ryo?at_medium=RSS&at_campaign=rss",
-      "summary": "Quentin Griffiths co-founded Asos in 2000 and remained a significant shareholder after leaving the firm five years later."
+      "source": "The Verge",
+      "title": {
+        "#text": "Anker’s X1 Pro shouldn’t exist, but I’m so glad it does",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/tech/881788/soundcore-nebula-x1-pro-review-comparison-x1",
+      "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
@@ -44,24 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/23769068/best-ebook-readers",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Xbox shakeup: Phil Spencer and Sarah Bond are leaving Microsoft",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/games/882363/xbox-microsoft-phil-spencer-out",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Microsoft says today’s Xbox shake-up doesn’t mean game studio layoffs",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/games/882377/microsoft-says-todays-xbox-shakeup-doesnt-mean-game-studio-layoffs",
       "summary": "(要約準備中)"
     }
   ]
