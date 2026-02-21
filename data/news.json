@@ -1,12 +1,6 @@
 {
-  "updatedAt": "2026-02-21T13:11:21.986Z",
+  "updatedAt": "2026-02-21T18:53:43.901Z",
   "top": [
-    {
-      "source": "BBC World",
-      "title": "Trump brings in new 10% tariff as Supreme Court rejects his global import taxes",
-      "url": "https://www.bbc.com/news/articles/cn8146l0n55o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Supreme Court decision striking down some of Trump's most sweeping tariffs injects new uncertainty into global trade."
-    },
     {
       "source": "BBC World",
       "title": "Trump lashes out at Supreme Court justices over tariffs ruling ",
@@ -18,6 +12,12 @@
       "title": "Killing of nationalist student leaves French far left in deep trouble as elections loom",
       "url": "https://www.bbc.com/news/articles/cnv61zv534eo?at_medium=RSS&at_campaign=rss",
       "summary": "Far-left militants are suspected of being behind Quentin Deranque's death and the party of Jean-Luc Mélenchon is being widely condemned."
+    },
+    {
+      "source": "BBC World",
+      "title": "Nasa astronauts' moon mission likely to be delayed due to rocket issue",
+      "url": "https://www.bbc.com/news/articles/c626v265zqlo?at_medium=RSS&at_campaign=rss",
+      "summary": "The mission to the far side of the Moon and back will likely be postponed after problems with were spotted with its rocket, a Nasa official said. "
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Stellantis is in a crisis of its own making",
+        "#text": "Georgia says Elon Musk’s America PAC violated election law",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/transportation/881987/stellantis-crisis-ev-loss-sales-regulations",
+      "url": "https://www.theverge.com/tech/882838/georgia-elon-musk-america-pac-voter-fraud",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Anker’s X1 Pro shouldn’t exist, but I’m so glad it does",
+        "#text": "Suspect in Tumbler Ridge school shooting described violent scenarios to ChatGPT",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/881788/soundcore-nebula-x1-pro-review-comparison-x1",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/882814/tumbler-ridge-school-shooting-chatgpt",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The best e-reader to buy right now",
+        "#text": "The Pixel 10A and Soundcore Space One are just two of the best deals this week",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/23769068/best-ebook-readers",
+      "url": "https://www.theverge.com/gadgets/881998/google-pixel-10a-anker-351-power-strip-deal-sale",
       "summary": "(要約準備中)"
     }
   ]
