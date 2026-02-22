@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-02-22T13:12:48.810Z",
+  "updatedAt": "2026-02-22T18:54:15.434Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Iran students stage first large anti-government protests since deadly crackdown",
-      "url": "https://www.bbc.com/news/articles/c5yj2kzkrj0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The student protesters honoured thousands of those killed when nationwide mass protests were put down last month."
+      "title": "Armed man killed after entering secure perimeter of Trump's residence, Secret Service says",
+      "url": "https://www.bbc.com/news/articles/cp32l9w9pgyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The suspect was carrying a shotgun and fuel can when he was killed, officers said. Trump was in Washington DC at the time. "
     },
     {
       "source": "BBC World",
@@ -15,9 +15,15 @@
     },
     {
       "source": "BBC World",
-      "title": "US ambassador's Israel comments condemned by Arab and Muslim nations",
-      "url": "https://www.bbc.com/news/articles/cn5gkkgdzkyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Mike Huckabee suggested Israel would be justified in taking much of the Middle East on Biblical grounds."
+      "title": "Bones of St Francis of Assisi go on public display in Italy",
+      "url": "https://www.bbc.com/news/articles/cz7glr9dpy8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The remains of Italy's patron saint have only been seen in public once before - for one day in 1978."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Is £70 becoming harder to justify? The rise of cheaper blockbuster games",
+      "url": "https://www.bbc.com/news/articles/ckg1nwwv1xyo?at_medium=RSS&at_campaign=rss",
+      "summary": "As top games such as GTA 6 are speculated to cost $100 (£74), some developers are deliberately pricing lower."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "OpenAI said the account's activity did not meet the threshold to flag it to authorities when it was identified."
     },
     {
-      "source": "BBC Technology",
-      "title": "Urgent research needed to tackle AI threats, says Google AI boss",
-      "url": "https://www.bbc.com/news/articles/c0q3g0ln274o?at_medium=RSS&at_campaign=rss",
-      "summary": "But the head of the US delegation at the AI Impact Summit in Delhi says: \"We totally reject global governance of AI.\""
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Arturia’s FX Collection 6 adds two new effects and a $99 intro version",
+        "#text": "Trump says Netflix will ‘pay the consequences’ if it doesn’t fire Susan Rice",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/882852/arturia-fx-collection-6",
+      "url": "https://www.theverge.com/policy/882881/trump-netflix-consequences-fire-susan-rice",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Georgia says Elon Musk’s America PAC violated election law",
+        "#text": "This magazine plays Tetris — here’s how",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/882838/georgia-elon-musk-america-pac-voter-fraud",
+      "url": "https://www.theverge.com/tech/881175/red-bull-media-house-game-pop-bulletin-magazine-playable-tetris-flexible-display",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Suspect in Tumbler Ridge school shooting described violent scenarios to ChatGPT",
+        "#text": "America desperately needs new privacy laws",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/882814/tumbler-ridge-school-shooting-chatgpt",
+      "url": "https://www.theverge.com/column/882516/privacy-laws-america",
       "summary": "(要約準備中)"
     }
   ]
