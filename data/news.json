@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-02-21T18:53:43.901Z",
+  "updatedAt": "2026-02-22T03:16:23.723Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Trump lashes out at Supreme Court justices over tariffs ruling ",
-      "url": "https://www.bbc.com/news/articles/cd9g0e7zd8wo?at_medium=RSS&at_campaign=rss",
-      "summary": "The six justices who voted against the tariffs, dealing a major blow to his signature economic policy, should be \"absolutely ashamed\", Trump said. "
+      "title": "Iran students stage first large anti-government protests since deadly crackdown",
+      "url": "https://www.bbc.com/news/articles/c5yj2kzkrj0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The student protesters honoured thousands of those killed when nationwide mass protests were put down last month."
     },
     {
       "source": "BBC World",
@@ -15,9 +15,9 @@
     },
     {
       "source": "BBC World",
-      "title": "Nasa astronauts' moon mission likely to be delayed due to rocket issue",
+      "title": "Nasa astronauts' moon mission delayed due to rocket issue",
       "url": "https://www.bbc.com/news/articles/c626v265zqlo?at_medium=RSS&at_campaign=rss",
-      "summary": "The mission to the far side of the Moon and back will likely be postponed after problems with were spotted with its rocket, a Nasa official said. "
+      "summary": "The mission to the far side of the Moon and back will be postponed after problems with were spotted with its rocket, a Nasa official said. "
     },
     {
       "source": "BBC Technology",
@@ -40,6 +40,15 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "Arturia’s FX Collection 6 adds two new effects and a $99 intro version",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/tech/882852/arturia-fx-collection-6",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "Georgia says Elon Musk’s America PAC violated election law",
         "@_type": "html"
       },
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/ai-artificial-intelligence/882814/tumbler-ridge-school-shooting-chatgpt",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "The Pixel 10A and Soundcore Space One are just two of the best deals this week",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/gadgets/881998/google-pixel-10a-anker-351-power-strip-deal-sale",
       "summary": "(要約準備中)"
     }
   ]
