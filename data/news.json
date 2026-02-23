@@ -1,12 +1,6 @@
 {
-  "updatedAt": "2026-02-23T07:20:43.886Z",
+  "updatedAt": "2026-02-23T13:41:38.747Z",
   "top": [
-    {
-      "source": "BBC World",
-      "title": "Zelensky tells BBC Putin has started WW3 and must be stopped",
-      "url": "https://www.bbc.com/news/articles/cvgj9p15y87o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine's president sat down with the BBC's Jeremy Bowen in Kyiv days before the four-year anniversary of the war."
-    },
     {
       "source": "BBC World",
       "title": "Four years into its full-scale war in Ukraine, Russia is feeling the effects",
@@ -15,9 +9,21 @@
     },
     {
       "source": "BBC World",
-      "title": "Violence erupts in Mexico after drug lord El Mencho killed",
+      "title": "Zelensky tells BBC Putin has started WW3 and must be stopped",
+      "url": "https://www.bbc.com/news/articles/cvgj9p15y87o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine's president sat down with the BBC's Jeremy Bowen in Kyiv days before the four-year anniversary of the war."
+    },
+    {
+      "source": "BBC World",
+      "title": "Cartel henchmen unleash violence after top drug lord killed in Mexico",
       "url": "https://www.bbc.com/news/articles/c795qgejzpxo?at_medium=RSS&at_campaign=rss",
       "summary": "The death of the most-wanted Jalisco cartel chief sparks retaliatory violence in at least a dozen states in Mexico."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Porn company fined £1.35m by Ofcom over age check failings",
+      "url": "https://www.bbc.com/news/articles/c0mglnzprdyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ofcom's £1.35m fine on 8579 LLC is the largest it has levied under the Online Safety Act so far."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "Deepfakes showing grim taxpayer-funded waterparks have gone viral and drawn some racist responses."
     },
     {
-      "source": "BBC Technology",
-      "title": "Tumbler Ridge suspect's ChatGPT account banned before shooting",
-      "url": "https://www.bbc.com/news/articles/cn4gq352w89o?at_medium=RSS&at_campaign=rss",
-      "summary": "OpenAI said the account's activity did not meet the threshold to flag it to authorities when it was identified."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Samsung is adding Perplexity to Galaxy AI",
+        "#text": "Nothing couldn’t wait to show off the Phone 4A",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/882921/samsung-is-adding-perplexity-to-galaxy-ai",
+      "url": "https://www.theverge.com/gadgets/882983/nothing-phone-4a-official-design-glyph-bar",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "You need to listen to Laurie Spiegel’s masterpiece of early ambient music",
+        "#text": "Uber launches robotaxi support project to aid AV partners",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/882915/laurie-spiegel-the-expanding-universe-review-masterpiece-ambient-music",
+      "url": "https://www.theverge.com/transportation/882364/uber-autonomous-solutions-training-data-partners",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Trump says Netflix will ‘pay the consequences’ if it doesn’t fire Susan Rice",
+        "#text": "Taara Beam provides 25Gbps connectivity over invisible beams of light",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/882881/trump-netflix-consequences-fire-susan-rice",
+      "url": "https://www.theverge.com/tech/881882/taara-beam-provides-25gbps-connectivity-over-invisible-beams-of-light",
       "summary": "(要約準備中)"
     }
   ]
