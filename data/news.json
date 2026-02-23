@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-23T13:41:38.747Z",
+  "updatedAt": "2026-02-23T19:31:35.958Z",
   "top": [
     {
       "source": "BBC World",
@@ -21,6 +21,12 @@
     },
     {
       "source": "BBC Technology",
+      "title": "'The end of Xbox': fans split as AI exec takes over Microsoft's top gaming role",
+      "url": "https://www.bbc.com/news/articles/cq6q8l81d9qo?at_medium=RSS&at_campaign=rss",
+      "summary": "The executive shake-up has sparked online debate about new boss Asha Sharma's gaming credentials."
+    },
+    {
+      "source": "BBC Technology",
       "title": "Porn company fined £1.35m by Ofcom over age check failings",
       "url": "https://www.bbc.com/news/articles/c0mglnzprdyo?at_medium=RSS&at_campaign=rss",
       "summary": "Ofcom's £1.35m fine on 8579 LLC is the largest it has levied under the Online Safety Act so far."
@@ -32,36 +38,30 @@
       "summary": "As top games such as GTA 6 are speculated to cost $100 (£74), some developers are deliberately pricing lower."
     },
     {
-      "source": "BBC Technology",
-      "title": "Why fake AI videos of UK urban decline are taking over social media",
-      "url": "https://www.bbc.com/news/articles/c4g8r23yv71o?at_medium=RSS&at_campaign=rss",
-      "summary": "Deepfakes showing grim taxpayer-funded waterparks have gone viral and drawn some racist responses."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Nothing couldn’t wait to show off the Phone 4A",
+        "#text": "Apple’s newest AirTags are already on sale if you’re looking to upgrade",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/882983/nothing-phone-4a-official-design-glyph-bar",
+      "url": "https://www.theverge.com/gadgets/883101/apple-airtag-second-gen-location-bluetooth-tracker-costco-deal-sale",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Uber launches robotaxi support project to aid AV partners",
+        "#text": "The creators of Dark Sky have a new weather app that shares multiple predictions",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/transportation/882364/uber-autonomous-solutions-training-data-partners",
+      "url": "https://www.theverge.com/tech/883089/acme-weather-forecast-app-ios-dark-sky-creators-subscription",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Taara Beam provides 25Gbps connectivity over invisible beams of light",
+        "#text": "Discord distances itself from Persona age verification after user backlash",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/881882/taara-beam-provides-25gbps-connectivity-over-invisible-beams-of-light",
+      "url": "https://www.theverge.com/tech/878369/discord-persona-age-verification",
       "summary": "(要約準備中)"
     }
   ]
