@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-02-24T03:14:26.824Z",
+  "updatedAt": "2026-02-24T07:16:18.638Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Russian soldiers tell BBC they saw fellow troops executed on commanders' orders",
+      "url": "https://www.bbc.com/news/articles/cz7gw3l395ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Four men expose the horror and brutality of conditions in the Ukraine war, with two saying they saw soldiers being shot for refusing orders."
+    },
     {
       "source": "BBC World",
       "title": "Mexico sends thousands of soldiers to stop violence after death of drug lord",
@@ -12,12 +18,6 @@
       "title": "More than 5,000 flights cancelled as US east coast digs out of record snow",
       "url": "https://www.bbc.com/news/articles/cx289g1yw97o?at_medium=RSS&at_campaign=rss",
       "summary": "A major snowstorm walloped the US north-east, causing disruptions for millions and thousands of flight cancellations. "
-    },
-    {
-      "source": "BBC World",
-      "title": "US partially evacuates Beirut embassy amid rising Iran tensions",
-      "url": "https://www.bbc.com/news/articles/cj32l00k47lo?at_medium=RSS&at_campaign=rss",
-      "summary": "The State Department has ordered non-essential staff to leave the embassy in Beirut after a security review."
     },
     {
       "source": "BBC Technology",
