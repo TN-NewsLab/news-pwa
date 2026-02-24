@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-02-23T19:31:35.958Z",
+  "updatedAt": "2026-02-24T03:14:26.824Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Four years into its full-scale war in Ukraine, Russia is feeling the effects",
-      "url": "https://www.bbc.com/news/articles/c4gj20xzw39o?at_medium=RSS&at_campaign=rss",
-      "summary": "Steve Rosenberg reports on the economic consequences of Russia's war, and how people are coping."
+      "title": "Mexico sends thousands of soldiers to stop violence after death of drug lord",
+      "url": "https://www.bbc.com/news/articles/cx2lp7xwql4o?at_medium=RSS&at_campaign=rss",
+      "summary": "A wave of violence has erupted across Mexico since a powerful drug cartel boss died following his capture by special forces."
     },
     {
       "source": "BBC World",
-      "title": "Zelensky tells BBC Putin has started WW3 and must be stopped",
-      "url": "https://www.bbc.com/news/articles/cvgj9p15y87o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine's president sat down with the BBC's Jeremy Bowen in Kyiv days before the four-year anniversary of the war."
+      "title": "More than 5,000 flights cancelled as US east coast digs out of record snow",
+      "url": "https://www.bbc.com/news/articles/cx289g1yw97o?at_medium=RSS&at_campaign=rss",
+      "summary": "A major snowstorm walloped the US north-east, causing disruptions for millions and thousands of flight cancellations. "
     },
     {
       "source": "BBC World",
-      "title": "Cartel henchmen unleash violence after top drug lord killed in Mexico",
-      "url": "https://www.bbc.com/news/articles/c795qgejzpxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The death of the most-wanted Jalisco cartel chief sparks retaliatory violence in at least a dozen states in Mexico."
+      "title": "US partially evacuates Beirut embassy amid rising Iran tensions",
+      "url": "https://www.bbc.com/news/articles/cj32l00k47lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The State Department has ordered non-essential staff to leave the embassy in Beirut after a security review."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Apple’s newest AirTags are already on sale if you’re looking to upgrade",
+        "#text": "Will Trump’s DOJ actually take on Ticketmaster?",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/883101/apple-airtag-second-gen-location-bluetooth-tracker-costco-deal-sale",
+      "url": "https://www.theverge.com/policy/883155/doj-antitrust-division-gail-slater-live-nation-ticketmaster-trial",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The creators of Dark Sky have a new weather app that shares multiple predictions",
+        "#text": "Billions of dollars later and still nobody knows what an Xbox is",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/883089/acme-weather-forecast-app-ios-dark-sky-creators-subscription",
+      "url": "https://www.theverge.com/games/883159/phil-spencer-xbox-game-pass",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Discord distances itself from Persona age verification after user backlash",
+        "#text": "Anthropic accuses DeepSeek and other Chinese firms of using Claude to train their AI",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/878369/discord-persona-age-verification",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/883243/anthropic-claude-deepseek-china-ai-distillation",
       "summary": "(要約準備中)"
     }
   ]
