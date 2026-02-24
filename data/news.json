@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-24T13:43:47.174Z",
+  "updatedAt": "2026-02-24T19:18:31.795Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,15 +9,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Mexico sends thousands of soldiers to stop violence after death of drug lord",
-      "url": "https://www.bbc.com/news/articles/cx2lp7xwql4o?at_medium=RSS&at_campaign=rss",
-      "summary": "A wave of violence has erupted across Mexico since a powerful drug cartel boss died following his capture by special forces."
+      "title": "Ukraine remembers its dead as war enters a fifth year",
+      "url": "https://www.bbc.com/news/articles/clyg7r3nd3ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Events were held across Ukraine to mark four years since Russia launched its full-scale invasion."
     },
     {
       "source": "BBC World",
-      "title": "More than 5,000 flights cancelled as US east coast digs out of record snow",
-      "url": "https://www.bbc.com/news/articles/cx289g1yw97o?at_medium=RSS&at_campaign=rss",
-      "summary": "A major snowstorm dumps more than a foot of snow in several areas, bringing power cuts and disruption."
+      "title": "Mexico hunts 23 inmates sprung from jail during wave of violence ",
+      "url": "https://www.bbc.com/news/articles/c07jpx7kkvpo?at_medium=RSS&at_campaign=rss",
+      "summary": "The prisoners escaped from a jail in Puerto Vallarta after armed men rammed one of the gates. "
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "More Shohei Ohtani content is coming to TikTok",
+        "#text": "Discord is delaying its global age verification rollout",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/883266/tiktok-mlb-content-partnership-world-series-creators",
+      "url": "https://www.theverge.com/policy/883852/discord-age-verification-global-walkback-delay",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Apple will soon make (some) Mac Minis in the US",
+        "#text": "1Password is going up in price",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/883581/apple-mac-mini-production-texas-houston",
+      "url": "https://www.theverge.com/tech/883837/1password-price-increase",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Inside Anthropic’s existential negotiations with the Pentagon",
+        "#text": "Seedance 2.0 might be gen AI video’s next big hope, but it’s still slop",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/883456/anthropic-pentagon-department-of-defense-negotiations",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/883615/seedance-bytedance-tom-cruise-brad-pitt-jia-zhangke",
       "summary": "(要約準備中)"
     }
   ]
