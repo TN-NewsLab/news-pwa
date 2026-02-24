@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-24T07:16:18.638Z",
+  "updatedAt": "2026-02-24T13:43:47.174Z",
   "top": [
     {
       "source": "BBC World",
@@ -17,7 +17,13 @@
       "source": "BBC World",
       "title": "More than 5,000 flights cancelled as US east coast digs out of record snow",
       "url": "https://www.bbc.com/news/articles/cx289g1yw97o?at_medium=RSS&at_campaign=rss",
-      "summary": "A major snowstorm walloped the US north-east, causing disruptions for millions and thousands of flight cancellations. "
+      "summary": "A major snowstorm dumps more than a foot of snow in several areas, bringing power cuts and disruption."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Reddit fined £14m for 'concerning' child age check failings",
+      "url": "https://www.bbc.com/news/articles/cwyx0xggepjo?at_medium=RSS&at_campaign=rss",
+      "summary": "The UK's data watchdog said the failings meant children could be exposed to harmful material online."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "Ofcom's £1.35m fine on 8579 LLC is the largest it has levied under the Online Safety Act so far."
     },
     {
-      "source": "BBC Technology",
-      "title": "Is £70 becoming harder to justify? The rise of cheaper blockbuster games",
-      "url": "https://www.bbc.com/news/articles/ckg1nwwv1xyo?at_medium=RSS&at_campaign=rss",
-      "summary": "As top games such as GTA 6 are speculated to cost $100 (£74), some developers are deliberately pricing lower."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Will Trump’s DOJ actually take on Ticketmaster?",
+        "#text": "More Shohei Ohtani content is coming to TikTok",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/883155/doj-antitrust-division-gail-slater-live-nation-ticketmaster-trial",
+      "url": "https://www.theverge.com/tech/883266/tiktok-mlb-content-partnership-world-series-creators",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Billions of dollars later and still nobody knows what an Xbox is",
+        "#text": "Apple will soon make (some) Mac Minis in the US",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/883159/phil-spencer-xbox-game-pass",
+      "url": "https://www.theverge.com/tech/883581/apple-mac-mini-production-texas-houston",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Anthropic accuses DeepSeek and other Chinese firms of using Claude to train their AI",
+        "#text": "Inside Anthropic’s existential negotiations with the Pentagon",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/883243/anthropic-claude-deepseek-china-ai-distillation",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/883456/anthropic-pentagon-department-of-defense-negotiations",
       "summary": "(要約準備中)"
     }
   ]
