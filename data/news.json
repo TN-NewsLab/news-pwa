@@ -1,17 +1,11 @@
 {
-  "updatedAt": "2026-02-25T07:16:37.907Z",
+  "updatedAt": "2026-02-25T13:43:25.891Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Analysis: Trump issues patriotic rallying cry with eye on crucial elections",
+      "title": "Trump's theatrical State of the Union address offers little hint of any change in course",
       "url": "https://www.bbc.com/news/articles/cx2d7x6zrwro?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC's Anthony Zurcher says the US president appealed to his base and taunted his opponents in a marathon speech."
-    },
-    {
-      "source": "BBC World",
-      "title": "Ukraine remembers its dead as war enters a fifth year",
-      "url": "https://www.bbc.com/news/articles/clyg7r3nd3ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Events were held across Ukraine to mark four years since Russia launched its full-scale invasion."
     },
     {
       "source": "BBC World",
@@ -20,22 +14,37 @@
       "summary": "The remote Yonaguni island lies on the frontlines of self-governing Taiwan's growing tensions with China."
     },
     {
+      "source": "BBC World",
+      "title": "Chinese dance group's tour triggers bomb threat against Australian PM",
+      "url": "https://www.bbc.com/news/articles/ce3gj35q541o?at_medium=RSS&at_campaign=rss",
+      "summary": "The group was told to cancel its performances or explosives would be set off at Anthony Albanese's house."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Not even potholes will hold up self-driving cars, UK firm predicts",
+      "url": "https://www.bbc.com/news/articles/cx2drw12z51o?at_medium=RSS&at_campaign=rss",
+      "summary": "Wayve says it's confident all cars will one day be autonomous, as it announced more than a £1bn in additional investment."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Gucci criticised for 'AI slop' images ahead of major fashion show",
+      "url": "https://www.bbc.com/news/articles/cjwz6yzn5jqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Users of social media - where the marketing campaign has been launched - say it is out of keeping with Gucci's reputation for luxury."
+    },
+    {
       "source": "BBC Technology",
       "title": "Discord delays age verification plans after user outcry",
       "url": "https://www.bbc.com/news/articles/cvgv0yg4n9lo?at_medium=RSS&at_campaign=rss",
       "summary": "Users were unhappy about plans for age verification to require facial or ID scans."
     },
     {
-      "source": "BBC Technology",
-      "title": "US threatens Anthropic with deadline in dispute on AI safeguards",
-      "url": "https://www.bbc.com/news/articles/cjrq1vwe73po?at_medium=RSS&at_campaign=rss",
-      "summary": "The AI developer laid out red lines on military use of its products, a source said."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Shein's elusive boss hails Chinese roots in rare public appearance",
-      "url": "https://www.bbc.com/news/articles/c39wdgy3gmvo?at_medium=RSS&at_campaign=rss",
-      "summary": "His speech follows years of the firm focusing away from China as it moved its headquarters to Singapore."
+      "source": "The Verge",
+      "title": {
+        "#text": "Honor’s new MagicPad 4 is the world’s thinnest Android tablet",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/tech/883816/honor-magicpad-4-android-16-tablet-oled-ultra-thin",
+      "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/tech/884136/apple-age-verification-assurance-underage-app-downloads",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Apple’s touchscreen MacBooks might also have a Dynamic Island",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/tech/884089/apple-touchscreen-macbook-pro-dynamic-island",
       "summary": "(要約準備中)"
     }
   ]
