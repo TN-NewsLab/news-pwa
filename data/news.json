@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-25T13:43:25.891Z",
+  "updatedAt": "2026-02-25T19:19:51.915Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,15 +9,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Japan to deploy missiles on island near Taiwan by 2031",
-      "url": "https://www.bbc.com/news/articles/cd9gj1w2kn1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The remote Yonaguni island lies on the frontlines of self-governing Taiwan's growing tensions with China."
+      "title": "Threat of further violence looms after Mexican cartel rampage",
+      "url": "https://www.bbc.com/news/articles/cgml2djwwvno?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC speaks to Guadalajara residents days after cartel members sought to avenge the killing of Nemesio \"El Mencho\" Oseguera."
     },
     {
       "source": "BBC World",
-      "title": "Chinese dance group's tour triggers bomb threat against Australian PM",
-      "url": "https://www.bbc.com/news/articles/ce3gj35q541o?at_medium=RSS&at_campaign=rss",
-      "summary": "The group was told to cancel its performances or explosives would be set off at Anthony Albanese's house."
+      "title": "Bill Gates 'took responsibility' over Epstein ties in staff meeting, foundation says",
+      "url": "https://www.bbc.com/news/articles/cnv6rjp468ro?at_medium=RSS&at_campaign=rss",
+      "summary": "A newspaper reports Gates apologised to staff over his links to Epstein and said: \"I did nothing illicit. I saw nothing illicit.\""
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Honor’s new MagicPad 4 is the world’s thinnest Android tablet",
+        "#text": "Where to preorder all of Samsung’s new Galaxy S26 phones",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/883816/honor-magicpad-4-android-16-tablet-oled-ultra-thin",
+      "url": "https://www.theverge.com/gadgets/883829/samsung-galaxy-s26-plus-ultra-how-to-buy-preorder-price-release-date",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Pete Hegseth’s Pentagon AI bro squad includes a former Uber executive and a private equity billionaire",
+        "#text": "Kalshi says it fined a MrBeast editor and a politician for insider trading",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/884165/pentagon-anthropic-emil-michael-steve-feinberg",
+      "url": "https://www.theverge.com/policy/884570/kalshi-insider-trading-mrbeast-fines",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Apple&#8217;s new age verification tools block underage app downloads where required by law",
+        "#text": "Gemini is getting its first agentic capabilities",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/884136/apple-age-verification-assurance-underage-app-downloads",
+      "url": "https://www.theverge.com/tech/884210/google-gemini-samsung-s26-pixel-10-uber",
       "summary": "(要約準備中)"
     }
   ]
