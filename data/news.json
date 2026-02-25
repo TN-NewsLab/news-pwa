@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-24T19:18:31.795Z",
+  "updatedAt": "2026-02-25T03:15:31.865Z",
   "top": [
     {
       "source": "BBC World",
@@ -21,47 +21,47 @@
     },
     {
       "source": "BBC Technology",
-      "title": "Reddit fined £14m for 'concerning' child age check failings",
-      "url": "https://www.bbc.com/news/articles/cwyx0xggepjo?at_medium=RSS&at_campaign=rss",
-      "summary": "The UK's data watchdog said the failings meant children could be exposed to harmful material online."
+      "title": "Discord delays age verification plans after user outcry",
+      "url": "https://www.bbc.com/news/articles/cvgv0yg4n9lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Users were unhappy about plans for age verification to require facial or ID scans."
     },
     {
       "source": "BBC Technology",
-      "title": "'The end of Xbox': fans split as AI exec takes over Microsoft's top gaming role",
-      "url": "https://www.bbc.com/news/articles/cq6q8l81d9qo?at_medium=RSS&at_campaign=rss",
-      "summary": "The executive shake-up has sparked online debate about new boss Asha Sharma's gaming credentials."
+      "title": "US threatens Anthropic with deadline in dispute on AI safeguards",
+      "url": "https://www.bbc.com/news/articles/cjrq1vwe73po?at_medium=RSS&at_campaign=rss",
+      "summary": "The AI developer laid out red lines on military use of its products, a source said."
     },
     {
       "source": "BBC Technology",
-      "title": "Porn company fined £1.35m by Ofcom over age check failings",
-      "url": "https://www.bbc.com/news/articles/c0mglnzprdyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ofcom's £1.35m fine on 8579 LLC is the largest it has levied under the Online Safety Act so far."
+      "title": "Google apologises for Baftas alert to 'see more' on racial slur",
+      "url": "https://www.bbc.com/news/articles/c3v730qwwzwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Google said the news alert was an error that should not have happened."
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Discord is delaying its global age verification rollout",
+        "#text": "Pete Hegseth’s Pentagon AI bro squad includes a former Uber executive and a private equity billionaire",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/883852/discord-age-verification-global-walkback-delay",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/884165/pentagon-anthropic-emil-michael-steve-feinberg",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "1Password is going up in price",
+        "#text": "Apple&#8217;s new age verification tools block underage app downloads where required by law",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/883837/1password-price-increase",
+      "url": "https://www.theverge.com/tech/884136/apple-age-verification-assurance-underage-app-downloads",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Seedance 2.0 might be gen AI video’s next big hope, but it’s still slop",
+        "#text": "Apple’s touchscreen MacBooks might also have a Dynamic Island",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/883615/seedance-bytedance-tom-cruise-brad-pitt-jia-zhangke",
+      "url": "https://www.theverge.com/tech/884089/apple-touchscreen-macbook-pro-dynamic-island",
       "summary": "(要約準備中)"
     }
   ]
