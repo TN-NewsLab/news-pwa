@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-02-26T13:43:35.464Z",
+  "updatedAt": "2026-02-26T19:10:14.909Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "US justice department accused of withholding Trump-related Epstein files",
-      "url": "https://www.bbc.com/news/articles/ckg3elr1dwpo?at_medium=RSS&at_campaign=rss",
-      "summary": "The top Democrat on the congressional panel investigating Epstein has called on the attorney general to publish the material."
+      "title": "Danish PM calls snap election with Greenland issue centre-stage",
+      "url": "https://www.bbc.com/news/articles/ckg3e63jwj8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The issue of Greenland, which Donald Trump wants to annex, is likely to dominate the election campaign."
     },
     {
       "source": "BBC World",
@@ -15,15 +15,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Russia says it has handed over 1,000 Ukrainian soldiers' bodies",
-      "url": "https://www.bbc.com/news/articles/cg7ed4rp7x5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Russia's announcement comes as Ukraine's top negotiator was meeting US peace envoys in Geneva."
+      "title": "Four convicted over spyware scandal that shook Greece",
+      "url": "https://www.bbc.com/news/articles/cj6dx4886rpo?at_medium=RSS&at_campaign=rss",
+      "summary": "In what became known as \"Greece's Watergate\", surveillance software called Predator was used to target 87 people."
     },
     {
       "source": "BBC Technology",
       "title": "Instagram to alert parents if teens search for self-harm and suicide content",
       "url": "https://www.bbc.com/news/articles/c3v7z5eyewko?at_medium=RSS&at_campaign=rss",
-      "summary": "Meta says it will help parents support their children - but safety campaigners have accused them of \"passing the buck\"."
+      "summary": "Safety campaigners say Meta is \"passing the buck\" with its new feature for parents using Instagram's teen supervision tools."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Burger King will use AI to check if employees say ‘please’ and ‘thank you’",
+        "#text": "NATO says iPhones are secure enough to handle classified data",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/884911/burger-king-ai-assistant-patty",
+      "url": "https://www.theverge.com/tech/885516/nato-iphones-ipads-restricted-classified-information",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The smart lock standard that could replace your keys is finally here",
+        "#text": "Razer’s new laptop sleeve wirelessly charges other devices",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/885002/aliro-smart-lock-standard-launches-apple-google-samsung-promise-support",
+      "url": "https://www.theverge.com/tech/885381/razer-laptop-sleeve-16-inch-wireless-charger-qi-power",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Instagram will alert parents if their kids &#8216;repeatedly&#8217; search for self-harm topics",
+        "#text": "Cricut’s most popular cutting machine now takes up less space in your crafting room",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/885110/meta-instagram-parent-alert-teen-self-harm-suicide",
+      "url": "https://www.theverge.com/tech/883743/cricut-cutting-machine-explore-5-joy-2-drawing-writing-crafting",
       "summary": "(要約準備中)"
     }
   ]
