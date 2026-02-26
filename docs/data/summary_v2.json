@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "Google Gemini 3.1 Proの第一印象：要求に応じて調整可能な思考を持つ「Deep Think Mini」",
-    "title_en": "Google Gemini 3.1 Pro first impressions: a 'Deep Think Mini' with adjustable reasoning on demand",
-    "summary": "最近、GoogleがGemini 3.1 Proを発表し、思考レベルを三つに調整できる新機能を導入しました。これにより、開発者はタスクに応じてモデルの応答時間や深さを調整でき、効率的な運用が可能になります。新モデルは既存の競合と比較しても高い性能を示しており、企業向けのAI戦略に影響を与える可能性があります。",
-    "summary_en": "最近、GoogleがGemini 3.1 Proを発表し、思考レベルを三つに調整できる新機能を導入しました。これにより、開発者はタスクに応じてモデルの応答時間や深さを調整できるようになり、効率的な運用が可能になります。新モデルは既存の競合と比較しても高い性能を示しており、企業向けのAI戦略に影響を与える可能性があります。",
-    "link": "https://venturebeat.com/technology/google-gemini-3-1-pro-first-impressions-a-deep-think-mini-with-adjustable",
+    "title": "8億トークンの日々がAT&TにAIオーケストレーションの再考を促し、コストを90%削減",
+    "title_en": "8 billion tokens a day forced AT&T to rethink AI orchestration — and cut costs by 90%",
+    "summary": "AT&Tは、社内のパーソナルアシスタント「Ask AT&T」の構築にあたり、効率性を重視して多様な小型言語モデルを活用し、大型モデルを経由せずに運用する新たなオーケストレーション層を導入した。この新しいシステムにより、80万人以上の従業員がタスクを自動化し、90％のコスト削減と高い生産性向上を実現している。さらに、AIを活用したコーディング技術はソフトウェア開発のサイクルを短縮し、非技術者でもソフトウェアのプロトタイプを迅速に構築できるようにしている。",
+    "summary_en": "AT&Tは、社内のパーソナルアシスタント「Ask AT&T」の構築にあたり、効率性を重視して多様な小型言語モデルを活用し、大型モデルを経由せずに運用する新たなオーケストレーション層を導入した。この新しいシステムにより、800,000人以上の従業員がタスクを自動化し、90％のコスト削減と高い生産性向上を実現している。さらに、AIを活用したコーディング技術はソフトウェア開発のサイクルを短縮し、非技術者でもソフトウェアのプロトタイプを迅速に構築できるようにしている。",
+    "link": "https://venturebeat.com/orchestration/8-billion-tokens-a-day-forced-at-and-t-to-rethink-ai-orchestration-and-cut",
     "category": "AI",
-    "publishedAt": "2026-02-20 18:17"
+    "publishedAt": "2026-02-26 16:16"
   },
   {
     "source": "VentureBeat",
-    "title": "Google、Gemini 3.1 Proを発表し、2倍以上の推論性能向上でAIの頂点に返り咲く",
-    "title_en": "Google launches Gemini 3.1 Pro, retaking AI crown with 2X+ reasoning performance boost",
-    "summary": "最近、Googleは最も強力なAIモデルであるGemini 3.1 Proを発表し、革新的なロジックの評価基準で大きな成績向上を達成しました。このモデルは、科学やエンジニアリングのワークフローに対応した高度な計画や合成を可能にし、企業向けのアプリケーションでも注目されています。価格面では、パフォーマンスの向上が維持されており、開発者にとってコストパフォーマンスが良好な選択肢となっています。",
-    "summary_en": "最近、Googleは最も強力なAIモデルであるGemini 3.1 Proを発表し、革新的なロジックの評価基準で大きな成績向上を達成しました。このモデルは、科学やエンジニアリングのワークフローに対応した高度な計画や合成を可能にし、企業向けのアプリケーションでも注目されています。価格面では、パフォーマンスの向上が維持されており、開発者にとってコストパフォーマンスが良好な選択肢となっています。",
-    "link": "https://venturebeat.com/technology/google-launches-gemini-3-1-pro-retaking-ai-crown-with-2x-reasoning",
+    "title": "アリババの新しいオープンソースQwen3.5-Mediumモデルは、ローカルコンピュータ上でSonnet 4.5の性能を提供",
+    "title_en": "Alibaba's new open source Qwen3.5-Medium models offer Sonnet 4.5 performance on local computers",
+    "summary": "アリババが新たに発表したQwen3.5 Medium Modelシリーズは、エンタープライズや独立開発者向けに商用利用可能な4つの大規模言語モデルを提供し、オープンソースのライセンス下でダウンロード可能です。新モデルは高い性能を示し、特に、「Thinking Mode」を採用して内部の推論を行うことで複雑な論理処理を支援します。これにより、中小企業でも高度なAI技術を効率的に活用できるようになり、データセキュリティやプライバシーを維持しつつ内部での大規模なデータ処理が可能になります。",
+    "summary_en": "Alibabaが新たに発表したQwen3.5 Medium Modelシリーズは、エンタープライズや独立開発者向けに商用利用可能な4つの大規模言語モデルを提供し、オープンソースのライセンス下でダウンロード可能です。新モデルは高い性能を示し、特に、「Thinking Mode」を採用して内部の推論を行うことで複雑な論理処理を支援します。これにより、中小企業でも高度なAI技術を効率的に活用できるようになり、データセキュリティやプライバシーを維持しつつ内部での大規模なデータ処理が可能になります。",
+    "link": "https://venturebeat.com/technology/alibabas-new-open-source-qwen3-5-medium-models-offer-sonnet-4-5-performance",
     "category": "AI",
-    "publishedAt": "2026-02-20 18:17"
+    "publishedAt": "2026-02-26 16:16"
   },
   {
     "source": "NHK",
-    "title": "スーパーのコメ平均価格 5キロ4122円 3週ぶり値下がり",
+    "title": "株価 取り引き時間中 初の5万9000円台 終値も最高値更新",
     "title_en": "",
-    "summary": "農林水産省の発表によると、スーパーでのコメの平均価格が最近、5キロ当たり4122円となり、前の週から82円下がりました。これは3週間ぶりの値下がりです。",
+    "summary": "東京株式市場では、アメリカの株価上昇や日銀の利上げ見通しの影響で買い注文が増加しました。その結果、日経平均株価は取り引き時間中に最高値を更新し、初めて5万9000円台に達しました。さらに、終値においても最高値を記録しました。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260220/k10015057341000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260226/k10015060901000.html",
     "category": "経済",
-    "publishedAt": "2026-02-20 18:17"
+    "publishedAt": "2026-02-26 16:16"
   },
   {
     "source": "BBC",
-    "title": "トランプ氏、イランが合意に応じるかどうか世界に10日間があると発言、そうでなければ『悪いことが起きる』",
-    "title_en": "Trump says world has 10 days to see if Iran agrees deal or 'bad things happen'",
-    "summary": "アメリカは、中東に部隊を増派しています。これは、イスラム共和国との核プログラムに関する交渉が行われているためです。緊張が高まる中での動きとして注目されています。",
-    "summary_en": "アメリカは、中東に部隊を増派しています。これは、イスラム共和国との核プログラムに関する交渉が行われているためです。緊張が高まる中での動きとして注目されています。",
-    "link": "https://www.bbc.com/news/articles/c86yjnw4x49o?at_medium=RSS&at_campaign=rss",
+    "title": "制服姿での射殺：BBCが報じる、警察の命令がネパールでのZ世代抗議者の殺害につながった",
+    "title_en": "Shot in school uniform: BBC reveals police order led to Gen Z protest killings in Nepal",
+    "summary": "新たな証拠が明らかにし、昨年カトマンズで19人が射殺された事件の詳細が浮かび上がった。この事件は様々な背景と動機が関与している可能性がある。さらなる調査が行われ、真相解明が進められている。",
+    "summary_en": "新たな証拠が明らかにし、昨年カトマンズで19人が射殺された事件の詳細が浮かび上がった。この事件は様々な背景と動機が関与している可能性がある。さらなる調査が行われ、真相解明が進められている。",
+    "link": "https://www.bbc.com/news/articles/c4g5qx357dzo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-02-20 18:17"
+    "publishedAt": "2026-02-26 16:16"
   },
   {
     "source": "NHK",
-    "title": "再生医療でクリニック側に改善命令 届け出の計画と異なる処置",
+    "title": "H3ロケット8号機失敗 “衛星の土台に接着部剥がれる異常か”",
     "title_en": "",
-    "summary": "東京のクリニックが、再生医療において国に届け出た計画とは異なるがん治療を実施していたとして、厚生労働省が改善命令を出しました。また、このクリニックでの再生医療による健康被害の報告はまだないため、さらなる調査が行われています。",
+    "summary": "H3ロケット8号機の打ち上げ失敗について、JAXAが接着部の剥がれが原因の一つである可能性を示唆しました。これが失敗の直接的な要因になったかを調査する方針です。具体的な原因究明が進められています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260220/k10015056991000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260225/k10015060621000.html",
     "category": "その他",
-    "publishedAt": "2026-02-20 18:17"
+    "publishedAt": "2026-02-26 16:16"
   }
 ]
