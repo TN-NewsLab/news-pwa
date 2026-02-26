@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2026-02-25T19:19:51.915Z",
+  "updatedAt": "2026-02-26T03:10:47.934Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Trump's theatrical State of the Union address offers little hint of any change in course",
-      "url": "https://www.bbc.com/news/articles/cx2d7x6zrwro?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Anthony Zurcher says the US president appealed to his base and taunted his opponents in a marathon speech."
+      "title": "'Fear is everywhere': BBC reports from Mexican city turned into war zone by drug cartel feud",
+      "url": "https://www.bbc.com/news/articles/cx2g3vmde0eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Culiacán in northern Mexico has seen a surge in violence as rival factions of the Sinaloa cartel battle for control."
     },
     {
       "source": "BBC World",
-      "title": "Threat of further violence looms after Mexican cartel rampage",
-      "url": "https://www.bbc.com/news/articles/cgml2djwwvno?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC speaks to Guadalajara residents days after cartel members sought to avenge the killing of Nemesio \"El Mencho\" Oseguera."
+      "title": "Watch: BBC on streets of Mexican city gripped by deadly cartel violence",
+      "url": "https://www.bbc.com/news/videos/cqlgz0xk5zyo?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC international correspondent Quentin Sommerville travelled to Culiacán in northern Sinaloa state following an explosion in violence."
     },
     {
       "source": "BBC World",
-      "title": "Bill Gates 'took responsibility' over Epstein ties in staff meeting, foundation says",
-      "url": "https://www.bbc.com/news/articles/cnv6rjp468ro?at_medium=RSS&at_campaign=rss",
-      "summary": "A newspaper reports Gates apologised to staff over his links to Epstein and said: \"I did nothing illicit. I saw nothing illicit.\""
+      "title": "Trump keeps world waiting on his plans for Iran after State of the Union",
+      "url": "https://www.bbc.com/news/articles/cge821xwyz8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The next round of talks between the US and Iran in Geneva on Thursday could be decisive in the president's decision-making."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Chip giant Nvidia defies AI concerns with record $215bn revenue",
+      "url": "https://www.bbc.com/news/articles/c80jgd8yljko?at_medium=RSS&at_campaign=rss",
+      "summary": "Demand for Nvidia chips rose even as the company sets out to create AI products of its own."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "Users of social media - where the marketing campaign has been launched - say it is out of keeping with Gucci's reputation for luxury."
     },
     {
-      "source": "BBC Technology",
-      "title": "Discord delays age verification plans after user outcry",
-      "url": "https://www.bbc.com/news/articles/cvgv0yg4n9lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Users were unhappy about plans for age verification to require facial or ID scans."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Where to preorder all of Samsung’s new Galaxy S26 phones",
+        "#text": "New York sues Valve, alleging its loot boxes are ‘quintessential gambling’",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/883829/samsung-galaxy-s26-plus-ultra-how-to-buy-preorder-price-release-date",
+      "url": "https://www.theverge.com/games/884978/valve-lawsuit-loot-boxes-new-york-attorney-general-lawsuit",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Kalshi says it fined a MrBeast editor and a politician for insider trading",
+        "#text": "How the new Galaxy S26 phones stack up against each other on paper",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/884570/kalshi-insider-trading-mrbeast-fines",
+      "url": "https://www.theverge.com/gadgets/883733/samsung-galaxy-s26-vs-plus-ultra-specs-features-hardware-comparison",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Gemini is getting its first agentic capabilities",
+        "#text": "Corsair is halting Drop sales after March 25th",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/884210/google-gemini-samsung-s26-pixel-10-uber",
+      "url": "https://www.theverge.com/news/884824/corsair-ending-drop-shopping-site",
       "summary": "(要約準備中)"
     }
   ]
