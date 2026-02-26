@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2026-02-26T07:16:17.910Z",
+  "updatedAt": "2026-02-26T13:43:35.464Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Shot in school uniform: BBC reveals police order led to Gen Z protest killings in Nepal",
-      "url": "https://www.bbc.com/news/articles/c4g5qx357dzo?at_medium=RSS&at_campaign=rss",
-      "summary": "New evidence reveals what happened when 19 people were shot dead in  Kathmandu last September."
+      "title": "US justice department accused of withholding Trump-related Epstein files",
+      "url": "https://www.bbc.com/news/articles/ckg3elr1dwpo?at_medium=RSS&at_campaign=rss",
+      "summary": "The top Democrat on the congressional panel investigating Epstein has called on the attorney general to publish the material."
     },
     {
       "source": "BBC World",
-      "title": "'Fear is everywhere': BBC reports from Mexican city turned into war zone by drug cartel feud",
-      "url": "https://www.bbc.com/news/articles/cx2g3vmde0eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Culiacán in northern Mexico has seen a surge in violence as rival factions of the Sinaloa cartel battle for control."
+      "title": "US and Iran hold talks seen as crucial to prevent conflict",
+      "url": "https://www.bbc.com/news/articles/cvg1vd95nl9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The indirect negotiations in Geneva are seen as a last-ditch effort, but the chances of a nuclear agreement are unclear."
     },
     {
       "source": "BBC World",
-      "title": "Israeli soldiers shot a Palestinian boy and stood around as he bled to death, video shows",
-      "url": "https://www.bbc.com/news/articles/cpqwv9vvzx9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Israeli forces blocked Palestinian ambulances while a 14-year-old lay bleeding for at least 45 minutes."
+      "title": "Russia says it has handed over 1,000 Ukrainian soldiers' bodies",
+      "url": "https://www.bbc.com/news/articles/cg7ed4rp7x5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Russia's announcement comes as Ukraine's top negotiator was meeting US peace envoys in Geneva."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Instagram to alert parents if teens search for self-harm and suicide content",
+      "url": "https://www.bbc.com/news/articles/c3v7z5eyewko?at_medium=RSS&at_campaign=rss",
+      "summary": "Meta says it will help parents support their children - but safety campaigners have accused them of \"passing the buck\"."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "Wayve says it's confident all cars will one day be autonomous, as it announced more than a £1bn in additional investment."
     },
     {
-      "source": "BBC Technology",
-      "title": "Gucci criticised for 'AI slop' images ahead of major fashion show",
-      "url": "https://www.bbc.com/news/articles/cjwz6yzn5jqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Users of social media - where the marketing campaign has been launched - say it is out of keeping with Gucci's reputation for luxury."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "New York sues Valve, alleging its loot boxes are ‘quintessential gambling’",
+        "#text": "Burger King will use AI to check if employees say ‘please’ and ‘thank you’",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/884978/valve-lawsuit-loot-boxes-new-york-attorney-general-lawsuit",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/884911/burger-king-ai-assistant-patty",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "How the new Galaxy S26 phones stack up against each other on paper",
+        "#text": "The smart lock standard that could replace your keys is finally here",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/883733/samsung-galaxy-s26-vs-plus-ultra-specs-features-hardware-comparison",
+      "url": "https://www.theverge.com/tech/885002/aliro-smart-lock-standard-launches-apple-google-samsung-promise-support",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Corsair is halting Drop sales after March 25th",
+        "#text": "Instagram will alert parents if their kids &#8216;repeatedly&#8217; search for self-harm topics",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/884824/corsair-ending-drop-shopping-site",
+      "url": "https://www.theverge.com/tech/885110/meta-instagram-parent-alert-teen-self-harm-suicide",
       "summary": "(要約準備中)"
     }
   ]
