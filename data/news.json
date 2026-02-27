@@ -1,67 +1,67 @@
 {
-  "updatedAt": "2026-02-26T19:10:14.909Z",
+  "updatedAt": "2026-02-27T03:08:45.446Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Danish PM calls snap election with Greenland issue centre-stage",
-      "url": "https://www.bbc.com/news/articles/ckg3e63jwj8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The issue of Greenland, which Donald Trump wants to annex, is likely to dominate the election campaign."
+      "title": "American citizen among those killed in Cuba boat shooting, US official says",
+      "url": "https://www.bbc.com/news/articles/c80j3rlp904o?at_medium=RSS&at_campaign=rss",
+      "summary": "Cuba has accused those on board of planning \"an infiltration with terrorist aims” and firing first."
     },
     {
       "source": "BBC World",
-      "title": "US and Iran hold talks seen as crucial to prevent conflict",
+      "title": "US-Iran talks end after 'significant progress', mediator says",
       "url": "https://www.bbc.com/news/articles/cvg1vd95nl9o?at_medium=RSS&at_campaign=rss",
       "summary": "The indirect negotiations in Geneva are seen as a last-ditch effort, but the chances of a nuclear agreement are unclear."
     },
     {
       "source": "BBC World",
-      "title": "Four convicted over spyware scandal that shook Greece",
-      "url": "https://www.bbc.com/news/articles/cj6dx4886rpo?at_medium=RSS&at_campaign=rss",
-      "summary": "In what became known as \"Greece's Watergate\", surveillance software called Predator was used to target 87 people."
+      "title": "Pakistan strikes Afghan cities as cross-border attacks escalate",
+      "url": "https://www.bbc.com/news/articles/c0j5qx9n887o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Afghan Taliban said it had responded to the Pakistani strikes, which targeted Afghan cities including Kabul and Kandahar."
     },
     {
       "source": "BBC Technology",
-      "title": "Instagram to alert parents if teens search for self-harm and suicide content",
-      "url": "https://www.bbc.com/news/articles/c3v7z5eyewko?at_medium=RSS&at_campaign=rss",
-      "summary": "Safety campaigners say Meta is \"passing the buck\" with its new feature for parents using Instagram's teen supervision tools."
+      "title": "'I stopped engaging' due to Instagram, YouTube, woman tells landmark trial",
+      "url": "https://www.bbc.com/news/articles/c89kdpjn7eqo?at_medium=RSS&at_campaign=rss",
+      "summary": "The young woman, who accuses Meta and Google of making addictive social media platforms, has been speaking in court."
     },
     {
       "source": "BBC Technology",
-      "title": "Chip giant Nvidia defies AI concerns with record $215bn revenue",
-      "url": "https://www.bbc.com/news/articles/c80jgd8yljko?at_medium=RSS&at_campaign=rss",
-      "summary": "Demand for Nvidia chips rose even as the company sets out to create AI products of its own."
+      "title": "Anthropic boss rejects Pentagon demand to drop AI safeguards",
+      "url": "https://www.bbc.com/news/articles/cvg3vlzzkqeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Defense Secretary Pete Hegseth previously threatened to remove the firm from the department's supply chain."
     },
     {
       "source": "BBC Technology",
-      "title": "Not even potholes will hold up self-driving cars, UK firm predicts",
-      "url": "https://www.bbc.com/news/articles/cx2drw12z51o?at_medium=RSS&at_campaign=rss",
-      "summary": "Wayve says it's confident all cars will one day be autonomous, as it announced more than a £1bn in additional investment."
+      "title": "Burger King rolls out AI headsets that track employee 'friendliness'",
+      "url": "https://www.bbc.com/news/articles/cgk2zygg0k3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The fast-food chain is testing OpenAI-powered headsets that monitor staff interactions with customers."
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "NATO says iPhones are secure enough to handle classified data",
+        "#text": "Anthropic refuses Pentagon’s new terms, standing firm on lethal autonomous weapons and mass surveillance",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/885516/nato-iphones-ipads-restricted-classified-information",
+      "url": "https://www.theverge.com/news/885773/anthropic-department-of-defense-dod-pentagon-refusal-terms-hegseth-dario-amodei",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Razer’s new laptop sleeve wirelessly charges other devices",
+        "#text": "Netflix walks away from its deal to buy Warner Bros. after Paramount came back with a better offer",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/885381/razer-laptop-sleeve-16-inch-wireless-charger-qi-power",
+      "url": "https://www.theverge.com/streaming/885753/netflix-exit-warner-bros-discovery-deal-paramount",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Cricut’s most popular cutting machine now takes up less space in your crafting room",
+        "#text": "Microsoft&#8217;s Copilot Tasks AI uses its own computer to get things done",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/883743/cricut-cutting-machine-explore-5-joy-2-drawing-writing-crafting",
+      "url": "https://www.theverge.com/tech/885741/microsoft-copilot-tasks-ai",
       "summary": "(要約準備中)"
     }
   ]
