@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-02-27T13:32:14.552Z",
+  "updatedAt": "2026-02-27T19:02:53.700Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Tram derails in Milan, leaving one dead and dozens injured",
+      "url": "https://www.bbc.com/news/articles/c5y599degnqo?at_medium=RSS&at_campaign=rss",
+      "summary": "The crowded tram was travelling in the centre of Milan at rush hour when it appeared to crash into the side of a building."
+    },
     {
       "source": "BBC World",
       "title": "Pakistan defence minister says country in 'open war' with Afghanistan after strikes",
@@ -12,12 +18,6 @@
       "title": "What we know after latest escalation in Pakistan-Afghanistan tensions",
       "url": "https://www.bbc.com/news/articles/cj32zx48xvxo?at_medium=RSS&at_campaign=rss",
       "summary": "Bombings by Pakistan are the most significant development in tensions between the two neighbours - though the physical impact remains unclear."
-    },
-    {
-      "source": "BBC World",
-      "title": "Why Trump means the Cuban Revolution faces its biggest threat yet",
-      "url": "https://www.bbc.com/news/articles/c9q5wdeg4j8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Will a worsening internal crisis create the conditions for the Cuban Revolution to unravel from within?"
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Jeffrey Epstein saw promise in Bitcoin — and its far-right supporters",
+        "#text": "AI deepfakes are a train wreck and Samsung&#8217;s selling tickets",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/885252/jeffrey-epstein-bitcoin-cryptocurrency-connections",
+      "url": "https://www.theverge.com/tech/885727/samsung-execs-unpacked-ai-deepfake-photos-vs-reality-c2pa",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Ultrahuman’s new flagship smart ring has a 15-day battery",
+        "#text": "FedEx promises to refund customers for ‘illegal’ tariffs",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/885866/ultrahuman-ring-pro-jade-ai-launch-price-availability",
+      "url": "https://www.theverge.com/policy/886216/fedex-trump-tariff-refunds",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Notes from a Burmese Prison",
+        "#text": "Amazon’s Fire TV Stick 4K Plus gets a better interface and a 40 percent discount",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/cs/features/820915/notes-burmese-prison-comic",
+      "url": "https://www.theverge.com/gadgets/886153/amazon-fire-tv-stick-4k-plus-deal-sale",
       "summary": "(要約準備中)"
     }
   ]
