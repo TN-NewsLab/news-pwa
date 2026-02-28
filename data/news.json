@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-02-28T06:56:47.595Z",
+  "updatedAt": "2026-02-28T13:06:28.910Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Iran says it has hit US base in Bahrain, as it launches strikes across region",
+      "url": "https://www.bbc.com/news/articles/c204px4zddro?at_medium=RSS&at_campaign=rss",
+      "summary": "Huge plumes of black smoke were seen rising from an area near the headquarters of the US Navy's Fifth Fleet in Manama, Bahrain."
+    },
+    {
+      "source": "BBC World",
+      "title": "Bowen: A dangerous moment, but US and Israel see opportunity not to be missed",
+      "url": "https://www.bbc.com/news/articles/cn0z9012291o?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel and the US believe Iran's regime is vulnerable, dealing with an economic crisis and the aftermath of protests."
+    },
     {
       "source": "BBC World",
       "title": "Bill Clinton asked about hot tub photo and testifies he knew 'nothing' of Epstein crimes",
@@ -8,26 +20,14 @@
       "summary": "The former president told the committee that he would never have flown on Epstein's plane if he \"had any inkling of what he was doing\"."
     },
     {
-      "source": "BBC World",
-      "title": "Trump 'not thrilled' with Iran after latest talks on nuclear programme",
-      "url": "https://www.bbc.com/news/articles/c309vz0z893o?at_medium=RSS&at_campaign=rss",
-      "summary": "President Trump said he was not happy with Iran's stance, but had not yet decided whether to attack."
-    },
-    {
-      "source": "BBC World",
-      "title": "At least 15 killed after military plane carrying banknotes crashes in Bolivia",
-      "url": "https://www.bbc.com/news/articles/c0rjpxxpp49o?at_medium=RSS&at_campaign=rss",
-      "summary": "Police fire tear gas to disperse crowds allegedly trying to take banknotes from the crash site. "
-    },
-    {
       "source": "BBC Technology",
       "title": "Trump orders government to stop using Anthropic in battle over AI use",
       "url": "https://www.bbc.com/news/articles/cn48jj3y8ezo?at_medium=RSS&at_campaign=rss",
-      "summary": "The move announced on social media comes after a standoff between Anthropic's boss and the Ministry of Defense."
+      "summary": "The move announced on social media comes after a standoff between Anthropic's boss and the US Department of Defense."
     },
     {
       "source": "BBC Technology",
-      "title": "Resident Evil is back - can it redefine the survival horror genre once more?",
+      "title": "Resident Evil Requiem's director on redefining the survival horror genre",
       "url": "https://www.bbc.com/news/articles/cewzngve9reo?at_medium=RSS&at_campaign=rss",
       "summary": "Director Koshi Nakanishi says balancing action and horror within the game has been a huge challenge."
     },
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "A legendary weather app makes a comeback",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/tech/886462/acme-weather-samsung-s26-installer",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "Tenways nearly perfects the shareable city e-bike",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/reviews/885040/tenways-cgo-compact-review-sharable-adaptable",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "Defense secretary Pete Hegseth designates Anthropic a supply chain risk",
         "@_type": "html"
       },
       "url": "https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "The best instant cameras you can buy right now",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "NASA is pushing back its plans for a Moon landing",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/science/886656/nasa-artemis-moon-landing-delayed-2028",
       "summary": "(要約準備中)"
     }
   ]
