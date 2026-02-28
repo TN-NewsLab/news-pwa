@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-02-28T13:06:28.910Z",
+  "updatedAt": "2026-02-28T18:49:35.365Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Iran says it has hit US base in Bahrain, as it launches strikes across region",
+      "title": "Inside Iran, panic as strikes hit but for some it's a moment of relief",
+      "url": "https://www.bbc.com/news/articles/c05v8jzjn40o?at_medium=RSS&at_campaign=rss",
+      "summary": "Iranians talk about what is happening inside the country, despite an almost total internet blackout."
+    },
+    {
+      "source": "BBC World",
+      "title": "Luxury Dubai hotel hit as Iran launches retaliatory strikes across region",
       "url": "https://www.bbc.com/news/articles/c204px4zddro?at_medium=RSS&at_campaign=rss",
-      "summary": "Huge plumes of black smoke were seen rising from an area near the headquarters of the US Navy's Fifth Fleet in Manama, Bahrain."
+      "summary": "Smoke and flames rose from Dubai's Fairmont The Palm hotel as civilian targets came under fire along with the US military bases across the middle east."
     },
     {
       "source": "BBC World",
-      "title": "Bowen: A dangerous moment, but US and Israel see opportunity not to be missed",
-      "url": "https://www.bbc.com/news/articles/cn0z9012291o?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel and the US believe Iran's regime is vulnerable, dealing with an economic crisis and the aftermath of protests."
-    },
-    {
-      "source": "BBC World",
-      "title": "Bill Clinton asked about hot tub photo and testifies he knew 'nothing' of Epstein crimes",
-      "url": "https://www.bbc.com/news/articles/cvg345qvld5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The former president told the committee that he would never have flown on Epstein's plane if he \"had any inkling of what he was doing\"."
+      "title": "At least 20 killed after military plane carrying banknotes crashes in Bolivia",
+      "url": "https://www.bbc.com/news/articles/c0rjpxxpp49o?at_medium=RSS&at_campaign=rss",
+      "summary": "Police fire tear gas to disperse crowds allegedly trying to take banknotes from the crash site. "
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "A legendary weather app makes a comeback",
+        "#text": "You can still grab great deals on Bose headphones and Astro Bot this weekend",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/886462/acme-weather-samsung-s26-installer",
+      "url": "https://www.theverge.com/gadgets/886520/bose-quietcomfort-headphones-samsung-galaxy-s26-ultra-deal-sale",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Tenways nearly perfects the shareable city e-bike",
+        "#text": "Xiaomi’s tracker doesn’t need a case to clip to your keys",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/reviews/885040/tenways-cgo-compact-review-sharable-adaptable",
+      "url": "https://www.theverge.com/tech/884567/xiaomi-tag-tracker-apple-find-my-google-hub-bluetooth",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Defense secretary Pete Hegseth designates Anthropic a supply chain risk",
+        "#text": "Xiaomi’s Leica Leitzphone mostly earns the name",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff",
+      "url": "https://www.theverge.com/gadgets/886131/xiaomi-leica-leitzphone-17-ultra-review",
       "summary": "(要約準備中)"
     }
   ]
