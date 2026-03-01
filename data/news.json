@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-03-01T07:03:54.381Z",
+  "updatedAt": "2026-03-01T13:09:50.070Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Ayatollah Khamenei's iron grip on power in Iran comes to an end",
-      "url": "https://www.bbc.com/news/articles/c3gdnpjvj4ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Iranian state TV confirms the supreme leader has been killed on the first day of massive US and Israeli air strikes on the country. "
+      "title": "At least 148 dead after reported strike on school, Iran says",
+      "url": "https://www.bbc.com/news/articles/c1l7rvqq51eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran has blamed the US and Israel for the strike; the US is looking into reports of the incident, while the IDF says it is \"not aware\" of operations in the area."
     },
     {
       "source": "BBC World",
-      "title": "What we know so far: Supreme Leader Khamenei killed, as Iran launches retaliatory strikes",
+      "title": "One killed and 11 injured at Dubai and Abu Dhabi airports as Iran strikes region",
+      "url": "https://www.bbc.com/news/articles/c363zkp1pgxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Falling debris from intercepted Iranian drones and missiles cause widespread damage across the Gulf. "
+    },
+    {
+      "source": "BBC World",
+      "title": "What we know so far about the US-Israel attacks and Iran's retaliation",
       "url": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
       "summary": "Iran responds by launching missiles and drones towards Israel and four Gulf Arab countries that host US military bases."
-    },
-    {
-      "source": "BBC World",
-      "title": "Iran says US and Israel strikes hit school killing 108",
-      "url": "https://www.bbc.com/news/articles/c1l7rvqq51eo?at_medium=RSS&at_campaign=rss",
-      "summary": "There is no confirmation by the US or Israel of the strike on the school located near elite military troops."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Polymarket defends its decision to allow betting on war as ‘invaluable’",
+        "#text": "Resident Evil Requiem leans too much on the series’ past",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/887040/polymarket-iran-war-betting-invaluable",
+      "url": "https://www.theverge.com/games/885811/resident-evil-requiem-grace-leon-nostalgia-ending",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The Rubin Observatory’s alert system sent 800,000 pings on its first night",
+        "#text": "How MLB can make baseball relevant on a fast-changing internet",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/science/887037/vera-c-rubin-observatory-800000-alerts",
+      "url": "https://www.theverge.com/column/886115/how-mlb-can-make-baseball-relevant-on-a-fast-changing-internet",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "You can still grab great deals on Bose headphones and Astro Bot this weekend",
+        "#text": "Meta won’t let morality get in the way of a product launch",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/886520/bose-quietcomfort-headphones-samsung-galaxy-s26-ultra-deal-sale",
+      "url": "https://www.theverge.com/policy/886348/meta-glasses-ice-doxxing-privacy",
       "summary": "(要約準備中)"
     }
   ]
