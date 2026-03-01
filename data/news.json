@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-02-28T18:49:35.365Z",
+  "updatedAt": "2026-03-01T03:23:28.472Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Ayatollah Khamenei's iron grip on power in Iran comes to an end",
+      "url": "https://www.bbc.com/news/articles/c3gdnpjvj4ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Iranian state TV confirms the supreme leader has been killed on the first day of massive US and Israeli air strikes on the country. "
+    },
     {
       "source": "BBC World",
       "title": "Inside Iran, panic as strikes hit but for some it's a moment of relief",
@@ -11,13 +17,7 @@
       "source": "BBC World",
       "title": "Luxury Dubai hotel hit as Iran launches retaliatory strikes across region",
       "url": "https://www.bbc.com/news/articles/c204px4zddro?at_medium=RSS&at_campaign=rss",
-      "summary": "Smoke and flames rose from Dubai's Fairmont The Palm hotel as civilian targets came under fire along with the US military bases across the middle east."
-    },
-    {
-      "source": "BBC World",
-      "title": "At least 20 killed after military plane carrying banknotes crashes in Bolivia",
-      "url": "https://www.bbc.com/news/articles/c0rjpxxpp49o?at_medium=RSS&at_campaign=rss",
-      "summary": "Police fire tear gas to disperse crowds allegedly trying to take banknotes from the crash site. "
+      "summary": "Smoke and flames rose from Dubai's Fairmont The Palm hotel as civilian targets came under fire along with the US military bases across the Middle East."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "Polymarket defends its decision to allow betting on war as ‘invaluable’",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/tech/887040/polymarket-iran-war-betting-invaluable",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "The Rubin Observatory’s alert system sent 800,000 pings on its first night",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/science/887037/vera-c-rubin-observatory-800000-alerts",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "You can still grab great deals on Bose headphones and Astro Bot this weekend",
         "@_type": "html"
       },
       "url": "https://www.theverge.com/gadgets/886520/bose-quietcomfort-headphones-samsung-galaxy-s26-ultra-deal-sale",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Xiaomi’s tracker doesn’t need a case to clip to your keys",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/tech/884567/xiaomi-tag-tracker-apple-find-my-google-hub-bluetooth",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Xiaomi’s Leica Leitzphone mostly earns the name",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/gadgets/886131/xiaomi-leica-leitzphone-17-ultra-review",
       "summary": "(要約準備中)"
     }
   ]
