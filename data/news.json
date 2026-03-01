@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-03-01T13:09:50.070Z",
+  "updatedAt": "2026-03-01T18:50:41.488Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "At least 148 dead after reported strike on school, Iran says",
+      "title": "At least 153 dead after reported strike on school, Iran says",
       "url": "https://www.bbc.com/news/articles/c1l7rvqq51eo?at_medium=RSS&at_campaign=rss",
       "summary": "Iran has blamed the US and Israel for the strike; the US is looking into reports of the incident, while the IDF says it is \"not aware\" of operations in the area."
     },
     {
       "source": "BBC World",
-      "title": "One killed and 11 injured at Dubai and Abu Dhabi airports as Iran strikes region",
+      "title": "Nine dead in missile attack on Israel as Iran strikes region",
       "url": "https://www.bbc.com/news/articles/c363zkp1pgxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Falling debris from intercepted Iranian drones and missiles cause widespread damage across the Gulf. "
+      "summary": "Several deaths are reported across the Middle East as Tehran retaliates for massive strikes by the US and Israel."
     },
     {
       "source": "BBC World",
-      "title": "What we know so far about the US-Israel attacks and Iran's retaliation",
-      "url": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran responds by launching missiles and drones towards Israel and four Gulf Arab countries that host US military bases."
+      "title": "Deadly Texas bar shooting is 'potentially an act of terrorism', FBI says",
+      "url": "https://www.bbc.com/news/articles/cgjznzgly0po?at_medium=RSS&at_campaign=rss",
+      "summary": "Two people were killed and 14 injured, with the suspected gunman also shot dead on the scene. "
     },
     {
       "source": "BBC Technology",
@@ -33,35 +33,35 @@
     },
     {
       "source": "BBC Technology",
-      "title": "'I was on Instagram all day' - woman tells landmark trial",
-      "url": "https://www.bbc.com/news/articles/c89kdpjn7eqo?at_medium=RSS&at_campaign=rss",
-      "summary": "The young woman, who accuses Meta and Google of making addictive social media platforms, has been speaking in court."
+      "title": "Could a huge data centre revitalise Ayrshire - or ruin it?",
+      "url": "https://www.bbc.com/news/articles/c2d1ny161yyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Controversial proposals to turn land near HMP Kilmarnock into a technology hub are being advanced by energy company ILI Group."
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Resident Evil Requiem leans too much on the series’ past",
+        "#text": "Kalshi voids some bets on Khamenei’s ouster because it’s ‘directly tied to death’",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/885811/resident-evil-requiem-grace-leon-nostalgia-ending",
+      "url": "https://www.theverge.com/tech/887210/kalshi-void-bets-khamenei-death",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "How MLB can make baseball relevant on a fast-changing internet",
+        "#text": "Lego’s Smart Brick is here, and it transforms these new Star Wars sets",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/column/886115/how-mlb-can-make-baseball-relevant-on-a-fast-changing-internet",
+      "url": "https://www.theverge.com/gadgets/886014/lego-smart-brick-star-wars-set-price-availability-release-date-buy",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Meta won’t let morality get in the way of a product launch",
+        "#text": "Soundcore’s Space 2 are an evolution of its budget headphones",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/886348/meta-glasses-ice-doxxing-privacy",
+      "url": "https://www.theverge.com/tech/886180/soundcore-space-2-announcement-mwc-2026",
       "summary": "(要約準備中)"
     }
   ]
