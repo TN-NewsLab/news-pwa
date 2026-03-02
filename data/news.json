@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-03-01T18:50:41.488Z",
+  "updatedAt": "2026-03-02T03:11:05.779Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Allies of US in the Gulf bear brunt of Iran attacks",
+      "url": "https://www.bbc.com/news/articles/c1jk922dgjgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran's attacks on Gulf Arab states suggest the Islamic Republic is targeting not just the US military but also civilian infrastructure."
+    },
     {
       "source": "BBC World",
       "title": "At least 153 dead after reported strike on school, Iran says",
@@ -9,15 +15,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Nine dead in missile attack on Israel as Iran strikes region",
-      "url": "https://www.bbc.com/news/articles/c363zkp1pgxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Several deaths are reported across the Middle East as Tehran retaliates for massive strikes by the US and Israel."
+      "title": "Oil prices rise after ships attacked near Strait of Hormuz",
+      "url": "https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&at_campaign=rss",
+      "summary": "Experts have warned that a prolonged conflict could push global energy prices even higher."
     },
     {
-      "source": "BBC World",
-      "title": "Deadly Texas bar shooting is 'potentially an act of terrorism', FBI says",
-      "url": "https://www.bbc.com/news/articles/cgjznzgly0po?at_medium=RSS&at_campaign=rss",
-      "summary": "Two people were killed and 14 injured, with the suspected gunman also shot dead on the scene. "
+      "source": "BBC Technology",
+      "title": "Consultation on social media ban for under-16s to begin",
+      "url": "https://www.bbc.com/news/articles/cvg3vjkx9d7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Discussions over what measures to implement to protect children's wellbeing will last for three months."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "Director Koshi Nakanishi says balancing action and horror within the game has been a huge challenge."
     },
     {
-      "source": "BBC Technology",
-      "title": "Could a huge data centre revitalise Ayrshire - or ruin it?",
-      "url": "https://www.bbc.com/news/articles/c2d1ny161yyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Controversial proposals to turn land near HMP Kilmarnock into a technology hub are being advanced by energy company ILI Group."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Kalshi voids some bets on Khamenei’s ouster because it’s ‘directly tied to death’",
+        "#text": "A robot arm with puppy dog eyes is just one of Lenovo&#8217;s new desktop AI concepts",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/887210/kalshi-void-bets-khamenei-death",
+      "url": "https://www.theverge.com/tech/885228/lenovo-ai-workmate-companion-work-concept-robot-arm-desktop-clock-hub",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Lego’s Smart Brick is here, and it transforms these new Star Wars sets",
+        "#text": "The new Yoga 9i 2-in-1 from Lenovo has an angled ‘canvas mode’ for easier note-taking",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/886014/lego-smart-brick-star-wars-set-price-availability-release-date-buy",
+      "url": "https://www.theverge.com/tech/885724/lenovo-yoga-9i-2-in-1-angled-canvas-mode",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Soundcore’s Space 2 are an evolution of its budget headphones",
+        "#text": "Lenovo’s redesigned ThinkPad Detachable tablet has a bigger screen and legit keyboard",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/886180/soundcore-space-2-announcement-mwc-2026",
+      "url": "https://www.theverge.com/tech/886134/lenovo-thinkpad-x13-detachable-tablet-t14-t14s-t16-laptops-price-specs",
       "summary": "(要約準備中)"
     }
   ]
