@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-02T03:11:05.779Z",
+  "updatedAt": "2026-03-02T07:16:11.843Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,15 +9,15 @@
     },
     {
       "source": "BBC World",
-      "title": "At least 153 dead after reported strike on school, Iran says",
-      "url": "https://www.bbc.com/news/articles/c1l7rvqq51eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran has blamed the US and Israel for the strike; the US is looking into reports of the incident, while the IDF says it is \"not aware\" of operations in the area."
-    },
-    {
-      "source": "BBC World",
       "title": "Oil prices rise after ships attacked near Strait of Hormuz",
       "url": "https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&at_campaign=rss",
       "summary": "Experts have warned that a prolonged conflict could push global energy prices even higher."
+    },
+    {
+      "source": "BBC World",
+      "title": "Kidnapping of foreigners soars in Africa's lawless Sahel region",
+      "url": "https://www.bbc.com/news/articles/c0lj18d5lx3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Growing insecurity in the Sahel made 2025 one of the worst years on record for the abduction of foreigners in Africa."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "Qualcomm’s new chip is geared toward wearable AI gadgets",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/tech/886434/qualcomm-snapdragon-wear-elite-wearables",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "The Motorola Razr Fold is shaping up to be pure flagship",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/tech/887249/motorola-razr-fold-specs-camera-silicon-carbon-battery",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "A robot arm with puppy dog eyes is just one of Lenovo&#8217;s new desktop AI concepts",
         "@_type": "html"
       },
       "url": "https://www.theverge.com/tech/885228/lenovo-ai-workmate-companion-work-concept-robot-arm-desktop-clock-hub",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "The new Yoga 9i 2-in-1 from Lenovo has an angled ‘canvas mode’ for easier note-taking",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/tech/885724/lenovo-yoga-9i-2-in-1-angled-canvas-mode",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Lenovo’s redesigned ThinkPad Detachable tablet has a bigger screen and legit keyboard",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/tech/886134/lenovo-thinkpad-x13-detachable-tablet-t14-t14s-t16-laptops-price-specs",
       "summary": "(要約準備中)"
     }
   ]
