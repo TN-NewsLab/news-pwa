@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-02T07:16:11.843Z",
+  "updatedAt": "2026-03-02T13:34:53.023Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,7 +9,7 @@
     },
     {
       "source": "BBC World",
-      "title": "Oil prices rise after ships attacked near Strait of Hormuz",
+      "title": "Oil prices jump and shares fall as conflict escalates",
       "url": "https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&at_campaign=rss",
       "summary": "Experts have warned that a prolonged conflict could push global energy prices even higher."
     },
@@ -21,7 +21,7 @@
     },
     {
       "source": "BBC Technology",
-      "title": "Consultation on social media ban for under-16s to begin",
+      "title": "UK launches consultation asking for views on under-16s social media ban",
       "url": "https://www.bbc.com/news/articles/cvg3vjkx9d7o?at_medium=RSS&at_campaign=rss",
       "summary": "Discussions over what measures to implement to protect children's wellbeing will last for three months."
     },
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Qualcomm’s new chip is geared toward wearable AI gadgets",
+        "#text": "Pokémon Pokopia is an expansive adventure disguised as a cozy life sim",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/886434/qualcomm-snapdragon-wear-elite-wearables",
+      "url": "https://www.theverge.com/games/885431/pokemon-pokopia-review",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The Motorola Razr Fold is shaping up to be pure flagship",
+        "#text": "Oh great, here comes 6G",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/887249/motorola-razr-fold-specs-camera-silicon-carbon-battery",
+      "url": "https://www.theverge.com/tech/886558/6g-satellite-ai-isac",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "A robot arm with puppy dog eyes is just one of Lenovo&#8217;s new desktop AI concepts",
+        "#text": "Tecno’s latest concept phone is lit by neon",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/885228/lenovo-ai-workmate-companion-work-concept-robot-arm-desktop-clock-hub",
+      "url": "https://www.theverge.com/gadgets/886923/tecnos-latest-concept-phone-is-lit-by-neon",
       "summary": "(要約準備中)"
     }
   ]
