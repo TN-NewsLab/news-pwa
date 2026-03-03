@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-03-02T19:06:26.425Z",
+  "updatedAt": "2026-03-03T03:14:00.101Z",
   "top": [
     {
       "source": "BBC World",
       "title": "Israel strikes Lebanon after Hezbollah rocket fire as Iran conflict widens",
       "url": "https://www.bbc.com/news/articles/c5y4v8g13wxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Lebanon's health ministry says 31 people were killed by Israeli strikes, while there are no reports of casualties in Israel."
+      "summary": "Lebanese officials say 52 people were killed by Israeli strikes, while there are no reports of casualties in Israel."
     },
     {
       "source": "BBC World",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "You could be an influencer without even realizing it",
+        "#text": "Anthropic upgrades Claude’s memory to attract AI switchers",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/887692/instagram-shop-the-look-ai-shopping-tiktok-influencers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/887885/anthropic-claude-memory-upgrades-importing",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Donut Lab’s solid-state battery can handle the (extreme) heat, test says",
+        "#text": "Apple’s cheapest AirPods have hit $89",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/transportation/887552/donut-lab-solid-state-battery-extreme-heat-test",
+      "url": "https://www.theverge.com/gadgets/887839/apple-airpods-4-active-noise-cancellation-deal-sale",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "AI-generated art can&#8217;t be copyrighted after Supreme Court declines to review the rule",
+        "#text": "How the new iPhone 17E stacks up against Apple’s pricier phones",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright",
+      "url": "https://www.theverge.com/gadgets/887570/iphone-17e-vs-17-pro-max-air-spec-comparison-price-features",
       "summary": "(要約準備中)"
     }
   ]
