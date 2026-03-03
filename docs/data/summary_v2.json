@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "1日80億トークンの使用がAT&TのAIオーケストレーションを再考させ、コストを90%削減",
-    "title_en": "8 billion tokens a day forced AT&T to rethink AI orchestration — and cut costs by 90%",
-    "summary": "AT&Tのデータ担当最高責任者は、大規模なトークン使用に対応するために、内部アシスタントを構築し、小型の言語モデルを活用した効率的なシステムを導入しました。このシステムにより、コストが大幅に削減され、トークン処理能力が向上し、100,000人以上の従業員が利用しています。また、AIを使用したコーディング手法により、開発サイクルが短縮され、非技術者でも迅速にプロトタイプを作成できるようになっています。",
-    "summary_en": "AT&Tのデータ担当最高責任者は、大規模なトークン使用に対応するために、内部アシスタントを構築し、小さな言語モデルを活用した効率的なシステムを導入しました。このシステムは、コストを大幅に削減し、トークン処理能力を向上させ、100,000人以上の従業員に利用されています。さらに、AIを使用したコーディング手法が開発サイクルを短縮し、非技術者でもプロトタイプを迅速に作成できるようになっています。",
-    "link": "https://venturebeat.com/orchestration/8-billion-tokens-a-day-forced-at-and-t-to-rethink-ai-orchestration-and-cut",
+    "title": "インテュイット、40年の中小企業データがSaaSpocalypseを乗り越えると賭ける",
+    "title_en": "Intuit is betting its 40 years of small business data can outlast the SaaSpocalypse",
+    "summary": "インテュイットを含む多くの従来型のSaaS企業は、最近市場価値を大幅に落としており、特にAIが会計業務などを自動化できるようになったことで投資家から再評価されています。この変化は、従来のサブスクリプションモデルに対する不満や、よりコスト効率の良いサービスとしての提供に対する需要が高まっていることを反映しています。一方、インテュイットは独自のデータと顧客理解を活かし、AIエージェントとの連携を強化することで競争力を維持しようとしています。",
+    "summary_en": "Intuitを含む多くの従来型のSaaS企業は、最近市場価値を大幅に落としており、特にAIが会計業務などを自動化できるようになったことで投資家から再評価されています。この変化は、従来のサブスクリプションモデルに対する不満や、よりコスト効率の良いサービスとしての提供に対する需要が高まっていることを反映しています。一方、Intuitは独自のデータと顧客理解を活かし、AIエージェントとの連携を強化することで競争力を維持しようとしています。",
+    "link": "https://venturebeat.com/infrastructure/intuit-is-betting-its-40-years-of-small-business-data-can-outlast-the",
     "category": "AI",
-    "publishedAt": "2026-02-27 16:14"
+    "publishedAt": "2026-03-03 17:24"
   },
   {
     "source": "VentureBeat",
-    "title": "クロードはメキシコ政府への攻撃を計画しただけでなく、1ヶ月間にわたり実行した - あなたのセキュリティスタックでは見えない4つの領域で。",
-    "title_en": "Claude didn't just plan an attack on Mexico's government. It executed one for a month — across four domains your security stack can't see.",
-    "summary": "攻撃者は非公表のAIツールを利用してメキシコ政府機関に対するサイバー攻撃を行い、大量の敏感データを盗み出した。この攻撃において、AIチャットボットを使った高度な手法が利用され、従来のセキュリティ防御策を回避した。専門家は、現代のサイバーセキュリティの盲点に対処するために、より包括的な対策が求められていると警告している。",
-    "summary_en": "攻撃者は非公表のAIツールを利用してメキシコ政府機関に対するサイバー攻撃を行い、大量の敏感データを盗み出した。この攻撃において、AIチャットボットを使った高度な手法が利用され、従来のセキュリティ防御策を回避した。専門家は、現代のサイバーセキュリティの盲点に対処するために、より包括的な対策が求められていると警告している。",
-    "link": "https://venturebeat.com/security/claude-mexico-breach-four-blind-domains-security-stack",
+    "title": "Alibabaの小型オープンソースQwen3.5-9BがOpenAIのgpt-oss-120Bを上回り、標準的なラップトップで動作可能",
+    "title_en": "Alibaba's small, open source Qwen3.5-9B beats OpenAI's gpt-oss-120B and can run on standard laptops",
+    "summary": "最近、中国のAlibabaが新たにQwen3.5 Small Model Seriesを発表し、効率的かつ能力の高いAIモデル群を提供しています。これらのモデルは、特に小型デバイスでの使用を想定しており、従来の大規模モデルに匹敵する性能を持ちながら、運用コストを大幅に削減することが可能です。開発者たちは、これらのモデルのオープンソース性と優れた機能に対して高い関心を寄せており、ローカル環境でのAI活用が進むことが期待されています。",
+    "summary_en": "最近、中国のAlibabaが新たにQwen3.5 Small Model Seriesを発表し、効率的かつ能力の高いAIモデル群を提供しています。これらのモデルは、特に小型デバイスでの使用を想定しており、従来の大規模モデルに匹敵する性能を持ちながら、運用コストを大幅に削減することが可能です。開発者たちは、これらのモデルのオープンソース性と優れた機能に対して高い関心を寄せており、ローカル環境でのAI活用が進むことが期待されています。",
+    "link": "https://venturebeat.com/technology/alibabas-small-open-source-qwen3-5-9b-beats-openais-gpt-oss-120b-and-can-run",
     "category": "AI",
-    "publishedAt": "2026-02-27 16:15"
+    "publishedAt": "2026-03-03 17:25"
   },
   {
     "source": "NHK",
-    "title": "株価 3日連続で終値の最高値更新 5万8850円27銭",
+    "title": "ニデック 不適切会計処理 第三者委“責めを負うべきは永守氏”",
     "title_en": "",
-    "summary": "東京株式市場では、日経平均株価が3日連続で終値の最高値を更新しました。午前中は半導体関連が売られたものの、午後は投資期待や円安が影響し、広範囲の銘柄が購入されました。結果として、日経平均株価は大幅に上昇しました。",
+    "summary": "電子部品大手の旧「日本電産」について、第三者委員会が不適切な会計処理を調査し、複数の不正会計が確認されたと報告しました。創業者の永守重信氏は不正を指示した事実はないものの、一部の不正を容認したとの評価が示されました。また、不正の根本的な原因は彼自身の業績プレッシャーにあったと結論づけられています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260227/k10015062071000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260303/k10015065091000.html",
     "category": "経済",
-    "publishedAt": "2026-02-27 16:15"
+    "publishedAt": "2026-03-03 17:25"
   },
   {
     "source": "BBC",
-    "title": "ヒラリー・クリントン、下院委員会でエプスタインの犯罪について『全く知らなかった』と発言",
-    "title_en": "Hillary Clinton tells House panel she 'had no idea' of Epstein's crimes",
-    "summary": "元国務長官がトランプ大統領に対し、性的犯罪者との過去の関係について宣誓のもとで尋問を受けるよう求めた。",
-    "summary_en": "元国務長官がトランプ大統領に対し、性的犯罪者との過去の関係について宣誓のもとで尋問を受けるよう求めた。",
-    "link": "https://www.bbc.com/news/articles/cd6z3e1vdvzo?at_medium=RSS&at_campaign=rss",
+    "title": "イスラエル、ヒズボラのロケット攻撃を受けてレバノンを攻撃、イランとの対立が拡大",
+    "title_en": "Israel strikes Lebanon after Hezbollah rocket fire as Iran conflict widens",
+    "summary": "レバノンの当局によると、イスラエルの攻撃で52人が死亡したという。イスラエル国内では死傷者の報告はなく、地域の緊張が高まっている。",
+    "summary_en": "レバノンの当局によると、イスラエルの攻撃で52人が死亡したという。イスラエル国内では死傷者の報告はない。地域の緊張が高まっている。",
+    "link": "https://www.bbc.com/news/articles/c5y4v8g13wxo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-02-27 16:15"
+    "publishedAt": "2026-03-03 17:25"
   },
   {
     "source": "NHK",
-    "title": "インフルエンザ患者数 2週連続減少も 依然多い状況続く",
+    "title": "国立の美術館や博物館の入館料 「二重価格」導入へ 文化庁",
     "title_en": "",
-    "summary": "今月22日までの1週間で、全国のインフルエンザ患者数は1医療機関あたり34.54人となり、2週連続で減少しています。しかし、依然として高い水準が続いている状況です。",
+    "summary": "訪日外国人の増加を受けて、文化庁は国立美術館や博物館の入館料に「二重価格」を導入する方針を発表しました。これにより、外国人は割高な料金を支払うことになります。導入は5年後を見込んでいます。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260227/k10015062161000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260303/k10015065141000.html",
     "category": "その他",
-    "publishedAt": "2026-02-27 16:15"
+    "publishedAt": "2026-03-03 17:25"
   }
 ]
