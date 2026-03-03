@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-03-03T13:32:43.028Z",
+  "updatedAt": "2026-03-03T19:10:37.658Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Gas and oil prices soar and shares tumble as crucial shipping lane threatened",
+      "title": "Gas and oil prices soar and shares tumble on fears conflict could escalate",
       "url": "https://www.bbc.com/news/articles/cr5lz0vgy52o?at_medium=RSS&at_campaign=rss",
-      "summary": "Iranian official threatens to \"set fire\" to any ships passing through the Strait of Hormuz."
+      "summary": "Markets react as the conflict in the Middle East intensifies and concerns grow over how long it will last."
+    },
+    {
+      "source": "BBC World",
+      "title": "Battered and isolated, Hezbollah drags Lebanon into another war",
+      "url": "https://www.bbc.com/news/articles/c4gq3ykg7pvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Its attack on Israel in support of Iran has led to fresh mass displacements and Israeli bombing, to the fury of many Lebanese. "
     },
     {
       "source": "BBC World",
       "title": "Six US soldiers killed in Iranian strike on Kuwait base",
       "url": "https://www.bbc.com/news/articles/c4gq33ynl07o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US defence secretary confirms a US military base was hit by an Iranian missile on Sunday. "
-    },
-    {
-      "source": "BBC World",
-      "title": "US nationals urged to leave Middle East as conflict spreads",
-      "url": "https://www.bbc.com/news/articles/c2lrgwl8n7go?at_medium=RSS&at_campaign=rss",
-      "summary": "The US State Department says Americans should \"depart now via commercial means\" as strikes continue. "
+      "summary": "The US defence secretary confirms a US military base was hit by Iran on Sunday. "
     },
     {
       "source": "BBC Technology",
@@ -33,35 +33,35 @@
     },
     {
       "source": "BBC Technology",
-      "title": "Deepfake attack: 'Many people could have been cheated'",
-      "url": "https://www.bbc.com/news/articles/c0j59vydxj9o?at_medium=RSS&at_campaign=rss",
-      "summary": "The boss of the Bombay Stock Exchange was recently targeted in what is a growing global problem."
+      "title": "The spin-off game starring a 'weirdo' Pokémon that's got reviewers raving",
+      "url": "https://www.bbc.com/news/articles/cy5791kekwgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Pokopia, a game mixing Animal Crossing and Minecraft, has been a surprise hit with critics."
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Big Google Home update lets Gemini describe live camera feeds",
+        "#text": "Android’s Find Hub adds iPhone-like luggage tracking links",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/888008/big-google-home-update-lets-gemini-describe-live-camera-feeds",
+      "url": "https://www.theverge.com/tech/888200/google-android-find-hub-luggage-tracking",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Anthropic upgrades Claude’s memory to attract AI switchers",
+        "#text": "Google’s latest Pixel drop allows Gemini to order groceries for you and more",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/887885/anthropic-claude-memory-upgrades-importing",
+      "url": "https://www.theverge.com/tech/888295/google-gemini-pixel-drop-march-2026",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Apple’s cheapest AirPods have hit $89",
+        "#text": "Google brings Android’s desktop mode to Pixel devices",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/887839/apple-airpods-4-active-noise-cancellation-deal-sale",
+      "url": "https://www.theverge.com/tech/888370/google-pixel-tablet-android-desktop-mode",
       "summary": "(要約準備中)"
     }
   ]
