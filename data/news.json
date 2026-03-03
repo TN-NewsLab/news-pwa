@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2026-03-03T07:10:45.302Z",
+  "updatedAt": "2026-03-03T13:32:43.028Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Israel strikes Lebanon after Hezbollah rocket fire as Iran conflict widens",
-      "url": "https://www.bbc.com/news/articles/c5y4v8g13wxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Lebanese officials say 52 people were killed by Israeli strikes, while there are no reports of casualties in Israel."
+      "title": "Gas and oil prices soar and shares tumble as crucial shipping lane threatened",
+      "url": "https://www.bbc.com/news/articles/cr5lz0vgy52o?at_medium=RSS&at_campaign=rss",
+      "summary": "Iranian official threatens to \"set fire\" to any ships passing through the Strait of Hormuz."
     },
     {
       "source": "BBC World",
-      "title": "'They hit so hard the house was shaking': Iranians describe impact of US-Israel attacks",
-      "url": "https://www.bbc.com/news/articles/cx2jyv3jp01o?at_medium=RSS&at_campaign=rss",
-      "summary": "People in Iran tell the BBC they hear explosions day and night, as the US and Israel continue striking the country for a third day."
+      "title": "Six US soldiers killed in Iranian strike on Kuwait base",
+      "url": "https://www.bbc.com/news/articles/c4gq33ynl07o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US defence secretary confirms a US military base was hit by an Iranian missile on Sunday. "
     },
     {
       "source": "BBC World",
-      "title": "France to boost nuclear arsenal and extend deterrence to European allies",
-      "url": "https://www.bbc.com/news/articles/cj4zlnezrl7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Emmanuel Macron said eight countries could enjoy protection from France's nuclear umbrella - but that Paris would retain sole decision-making power."
+      "title": "US nationals urged to leave Middle East as conflict spreads",
+      "url": "https://www.bbc.com/news/articles/c2lrgwl8n7go?at_medium=RSS&at_campaign=rss",
+      "summary": "The US State Department says Americans should \"depart now via commercial means\" as strikes continue. "
+    },
+    {
+      "source": "BBC Technology",
+      "title": "OpenAI changes deal with US military after backlash",
+      "url": "https://www.bbc.com/news/articles/c3rz1nd0egro?at_medium=RSS&at_campaign=rss",
+      "summary": "Chief Executive Sam Altman said the group would prohibit the use of its systems to spy on Americans."
     },
     {
       "source": "BBC Technology",
@@ -27,15 +33,18 @@
     },
     {
       "source": "BBC Technology",
-      "title": "UK launches consultation asking for views on under-16s social media ban",
-      "url": "https://www.bbc.com/news/articles/cvg3vjkx9d7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Discussions over what measures to implement to protect children's wellbeing will last for three months."
+      "title": "Deepfake attack: 'Many people could have been cheated'",
+      "url": "https://www.bbc.com/news/articles/c0j59vydxj9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The boss of the Bombay Stock Exchange was recently targeted in what is a growing global problem."
     },
     {
-      "source": "BBC Technology",
-      "title": "Trump orders government to stop using Anthropic in battle over AI use",
-      "url": "https://www.bbc.com/news/articles/cn48jj3y8ezo?at_medium=RSS&at_campaign=rss",
-      "summary": "The move announced on social media comes after a standoff between Anthropic's boss and the US Department of Defense."
+      "source": "The Verge",
+      "title": {
+        "#text": "Big Google Home update lets Gemini describe live camera feeds",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/tech/888008/big-google-home-update-lets-gemini-describe-live-camera-feeds",
+      "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/gadgets/887839/apple-airpods-4-active-noise-cancellation-deal-sale",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "How the new iPhone 17E stacks up against Apple’s pricier phones",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/gadgets/887570/iphone-17e-vs-17-pro-max-air-spec-comparison-price-features",
       "summary": "(要約準備中)"
     }
   ]
