@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-03-04T13:31:49.910Z",
+  "updatedAt": "2026-03-04T19:07:20.495Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Iran postpones Khamenei funeral as US-Israeli bombardment continues",
+      "url": "https://www.bbc.com/news/articles/clygglq6v9go?at_medium=RSS&at_campaign=rss",
+      "summary": "An official says more preparations are needed for the three-day ceremony in Tehran, where the supreme leader will lie in state."
+    },
     {
       "source": "BBC World",
       "title": "Spain's Pedro Sánchez hits back at Trump threat to sever trade saying 'no to war'",
@@ -9,59 +15,53 @@
     },
     {
       "source": "BBC World",
-      "title": "Three men arrested in UK on suspicion of spying for China",
-      "url": "https://www.bbc.com/news/articles/c7955ewj7gwo?at_medium=RSS&at_campaign=rss",
-      "summary": "He is one of three unnamed men who the Met Police suspect of assisting Chinese intelligence services in the UK."
-    },
-    {
-      "source": "BBC World",
-      "title": "Greek court upholds criminal organisation verdict on neo-Nazi Golden Dawn",
-      "url": "https://www.bbc.com/news/articles/c89kkykg39yo?at_medium=RSS&at_campaign=rss",
-      "summary": "The party's founder Nikos Mihaloliakos and other officials are again found guilty, almost six years after an original trial."
+      "title": "Higher tariffs likely this week, says US Treasury",
+      "url": "https://www.bbc.com/news/articles/cjwzzq70qgvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Scott Bessent says that \"likely sometime this week\" the US will increase its global tariff on imports from the existing 10%. "
     },
     {
       "source": "BBC Technology",
-      "title": "TikTok won't protect DMs with controversial privacy tech, saying it would put users at risk",
-      "url": "https://www.bbc.com/news/articles/cly2m5e5ke4o?at_medium=RSS&at_campaign=rss",
-      "summary": "TikTok tells the BBC it won't join rival platforms such as WhatsApp and Messenger in using end-to-end encryption."
+      "title": "Father claims Google's AI product fuelled son's delusional spiral",
+      "url": "https://www.bbc.com/news/articles/czx44p99457o?at_medium=RSS&at_campaign=rss",
+      "summary": "The case is the first wrongful death case against Google over alleged harms caused by Gemini."
     },
     {
       "source": "BBC Technology",
-      "title": "Can an AI recruiter really spot a good carer?",
-      "url": "https://www.bbc.com/news/articles/cdxg4e1dw12o?at_medium=RSS&at_campaign=rss",
-      "summary": "AI is being used to screen care workers – but can a robot truly judge who is right for the job?"
+      "title": "Regulator contacts Meta over workers watching intimate AI glasses videos",
+      "url": "https://www.bbc.com/news/articles/c0q33nvj0qpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Videos, including of glasses-wearers using the toilet or having sex, are sometimes reviewed by a Kenya-based subcontractor."
     },
     {
       "source": "BBC Technology",
-      "title": "OpenAI changes deal with US military after backlash",
-      "url": "https://www.bbc.com/news/articles/c3rz1nd0egro?at_medium=RSS&at_campaign=rss",
-      "summary": "Chief Executive Sam Altman said the group would prohibit the use of its systems to spy on Americans."
+      "title": "Remote work, offices shut: Tech giants scramble to respond as Middle East tensions escalate",
+      "url": "https://www.bbc.com/news/articles/c99jjr7d40yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The region has been positioning itself as an AI hub, following billions of dollars in investment by tech giants."
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Raycast’s Glaze is an all-in-one vibe coding app platform",
+        "#text": "Google’s AI-powered workspace is now available to more users in Search",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/888866/raycast-glaze-vibe-code-app-store",
+      "url": "https://www.theverge.com/tech/889339/google-canvas-ai-mode-search-us-launch",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "How a prize-winning cartoonist brings hand-drawn comics to the web",
+        "#text": "Google isn’t waiting for a settlement — the 30 percent Android app store fee is dead",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/uncategorized/888672/how-a-prize-winning-cartoonist-brings-hand-drawn-comics-to-the-web",
+      "url": "https://www.theverge.com/policy/889252/google-app-store-fee-reduction-20-percent-epic-v-google",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "I’m not ashamed to admit the Kobo Remote is the best gadget I’ve bought this year",
+        "#text": "Downdetector and Speedtest sold to Accenture for $1.2 billion",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/885941/kobo-wireless-bluetooth-remote-page-turn-clara-libra-sage-elipsa",
+      "url": "https://www.theverge.com/tech/889234/downdetector-ookla-speedtest-sold-accenture",
       "summary": "(要約準備中)"
     }
   ]
