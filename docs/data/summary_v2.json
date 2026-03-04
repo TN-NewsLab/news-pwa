@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "インテュイット、40年の中小企業データがSaaSpocalypseを乗り越えると賭ける",
-    "title_en": "Intuit is betting its 40 years of small business data can outlast the SaaSpocalypse",
-    "summary": "インテュイットを含む多くの従来型のSaaS企業は、最近市場価値を大幅に落としており、特にAIが会計業務などを自動化できるようになったことで投資家から再評価されています。この変化は、従来のサブスクリプションモデルに対する不満や、よりコスト効率の良いサービスとしての提供に対する需要が高まっていることを反映しています。一方、インテュイットは独自のデータと顧客理解を活かし、AIエージェントとの連携を強化することで競争力を維持しようとしています。",
-    "summary_en": "Intuitを含む多くの従来型のSaaS企業は、最近市場価値を大幅に落としており、特にAIが会計業務などを自動化できるようになったことで投資家から再評価されています。この変化は、従来のサブスクリプションモデルに対する不満や、よりコスト効率の良いサービスとしての提供に対する需要が高まっていることを反映しています。一方、Intuitは独自のデータと顧客理解を活かし、AIエージェントとの連携を強化することで競争力を維持しようとしています。",
-    "link": "https://venturebeat.com/infrastructure/intuit-is-betting-its-40-years-of-small-business-data-can-outlast-the",
+    "title": "アリババ、強力なQwen AIチームを弱体化させたのか？最新のオープンソースリリースを受けて主要メンバーが離脱",
+    "title_en": "Did Alibaba just kneecap its powerful Qwen AI team? Key figures depart in wake of latest open source release",
+    "summary": "アリババのQwenチームが最近、新たにオープンソースのQwen3.5モデルを発表したが、中心的なリーダーシップである技術責任者が会社を去り、未来への懸念が広がっている。離脱したメンバーは、特にオープンソースへの影響を示唆し、企業の収益向上の目標が彼らのビジョンと衝突しているとの兆候が見られる。Qwenの開発が進む一方で、企業化の流れがそのオープンな性質を損なう懸念も指摘されている。",
+    "summary_en": "AlibabaのQwenチームが最近、新たにオープンソースのQwen3.5モデルを発表したが、中心的なリーダーシップである技術責任者が会社を去り、未来への懸念が広がっている。離脱したメンバーは、特にオープンソースへの影響を示唆し、企業の収益向上の目標が彼らのビジョンと衝突しているとの兆候が窺える。Qwenの開発が進む一方で、企業化の流れがそのオープンな性質を損なう懸念が指摘されている。",
+    "link": "https://venturebeat.com/technology/did-alibaba-just-kneecap-its-powerful-qwen-ai-team-key-figures-depart-in",
     "category": "AI",
-    "publishedAt": "2026-03-03 17:24"
+    "publishedAt": "2026-03-04 17:11"
   },
   {
     "source": "VentureBeat",
-    "title": "Alibabaの小型オープンソースQwen3.5-9BがOpenAIのgpt-oss-120Bを上回り、標準的なラップトップで動作可能",
-    "title_en": "Alibaba's small, open source Qwen3.5-9B beats OpenAI's gpt-oss-120B and can run on standard laptops",
-    "summary": "最近、中国のAlibabaが新たにQwen3.5 Small Model Seriesを発表し、効率的かつ能力の高いAIモデル群を提供しています。これらのモデルは、特に小型デバイスでの使用を想定しており、従来の大規模モデルに匹敵する性能を持ちながら、運用コストを大幅に削減することが可能です。開発者たちは、これらのモデルのオープンソース性と優れた機能に対して高い関心を寄せており、ローカル環境でのAI活用が進むことが期待されています。",
-    "summary_en": "最近、中国のAlibabaが新たにQwen3.5 Small Model Seriesを発表し、効率的かつ能力の高いAIモデル群を提供しています。これらのモデルは、特に小型デバイスでの使用を想定しており、従来の大規模モデルに匹敵する性能を持ちながら、運用コストを大幅に削減することが可能です。開発者たちは、これらのモデルのオープンソース性と優れた機能に対して高い関心を寄せており、ローカル環境でのAI活用が進むことが期待されています。",
-    "link": "https://venturebeat.com/technology/alibabas-small-open-source-qwen3-5-9b-beats-openais-gpt-oss-120b-and-can-run",
+    "title": "Google、Proの1/8のコストでGemini 3.1 Flash Liteを発表",
+    "title_en": "Google releases Gemini 3.1 Flash Lite at 1/8th the cost of Pro",
+    "summary": "Googleが新たに発表したAIモデル「Gemini 3.1 Flash-Lite」は、コストと速度の面で大幅な改善がなされ、企業や開発者にとって効率的な選択肢となっています。このモデルは迅速な応答を実現しながら、特に高頻度での業務に適しており、他の大型モデルと同等の性能を持つことが示されています。Flash-Liteは、戦略的に構築されたGeminiシリーズの一部として、AIの実用性を大幅に向上させることを目指しています。",
+    "summary_en": "Googleが新たに発表したAIモデル「Gemini 3.1 Flash-Lite」は、コストと速度の面で大幅な改善がなされ、企業や開発者にとって効率的な選択肢となっています。このモデルは迅速な応答を実現しながら、特に高頻度での業務に適しており、他の大型モデルと同等の性能を持つことが示されています。Flash-Liteは、戦略的に構築されたGeminiシリーズの一部として、AIの実用性を大幅に向上させることを目指しています。",
+    "link": "https://venturebeat.com/technology/google-releases-gemini-3-1-flash-lite-at-1-8th-the-cost-of-pro",
     "category": "AI",
-    "publishedAt": "2026-03-03 17:25"
+    "publishedAt": "2026-03-04 17:11"
   },
   {
     "source": "NHK",
-    "title": "ニデック 不適切会計処理 第三者委“責めを負うべきは永守氏”",
+    "title": "ガソリン小売価格 3週連続値上がり 全国平均1リットル158.5円",
     "title_en": "",
-    "summary": "電子部品大手の旧「日本電産」について、第三者委員会が不適切な会計処理を調査し、複数の不正会計が確認されたと報告しました。創業者の永守重信氏は不正を指示した事実はないものの、一部の不正を容認したとの評価が示されました。また、不正の根本的な原因は彼自身の業績プレッシャーにあったと結論づけられています。",
+    "summary": "レギュラーガソリンの小売価格が最近の調査で1リットル当たり158.5円となり、前の週から値上がりしました。これで3週連続の値上がりです。石油情報センターはイラン情勢の混乱が続く限り、さらにガソリン価格が上昇する可能性があると指摘しています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260303/k10015065091000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260304/k10015066251000.html",
     "category": "経済",
-    "publishedAt": "2026-03-03 17:25"
+    "publishedAt": "2026-03-04 17:12"
   },
   {
     "source": "BBC",
-    "title": "イスラエル、ヒズボラのロケット攻撃を受けてレバノンを攻撃、イランとの対立が拡大",
-    "title_en": "Israel strikes Lebanon after Hezbollah rocket fire as Iran conflict widens",
-    "summary": "レバノンの当局によると、イスラエルの攻撃で52人が死亡したという。イスラエル国内では死傷者の報告はなく、地域の緊張が高まっている。",
-    "summary_en": "レバノンの当局によると、イスラエルの攻撃で52人が死亡したという。イスラエル国内では死傷者の報告はない。地域の緊張が高まっている。",
-    "link": "https://www.bbc.com/news/articles/c5y4v8g13wxo?at_medium=RSS&at_campaign=rss",
-    "category": "その他",
-    "publishedAt": "2026-03-03 17:25"
+    "title": "ガスとオイルの価格が急騰し、紛争の激化に対する懸念から株価が下落",
+    "title_en": "Gas and oil prices soar and shares tumble on fears conflict could escalate",
+    "summary": "中東の紛争が激化する中、市場は反応を示しています。紛争の長引きに対する懸念が高まり、影響が広がっています。投資家は不安を抱きつつ動向を注視しています。",
+    "summary_en": "中東の紛争が激化する中、市場は反応を示しています。紛争の長引きに対する懸念が高まり、影響が広がっています。投資家は不安を抱きつつ動向を注視しています。",
+    "link": "https://www.bbc.com/news/articles/cr5lz0vgy52o?at_medium=RSS&at_campaign=rss",
+    "category": "経済",
+    "publishedAt": "2026-03-04 17:12"
   },
   {
     "source": "NHK",
-    "title": "国立の美術館や博物館の入館料 「二重価格」導入へ 文化庁",
+    "title": "「カイロス3号機」5日改めて打ち上げへ 和歌山",
     "title_en": "",
-    "summary": "訪日外国人の増加を受けて、文化庁は国立美術館や博物館の入館料に「二重価格」を導入する方針を発表しました。これにより、外国人は割高な料金を支払うことになります。導入は5年後を見込んでいます。",
+    "summary": "東京のベンチャー企業が開発した小型ロケット「カイロス3号機」の打ち上げが直前に中止されました。中止の理由は、測位衛星からの信号を安定して受信できなかったためです。企業は近い将来に再度打ち上げを行う予定です。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260303/k10015065141000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260304/k10015065531000.html",
     "category": "その他",
-    "publishedAt": "2026-03-03 17:25"
+    "publishedAt": "2026-03-04 17:12"
   }
 ]
