@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-05T13:36:45.220Z",
+  "updatedAt": "2026-03-05T19:35:56.038Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,15 +9,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Nepalis vote in first election since Gen Z uprising for change",
-      "url": "https://www.bbc.com/news/articles/c79550jrye8o?at_medium=RSS&at_campaign=rss",
-      "summary": "This election will test whether the country is ready for a new, untried generation to shape its future."
+      "title": "US asked Ukraine for help fighting Iranian drones, Zelensky says",
+      "url": "https://www.bbc.com/news/articles/cr5llg0e9g9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine's president says Kyiv will only help if doing so does not deplete its own air defences."
     },
     {
       "source": "BBC World",
-      "title": "Global order is 'breaking down', Carney tells Australian parliament",
-      "url": "https://www.bbc.com/news/articles/cpqwwy8xvy3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Canadian prime minister said Australia and Canada should work together as 'strategic cousins'."
+      "title": "Britney Spears arrested on suspicion of driving under the influence",
+      "url": "https://www.bbc.com/news/articles/c4gjjn41l7no?at_medium=RSS&at_campaign=rss",
+      "summary": "The singer was arrested by the California Highway Patrol at around 21:30 PT (05:30 GMT) on Wednesday."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "AI tools can unmask anonymous accounts ",
+        "#text": "Birdbuddy’s AI-powered hummingbird feeder is matching its best price to date",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/889395/ai-agents-unmask-anonymous-online-accounts",
+      "url": "https://www.theverge.com/gadgets/889975/birdbuddy-smart-hummingbird-feeder-pro-solar-deal-sale",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Anthropic makes last-ditch effort to salvage deal with Pentagon after blowup",
+        "#text": "Netflix is buying Ben Affleck’s AI startup",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/889782/anthropic-pentagon-discussions-ai-deal",
+      "url": "https://www.theverge.com/streaming/889973/netflix-ben-affleck-interpositive-ai",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Nothing’s Headphone A are something worth considering",
+        "#text": "OpenAI’s new GPT-5.4 model is a big step toward autonomous agents",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/889615/nothing-headphone-a-review",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/889926/openai-gpt-5-4-model-release-ai-agents",
       "summary": "(要約準備中)"
     }
   ]
