@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-04T19:07:20.495Z",
+  "updatedAt": "2026-03-05T03:08:59.308Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,15 +9,21 @@
     },
     {
       "source": "BBC World",
-      "title": "Spain's Pedro Sánchez hits back at Trump threat to sever trade saying 'no to war'",
-      "url": "https://www.bbc.com/news/articles/c93wwq1n542o?at_medium=RSS&at_campaign=rss",
-      "summary": "Spain's prime minister delivers a strong rebuttal to US President Donald Trump's threat to end trade with his country."
+      "title": "US sub sinks Iranian warship in Indian Ocean, Hegseth says",
+      "url": "https://www.bbc.com/news/articles/c0e55g03v2zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Sri Lanka's navy says around 140 people are feared missing after a military vessel went down off its southern coast."
     },
     {
       "source": "BBC World",
-      "title": "Higher tariffs likely this week, says US Treasury",
-      "url": "https://www.bbc.com/news/articles/cjwzzq70qgvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Scott Bessent says that \"likely sometime this week\" the US will increase its global tariff on imports from the existing 10%. "
+      "title": "China sets lowest economic growth target since 1991",
+      "url": "https://www.bbc.com/news/articles/cqxddwl93qjo?at_medium=RSS&at_campaign=rss",
+      "summary": "It is also the first time the target has been lowered since it was cut to \"around 5%\" in 2023."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Musk tells jury 'people read too much' into his posts",
+      "url": "https://www.bbc.com/news/articles/c7433dz4ykwo?at_medium=RSS&at_campaign=rss",
+      "summary": "The billionaire is accused of misleading investors in the run-up to his 2022 Twitter purchase. \n"
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "Videos, including of glasses-wearers using the toilet or having sex, are sometimes reviewed by a Kenya-based subcontractor."
     },
     {
-      "source": "BBC Technology",
-      "title": "Remote work, offices shut: Tech giants scramble to respond as Middle East tensions escalate",
-      "url": "https://www.bbc.com/news/articles/c99jjr7d40yo?at_medium=RSS&at_campaign=rss",
-      "summary": "The region has been positioning itself as an AI hub, following billions of dollars in investment by tech giants."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Google’s AI-powered workspace is now available to more users in Search",
+        "#text": "Did Live Nation punish a venue by taking Billie Eilish away?",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/889339/google-canvas-ai-mode-search-us-launch",
+      "url": "https://www.theverge.com/policy/889720/live-nation-ticketmaster-trial-doj-barclays-center-threats",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Google isn’t waiting for a settlement — the 30 percent Android app store fee is dead",
+        "#text": "A new video from the White House mixes Call of Duty footage with actual video of Iran strikes",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/889252/google-app-store-fee-reduction-20-percent-epic-v-google",
+      "url": "https://www.theverge.com/games/889701/trump-white-house-call-of-duty-footage-iran",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Downdetector and Speedtest sold to Accenture for $1.2 billion",
+        "#text": "Seven tech giants signed Trump’s pledge to keep electricity costs from spiking around data centers ",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/889234/downdetector-ookla-speedtest-sold-accenture",
+      "url": "https://www.theverge.com/news/889578/data-center-power-pledge-white-house-google-meta-microsoft",
       "summary": "(要約準備中)"
     }
   ]
