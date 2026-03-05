@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-03-05T07:10:48.243Z",
+  "updatedAt": "2026-03-05T13:36:45.220Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Iran postpones Khamenei funeral as US-Israeli bombardment continues",
-      "url": "https://www.bbc.com/news/articles/clygglq6v9go?at_medium=RSS&at_campaign=rss",
-      "summary": "An official says more preparations are needed for the three-day ceremony in Tehran, where the supreme leader will lie in state."
+      "title": "Iran targets headquarters of Iranian Kurdish forces in Iraq",
+      "url": "https://www.bbc.com/news/articles/c2k88y1147jo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Iranian military's strikes come amid speculation that the US wants Iranian Kurdish groups to join its conflict with Iran."
     },
     {
       "source": "BBC World",
-      "title": "US sub sinks Iranian warship in Indian Ocean, Hegseth says",
-      "url": "https://www.bbc.com/news/articles/c0e55g03v2zo?at_medium=RSS&at_campaign=rss",
-      "summary": "Sri Lanka's navy says around 140 people are feared missing after a military vessel went down off its southern coast."
+      "title": "Nepalis vote in first election since Gen Z uprising for change",
+      "url": "https://www.bbc.com/news/articles/c79550jrye8o?at_medium=RSS&at_campaign=rss",
+      "summary": "This election will test whether the country is ready for a new, untried generation to shape its future."
     },
     {
       "source": "BBC World",
-      "title": "China sets lowest economic growth target since 1991",
-      "url": "https://www.bbc.com/news/articles/cqxddwl93qjo?at_medium=RSS&at_campaign=rss",
-      "summary": "It is also the first time the target has been lowered since it was cut to \"around 5%\" in 2023."
+      "title": "Global order is 'breaking down', Carney tells Australian parliament",
+      "url": "https://www.bbc.com/news/articles/cpqwwy8xvy3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Canadian prime minister said Australia and Canada should work together as 'strategic cousins'."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Did Live Nation punish a venue by taking Billie Eilish away?",
+        "#text": "AI tools can unmask anonymous accounts ",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/889720/live-nation-ticketmaster-trial-doj-barclays-center-threats",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/889395/ai-agents-unmask-anonymous-online-accounts",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "A new video from the White House mixes Call of Duty footage with actual video of Iran strikes",
+        "#text": "Anthropic makes last-ditch effort to salvage deal with Pentagon after blowup",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/889701/trump-white-house-call-of-duty-footage-iran",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/889782/anthropic-pentagon-discussions-ai-deal",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Seven tech giants signed Trump’s pledge to keep electricity costs from spiking around data centers ",
+        "#text": "Nothing’s Headphone A are something worth considering",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/889578/data-center-power-pledge-white-house-google-meta-microsoft",
+      "url": "https://www.theverge.com/tech/889615/nothing-headphone-a-review",
       "summary": "(要約準備中)"
     }
   ]
