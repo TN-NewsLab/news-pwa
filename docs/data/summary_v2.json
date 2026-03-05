@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "アリババ、強力なQwen AIチームを弱体化させたのか？最新のオープンソースリリースを受けて主要メンバーが離脱",
-    "title_en": "Did Alibaba just kneecap its powerful Qwen AI team? Key figures depart in wake of latest open source release",
-    "summary": "アリババのQwenチームが最近、新たにオープンソースのQwen3.5モデルを発表したが、中心的なリーダーシップである技術責任者が会社を去り、未来への懸念が広がっている。離脱したメンバーは、特にオープンソースへの影響を示唆し、企業の収益向上の目標が彼らのビジョンと衝突しているとの兆候が見られる。Qwenの開発が進む一方で、企業化の流れがそのオープンな性質を損なう懸念も指摘されている。",
-    "summary_en": "AlibabaのQwenチームが最近、新たにオープンソースのQwen3.5モデルを発表したが、中心的なリーダーシップである技術責任者が会社を去り、未来への懸念が広がっている。離脱したメンバーは、特にオープンソースへの影響を示唆し、企業の収益向上の目標が彼らのビジョンと衝突しているとの兆候が窺える。Qwenの開発が進む一方で、企業化の流れがそのオープンな性質を損なう懸念が指摘されている。",
-    "link": "https://venturebeat.com/technology/did-alibaba-just-kneecap-its-powerful-qwen-ai-team-key-figures-depart-in",
+    "title": "マイクロソフト、考えるべき時と無駄な思考の時を見極めるためにPhi-4-reasoning-vision-15Bを構築",
+    "title_en": "Microsoft built Phi-4-reasoning-vision-15B to know when to think — and when thinking is a waste of time",
+    "summary": "マイクロソフトは新しいAIモデル「Phi-4-reasoning-vision-15B」を発表し、少ない計算資源で高い性能を実現しています。このモデルは、画像とテキストを処理し、複雑な数学や科学の問題を解決する能力を持ちながら、圧倒的に少ないデータで訓練されました。マイクロソフトは、限られたリソースでも高性能を発揮できるモデルの開発を進めており、特定のタスクに対して効率的なアプローチを採用しています。",
+    "summary_en": "Microsoftは新しいAIモデル「Phi-4-reasoning-vision-15B」を発表し、少ない計算資源で高い性能を実現しています。このモデルは、画像とテキストを処理し、複雑な数学や科学の問題を解決する能力を持ちながら、圧倒的に少ないデータで訓練されました。Microsoftは、限られたリソースでも高性能を発揮できるモデルの開発を進めており、特定のタスクに対して効率的なアプローチを採用しています。",
+    "link": "https://venturebeat.com/technology/microsoft-built-phi-4-reasoning-vision-15b-to-know-when-to-think-and-when",
     "category": "AI",
-    "publishedAt": "2026-03-04 17:11"
+    "publishedAt": "2026-03-05 17:19"
   },
   {
     "source": "VentureBeat",
-    "title": "Google、Proの1/8のコストでGemini 3.1 Flash Liteを発表",
-    "title_en": "Google releases Gemini 3.1 Flash Lite at 1/8th the cost of Pro",
-    "summary": "Googleが新たに発表したAIモデル「Gemini 3.1 Flash-Lite」は、コストと速度の面で大幅な改善がなされ、企業や開発者にとって効率的な選択肢となっています。このモデルは迅速な応答を実現しながら、特に高頻度での業務に適しており、他の大型モデルと同等の性能を持つことが示されています。Flash-Liteは、戦略的に構築されたGeminiシリーズの一部として、AIの実用性を大幅に向上させることを目指しています。",
-    "summary_en": "Googleが新たに発表したAIモデル「Gemini 3.1 Flash-Lite」は、コストと速度の面で大幅な改善がなされ、企業や開発者にとって効率的な選択肢となっています。このモデルは迅速な応答を実現しながら、特に高頻度での業務に適しており、他の大型モデルと同等の性能を持つことが示されています。Flash-Liteは、戦略的に構築されたGeminiシリーズの一部として、AIの実用性を大幅に向上させることを目指しています。",
-    "link": "https://venturebeat.com/technology/google-releases-gemini-3-1-flash-lite-at-1-8th-the-cost-of-pro",
+    "title": "アリババが強力なQwen AIチームを弱体化させたのか？最新のオープンソースリリースを受けて主要人物が退職",
+    "title_en": "Did Alibaba just kneecap its powerful Qwen AI team? Key figures depart in wake of latest open source release",
+    "summary": "アリババのQwenチームは、最近のオープンソースモデルQwen3.5のリリースを祝ったものの、技術責任者を含む主要メンバーの突然の退社があり、プロジェクトの将来に対する懸念が高まっている。この状況は企業のリーダーシップに空白を生じさせ、多くの企業がQwenの透明性や性能を求めて移行した中で、その方向性が変わる可能性が出てきている。Qwenのオープンソースとしての取り組みが、今後どのように展開されるのか、特に利益重視にシフトする中で注目されている。",
+    "summary_en": "AlibabaのQwenチームは、最近のオープンソースモデルQwen3.5のリリースを祝う一方で、技術責任者を含む主要メンバーの突然の退社があり、プロジェクトの将来への懸念が高まっている。これにより、企業のリーダーシップの空白が生じ、多くの企業がQwenの透明性と性能を求めて移行したが、この方向性が変わる可能性がある。Qwenのオープンソースとしての取り組みが今後どうなるのか、特に利益追求にシフトする中で注目されている。",
+    "link": "https://venturebeat.com/technology/did-alibaba-just-kneecap-its-powerful-qwen-ai-team-key-figures-depart-in",
     "category": "AI",
-    "publishedAt": "2026-03-04 17:11"
+    "publishedAt": "2026-03-05 17:19"
   },
   {
     "source": "NHK",
-    "title": "ガソリン小売価格 3週連続値上がり 全国平均1リットル158.5円",
+    "title": "株価 大きく値上がり 下落した株式をいったん買い戻す動き",
     "title_en": "",
-    "summary": "レギュラーガソリンの小売価格が最近の調査で1リットル当たり158.5円となり、前の週から値上がりしました。これで3週連続の値上がりです。石油情報センターはイラン情勢の混乱が続く限り、さらにガソリン価格が上昇する可能性があると指摘しています。",
+    "summary": "東京株式市場で、イラン情勢への懸念から一時大幅下落した株式が買い戻される動きが見られました。これにより、日経平均株価は大きく値上がりしました。投資家がリスクを取る姿勢を示した結果といえます。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260304/k10015066251000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260305/k10015066811000.html",
     "category": "経済",
-    "publishedAt": "2026-03-04 17:12"
+    "publishedAt": "2026-03-05 17:19"
   },
   {
     "source": "BBC",
-    "title": "ガスとオイルの価格が急騰し、紛争の激化に対する懸念から株価が下落",
-    "title_en": "Gas and oil prices soar and shares tumble on fears conflict could escalate",
-    "summary": "中東の紛争が激化する中、市場は反応を示しています。紛争の長引きに対する懸念が高まり、影響が広がっています。投資家は不安を抱きつつ動向を注視しています。",
-    "summary_en": "中東の紛争が激化する中、市場は反応を示しています。紛争の長引きに対する懸念が高まり、影響が広がっています。投資家は不安を抱きつつ動向を注視しています。",
-    "link": "https://www.bbc.com/news/articles/cr5lz0vgy52o?at_medium=RSS&at_campaign=rss",
-    "category": "経済",
-    "publishedAt": "2026-03-04 17:12"
+    "title": "イラン、ハメネイの葬儀を延期 米イスラエルの爆撃続く",
+    "title_en": "Iran postpones Khamenei funeral as US-Israeli bombardment continues",
+    "summary": "テヘランでの三日間の式典に向けて、さらなる準備が必要であるとの公式な発表がありました。この式典では最高指導者が安置されます。関係者は、成功を収めるために十分な準備をする重要性を強調しています。",
+    "summary_en": "テヘランでの三日間の式典に向けて、さらなる準備が必要であるとの公式な発表がありました。この式典では最高指導者が安置されます。関係者は、成功を収めるために十分な準備をする重要性を強調しています。",
+    "link": "https://www.bbc.com/news/articles/clygglq6v9go?at_medium=RSS&at_campaign=rss",
+    "category": "その他",
+    "publishedAt": "2026-03-05 17:19"
   },
   {
     "source": "NHK",
-    "title": "「カイロス3号機」5日改めて打ち上げへ 和歌山",
+    "title": "「カイロス3号機」上昇中に飛行中断措置 “打ち上げ失敗”",
     "title_en": "",
-    "summary": "東京のベンチャー企業が開発した小型ロケット「カイロス3号機」の打ち上げが直前に中止されました。中止の理由は、測位衛星からの信号を安定して受信できなかったためです。企業は近い将来に再度打ち上げを行う予定です。",
+    "summary": "東京のベンチャー企業が開発した小型ロケット「カイロス3号機」が発射されたが、上昇中に飛行中断措置があり打ち上げは失敗した。これで初号機と2号機を含め3回連続の失敗となる。企業は現在、詳細な状況を調査中である。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260304/k10015065531000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260305/k10015066591000.html",
     "category": "その他",
-    "publishedAt": "2026-03-04 17:12"
+    "publishedAt": "2026-03-05 17:19"
   }
 ]
