@@ -1,23 +1,35 @@
 {
-  "updatedAt": "2026-03-05T07:10:48.243Z",
+  "updatedAt": "2026-03-06T07:08:11.537Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Iran postpones Khamenei funeral as US-Israeli bombardment continues",
-      "url": "https://www.bbc.com/news/articles/clygglq6v9go?at_medium=RSS&at_campaign=rss",
-      "summary": "An official says more preparations are needed for the three-day ceremony in Tehran, where the supreme leader will lie in state."
+      "title": "'What is the game plan?': The Iran war is unsettling China and its ambitions ",
+      "url": "https://www.bbc.com/news/articles/c2044vzrdpzo?at_medium=RSS&at_campaign=rss",
+      "summary": "China is not feeling the shock of war in the Middle East - yet. But it is feeling the ripples.\n"
     },
     {
       "source": "BBC World",
-      "title": "US sub sinks Iranian warship in Indian Ocean, Hegseth says",
-      "url": "https://www.bbc.com/news/articles/c0e55g03v2zo?at_medium=RSS&at_campaign=rss",
-      "summary": "Sri Lanka's navy says around 140 people are feared missing after a military vessel went down off its southern coast."
+      "title": "Trump cuts his losses on Noem after controversial tenure at homeland security",
+      "url": "https://www.bbc.com/news/articles/c2e4v7yvjx8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Noem was one of the administration's brightest stars when she stepped into the role, but has faced a mounting backlash in recent months."
     },
     {
       "source": "BBC World",
-      "title": "China sets lowest economic growth target since 1991",
-      "url": "https://www.bbc.com/news/articles/cqxddwl93qjo?at_medium=RSS&at_campaign=rss",
-      "summary": "It is also the first time the target has been lowered since it was cut to \"around 5%\" in 2023."
+      "title": "US and Venezuela agree to resume diplomatic ties after Maduro capture",
+      "url": "https://www.bbc.com/news/articles/cy9g1l5jx90o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US said the two sides would make joint efforts to promote stability after the US seized Maduro and his wife."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "TfL hack in 2024 affected around 10 million people, BBC can reveal",
+      "url": "https://www.bbc.com/news/articles/cz0ggkr2g77o?at_medium=RSS&at_campaign=rss",
+      "summary": "TfL insists it has \"kept customers informed throughout this incident and will continue to take all necessary action\"."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Anthropic vows to sue Pentagon over risk designation",
+      "url": "https://www.bbc.com/news/articles/cn5g3z3xe65o?at_medium=RSS&at_campaign=rss",
+      "summary": "The supply chain risk designation of the artificial intelligence firm is a first for a US company."
     },
     {
       "source": "BBC Technology",
@@ -26,42 +38,30 @@
       "summary": "The billionaire is accused of misleading investors in the run-up to his 2022 Twitter purchase. \n"
     },
     {
-      "source": "BBC Technology",
-      "title": "Father claims Google's AI product fuelled son's delusional spiral",
-      "url": "https://www.bbc.com/news/articles/czx44p99457o?at_medium=RSS&at_campaign=rss",
-      "summary": "The case is the first wrongful death case against Google over alleged harms caused by Gemini."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Regulator contacts Meta over workers watching intimate AI glasses videos",
-      "url": "https://www.bbc.com/news/articles/c0q33nvj0qpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Videos, including of glasses-wearers using the toilet or having sex, are sometimes reviewed by a Kenya-based subcontractor."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Did Live Nation punish a venue by taking Billie Eilish away?",
+        "#text": "Amazon.com says things are fixed after some issues with logging in and checking out",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/889720/live-nation-ticketmaster-trial-doj-barclays-center-threats",
+      "url": "https://www.theverge.com/tech/890215/amazon-is-down-login-prices",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "A new video from the White House mixes Call of Duty footage with actual video of Iran strikes",
+        "#text": "The best iPad deals you can get right now",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/889701/trump-white-house-call-of-duty-footage-iran",
+      "url": "https://www.theverge.com/21280354/best-ipad-deals-apple",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Seven tech giants signed Trump’s pledge to keep electricity costs from spiking around data centers ",
+        "#text": "What if your real computer was a super-sized Lego computer brick?",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/889578/data-center-power-pledge-white-house-google-meta-microsoft",
+      "url": "https://www.theverge.com/gadgets/890047/what-if-your-real-computer-was-a-super-sized-lego-computer-brick",
       "summary": "(要約準備中)"
     }
   ]
