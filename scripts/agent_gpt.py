@@ -93,7 +93,7 @@ def fetch_rss_ai_multiple(url, max_items=2):
     combined = priority_items + normal_items
     return combined[:max_items]
 
-# ********** title・summary抽出 / 3行要約 **********
+# ********** title・summary抽出 / 要約（約150文字程度、3文程度） **********
 def summarize(text, title=""):
     date_rule = (
             "要約では年号（例：2023年、2025年など）を使用しないでください。"
@@ -111,8 +111,6 @@ def summarize(text, title=""):
                 f"{date_rule}\n"
                 f"次の記事を3行で要約してください：\n{text}"
             )
-    # else:
-    #      prompt = f"次の記事を3行で要約してください：\n{text}"
     
     res = client.chat.completions.create(
         model="gpt-4o-mini",
@@ -247,8 +245,9 @@ def classify_category(title: str, summary: str, feed_key: str, description: str 
 # ********** timestamp生成 **********
 def format_timestamp(entry):
     """
-    RSSのpubDateをJSTの 'YYYY-MM-DD HH:MM' に統一。
-    pubDateが無ければ現在時刻を使用。
+    published を優先し、なければ updated を使用する。
+    いずれも取得不可/パース失敗時は現在時刻（UTC）を用い、
+    JST（+09:00）へ変換して 'YYYY-MM-DD HH:MM' 形式で出力する。
     """
     try:
         if hasattr(entry, "published"):
