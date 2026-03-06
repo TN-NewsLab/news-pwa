@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-06T13:20:16.748Z",
+  "updatedAt": "2026-03-06T19:03:36.252Z",
   "top": [
     {
       "source": "BBC World",
@@ -33,35 +33,35 @@
     },
     {
       "source": "BBC Technology",
-      "title": "Musk tells jury 'people read too much' into his posts",
-      "url": "https://www.bbc.com/news/articles/c7433dz4ykwo?at_medium=RSS&at_campaign=rss",
-      "summary": "The billionaire is accused of misleading investors in the run-up to his 2022 Twitter purchase. \n"
+      "title": "Xbox confirms new console is coming - but can it revive the brand?",
+      "url": "https://www.bbc.com/news/articles/c875we893ggo?at_medium=RSS&at_campaign=rss",
+      "summary": "Microsoft is the first big company out of the gates with Project Helix - a \"next-generation\" console."
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Marathon is in a sprint",
+        "#text": "You can already save up to $50 on the new M4 iPad Air",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/890333/marathon-live-service-game-mess",
+      "url": "https://www.theverge.com/gadgets/890389/apple-ipad-air-m4-xbox-wireless-controller-deal-sale",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Meet your new phone away from phone",
+        "#text": "The Trump phone was a no-show at the world’s biggest mobile show",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/889756/mwc-2026-unihertz-light-phone-clicks",
+      "url": "https://www.theverge.com/tech/889837/trump-phone-mobile-world-congress-mwc",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Amazon.com says things are fixed after some issues with logging in and checking out",
+        "#text": "Trump&#8217;s surgeon general nominee is running the wellness grifter playbook perfectly",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/890215/amazon-is-down-login-prices",
+      "url": "https://www.theverge.com/column/889922/optimizer-casey-means-wellness-influencer-playbook",
       "summary": "(要約準備中)"
     }
   ]
