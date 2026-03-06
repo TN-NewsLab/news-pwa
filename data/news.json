@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-06T07:08:11.537Z",
+  "updatedAt": "2026-03-06T13:20:16.748Z",
   "top": [
     {
       "source": "BBC World",
@@ -27,7 +27,7 @@
     },
     {
       "source": "BBC Technology",
-      "title": "Anthropic vows to sue Pentagon over risk designation",
+      "title": "Anthropic vows to sue Pentagon over supply chain risk label",
       "url": "https://www.bbc.com/news/articles/cn5g3z3xe65o?at_medium=RSS&at_campaign=rss",
       "summary": "The supply chain risk designation of the artificial intelligence firm is a first for a US company."
     },
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "Marathon is in a sprint",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/entertainment/890333/marathon-live-service-game-mess",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "Meet your new phone away from phone",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/tech/889756/mwc-2026-unihertz-light-phone-clicks",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "Amazon.com says things are fixed after some issues with logging in and checking out",
         "@_type": "html"
       },
       "url": "https://www.theverge.com/tech/890215/amazon-is-down-login-prices",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "The best iPad deals you can get right now",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/21280354/best-ipad-deals-apple",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "What if your real computer was a super-sized Lego computer brick?",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/gadgets/890047/what-if-your-real-computer-was-a-super-sized-lego-computer-brick",
       "summary": "(要約準備中)"
     }
   ]
