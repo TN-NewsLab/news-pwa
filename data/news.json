@@ -1,11 +1,17 @@
 {
-  "updatedAt": "2026-03-05T19:35:56.038Z",
+  "updatedAt": "2026-03-06T03:08:07.382Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Iran targets headquarters of Iranian Kurdish forces in Iraq",
-      "url": "https://www.bbc.com/news/articles/c2k88y1147jo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Iranian military's strikes come amid speculation that the US wants Iranian Kurdish groups to join its conflict with Iran."
+      "title": "'What is the game plan?': The Iran war is unsettling China and its ambitions ",
+      "url": "https://www.bbc.com/news/articles/c2044vzrdpzo?at_medium=RSS&at_campaign=rss",
+      "summary": "China is not feeling the shock of war in the Middle East - yet. But it is feeling the ripples.\n"
+    },
+    {
+      "source": "BBC World",
+      "title": "'We have been preparing': Why the boots on the ground in Iran could be Kurdish",
+      "url": "https://www.bbc.com/news/articles/cm215nnjyr0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Iranian Kurdish opposition groups in exile in northern Iraq tell the BBC they have plans to cross the border but deny already doing so."
     },
     {
       "source": "BBC World",
@@ -14,10 +20,16 @@
       "summary": "Ukraine's president says Kyiv will only help if doing so does not deplete its own air defences."
     },
     {
-      "source": "BBC World",
-      "title": "Britney Spears arrested on suspicion of driving under the influence",
-      "url": "https://www.bbc.com/news/articles/c4gjjn41l7no?at_medium=RSS&at_campaign=rss",
-      "summary": "The singer was arrested by the California Highway Patrol at around 21:30 PT (05:30 GMT) on Wednesday."
+      "source": "BBC Technology",
+      "title": "TfL hack in 2024 affected around 10 million people, BBC can reveal",
+      "url": "https://www.bbc.com/news/articles/cz0ggkr2g77o?at_medium=RSS&at_campaign=rss",
+      "summary": "TfL insists it has \"kept customers informed throughout this incident and will continue to take all necessary action\"."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Anthropic vows to sue Pentagon over risk designation",
+      "url": "https://www.bbc.com/news/articles/cn5g3z3xe65o?at_medium=RSS&at_campaign=rss",
+      "summary": "The supply chain risk designation of the artificial intelligence firm is a first for a US company."
     },
     {
       "source": "BBC Technology",
@@ -26,42 +38,30 @@
       "summary": "The billionaire is accused of misleading investors in the run-up to his 2022 Twitter purchase. \n"
     },
     {
-      "source": "BBC Technology",
-      "title": "Father claims Google's AI product fuelled son's delusional spiral",
-      "url": "https://www.bbc.com/news/articles/czx44p99457o?at_medium=RSS&at_campaign=rss",
-      "summary": "The case is the first wrongful death case against Google over alleged harms caused by Gemini."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Regulator contacts Meta over workers watching intimate AI glasses videos",
-      "url": "https://www.bbc.com/news/articles/c0q33nvj0qpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Videos, including of glasses-wearers using the toilet or having sex, are sometimes reviewed by a Kenya-based subcontractor."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Birdbuddy’s AI-powered hummingbird feeder is matching its best price to date",
+        "#text": "Amazon.com says things are fixed after some issues with logging in and checking out",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/889975/birdbuddy-smart-hummingbird-feeder-pro-solar-deal-sale",
+      "url": "https://www.theverge.com/tech/890215/amazon-is-down-login-prices",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Netflix is buying Ben Affleck’s AI startup",
+        "#text": "The best iPad deals you can get right now",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/streaming/889973/netflix-ben-affleck-interpositive-ai",
+      "url": "https://www.theverge.com/21280354/best-ipad-deals-apple",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "OpenAI’s new GPT-5.4 model is a big step toward autonomous agents",
+        "#text": "What if your real computer was a super-sized Lego computer brick?",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/889926/openai-gpt-5-4-model-release-ai-agents",
+      "url": "https://www.theverge.com/gadgets/890047/what-if-your-real-computer-was-a-super-sized-lego-computer-brick",
       "summary": "(要約準備中)"
     }
   ]
