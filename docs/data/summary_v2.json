@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "マイクロソフト、考えるべき時と無駄な思考の時を見極めるためにPhi-4-reasoning-vision-15Bを構築",
-    "title_en": "Microsoft built Phi-4-reasoning-vision-15B to know when to think — and when thinking is a waste of time",
-    "summary": "マイクロソフトは新しいAIモデル「Phi-4-reasoning-vision-15B」を発表し、少ない計算資源で高い性能を実現しています。このモデルは、画像とテキストを処理し、複雑な数学や科学の問題を解決する能力を持ちながら、圧倒的に少ないデータで訓練されました。マイクロソフトは、限られたリソースでも高性能を発揮できるモデルの開発を進めており、特定のタスクに対して効率的なアプローチを採用しています。",
-    "summary_en": "Microsoftは新しいAIモデル「Phi-4-reasoning-vision-15B」を発表し、少ない計算資源で高い性能を実現しています。このモデルは、画像とテキストを処理し、複雑な数学や科学の問題を解決する能力を持ちながら、圧倒的に少ないデータで訓練されました。Microsoftは、限られたリソースでも高性能を発揮できるモデルの開発を進めており、特定のタスクに対して効率的なアプローチを採用しています。",
-    "link": "https://venturebeat.com/technology/microsoft-built-phi-4-reasoning-vision-15b-to-know-when-to-think-and-when",
+    "title": "OpenAI、ネイティブコンピュータ操作モードとMicrosoft Excel、Google Sheets用の金融プラグインを備えたGPT-5.4を発表",
+    "title_en": "OpenAI launches GPT-5.4 with native computer use mode, financial plugins for Microsoft Excel, Google Sheets",
+    "summary": "OpenAIが新たに発表したGPT-5.4は、一般向けに二つのバージョンを提供し、効率を大幅に改善しており、特にトークン使用量が少なく、ユーザーのコンピュータを操作する機能を備えています。新しいアプリケーション統合により、GPT-5.4はMicrosoft ExcelやGoogle Sheetsに深く組み込まれ、エンタープライズのタスクを迅速に処理できるようになります。また、このモデルは、専門家の仕事と比較して高いパフォーマンスを示しており、ビジネス向けの自動化や複雑なタスクの処理に向けて進化しています。",
+    "summary_en": "OpenAIが新たに発表したGPT-5.4は、一般向けに二つのバージョンを提供し、効率を大幅に改善しており、特にトークン使用量が少なく、ユーザーのコンピュータを操作する機能を備えています。新しいアプリケーション統合により、GPT-5.4はMicrosoft ExcelやGoogle Sheetsに深く組み込まれ、エンタープライズのタスクを迅速に処理できるようになります。また、このモデルは、専門家の仕事と比較して高いパフォーマンスを示しており、ビジネス向けの自動化や複雑なタスクの処理に向けて進化しています。",
+    "link": "https://venturebeat.com/technology/openai-launches-gpt-5-4-with-native-computer-use-mode-financial-plugins-for",
     "category": "AI",
-    "publishedAt": "2026-03-05 17:19"
+    "publishedAt": "2026-03-06 17:02"
   },
   {
     "source": "VentureBeat",
-    "title": "アリババが強力なQwen AIチームを弱体化させたのか？最新のオープンソースリリースを受けて主要人物が退職",
-    "title_en": "Did Alibaba just kneecap its powerful Qwen AI team? Key figures depart in wake of latest open source release",
-    "summary": "アリババのQwenチームは、最近のオープンソースモデルQwen3.5のリリースを祝ったものの、技術責任者を含む主要メンバーの突然の退社があり、プロジェクトの将来に対する懸念が高まっている。この状況は企業のリーダーシップに空白を生じさせ、多くの企業がQwenの透明性や性能を求めて移行した中で、その方向性が変わる可能性が出てきている。Qwenのオープンソースとしての取り組みが、今後どのように展開されるのか、特に利益重視にシフトする中で注目されている。",
-    "summary_en": "AlibabaのQwenチームは、最近のオープンソースモデルQwen3.5のリリースを祝う一方で、技術責任者を含む主要メンバーの突然の退社があり、プロジェクトの将来への懸念が高まっている。これにより、企業のリーダーシップの空白が生じ、多くの企業がQwenの透明性と性能を求めて移行したが、この方向性が変わる可能性がある。Qwenのオープンソースとしての取り組みが今後どうなるのか、特に利益追求にシフトする中で注目されている。",
-    "link": "https://venturebeat.com/technology/did-alibaba-just-kneecap-its-powerful-qwen-ai-team-key-figures-depart-in",
+    "title": "マイクロソフト、思考すべき時と無駄な時を知るための「Phi-4-reasoning-vision-15B」を構築",
+    "title_en": "Microsoft built Phi-4-reasoning-vision-15B to know when to think — and when thinking is a waste of time",
+    "summary": "マイクロソフトは、計算資源とトレーニングデータを大幅に削減しながらも、15億パラメータの高性能なマルチモーダルAIモデル「Phi-4-reasoning-vision-15B」を発表しました。このモデルは、複雑な科学や数学の問題を解決する能力を持ち、特に直感的なタスクにおいても優れたパフォーマンスを発揮します。今回のリリースは、AI業界におけるデータやトレーニング方法の質が重要であることを示し、特にリソースに制約のある状況での利用可能性を広げる可能性があります。",
+    "summary_en": "Microsoftは、計算資源とトレーニングデータを大幅に削減しながらも、高性能な15億パラメータのマルチモーダルAIモデル「Phi-4-reasoning-vision-15B」を発表しました。このモデルは、複雑な科学や数学の問題を解決できる能力を持ち、特に直感的なタスクにおいても優れたパフォーマンスを発揮します。今回のリリースは、AI業界におけるデータやトレーニング方法の質が重要であることを示すもので、特にリソースに制約のある状況での利用可能性を広げる可能性があります。",
+    "link": "https://venturebeat.com/technology/microsoft-built-phi-4-reasoning-vision-15b-to-know-when-to-think-and-when",
     "category": "AI",
-    "publishedAt": "2026-03-05 17:19"
+    "publishedAt": "2026-03-06 17:03"
   },
   {
     "source": "NHK",
-    "title": "株価 大きく値上がり 下落した株式をいったん買い戻す動き",
+    "title": "デンソー ロームに買収の提案 実現すれば大規模な業界再編に",
     "title_en": "",
-    "summary": "東京株式市場で、イラン情勢への懸念から一時大幅下落した株式が買い戻される動きが見られました。これにより、日経平均株価は大きく値上がりしました。投資家がリスクを取る姿勢を示した結果といえます。",
+    "summary": "トヨタグループのデンソーが半導体大手のロームに買収提案を行っています。ロームは慎重に検討している模様です。実現すれば大規模な業界再編が進むことになります。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260305/k10015066811000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260306/k10015068341000.html",
     "category": "経済",
-    "publishedAt": "2026-03-05 17:19"
+    "publishedAt": "2026-03-06 17:03"
   },
   {
     "source": "BBC",
-    "title": "イラン、ハメネイの葬儀を延期 米イスラエルの爆撃続く",
-    "title_en": "Iran postpones Khamenei funeral as US-Israeli bombardment continues",
-    "summary": "テヘランでの三日間の式典に向けて、さらなる準備が必要であるとの公式な発表がありました。この式典では最高指導者が安置されます。関係者は、成功を収めるために十分な準備をする重要性を強調しています。",
-    "summary_en": "テヘランでの三日間の式典に向けて、さらなる準備が必要であるとの公式な発表がありました。この式典では最高指導者が安置されます。関係者は、成功を収めるために十分な準備をする重要性を強調しています。",
-    "link": "https://www.bbc.com/news/articles/clygglq6v9go?at_medium=RSS&at_campaign=rss",
+    "title": "「ゲームプランは何か？」: イラン戦争が中国とその野望を揺るがす",
+    "title_en": "'What is the game plan?': The Iran war is unsettling China and its ambitions",
+    "summary": "中東の戦争による直接的な影響は中国にはまだ現れていないが、その影響が徐々に広がっている。中国の経済やエネルギー市場に対する影響が懸念されている。今後の情勢の変化が中国にどのように作用するか注視されている。",
+    "summary_en": "中東の戦争による直接的な影響は中国にはまだ現れていないが、その影響が徐々に広がっている。中国の経済やエネルギー市場に対する影響が懸念されている。今後の情勢の変化が中国にどのように作用するか注視されている。",
+    "link": "https://www.bbc.com/news/articles/c2044vzrdpzo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-03-05 17:19"
+    "publishedAt": "2026-03-06 17:03"
   },
   {
     "source": "NHK",
-    "title": "「カイロス3号機」上昇中に飛行中断措置 “打ち上げ失敗”",
+    "title": "iPS細胞使用の再生医療2製品 国内製造販売を正式に承認 厚労省",
     "title_en": "",
-    "summary": "東京のベンチャー企業が開発した小型ロケット「カイロス3号機」が発射されたが、上昇中に飛行中断措置があり打ち上げは失敗した。これで初号機と2号機を含め3回連続の失敗となる。企業は現在、詳細な状況を調査中である。",
+    "summary": "厚生労働省は、心臓病とパーキンソン病の治療に利用されるiPS細胞を用いた再生医療製品の製造販売を承認しました。今後、製造体制が整えば、今年の夏ごろには医療保険適用の治療が受けられる見込みです。これにより、新たな治療選択肢が患者に提供されることになります。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260305/k10015066591000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260306/k10015067971000.html",
     "category": "その他",
-    "publishedAt": "2026-03-05 17:19"
+    "publishedAt": "2026-03-06 17:03"
   }
 ]
