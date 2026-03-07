@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-03-07T13:08:44.683Z",
+  "updatedAt": "2026-03-07T18:50:18.912Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Iranian ambassador warns UK to be 'very careful' about further involvement in war",
+      "url": "https://www.bbc.com/news/articles/cq6qp458zv1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Seyed Ali Mousavi says Iran has a \"right to self-defence\" if the UK directly joins US-Israeli attacks."
+    },
     {
       "source": "BBC World",
       "title": "Armed robots take to the battlefield in Ukraine war",
@@ -12,12 +18,6 @@
       "title": "We've been speaking to Iranians during one week of war. Here's what they said",
       "url": "https://www.bbc.com/news/articles/c5y5lqygrn7o?at_medium=RSS&at_campaign=rss",
       "summary": "Ordinary Iranians reflect on seven days of conflict and where they see their country going next."
-    },
-    {
-      "source": "BBC World",
-      "title": "Heavy rains and flooding kills at least 23 in Nairobi",
-      "url": "https://www.bbc.com/news/articles/cn87pl8e2l5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Flights in and out of Nairobi Airport have been disrupted while some roads in the capital are submerged."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Apple’s cheap laptop looks like a winner",
+        "#text": "Sony appears to be testing dynamic pricing on PlayStation games",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/890785/macbook-neo-slay-spire-2-pokopia-installer",
+      "url": "https://www.theverge.com/games/891085/sony-dynamic-pricing-playstation-games",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The Corvette ZR1X hybrid can outpace million-dollar sports cars for a fraction of the cost",
+        "#text": "Time’s running out to get a free gift card when you preorder a new MacBook",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/transportation/888573/chevy-corvette-zr1x-hybrid-racing-performance",
+      "url": "https://www.theverge.com/gadgets/890788/macbook-neo-air-pro-samsung-galaxy-s26-gift-card-deal-sale",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "DJI will pay $30K to the man who accidentally hacked 7,000 Romo robovacs",
+        "#text": "Vizio accounts are becoming Walmart accounts",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/890982/dji-pay-sammy-azdoufal-robot-vacuum-hack-romo-security",
+      "url": "https://www.theverge.com/gadgets/891056/vizio-accounts-are-becoming-walmart-accounts",
       "summary": "(要約準備中)"
     }
   ]
