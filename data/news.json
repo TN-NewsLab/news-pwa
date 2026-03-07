@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-03-07T06:58:56.623Z",
+  "updatedAt": "2026-03-07T13:08:44.683Z",
   "top": [
-    {
-      "source": "BBC World",
-      "title": "Trump demands 'unconditional surrender' from Iran as Putin speaks with Iran's president",
-      "url": "https://www.bbc.com/news/articles/c5yq82k1wk8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The president also calls on Tehran to pick new leaders who are \"acceptable\" to the White House after six days of war."
-    },
-    {
-      "source": "BBC World",
-      "title": "Flight paths squeezed as Iran conflict closes more airspace ",
-      "url": "https://www.bbc.com/news/articles/crrx1jgr4jjo?at_medium=RSS&at_campaign=rss",
-      "summary": "A drone attack on Azerbaijan has narrowed choices for airlines scrambling to respond to disruption in the Gulf."
-    },
     {
       "source": "BBC World",
       "title": "Armed robots take to the battlefield in Ukraine war",
       "url": "https://www.bbc.com/news/articles/c62662gzlp8o?at_medium=RSS&at_campaign=rss",
       "summary": "Ukraine has embarked on a programme to deploy armed robots on the battlefield against Russian forces. "
+    },
+    {
+      "source": "BBC World",
+      "title": "We've been speaking to Iranians during one week of war. Here's what they said",
+      "url": "https://www.bbc.com/news/articles/c5y5lqygrn7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ordinary Iranians reflect on seven days of conflict and where they see their country going next."
+    },
+    {
+      "source": "BBC World",
+      "title": "Heavy rains and flooding kills at least 23 in Nairobi",
+      "url": "https://www.bbc.com/news/articles/cn87pl8e2l5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Flights in and out of Nairobi Airport have been disrupted while some roads in the capital are submerged."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "Apple’s cheap laptop looks like a winner",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/tech/890785/macbook-neo-slay-spire-2-pokopia-installer",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "The Corvette ZR1X hybrid can outpace million-dollar sports cars for a fraction of the cost",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/transportation/888573/chevy-corvette-zr1x-hybrid-racing-performance",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "DJI will pay $30K to the man who accidentally hacked 7,000 Romo robovacs",
         "@_type": "html"
       },
       "url": "https://www.theverge.com/news/890982/dji-pay-sammy-azdoufal-robot-vacuum-hack-romo-security",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Valve says it still plans to ship the Steam Machine in 2026",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/games/890986/valve-steam-machine-frame-controller-delay-ram-memory",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Grammarly is using our identities without permission",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews",
       "summary": "(要約準備中)"
     }
   ]
