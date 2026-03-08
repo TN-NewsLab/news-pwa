@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-08T07:01:21.541Z",
+  "updatedAt": "2026-03-08T13:10:23.678Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,15 +9,15 @@
     },
     {
       "source": "BBC World",
-      "title": "US embassy in Oslo hit by explosion, Norway police say",
-      "url": "https://www.bbc.com/news/articles/c5yjegg892lo?at_medium=RSS&at_campaign=rss",
-      "summary": "No injuries are reported after the blast in the Norwegian capital in the early hours on Sunday."
+      "title": "War fuels debate in Cyprus over UK military bases",
+      "url": "https://www.bbc.com/news/articles/cx2r1xldl1ko?at_medium=RSS&at_campaign=rss",
+      "summary": "“British Bases Out” is the slogan of Cypriot protesters after a drone strike targeted the RAF Akrotiri airbase."
     },
     {
       "source": "BBC World",
-      "title": "Boy, 12, among six dead as tornadoes hit Michigan and Oklahoma",
-      "url": "https://www.bbc.com/news/articles/crrxpwzvd5vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The storms uprooted trees, downed power lines, damaged buildings and ripped the roofs off some houses. "
+      "title": "Explosion at US embassy in Oslo may have been terrorism, Norway police say",
+      "url": "https://www.bbc.com/news/articles/c5yjegg892lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Police say they are investigating other motives after the blast caused minor damage to the embassy building."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "The cute and cursed story of Furby",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/podcast/891124/the-cute-and-cursed-story-of-furby",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "The uncomfortable truth about hybrid vehicles",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/column/890135/truth-hybrid-vehicles",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "Sony appears to be testing dynamic pricing on PlayStation games",
         "@_type": "html"
       },
       "url": "https://www.theverge.com/games/891085/sony-dynamic-pricing-playstation-games",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Time’s running out to get a free gift card when you preorder a new MacBook",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/gadgets/890788/macbook-neo-air-pro-samsung-galaxy-s26-gift-card-deal-sale",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Vizio accounts are becoming Walmart accounts",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/gadgets/891056/vizio-accounts-are-becoming-walmart-accounts",
       "summary": "(要約準備中)"
     }
   ]
