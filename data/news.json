@@ -1,12 +1,6 @@
 {
-  "updatedAt": "2026-03-08T13:10:23.678Z",
+  "updatedAt": "2026-03-08T18:51:58.726Z",
   "top": [
-    {
-      "source": "BBC World",
-      "title": "Dozens killed as Israeli special forces raid Lebanese village in search of 40-year-old remains",
-      "url": "https://www.bbc.com/news/articles/cy8l2p2l3v0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Overnight, one Israeli operation saw at least 41 people killed and 40 injured, according to the Lebanese health ministry."
-    },
     {
       "source": "BBC World",
       "title": "War fuels debate in Cyprus over UK military bases",
@@ -20,6 +14,12 @@
       "summary": "Police say they are investigating other motives after the blast caused minor damage to the embassy building."
     },
     {
+      "source": "BBC World",
+      "title": "Boy, 12, among six dead as tornadoes hit Michigan and Oklahoma",
+      "url": "https://www.bbc.com/news/articles/crrxpwzvd5vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The storms uprooted trees, downed power lines, damaged buildings and ripped the roofs off some houses. "
+    },
+    {
       "source": "BBC Technology",
       "title": "TfL hack in 2024 affected around 10 million people, BBC can reveal",
       "url": "https://www.bbc.com/news/articles/cz0ggkr2g77o?at_medium=RSS&at_campaign=rss",
@@ -27,9 +27,9 @@
     },
     {
       "source": "BBC Technology",
-      "title": "Anthropic vows to sue Pentagon over supply chain risk label",
-      "url": "https://www.bbc.com/news/articles/cn5g3z3xe65o?at_medium=RSS&at_campaign=rss",
-      "summary": "The supply chain risk designation of the artificial intelligence firm is a first for a US company."
+      "title": "Mayor Sadiq Khan invites embattled AI firm Anthropic to expand in London",
+      "url": "https://www.bbc.com/news/articles/czx7915nn8qo?at_medium=RSS&at_campaign=rss",
+      "summary": "The letter from London's mayor came as the US moved to designate the company a supply chain risk."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "The cute and cursed story of Furby",
+        "#text": "Apple is going high-end with new ‘Ultra’ products next",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/podcast/891124/the-cute-and-cursed-story-of-furby",
+      "url": "https://www.theverge.com/tech/891151/apple-is-going-high-end-with-new-ultra-products-next",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The uncomfortable truth about hybrid vehicles",
+        "#text": "Listen to this: Mabe Fratti’s experimental cello pop",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/column/890135/truth-hybrid-vehicles",
+      "url": "https://www.theverge.com/column/890713/mabe-fratti-sentir-que-no-sabes-review",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Sony appears to be testing dynamic pricing on PlayStation games",
+        "#text": "What we&#8217;re listening to, watching, and reading right now.",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/891085/sony-dynamic-pricing-playstation-games",
+      "url": "https://www.theverge.com/entertainment/891057/what-were-listening-to-watching-and-reading",
       "summary": "(要約準備中)"
     }
   ]
