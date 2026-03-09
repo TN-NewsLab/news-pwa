@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-09T07:17:36.483Z",
+  "updatedAt": "2026-03-09T13:39:44.126Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,15 +9,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Stock markets slump as oil prices surge over Strait of Hormuz fears",
+      "title": "G7 nations to hold emergency meeting on oil as stock markets sink",
       "url": "https://www.bbc.com/news/articles/c79542n0grwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Major disruption to energy supplies threatens to push up prices for consumers and businesses around the world."
+      "summary": "Chancellor Rachel Reeves will join talks amid reports that oil reserves could be released to lower prices."
     },
     {
       "source": "BBC World",
-      "title": "Rihanna's Beverly Hills home hit by gunfire, police say",
-      "url": "https://www.bbc.com/news/articles/ckg2pm2kvkeo?at_medium=RSS&at_campaign=rss",
-      "summary": "A suspect was arrested after the shooting on Sunday afternoon, Los Angeles officers say."
+      "title": "India offered sanctuary to Iranian ship three days before US sank it",
+      "url": "https://www.bbc.com/news/articles/c2e4yxj0pd3o?at_medium=RSS&at_campaign=rss",
+      "summary": "India says Tehran sought permission to dock three ships on the day the US and Israel began a war on Iran. "
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Apple is going high-end with new ‘Ultra’ products next",
+        "#text": "Panic’s gaming ambitions hinge on the weird and whimsical",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/891151/apple-is-going-high-end-with-new-ultra-products-next",
+      "url": "https://www.theverge.com/games/890010/panic-gaming-big-walk-portland-house-house",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Listen to this: Mabe Fratti’s experimental cello pop",
+        "#text": "The iPhone 17E is good, but you probably shouldn’t buy it",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/column/890713/mabe-fratti-sentir-que-no-sabes-review",
+      "url": "https://www.theverge.com/tech/891164/apple-iphone-17e-review",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "What we&#8217;re listening to, watching, and reading right now.",
+        "#text": "Apple iPad Air M4 review: a little bit faster now",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/891057/what-were-listening-to-watching-and-reading",
+      "url": "https://www.theverge.com/tech/891242/apple-ipad-air-review-2026",
       "summary": "(要約準備中)"
     }
   ]
