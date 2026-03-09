@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "OpenAI、ネイティブコンピュータ操作モードとMicrosoft Excel、Google Sheets用の金融プラグインを備えたGPT-5.4を発表",
-    "title_en": "OpenAI launches GPT-5.4 with native computer use mode, financial plugins for Microsoft Excel, Google Sheets",
-    "summary": "OpenAIが新たに発表したGPT-5.4は、一般向けに二つのバージョンを提供し、効率を大幅に改善しており、特にトークン使用量が少なく、ユーザーのコンピュータを操作する機能を備えています。新しいアプリケーション統合により、GPT-5.4はMicrosoft ExcelやGoogle Sheetsに深く組み込まれ、エンタープライズのタスクを迅速に処理できるようになります。また、このモデルは、専門家の仕事と比較して高いパフォーマンスを示しており、ビジネス向けの自動化や複雑なタスクの処理に向けて進化しています。",
-    "summary_en": "OpenAIが新たに発表したGPT-5.4は、一般向けに二つのバージョンを提供し、効率を大幅に改善しており、特にトークン使用量が少なく、ユーザーのコンピュータを操作する機能を備えています。新しいアプリケーション統合により、GPT-5.4はMicrosoft ExcelやGoogle Sheetsに深く組み込まれ、エンタープライズのタスクを迅速に処理できるようになります。また、このモデルは、専門家の仕事と比較して高いパフォーマンスを示しており、ビジネス向けの自動化や複雑なタスクの処理に向けて進化しています。",
-    "link": "https://venturebeat.com/technology/openai-launches-gpt-5-4-with-native-computer-use-mode-financial-plugins-for",
+    "title": "LangChainのCEO、優れたモデルだけではAIエージェントをプロダクションに導入できないと主張",
+    "title_en": "LangChain's CEO argues that better models alone won't get your AI agent to production",
+    "summary": "モデルの能力が向上する中で、AIエージェントをより効果的にするための「ハーネス工学」が進化している。特に、モデルが独立して長期的なタスクを実行できるように設計されており、これにより新しい環境でのループ実行が可能になった。LangChainの「Deep Agents」はカスタマイズ可能なハーネスで、進捗を追跡しながら複雑なタスクを管理できる機能を提供する。",
+    "summary_en": "モデルの能力が向上する中で、AIエージェントをより効果的にするための「ハーネス工学」が進化している。特に、モデルが独立して長期的なタスクを実行できるように設計されており、これにより新しい環境でのループ実行が可能になった。LangChainの「Deep Agents」はカスタマイズ可能なハーネスで、進捗を追跡しながら複雑なタスクを管理できる機能を提供する。",
+    "link": "https://venturebeat.com/orchestration/langchains-ceo-argues-that-better-models-alone-wont-get-your-ai-agent-to",
     "category": "AI",
-    "publishedAt": "2026-03-06 17:02"
+    "publishedAt": "2026-03-09 16:26"
   },
   {
     "source": "VentureBeat",
-    "title": "マイクロソフト、思考すべき時と無駄な時を知るための「Phi-4-reasoning-vision-15B」を構築",
-    "title_en": "Microsoft built Phi-4-reasoning-vision-15B to know when to think — and when thinking is a waste of time",
-    "summary": "マイクロソフトは、計算資源とトレーニングデータを大幅に削減しながらも、15億パラメータの高性能なマルチモーダルAIモデル「Phi-4-reasoning-vision-15B」を発表しました。このモデルは、複雑な科学や数学の問題を解決する能力を持ち、特に直感的なタスクにおいても優れたパフォーマンスを発揮します。今回のリリースは、AI業界におけるデータやトレーニング方法の質が重要であることを示し、特にリソースに制約のある状況での利用可能性を広げる可能性があります。",
-    "summary_en": "Microsoftは、計算資源とトレーニングデータを大幅に削減しながらも、高性能な15億パラメータのマルチモーダルAIモデル「Phi-4-reasoning-vision-15B」を発表しました。このモデルは、複雑な科学や数学の問題を解決できる能力を持ち、特に直感的なタスクにおいても優れたパフォーマンスを発揮します。今回のリリースは、AI業界におけるデータやトレーニング方法の質が重要であることを示すもので、特にリソースに制約のある状況での利用可能性を広げる可能性があります。",
-    "link": "https://venturebeat.com/technology/microsoft-built-phi-4-reasoning-vision-15b-to-know-when-to-think-and-when",
+    "title": "Anthropic、Claude Marketplaceを立ち上げ、企業がReplit、GitLab、HarveyなどのClaude活用ツールにアクセス可能に",
+    "title_en": "Anthropic launches Claude Marketplace, giving enterprises access to Claude-powered tools from Replit, GitLab, Harvey and more",
+    "summary": "サンフランシスコのスタートアップAnthropicは、AI製品の新しい提供を続けており、最近「Claude Marketplace」を発表しました。この仕組みでは、企業がAnthropicとの既存の契約の一部を利用して、外部パートナーが提供するClaudeモデルを活用したツールやアプリケーションを購入できるようになります。これにより、企業はAI関連の調達を簡素化し、プロセスを一元化することが期待されていますが、真の成功は企業がどのようにこれを利用するかにかかっています。",
+    "summary_en": "サンフランシスコのスタートアップAnthropicは、AI製品の新しい提供を続けており、最近「Claude Marketplace」を発表しました。この仕組みでは、企業がAnthropicとの既存の契約の一部を利用して、外部パートナーが提供するClaudeモデルを活用したツールやアプリケーションを購入できるようになります。これにより、企業はAI関連の調達を簡素化し、プロセスを一元化することが期待されていますが、真の成功は企業がどのようにこれを利用するかにかかっています。",
+    "link": "https://venturebeat.com/technology/anthropic-launches-claude-marketplace-giving-enterprises-access-to-claude",
     "category": "AI",
-    "publishedAt": "2026-03-06 17:03"
+    "publishedAt": "2026-03-09 16:26"
   },
   {
     "source": "NHK",
-    "title": "デンソー ロームに買収の提案 実現すれば大規模な業界再編に",
+    "title": "株価 一時4200円超の急落 円や国債も売られ「トリプル安」に",
     "title_en": "",
-    "summary": "トヨタグループのデンソーが半導体大手のロームに買収提案を行っています。ロームは慎重に検討している模様です。実現すれば大規模な業界再編が進むことになります。",
+    "summary": "最近の東京株式市場では、イラン情勢の懸念から原油先物価格が急上昇し、日経平均株価が大幅に下落しました。午前中に一時4200円超の急落を記録し、取引時間中としては過去2番目の大きさとなりました。円や国債も売られ、市場全体で「トリプル安」という状況が発生しています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260306/k10015068341000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260309/k10015070431000.html",
     "category": "経済",
-    "publishedAt": "2026-03-06 17:03"
+    "publishedAt": "2026-03-09 16:26"
   },
   {
     "source": "BBC",
-    "title": "「ゲームプランは何か？」: イラン戦争が中国とその野望を揺るがす",
-    "title_en": "'What is the game plan?': The Iran war is unsettling China and its ambitions",
-    "summary": "中東の戦争による直接的な影響は中国にはまだ現れていないが、その影響が徐々に広がっている。中国の経済やエネルギー市場に対する影響が懸念されている。今後の情勢の変化が中国にどのように作用するか注視されている。",
-    "summary_en": "中東の戦争による直接的な影響は中国にはまだ現れていないが、その影響が徐々に広がっている。中国の経済やエネルギー市場に対する影響が懸念されている。今後の情勢の変化が中国にどのように作用するか注視されている。",
-    "link": "https://www.bbc.com/news/articles/c2044vzrdpzo?at_medium=RSS&at_campaign=rss",
+    "title": "イランの新最高指導者モイタバ・ハメネイとは？",
+    "title_en": "Who is Mojtaba Khamenei, Iran's new supreme leader?",
+    "summary": "56歳の彼はこれまで控えめな態度を保ってきたが、父親の強硬政策を引き続き貫くと多くの人が予想している。",
+    "summary_en": "56歳の彼はこれまで控えめな態度を保ってきたが、父親の強硬政策を引き続き貫くと多くの人が予想している。",
+    "link": "https://www.bbc.com/news/articles/c78xxg05w0zo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-03-06 17:03"
+    "publishedAt": "2026-03-09 16:26"
   },
   {
     "source": "NHK",
-    "title": "iPS細胞使用の再生医療2製品 国内製造販売を正式に承認 厚労省",
+    "title": "東電 福島第一原発 廃炉作業に1日約5000人 作業員確保が課題に",
     "title_en": "",
-    "summary": "厚生労働省は、心臓病とパーキンソン病の治療に利用されるiPS細胞を用いた再生医療製品の製造販売を承認しました。今後、製造体制が整えば、今年の夏ごろには医療保険適用の治療が受けられる見込みです。これにより、新たな治療選択肢が患者に提供されることになります。",
+    "summary": "東京電力福島第一原子力発電所の廃炉作業が進む中、作業員の確保が課題となっています。協力企業は業務の見通しが立てにくく、困難な状況に直面しています。専門家は、東京電力が中長期の工程を具体化することが重要だと指摘しています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260306/k10015067971000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260309/k10015070471000.html",
     "category": "その他",
-    "publishedAt": "2026-03-06 17:03"
+    "publishedAt": "2026-03-09 16:26"
   }
 ]
