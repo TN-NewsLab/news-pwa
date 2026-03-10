@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-09T19:10:06.193Z",
+  "updatedAt": "2026-03-10T02:49:37.334Z",
   "top": [
     {
       "source": "BBC World",
@@ -21,6 +21,12 @@
     },
     {
       "source": "BBC Technology",
+      "title": "GPS jamming: The invisible battle in the Middle East",
+      "url": "https://www.bbc.com/news/articles/c3ewwlx9e1xo?at_medium=RSS&at_campaign=rss",
+      "summary": "GPS jamming has made navigation hazardous in the Gulf, spurring efforts to develop alternatives."
+    },
+    {
+      "source": "BBC Technology",
       "title": "Anthropic sues US government for calling it a risk",
       "url": "https://www.bbc.com/news/articles/cq571w5vllxo?at_medium=RSS&at_campaign=rss",
       "summary": "The artificial intelligence company has been in a public fight with US government leaders over use of its tools like Claude"
@@ -32,36 +38,30 @@
       "summary": "The letter from London's mayor came as the US moved to designate the company a supply chain risk."
     },
     {
-      "source": "BBC Technology",
-      "title": "Can snacks help you sleep?",
-      "url": "https://www.bbc.com/news/articles/cd6znvjvw3wo?at_medium=RSS&at_campaign=rss",
-      "summary": "Chocolates, bars, gummies and drinks promise to help you sleep, but is the science behind them sound?"
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Google’s latest Pixel Watches have fallen to their lowest prices ever",
+        "#text": "Apple smart home display rumors now point to a fall launch with iOS 27",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/891339/google-pixel-watch-3-4-sony-wh-1000xm5-headphones-deal-sale",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/891723/apple-homepad-delay-rumor",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Anthropic is suing the Department of Defense",
+        "#text": "The government shutdown is hitting airports — but not ICE",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/891377/anthropic-dod-lawsuit",
+      "url": "https://www.theverge.com/policy/891686/dhs-government-shutdown-ice-cbp-tsa-airports",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Battlefield 6 teams hit with layoffs despite ‘biggest launch in franchise history’",
+        "#text": "Everything from the last week of everything is gambling now",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/891378/battlefield-6-layoffs-ea",
+      "url": "https://www.theverge.com/tech/891676/kalshi-iran-prediction-markets",
       "summary": "(要約準備中)"
     }
   ]
