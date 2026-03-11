@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-03-11T07:11:41.907Z",
+  "updatedAt": "2026-03-11T13:38:22.627Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "'I just want to be able to sleep': Attacks in Iran rock cities and cut power",
-      "url": "https://www.bbc.com/news/articles/cev7llekwllo?at_medium=RSS&at_campaign=rss",
-      "summary": "Iranians in Tehran and Karaj tell the BBC they are exhausted and struggling to sleep after 10 days of Israeli and US attacks."
+      "title": "G7 welcomes potential record release of oil reserves as prices surge",
+      "url": "https://www.bbc.com/news/articles/cly093xxlzzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The group of nations welcomes the idea of releasing oil in response to the surge in prices since the US-Israel war with Iran began"
+    },
+    {
+      "source": "BBC World",
+      "title": "Ukraine says it has hit Russian 'missile component' plant",
+      "url": "https://www.bbc.com/news/articles/ckg1eqw30l9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Russia says the attack hit civilians and could not have been carried out without British help."
     },
     {
       "source": "BBC World",
       "title": "Jeffrey Epstein had two key aides - why do they still control his money and secrets?",
       "url": "https://www.bbc.com/news/articles/cdjm7rxjxneo?at_medium=RSS&at_campaign=rss",
       "summary": "Richard Kahn and Darren Indyke administer Epstein’s estate - court filings allege complicity in his crimes."
-    },
-    {
-      "source": "BBC World",
-      "title": "Steve Rosenberg: Russia seeks diplomatic and economic gains from Iran war",
-      "url": "https://www.bbc.com/news/articles/c4gjyg0djvmo?at_medium=RSS&at_campaign=rss",
-      "summary": "President Putin pits himself as a potential mediator but that's not an easy sell, writes the BBC's Russia editor."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "How the spiraling Iran conflict could affect data centers and electricity costs",
+        "#text": "Here’s where you can buy Apple’s budget-friendly MacBook Neo",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/report/892661/iran-war-oil-gas-prices-data-center-electricity",
+      "url": "https://www.theverge.com/gadgets/888285/macbook-neo-preorder-how-to-buy-price-release-date",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "A live-action Samurai Champloo is in the works",
+        "#text": "The mysterious case of the DHS white supremacist memelord",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/892675/a-live-action-samurai-champloo-is-in-the-works",
+      "url": "https://www.theverge.com/column/892985/dhs-white-supremacist-memelord",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Listen to the Live Nation CEO&#8217;s alleged threats to a concert venue",
+        "#text": "Where to buy the new iPhone 17E",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/892558/live-nation-ceo-michael-rapino-barclays-center-john-abbamondi-ticketmaster-call-trial",
+      "url": "https://www.theverge.com/gadgets/887512/iphone-17e-preorder-how-to-buy-price-release-date",
       "summary": "(要約準備中)"
     }
   ]
