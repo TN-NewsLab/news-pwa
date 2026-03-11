@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-03-11T13:38:22.627Z",
+  "updatedAt": "2026-03-11T19:10:33.659Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "G7 welcomes potential record release of oil reserves as prices surge",
+      "title": "Bowen: Trump has called for an Iran uprising but the lessons from Iraq in 1991 loom large",
+      "url": "https://www.bbc.com/news/articles/cn0znx4xrl9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president might learn that starting wars is much easier than ending them, writes the BBC's international editor."
+    },
+    {
+      "source": "BBC World",
+      "title": "Countries agree to record release of emergency oil reserves as prices surge",
       "url": "https://www.bbc.com/news/articles/cly093xxlzzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The group of nations welcomes the idea of releasing oil in response to the surge in prices since the US-Israel war with Iran began"
+      "summary": "The G7 group of nations welcomes the idea of releasing oil in response to the surge in prices since the US-Israel war with Iran began"
     },
     {
       "source": "BBC World",
-      "title": "Ukraine says it has hit Russian 'missile component' plant",
-      "url": "https://www.bbc.com/news/articles/ckg1eqw30l9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Russia says the attack hit civilians and could not have been carried out without British help."
-    },
-    {
-      "source": "BBC World",
-      "title": "Jeffrey Epstein had two key aides - why do they still control his money and secrets?",
-      "url": "https://www.bbc.com/news/articles/cdjm7rxjxneo?at_medium=RSS&at_campaign=rss",
-      "summary": "Richard Kahn and Darren Indyke administer Epstein’s estate - court filings allege complicity in his crimes."
+      "title": "'Even under missiles we carry on living' - how young Iranians are coping with war",
+      "url": "https://www.bbc.com/news/articles/c1mj1pyrzryo?at_medium=RSS&at_campaign=rss",
+      "summary": "Iranians say they are sheltering at home and rarely venturing out on near-empty streets as the US-Israeli bombing campaign continues."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Here’s where you can buy Apple’s budget-friendly MacBook Neo",
+        "#text": "Grammarly says it will stop using AI to clone experts without permission",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/888285/macbook-neo-preorder-how-to-buy-price-release-date",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/893270/grammarly-ai-expert-review-disabled",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The mysterious case of the DHS white supremacist memelord",
+        "#text": "Microsoft&#8217;s ‘Xbox mode’ is coming to every Windows 11 PC",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/column/892985/dhs-white-supremacist-memelord",
+      "url": "https://www.theverge.com/games/892875/microsoft-xbox-mode-windows-11-gdc",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Where to buy the new iPhone 17E",
+        "#text": "Microsoft’s next Xbox, Project Helix, won&#8217;t reach alpha until 2027",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/887512/iphone-17e-preorder-how-to-buy-price-release-date",
+      "url": "https://www.theverge.com/games/893119/xbox-project-helix-jason-ronald-gdc-2026",
       "summary": "(要約準備中)"
     }
   ]
