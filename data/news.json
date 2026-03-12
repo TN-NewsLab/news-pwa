@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2026-03-12T07:13:20.652Z",
+  "updatedAt": "2026-03-12T13:36:16.833Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Oil price jumps despite deal to release record amount of reserves",
-      "url": "https://www.bbc.com/news/articles/c1w5141vx53o?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes as Iranian attacks on ships intensify in the crucial Strait of Hormuz waterway."
+      "title": "'Fingers on the trigger': Deadly warnings for Iranians being urged to take action",
+      "url": "https://www.bbc.com/news/articles/c5y5rldz897o?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran's police chief has warned that his forces would treat anyone taking to the streets \"at the enemy's request\" as an enemy."
     },
     {
       "source": "BBC World",
-      "title": "Bowen: Trump has called for an Iran uprising but the lessons from Iraq in 1991 loom large",
-      "url": "https://www.bbc.com/news/articles/cn0znx4xrl9o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president might learn that starting wars is much easier than ending them, writes the BBC's international editor."
+      "title": "China approves 'ethnic unity' law requiring minorities to learn Mandarin",
+      "url": "https://www.bbc.com/news/articles/cp9meeek051o?at_medium=RSS&at_campaign=rss",
+      "summary": "The law states that children should be taught Mandarin before kindergarten, until the end of high school."
     },
     {
       "source": "BBC World",
       "title": "Epstein used modelling agent to recruit girls, Brazilian women tell BBC",
       "url": "https://www.bbc.com/news/articles/cr4576v66kno?at_medium=RSS&at_campaign=rss",
       "summary": "Modelling agent used businesses to recruit girls and arrange US visas to visit Jeffrey Epstein, Brazilian women tell BBC."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Lloyds, Bank of Scotland and Halifax apps showed customers other users' transactions",
+      "url": "https://www.bbc.com/news/articles/c4g23npxpwgo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Lloyds Banking Group customers reported being able to view payments and charges from other sources."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "Instagram, Snapchat, TikTok, YouTube and Roblox are among the platforms UK regulators say aren't putting children's safety at the heart of their products."
     },
     {
-      "source": "BBC Technology",
-      "title": "Big Tech backs Anthropic in fight against Trump administration",
-      "url": "https://www.bbc.com/news/articles/c4g7k7zdd0zo?at_medium=RSS&at_campaign=rss",
-      "summary": "A group representing tech giants called government action against Anthropic a \"temper tantrum\"."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "One of Grammarly’s ‘experts’ is suing the company over its identity-stealing AI feature",
+        "#text": "Microsoft’s Copilot Health can connect to your medical records and wearables",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/893451/grammarly-ai-lawsuit-julia-angwin",
+      "url": "https://www.theverge.com/tech/893594/microsoft-copilot-health-launch",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "iPhone Fold rumor: iPad-like multitasking, but no iPad apps and no Face ID",
+        "#text": "You can now ask Google Maps ‘complex, real-world questions’ — and Gemini will answer",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/893429/iphone-fold-rumor-ipad-multitasking-face-id-rumor",
+      "url": "https://www.theverge.com/tech/893262/google-maps-gemini-ai-ask-maps-immersive-navigation",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Some of the best horror games ever made are included in Humble’s latest $15 bundle",
+        "#text": "Perplexity&#8217;s Personal Computer turns your spare Mac into an AI agent",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/893314/frictional-games-amnesia-soma-humble-bundle-deal-sale-steam",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/893536/perplexitys-personal-computer-turns-your-spare-mac-into-an-ai-agent",
       "summary": "(要約準備中)"
     }
   ]
