@@ -1,11 +1,17 @@
 {
-  "updatedAt": "2026-03-12T13:36:16.833Z",
+  "updatedAt": "2026-03-12T19:12:03.310Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "'Fingers on the trigger': Deadly warnings for Iranians being urged to take action",
-      "url": "https://www.bbc.com/news/articles/c5y5rldz897o?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran's police chief has warned that his forces would treat anyone taking to the streets \"at the enemy's request\" as an enemy."
+      "title": "'What if we're left with ruins?': Doubts creep in for Iranians who supported war",
+      "url": "https://www.bbc.com/news/articles/c3094g50rnvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Teachers, engineers and shopkeepers tell the BBC they fear Iran falling into chaos. "
+    },
+    {
+      "source": "BBC World",
+      "title": "Rapper-politician Balendra Shah's party wins Nepal election",
+      "url": "https://www.bbc.com/news/articles/c8jxnjvjkg7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Rastriya Swatatantra Party has won a large majority in an election dominated by issues including corruption. "
     },
     {
       "source": "BBC World",
@@ -14,10 +20,10 @@
       "summary": "The law states that children should be taught Mandarin before kindergarten, until the end of high school."
     },
     {
-      "source": "BBC World",
-      "title": "Epstein used modelling agent to recruit girls, Brazilian women tell BBC",
-      "url": "https://www.bbc.com/news/articles/cr4576v66kno?at_medium=RSS&at_campaign=rss",
-      "summary": "Modelling agent used businesses to recruit girls and arrange US visas to visit Jeffrey Epstein, Brazilian women tell BBC."
+      "source": "BBC Technology",
+      "title": "Grammarly pulls AI author-impersonation tool after backlash",
+      "url": "https://www.bbc.com/news/articles/cx28v08jpe7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Writers criticised the feature which used their names and styles as \"AI personas\" without consent."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "Militaries are often cagey about their cyber activities. But the US has hinted at the role it has played."
     },
     {
-      "source": "BBC Technology",
-      "title": "Social media firms asked to toughen up age checks for under-13s",
-      "url": "https://www.bbc.com/news/articles/cn48n18pg1eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Instagram, Snapchat, TikTok, YouTube and Roblox are among the platforms UK regulators say aren't putting children's safety at the heart of their products."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Microsoft’s Copilot Health can connect to your medical records and wearables",
+        "#text": "What it was like to watch grieving parents stare down Mark Zuckerberg in court",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/893594/microsoft-copilot-health-launch",
+      "url": "https://www.theverge.com/policy/893930/social-media-addiction-trial-los-angeles-zuckerberg-instagram-youtube",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "You can now ask Google Maps ‘complex, real-world questions’ — and Gemini will answer",
+        "#text": "The original AirTag is the cheapest it’s ever been",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/893262/google-maps-gemini-ai-ask-maps-immersive-navigation",
+      "url": "https://www.theverge.com/gadgets/894007/apple-airtag-first-generation-deal-sale",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Perplexity&#8217;s Personal Computer turns your spare Mac into an AI agent",
+        "#text": "KPop Demon Hunters is getting a sequel, obviously",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/893536/perplexitys-personal-computer-turns-your-spare-mac-into-an-ai-agent",
+      "url": "https://www.theverge.com/entertainment/894014/kpop-demon-hunters-sequel",
       "summary": "(要約準備中)"
     }
   ]
