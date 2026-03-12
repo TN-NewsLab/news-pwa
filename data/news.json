@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-03-11T19:10:33.659Z",
+  "updatedAt": "2026-03-12T03:11:44.313Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Oil hits $100 a barrel despite deal to release record amount of reserves",
+      "url": "https://www.bbc.com/news/articles/c1w5141vx53o?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes as Iranian attacks on ships intensify in the crucial Strait of Hormuz waterway."
+    },
     {
       "source": "BBC World",
       "title": "Bowen: Trump has called for an Iran uprising but the lessons from Iraq in 1991 loom large",
@@ -9,59 +15,53 @@
     },
     {
       "source": "BBC World",
-      "title": "Countries agree to record release of emergency oil reserves as prices surge",
-      "url": "https://www.bbc.com/news/articles/cly093xxlzzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The G7 group of nations welcomes the idea of releasing oil in response to the surge in prices since the US-Israel war with Iran began"
-    },
-    {
-      "source": "BBC World",
-      "title": "'Even under missiles we carry on living' - how young Iranians are coping with war",
-      "url": "https://www.bbc.com/news/articles/c1mj1pyrzryo?at_medium=RSS&at_campaign=rss",
-      "summary": "Iranians say they are sheltering at home and rarely venturing out on near-empty streets as the US-Israeli bombing campaign continues."
+      "title": "Epstein used modelling agent to recruit girls, Brazilian women tell BBC",
+      "url": "https://www.bbc.com/news/articles/cr4576v66kno?at_medium=RSS&at_campaign=rss",
+      "summary": "Modelling agent used businesses to recruit girls and arrange US visas to visit Jeffrey Epstein, Brazilian women tell BBC."
     },
     {
       "source": "BBC Technology",
-      "title": "'Icky and heartbreaking': The $2 per hour worker behind the OnlyFans boom",
-      "url": "https://www.bbc.com/news/articles/cq571g9gd4lo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC talks to a Philippines-based woman paid to pretend to be an OnlyFans star in online chats."
+      "title": "What role has cyber warfare played in Iran?",
+      "url": "https://www.bbc.com/news/articles/c5yr0576ygvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Militaries are often cagey about their cyber activities. But the US has hinted at the role it has played."
     },
     {
       "source": "BBC Technology",
-      "title": "Meta urged to boost oversight of fake AI videos",
-      "url": "https://www.bbc.com/news/articles/c4gjyg0g78vo?at_medium=RSS&at_campaign=rss",
-      "summary": "Meta's advisers say its methods for policing AI videos are inadequate, especially at times of crisis."
+      "title": "Social media firms asked to toughen up age checks for under-13s",
+      "url": "https://www.bbc.com/news/articles/cn48n18pg1eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Instagram, Snapchat, TikTok, YouTube and Roblox are among the platforms UK regulators say aren't putting children's safety at the heart of their products."
     },
     {
       "source": "BBC Technology",
-      "title": "Fortnite-maker raising in-game currency prices 'to help pay the bills' ",
-      "url": "https://www.bbc.com/news/articles/c70kypnl4w8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Epic Games said it had to increase the price as the cost of running the game had \"gone up a lot\""
+      "title": "Big Tech backs Anthropic in fight against Trump administration",
+      "url": "https://www.bbc.com/news/articles/c4g7k7zdd0zo?at_medium=RSS&at_campaign=rss",
+      "summary": "A group representing tech giants called government action against Anthropic a \"temper tantrum\"."
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Grammarly says it will stop using AI to clone experts without permission",
+        "#text": "One of Grammarly’s ‘experts’ is suing the company over its identity-stealing AI feature",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/893270/grammarly-ai-expert-review-disabled",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/893451/grammarly-ai-lawsuit-julia-angwin",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Microsoft&#8217;s ‘Xbox mode’ is coming to every Windows 11 PC",
+        "#text": "iPhone Fold rumor: iPad-like multitasking, but no iPad apps and no Face ID",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/892875/microsoft-xbox-mode-windows-11-gdc",
+      "url": "https://www.theverge.com/tech/893429/iphone-fold-rumor-ipad-multitasking-face-id-rumor",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Microsoft’s next Xbox, Project Helix, won&#8217;t reach alpha until 2027",
+        "#text": "Some of the best horror games ever made are included in Humble’s latest $15 bundle",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/893119/xbox-project-helix-jason-ronald-gdc-2026",
+      "url": "https://www.theverge.com/gadgets/893314/frictional-games-amnesia-soma-humble-bundle-deal-sale-steam",
       "summary": "(要約準備中)"
     }
   ]
