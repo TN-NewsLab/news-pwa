@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-03-12T19:12:03.310Z",
+  "updatedAt": "2026-03-13T03:08:26.067Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "'What if we're left with ruins?': Doubts creep in for Iranians who supported war",
-      "url": "https://www.bbc.com/news/articles/c3094g50rnvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Teachers, engineers and shopkeepers tell the BBC they fear Iran falling into chaos. "
+      "title": "Mission accomplished? The 2003 boast that haunts today's Iran conflict",
+      "url": "https://www.bbc.com/news/articles/c1e9yy84we8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The echoes between the conflicts are certainly there but there are also profound differences."
     },
     {
       "source": "BBC World",
-      "title": "Rapper-politician Balendra Shah's party wins Nepal election",
-      "url": "https://www.bbc.com/news/articles/c8jxnjvjkg7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Rastriya Swatatantra Party has won a large majority in an election dominated by issues including corruption. "
+      "title": "Iran's new supreme leader vows to block Strait of Hormuz in first statement",
+      "url": "https://www.bbc.com/news/articles/cdxg599655vo?at_medium=RSS&at_campaign=rss",
+      "summary": "A message attributed to Mojtaba Khamenei also says Iran will continue targeting US bases in the region."
     },
     {
       "source": "BBC World",
-      "title": "China approves 'ethnic unity' law requiring minorities to learn Mandarin",
-      "url": "https://www.bbc.com/news/articles/cp9meeek051o?at_medium=RSS&at_campaign=rss",
-      "summary": "The law states that children should be taught Mandarin before kindergarten, until the end of high school."
+      "title": "French vote tests polarised electorate with right hoping to win control of Paris",
+      "url": "https://www.bbc.com/news/articles/cdxzzqye9w0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The highest-profile contest is for the mayorship of Paris - which has been under left-wing control for 25 years."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "The best Bluetooth trackers for Apple and Android phones",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/23769840/best-bluetooth-trackers",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "Google Chrome is coming to Arm-powered Linux devices later this year",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/tech/894095/google-chrome-for-arm-linux",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "What it was like to watch grieving parents stare down Mark Zuckerberg in court",
         "@_type": "html"
       },
       "url": "https://www.theverge.com/policy/893930/social-media-addiction-trial-los-angeles-zuckerberg-instagram-youtube",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "The original AirTag is the cheapest it’s ever been",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/gadgets/894007/apple-airtag-first-generation-deal-sale",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "KPop Demon Hunters is getting a sequel, obviously",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/entertainment/894014/kpop-demon-hunters-sequel",
       "summary": "(要約準備中)"
     }
   ]
