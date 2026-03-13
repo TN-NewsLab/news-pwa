@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-03-13T13:33:57.045Z",
+  "updatedAt": "2026-03-13T19:01:30.445Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Four crew members killed after US refuelling plane crashes in Iraq",
+      "title": "All six crew members killed after US refuelling plane crashes in Iraq",
       "url": "https://www.bbc.com/news/articles/cy0dz5ql17vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US Central Command says rescue efforts continue after a refuelling aircraft went down over western Iraq."
+      "summary": "The US Central Command says all six crew members died after a refuelling aircraft went down over western Iraq."
     },
     {
       "source": "BBC World",
-      "title": "'There's no hiding place on a ship': The sailors stranded in the Gulf",
-      "url": "https://www.bbc.com/news/articles/ce3g0vz223no?at_medium=RSS&at_campaign=rss",
-      "summary": "Drones, cruise missiles and fighter jets have become a common sight for many sailors stranded on ships in the Gulf."
+      "title": "Ukraine and allies fear easing Russian sanctions will prolong war",
+      "url": "https://www.bbc.com/news/articles/c1d6l67122wo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine's president says the US decision \"certainly does not help achieve peace\"."
     },
     {
       "source": "BBC World",
-      "title": "Bodies of 84 Iranian sailors killed in US torpedo strike to be repatriated",
-      "url": "https://www.bbc.com/news/articles/c363lk4xk07o?at_medium=RSS&at_campaign=rss",
-      "summary": "The seamen died when Iranian warship the Iris Dena was sunk on 4 March by a US submarine near Sri Lanka. "
+      "title": "Sheriff in Nancy Guthrie case believes they know kidnapper's motive",
+      "url": "https://www.bbc.com/news/articles/cx2lzlydg93o?at_medium=RSS&at_campaign=rss",
+      "summary": "The 84-year-old mother of US TV presenter Savannah Guthrie was kidnapped 41 days ago."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "The MacBook Neo is a winner",
+        "#text": "Google Pixel 10A review: Just buy the 9A",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/podcast/894274/macbook-neo-review-xbox-helix-vergecast",
+      "url": "https://www.theverge.com/tech/894319/google-pixel-10a-review-screen-specs-battery-camera",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "PSA: Don’t buy a $4,400 gray market Samsung TriFold on eBay",
+        "#text": "Backbone’s versatile pro controller is nearly matching its best price to date",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/894063/samsung-galaxy-z-trifold-sold-out-ebay",
+      "url": "https://www.theverge.com/gadgets/893862/backbone-pro-mobile-controller-cmf-watch-3-deal-sale",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "PC makers are not ready for the MacBook Neo",
+        "#text": "Adobe will pay $75 million to settle US cancellation fee lawsuit",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/report/894090/macbook-neo-pc-windows-laptop-competition-asus-footinmouth",
+      "url": "https://www.theverge.com/tech/894555/adobe-75-million-doj-settlement-subscriptions",
       "summary": "(要約準備中)"
     }
   ]
