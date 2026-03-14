@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-03-14T07:05:57.369Z",
+  "updatedAt": "2026-03-14T13:14:36.398Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Why has the US targeted Iran's Kharg Island?",
+      "url": "https://www.bbc.com/news/articles/c8jxzlwvd8ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The tiny island is home to one of the most critical pieces of Iran's energy infrastructure."
+    },
+    {
+      "source": "BBC World",
+      "title": "Hamas urges key ally Iran to halt attacks on Gulf states",
+      "url": "https://www.bbc.com/news/articles/cvg3xk6xgyzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Palestinian armed group also affirms Tehran's right to defend itself from \"aggression\" by the US and Israel."
+    },
     {
       "source": "BBC World",
       "title": "More US Marines and warships to be moved to Middle East, reports say",
       "url": "https://www.bbc.com/news/articles/cq8gj9n12g8o?at_medium=RSS&at_campaign=rss",
       "summary": "The reinforcements will come from an amphibious ready group that is usually based in Japan, an official told CBS, the BBC's US partner."
-    },
-    {
-      "source": "BBC World",
-      "title": "Los Angeles asks for investigation into LA28 Olympics chief over Epstein ties",
-      "url": "https://www.bbc.com/news/articles/cn9ewxq98e5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The LA city council voted unanimously for an investigation into LA28 chief Casey Wasserman over his Epstein ties. "
-    },
-    {
-      "source": "BBC World",
-      "title": "Family of Michigan synagogue suspect killed in Lebanon airstrike, officials say",
-      "url": "https://www.bbc.com/news/articles/cdxz0jpzk4do?at_medium=RSS&at_campaign=rss",
-      "summary": "The FBI said the suspect had large quantities of fireworks and petrol in his vehicle when it caught fire after ramming a synagogue on Thursday."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "States’ anti-monopoly case against Live Nation continues Monday",
+        "#text": "Asus’ new open earbuds are a wonderful companion for handheld gaming",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/894851/states-live-nation-monopoly-trial",
+      "url": "https://www.theverge.com/tech/893765/asus-cetra-open-wireless-gaming-earbuds-hands-on-impressions",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Spotify tests letting users directly customize their Taste Profile",
+        "#text": "Samsung Galaxy S26 Ultra review: show off",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/894753/spotify-taste-profile",
+      "url": "https://www.theverge.com/tech/893936/samsung-galaxy-s26-ultra-review-show-off",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Microsoft’s Copilot AI assistant is coming to current-gen Xbox consoles this year",
+        "#text": "5 great indie games from GDC 2026",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/894799/microsoft-gaming-copilot-ai-xbox-consoles",
+      "url": "https://www.theverge.com/games/894511/gdc-2026-best-indie-games",
       "summary": "(要約準備中)"
     }
   ]
