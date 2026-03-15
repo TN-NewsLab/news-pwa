@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-15T13:16:20.275Z",
+  "updatedAt": "2026-03-15T18:58:37.541Z",
   "top": [
     {
       "source": "BBC World",
@@ -15,7 +15,7 @@
     },
     {
       "source": "BBC World",
-      "title": "Severe flooding kills 62 in Kenya, as heavy rains continue",
+      "title": "Severe flooding kills 66 in Kenya, as heavy rains continue",
       "url": "https://www.bbc.com/news/articles/cz6e5eng03yo?at_medium=RSS&at_campaign=rss",
       "summary": "Eleven people were rescued overnight after a minibus taxi got stuck in rising floodwaters in Nairobi."
     },
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Samsung’s Galaxy Buds 4 Pro are the choice — if you have a Galaxy phone",
+        "#text": "Sotomayor’s Wabi Sabi is the funnest record of 2026",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/894501/samsung-galaxy-buds-4-pro-review",
+      "url": "https://www.theverge.com/entertainment/895065/sotomayor-wabi-sabi-review",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The fast rise and epic fall of Clubhouse",
+        "#text": "AI Czar David Sacks wants Trump to ‘get out’ of Iran",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/podcast/895044/clubhouse-audio-social-network-version-history",
+      "url": "https://www.theverge.com/policy/895059/trump-ai-czar-out-of-iran",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Live-service games are a mess",
+        "#text": "AI companies want to harvest improv actors’ skills to train AI on human emotion",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/column/893294/live-service-games-mess",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data",
       "summary": "(要約準備中)"
     }
   ]
