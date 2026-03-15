@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-15T07:13:30.256Z",
+  "updatedAt": "2026-03-15T13:16:20.275Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,15 +9,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Trump urges UK and other nations to send warships to Strait of Hormuz",
-      "url": "https://www.bbc.com/news/articles/cd039n9vj3vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president says he hopes China, France, Japan and South Korea will also send ships to defend the key oil shipping route."
+      "title": "Zelensky accuses EU allies of 'blackmail' in oil pipeline row",
+      "url": "https://www.bbc.com/news/articles/c3v7q6d0nq0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Volodymyr Zelensky says restoring the flow of Russian oil via Ukraine into the EU would be like lifting sanctions on Russia."
     },
     {
       "source": "BBC World",
-      "title": "Three more Iran football team members change minds over asylum",
-      "url": "https://www.bbc.com/news/articles/c98gz372683o?at_medium=RSS&at_campaign=rss",
-      "summary": "Four of seven members of the women's football delegation who originally sought to stay in Australia have now chosen to return home."
+      "title": "Severe flooding kills 62 in Kenya, as heavy rains continue",
+      "url": "https://www.bbc.com/news/articles/cz6e5eng03yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Eleven people were rescued overnight after a minibus taxi got stuck in rising floodwaters in Nairobi."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Trump administration is allegedly collecting $10 billion on the TikTok deal",
+        "#text": "Samsung’s Galaxy Buds 4 Pro are the choice — if you have a Galaxy phone",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/895039/trump-10-billion-tiktok",
+      "url": "https://www.theverge.com/tech/894501/samsung-galaxy-buds-4-pro-review",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Meta is reportedly laying off up to 20 percent of its staff",
+        "#text": "The fast rise and epic fall of Clubhouse",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/business/895026/meta-laying-off-20-percent",
+      "url": "https://www.theverge.com/podcast/895044/clubhouse-audio-social-network-version-history",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Hulu, Disney Plus, and the Pixel Watch 4 are among this week’s best deals",
+        "#text": "Live-service games are a mess",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/894699/hulu-disney-plus-subscription-oscars-google-pixel-watch-4-deal-sale",
+      "url": "https://www.theverge.com/column/893294/live-service-games-mess",
       "summary": "(要約準備中)"
     }
   ]
