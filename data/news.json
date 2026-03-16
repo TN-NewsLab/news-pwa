@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-03-16T07:48:37.918Z",
+  "updatedAt": "2026-03-16T13:54:41.511Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "'A new norm': BBC visits Doha market starting to fill up again two weeks into Iran war",
-      "url": "https://www.bbc.com/news/videos/cp32gez414yo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's International News correspondent, Barbara Plett Usher, visits Doha's Souq Waqif market as strikes in the region continue."
+      "title": "Iran hits key UAE oil port and Dubai airport",
+      "url": "https://www.bbc.com/news/articles/crl4gxgkkylo?at_medium=RSS&at_campaign=rss",
+      "summary": "The port of Fujairah plays a crucial role in helping keep global supplies moving when the Strait of Hormuz is blocked. "
     },
     {
       "source": "BBC World",
@@ -21,47 +21,47 @@
     },
     {
       "source": "BBC Technology",
-      "title": "Games with loot boxes to get minimum 16 age rating across Europe",
-      "url": "https://www.bbc.com/news/articles/cge84xqjg5lo?at_medium=RSS&at_campaign=rss",
-      "summary": "The new changes by the Pan-European Game Information age-ratings body (PEGI) will start from June."
+      "title": "Firms urged to check if other users edited their data on Companies House",
+      "url": "https://www.bbc.com/news/articles/c5y41p0dy1wo?at_medium=RSS&at_campaign=rss",
+      "summary": "The glitch meant logged-in users could view and edit other companies' details without their consent."
     },
     {
       "source": "BBC Technology",
-      "title": "AI toys for children misread emotions and respond inappropriately, researchers warn",
-      "url": "https://www.bbc.com/news/articles/clyg4wx6nxgo?at_medium=RSS&at_campaign=rss",
-      "summary": "In first study of its kind, Cambridge researchers found AI toys could misread some children's emotions."
+      "title": "Is this product 'human-made'? The race to establish an AI-free logo",
+      "url": "https://www.bbc.com/news/articles/cj0d6el50ppo?at_medium=RSS&at_campaign=rss",
+      "summary": "The backlash to the growing use of the tech has led to an explosion in attempts to come up with 'AI-Free' logo that could be used globally. "
     },
     {
       "source": "BBC Technology",
-      "title": "Grammarly pulls AI author-impersonation tool after backlash",
-      "url": "https://www.bbc.com/news/articles/cx28v08jpe7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Writers criticised the feature which used their names and styles as \"AI personas\" without consent."
+      "title": "She spent 16 hours on Instagram in a day. It's up to a jury to decide if Meta is to blame",
+      "url": "https://www.bbc.com/news/articles/c0mg3zd7xwpo?at_medium=RSS&at_campaign=rss",
+      "summary": "A landmark lawsuit will set the stage for thousands of people who say social media platforms are intentionally addictive. "
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Aether OS is a computer in a browser built for the AT Protocol",
+        "#text": "Apple&#8217;s $549 AirPods Max 2 add better ANC and live translation",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/895083/aether-os-browser-at-protocol",
+      "url": "https://www.theverge.com/tech/895155/apple-airpods-max-2-pricing-availability",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Sotomayor’s Wabi Sabi is the funnest record of 2026",
+        "#text": "This is not a fly uploaded to a computer",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/895065/sotomayor-wabi-sabi-review",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/894587/fly-brain-computer-upload",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "AI Czar David Sacks wants Trump to ‘get out’ of Iran",
+        "#text": "The classic Apple Macintosh mouse inspired Spigen’s retro AirPods case",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/895059/trump-ai-czar-out-of-iran",
+      "url": "https://www.theverge.com/tech/893636/spigen-apple-airpods-pro-3-macintosh-magsafe-wallet-retro",
       "summary": "(要約準備中)"
     }
   ]
