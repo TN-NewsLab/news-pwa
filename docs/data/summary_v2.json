@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "Andrej Karpathyの新しいオープンソース『autoresearch』は、夜間に数百のAI実験を実行可能にし、革新的な影響をもたらす",
-    "title_en": "Andrej Karpathy's new open source 'autoresearch' lets you run hundreds of AI experiments a night — with revolutionary implications",
-    "summary": "Andrej Karpathyが新たに発表したオープンソースプロジェクト『autoresearch』は、AIエージェントによる科学的方法の自動化を目指す630行のスクリプトで構成されています。このシステムは、エージェントが自らコードを変更し、実験を行って結果を評価することで進化的なプロセスを実現しています。プロジェクトは急速に広まり、マーケティングや他の分野でも適用可能であることが示され、AIの研究方法に根本的な変化をもたらしています。",
-    "summary_en": "Andrej Karpathyが新たに発表したオープンソースプロジェクト「autoresearch」は、AIエージェントによる科学的方法の自動化を目指す630行のスクリプトで構成されています。このシステムは、エージェントが自らコードを変更し、実験を行って結果を評価することで進化的なプロセスを実現しています。プロジェクトは急速に広まり、マーケティングや他の分野でも適用可能であることが示され、AIの研究方法に根本的な変化をもたらしています。",
-    "link": "https://venturebeat.com/technology/andrej-karpathys-new-open-source-autoresearch-lets-you-run-hundreds-of-ai",
+    "title": "Y Combinator支援のRandom LabsがSlate V1を発表、初の「スウォームネイティブ」コーディングエージェントを主張",
+    "title_en": "Y Combinator-backed Random Labs launches Slate V1, claiming the first 'swarm-native' coding agent",
+    "summary": "AIの進化に伴い、効率的なモデル管理が課題となっている中、Random LabsがSlate V1を発表しました。この新しいコーディングエージェントは、大規模かつ複雑なエンジニアリングタスクの実行を自動化し、協力的なツールとして設計されています。また、Slateは「スレッドウィーヴィング」によってメモリ管理を最適化し、複数のモデルを効率的に活用するシステムを実現しています。",
+    "summary_en": "AIの進化に伴い、効率的なモデル管理が課題となっている中、Random LabsがSlate V1を発表しました。この新しいコーディングエージェントは、大規模かつ複雑なエンジニアリングタスクの実行を自動化し、協力的なツールとして設計されています。また、Slateは「スレッドウィーヴィング」によってメモリ管理を最適化し、複数のモデルを効率的に活用するシステムを実現しています。",
+    "link": "https://venturebeat.com/orchestration/y-combinator-backed-random-labs-launches-slate-v1-claiming-the-first-swarm",
     "category": "AI",
-    "publishedAt": "2026-03-10 17:52"
+    "publishedAt": "2026-03-16 16:19"
   },
   {
     "source": "VentureBeat",
-    "title": "AIエージェントにあなたのEコマース製品を目立たせる方法とは？L'Oréal、Unilever、Mars、Beiersdorfが信頼するこの新しいシステムを利用しよう",
-    "title_en": "How to make your e-commerce product visible to AI agents? Use this new system trusted by L’Oréal, Unilever, Mars & Beiersdorf",
-    "summary": "Eコマース業界がAIエージェントによる自動化にシフトする中、スタートアップのAzomaが新たにAgentic Merchant Protocol（AMP）を導入し、ブランドがAIによって自己情報を管理できる仕組みを提供しています。このプロトコルは、高ボリュームの小売業者に向け、製品情報を一元管理し、AIエージェントによる提案時のブランドメッセージの一貫性を確保します。また、AMPは企業が市場での競争力を高めるためのツールとして注目を集めており、主要な消費財企業が迅速に採用しています。",
-    "summary_en": "Eコマース業界がAIエージェントによる自動化にシフトする中、スタートアップのAzomaが新たにAgentic Merchant Protocol（AMP）を導入し、ブランドがAIによって自己情報を管理できる仕組みを提供しています。このプロトコルは、高ボリュームの小売業者に向け、製品情報を一元管理し、AIエージェントによる提案時のブランドメッセージの一貫性を確保します。また、AMPは企業が市場での競争力を高めるためのツールとして注目を集めており、主要な消費財企業が迅速に採用しています。",
-    "link": "https://venturebeat.com/infrastructure/how-to-make-your-e-commerce-product-visible-to-ai-agents-use-this-new-system",
+    "title": "エージェントはRAG以上にベクタ検索を必要としている",
+    "title_en": "Agents need vector search more than RAG ever did",
+    "summary": "最近、エージェント型AIの世界におけるベクターデータベースの役割が注目されている。大規模なエージェントは多くのクエリを必要としており、情報の取得問題は拡大しており、単なるメモリソリューションでは対応できないことが明らかになっている。Qdrantのような企業は、この課題に特化したインフラを提供し、従来のデータベースが対応できないスケールでの情報取得の重要性を訴えている。",
+    "summary_en": "最近、エージェント型AIの世界におけるベクターデータベースの役割が注目されている。大規模なエージェントは多くのクエリを必要とし、情報の取得問題は拡大しており、単なるメモリソリューションでは対応できないことが明らかになっている。Qdrantのような企業は、この課題に特化したインフラを提供し、従来のデータベースが対応できないスケールでの情報 retrieval の重要性を訴えている。",
+    "link": "https://venturebeat.com/data/agents-dont-replace-vector-search-they-make-it-harder-to-get-right",
     "category": "AI",
-    "publishedAt": "2026-03-10 17:52"
+    "publishedAt": "2026-03-16 16:19"
   },
   {
     "source": "NHK",
-    "title": "YKK AP 金型など無償保管で下請け法違反 公取委が勧告",
+    "title": "石油の民間備蓄 放出開始 安定供給につなげたい考え 政府",
     "title_en": "",
-    "summary": "建材メーカーのYKK APが、部品の製造を委託している業者に金型を無償で保管させていた件に関し、公正取引委員会が下請け法違反を指摘しました。これに対し、再発防止を求める勧告が出されました。事業者の権利を守るための措置が必要とされています。",
+    "summary": "政府は、民間企業に義務付けられている石油の備蓄放出を始めました。今週中に中東からのタンカーが大幅に減少する可能性があるため、早めの対応を図っています。これにより、安定供給を維持する狙いがあります。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260310/k10015071861000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260316/k10015076451000.html",
     "category": "経済",
-    "publishedAt": "2026-03-10 17:53"
+    "publishedAt": "2026-03-16 16:19"
   },
   {
     "source": "BBC",
-    "title": "物価上昇、混乱するメッセージ：イラン戦争はトランプにとって政治的リスクを伴う",
-    "title_en": "Rising prices, mixed messages: Iran war is fraught with political risk for Trump",
-    "summary": "戦争の影響は経済的損失やトランプに対する政治的コストとして明らかになりつつある。これらの影響はまだ完全には見えておらず、今後の評価が重要となる。",
-    "summary_en": "戦争の影響は経済の損失やトランプへの政治的なコストとして明らかになりつつある。これらの影響はまだ完全には見えていない。今後の評価が重要となる。",
-    "link": "https://www.bbc.com/news/articles/c93j2dw72q9o?at_medium=RSS&at_campaign=rss",
+    "title": "新たな常態': BBC、イラン戦争から2週間のドーハ市場を再訪",
+    "title_en": "'A new norm': BBC visits Doha market starting to fill up again two weeks into Iran war",
+    "summary": "BBCの国際ニュース特派員バーバラ・プレット・アッシャーがドーハのスーク・ワキフ市場を訪問しました。地域で続くストライキの影響について報告しています。市場の様子や人々の反応が伝えられています。",
+    "summary_en": "BBCの国際ニュース特派員バーバラ・プレット・アッシャーがドーハのスーク・ワキフ市場を訪問しました。地域で続くストライキの影響について報告しています。市場の様子や人々の反応が伝えられています。",
+    "link": "https://www.bbc.com/news/videos/cp32gez414yo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-03-10 17:53"
+    "publishedAt": "2026-03-16 16:19"
   },
   {
     "source": "NHK",
-    "title": "廃炉作業続く福島 避難指示解除目指す「帰還困難区域」のいま",
+    "title": "米アカデミー賞授賞式 日本の作品ノミネートも受賞ならず",
     "title_en": "",
-    "summary": "東京電力福島第一原子力発電所の事故から15年が経過しました。福島県浪江町大堀地区では、帰還困難区域の中で「準備宿泊」を行う夫婦が、自宅での生活を再開する準備を進めています。また、福島第一原発の廃炉作業の進捗について、取材が行われました。",
+    "summary": "アカデミー賞の授賞式で、レオナルド・ディカプリオさん主演の「ワン・バトル・アフターアナザー」が作品賞を含む6部門で受賞しました。日本映画「国宝」のヘアメイクチームは「メーキャップ・ヘアスタイリング賞」にノミネートされましたが、受賞には至りませんでした。全体として、アメリカ映画の作品が高く評価される結果となりました。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260310/k10015071551000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260316/k10015077011000.html",
     "category": "その他",
-    "publishedAt": "2026-03-10 17:53"
+    "publishedAt": "2026-03-16 16:19"
   }
 ]
