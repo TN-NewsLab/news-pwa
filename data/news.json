@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-03-16T13:54:41.511Z",
+  "updatedAt": "2026-03-16T19:20:16.573Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Wary allies show there's no quick fix to Trump's Iran crisis",
+      "url": "https://www.bbc.com/news/articles/c8r17plnvy3o?at_medium=RSS&at_campaign=rss",
+      "summary": "European leaders are hesitant to help Trump secure the Strait of Hormuz, but they know inaction on the Iran war is not really an option. "
+    },
+    {
+      "source": "BBC World",
+      "title": "Meta and TikTok let harmful content rise after evidence outrage drove engagement, say whistleblowers",
+      "url": "https://www.bbc.com/news/articles/cqj9kgxqjwjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Companies allowed more harmful content on user’s feeds, knowing their algorithms ran on outrage, BBC hears."
+    },
     {
       "source": "BBC World",
       "title": "Iran hits key UAE oil port and Dubai airport",
       "url": "https://www.bbc.com/news/articles/crl4gxgkkylo?at_medium=RSS&at_campaign=rss",
       "summary": "The port of Fujairah plays a crucial role in helping keep global supplies moving when the Strait of Hormuz is blocked. "
-    },
-    {
-      "source": "BBC World",
-      "title": "Iran taking steps to prevent anti-establishment protests, Tehran residents tell BBC",
-      "url": "https://www.bbc.com/news/articles/clygdwqw5dvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Residents describe new security checkpoints around the capital, where they say people are stopped and searched."
-    },
-    {
-      "source": "BBC World",
-      "title": "How US groups are driving a new generation of anti-abortion activism in the UK",
-      "url": "https://www.bbc.com/news/articles/cx2dl5j0w23o?at_medium=RSS&at_campaign=rss",
-      "summary": "The killing of Charlie Kirk galvanised a transatlantic campaign against abortion. But will it succeed in shifting Britain's pro-choice consensus?"
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Apple&#8217;s $549 AirPods Max 2 add better ANC and live translation",
+        "#text": "Sony&#8217;s AI graphics upscaling for PS5 Pro games is getting a big update tonight",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/895155/apple-airpods-max-2-pricing-availability",
+      "url": "https://www.theverge.com/games/895396/playstation-pssr-upscaling-cyberpunk-2077-silent-hill",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "This is not a fly uploaded to a computer",
+        "#text": "Encyclopedia Britannica is suing OpenAI for allegedly ‘memorizing’ its content with ChatGPT",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/894587/fly-brain-computer-upload",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/895372/encyclopedia-britannica-openai-lawsuit",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The classic Apple Macintosh mouse inspired Spigen’s retro AirPods case",
+        "#text": "Amazon’s Fire TV Stick 4K Max and 4K Plus sticks are up to 50 percent off ",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/893636/spigen-apple-airpods-pro-3-macintosh-magsafe-wallet-retro",
+      "url": "https://www.theverge.com/gadgets/895340/fire-tv-stick-4k-max-plus-amazon-early-big-spring-sale-deal-sale",
       "summary": "(要約準備中)"
     }
   ]
