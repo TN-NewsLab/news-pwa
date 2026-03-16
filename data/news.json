@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-03-15T18:58:37.541Z",
+  "updatedAt": "2026-03-16T03:34:11.787Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "BBC visits aftermath of Israeli strike on Lebanon that killed family as IDF targets Hezbollah",
-      "url": "https://www.bbc.com/news/articles/c20lvn0ex6yo?at_medium=RSS&at_campaign=rss",
-      "summary": "A relative tells BBC those killed were civilians and not Hezbollah operatives, but the Israel Defense Forces says it was targeting \"terrorist infrastructure\"."
+      "title": "'A new norm': BBC visits Doha market starting to fill up again two weeks into Iran war",
+      "url": "https://www.bbc.com/news/videos/cp32gez414yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's International News correspondent, Barbara Plett Usher, visits Doha's Souq Waqif market as strikes in the region continue."
     },
     {
       "source": "BBC World",
-      "title": "Zelensky accuses EU allies of 'blackmail' in oil pipeline row",
-      "url": "https://www.bbc.com/news/articles/c3v7q6d0nq0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Volodymyr Zelensky says restoring the flow of Russian oil via Ukraine into the EU would be like lifting sanctions on Russia."
+      "title": "How US groups are driving a new generation of anti-abortion activism in the UK",
+      "url": "https://www.bbc.com/news/articles/cx2dl5j0w23o?at_medium=RSS&at_campaign=rss",
+      "summary": "The killing of Charlie Kirk galvanised a transatlantic campaign against abortion. But will it succeed in shifting Britain's pro-choice consensus?"
     },
     {
       "source": "BBC World",
-      "title": "Severe flooding kills 66 in Kenya, as heavy rains continue",
-      "url": "https://www.bbc.com/news/articles/cz6e5eng03yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Eleven people were rescued overnight after a minibus taxi got stuck in rising floodwaters in Nairobi."
+      "title": "Ukraine's urgent fight on the financial frontline",
+      "url": "https://www.bbc.com/news/articles/c20jyngz7ygo?at_medium=RSS&at_campaign=rss",
+      "summary": "The war-torn country is battling to secure crucial funding from the IMF and EU, as well as putting up taxes."
     },
     {
       "source": "BBC Technology",
@@ -40,6 +40,15 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "Aether OS is a computer in a browser built for the AT Protocol",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/tech/895083/aether-os-browser-at-protocol",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "Sotomayor’s Wabi Sabi is the funnest record of 2026",
         "@_type": "html"
       },
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/policy/895059/trump-ai-czar-out-of-iran",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "AI companies want to harvest improv actors’ skills to train AI on human emotion",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data",
       "summary": "(要約準備中)"
     }
   ]
