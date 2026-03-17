@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2026-03-17T13:52:08.861Z",
+  "updatedAt": "2026-03-17T19:20:12.247Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Trump seeks to delay meeting with Xi in China",
-      "url": "https://www.bbc.com/news/articles/cn9e0z7v3nxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The escalating war in Iran has overshadowed many of the US' foreign policy objectives"
+      "title": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
+      "url": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss",
+      "summary": "National Counterterrorism Center Director Joe Kent says Trump \"started this war due to pressure from Israel and its powerful American lobby\"."
     },
     {
       "source": "BBC World",
-      "title": "Trump says presidents 'should not have learning disabilities' as he mocks Newsom's dyslexia",
-      "url": "https://www.bbc.com/news/articles/c4gjnwmm984o?at_medium=RSS&at_campaign=rss",
-      "summary": "The National Center for Learning Disabilities said it was \"disturbed\" by the president's remarks. "
+      "title": "Air strike hit Kabul rehab centre as patients ate dinner, survivor tells BBC",
+      "url": "https://www.bbc.com/news/articles/ckg1kgz6wkgo?at_medium=RSS&at_campaign=rss",
+      "summary": "The exact number killed in Monday night's strike by Pakistan is still not known, but is feared to be in the hundreds."
     },
     {
       "source": "BBC World",
-      "title": "Pakistan air strike kills at least 100 at Kabul drug rehab centre",
-      "url": "https://www.bbc.com/news/articles/c4g8n7e0l40o?at_medium=RSS&at_campaign=rss",
-      "summary": "Some of the bodies were injured beyond recognition, forensic laboratory sources told the BBC."
+      "title": "Israel says it killed Iranian security chief Ali Larijani in air strike",
+      "url": "https://www.bbc.com/news/articles/c24deezq6meo?at_medium=RSS&at_campaign=rss",
+      "summary": "The deaths of Larijani and the head of the paramilitary Basij force have not been confirmed by Iranian authorities.\n\n"
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Nvidia faces gamer backlash over 'breakthrough' AI graphics feature",
+      "url": "https://www.bbc.com/news/articles/cdxg15eyv5ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Nvidia says the tool will transform game graphics - critics warn it could squeeze out artistic expression."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "Musk's AI chatbot has created millions of fake sexualised images, experts say."
     },
     {
-      "source": "BBC Technology",
-      "title": "Firms urged to check if other users edited their data on Companies House",
-      "url": "https://www.bbc.com/news/articles/c5y41p0dy1wo?at_medium=RSS&at_campaign=rss",
-      "summary": "The glitch meant logged-in users could view and edit other companies' details without their consent."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Poco’s first Pro Max phone earns the name with an 8,500mAh battery",
+        "#text": "Ikea tried to build a smart home for everyone — here&#8217;s why it&#8217;s not working yet",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/895884/poco-x8-pro-max-8500mah-battery-dynamic-rgb-lights-iron-man",
+      "url": "https://www.theverge.com/tech/896006/ikea-matter-thread-smart-home-problems",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Oppo’s nearly creaseless foldable isn’t launching in Europe after all",
+        "#text": "Nvidia&#8217;s DLSS 5 is like motion smoothing for video games, but worse",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/895859/oppo-find-n6-launch-release-markets-specs-battery",
+      "url": "https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Samsung discontinues its Galaxy Z TriFold after just three months",
+        "#text": "Antigravity’s 360-degree drone is 20 percent off ahead of its next feature drop",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/895879/samsung-galaxy-z-trifold-discontinued-stock-sold-out",
+      "url": "https://www.theverge.com/gadgets/895980/antigravity-a1-360-degree-drone-deal-amazon-big-spring-sale-2026",
       "summary": "(要約準備中)"
     }
   ]
