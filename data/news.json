@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2026-03-16T19:20:16.573Z",
+  "updatedAt": "2026-03-17T03:12:40.534Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Wary allies show there's no quick fix to Trump's Iran crisis",
-      "url": "https://www.bbc.com/news/articles/c8r17plnvy3o?at_medium=RSS&at_campaign=rss",
-      "summary": "European leaders are hesitant to help Trump secure the Strait of Hormuz, but they know inaction on the Iran war is not really an option. "
+      "title": "Trump's confidence is undimmed - but every Iran option comes with risk",
+      "url": "https://www.bbc.com/news/articles/c70k29914q4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The odds of a quick resolution to the war appear to be dwindling by the day, and the political stakes for the president are only growing."
     },
     {
       "source": "BBC World",
-      "title": "Meta and TikTok let harmful content rise after evidence outrage drove engagement, say whistleblowers",
-      "url": "https://www.bbc.com/news/articles/cqj9kgxqjwjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Companies allowed more harmful content on user’s feeds, knowing their algorithms ran on outrage, BBC hears."
+      "title": "Afghanistan accuses Pakistan of killing hundreds in hospital strike",
+      "url": "https://www.bbc.com/news/articles/c4g8n7e0l40o?at_medium=RSS&at_campaign=rss",
+      "summary": "Islamabad denies targeting the rehab centre and said its strikes were aimed at military installations."
     },
     {
       "source": "BBC World",
-      "title": "Iran hits key UAE oil port and Dubai airport",
-      "url": "https://www.bbc.com/news/articles/crl4gxgkkylo?at_medium=RSS&at_campaign=rss",
-      "summary": "The port of Fujairah plays a crucial role in helping keep global supplies moving when the Strait of Hormuz is blocked. "
+      "title": "AI firm Anthropic seeks weapons expert to stop users from 'misuse'",
+      "url": "https://www.bbc.com/news/articles/c74721xyd1wo?at_medium=RSS&at_campaign=rss",
+      "summary": "The artificial intelligence firm says it wants to prevent \"catastrophic misuse\" of its systems."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "AI firm Anthropic seeks weapons expert to stop users from 'misuse'",
+      "url": "https://www.bbc.com/news/articles/c74721xyd1wo?at_medium=RSS&at_campaign=rss",
+      "summary": "The artificial intelligence firm says it wants to prevent \"catastrophic misuse\" of its systems."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "The backlash to the growing use of the tech has led to an explosion in attempts to come up with 'AI-Free' logo that could be used globally. "
     },
     {
-      "source": "BBC Technology",
-      "title": "She spent 16 hours on Instagram in a day. It's up to a jury to decide if Meta is to blame",
-      "url": "https://www.bbc.com/news/articles/c0mg3zd7xwpo?at_medium=RSS&at_campaign=rss",
-      "summary": "A landmark lawsuit will set the stage for thousands of people who say social media platforms are intentionally addictive. "
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Sony&#8217;s AI graphics upscaling for PS5 Pro games is getting a big update tonight",
+        "#text": "The Live Nation trial restarts with a &#8216;velvet hammer&#8217;",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/895396/playstation-pssr-upscaling-cyberpunk-2077-silent-hill",
+      "url": "https://www.theverge.com/policy/895778/live-nation-ticketmaster-states-trial-continues",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Encyclopedia Britannica is suing OpenAI for allegedly ‘memorizing’ its content with ChatGPT",
+        "#text": "DLSS 5 looks like a real-time generative AI filter for video games",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/895372/encyclopedia-britannica-openai-lawsuit",
+      "url": "https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Amazon’s Fire TV Stick 4K Max and 4K Plus sticks are up to 50 percent off ",
+        "#text": "Teens sue Elon Musk’s xAI over Grok’s AI-generated CSAM",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/895340/fire-tv-stick-4k-max-plus-amazon-early-big-spring-sale-deal-sale",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/895639/xai-grok-teens-lawsuit-grok-ai-elon-musk",
       "summary": "(要約準備中)"
     }
   ]
