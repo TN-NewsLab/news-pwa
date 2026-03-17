@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "Y Combinator支援のRandom LabsがSlate V1を発表、初の「スウォームネイティブ」コーディングエージェントを主張",
-    "title_en": "Y Combinator-backed Random Labs launches Slate V1, claiming the first 'swarm-native' coding agent",
-    "summary": "AIの進化に伴い、効率的なモデル管理が課題となっている中、Random LabsがSlate V1を発表しました。この新しいコーディングエージェントは、大規模かつ複雑なエンジニアリングタスクの実行を自動化し、協力的なツールとして設計されています。また、Slateは「スレッドウィーヴィング」によってメモリ管理を最適化し、複数のモデルを効率的に活用するシステムを実現しています。",
-    "summary_en": "AIの進化に伴い、効率的なモデル管理が課題となっている中、Random LabsがSlate V1を発表しました。この新しいコーディングエージェントは、大規模かつ複雑なエンジニアリングタスクの実行を自動化し、協力的なツールとして設計されています。また、Slateは「スレッドウィーヴィング」によってメモリ管理を最適化し、複数のモデルを効率的に活用するシステムを実現しています。",
-    "link": "https://venturebeat.com/orchestration/y-combinator-backed-random-labs-launches-slate-v1-claiming-the-first-swarm",
+    "title": "NvidiaがVera Rubinを発表、OpenAI、Anthropic、Metaを協力に迎えた7チップのAIプラットフォーム",
+    "title_en": "Nvidia introduces Vera Rubin, a seven-chip AI platform with OpenAI, Anthropic and Meta on board",
+    "summary": "Nvidiaは新しい「Vera Rubin」プラットフォームを発表し、AI業界において大規模なインフラ構築の開始を宣言した。新プラットフォームは、従来のシステムと比べて性能効率が大幅に向上し、主要なクラウドプロバイダーと多くの顧客から支持を得ている。NvidiaはAIの未来を見据え、エージェント型AIの時代への移行を促進するために、より効率的なハードウェアとソフトウェアの開発を進めている。",
+    "summary_en": "Nvidiaは新しい「Vera Rubin」プラットフォームを発表し、AI業界において大規模なインフラ構築の開始を宣言した。新プラットフォームは、従来のシステムと比べて性能効率が大幅に向上し、主要なクラウドプロバイダーと多くの顧客から支持を得ている。NvidiaはAIの未来を見据え、エージェント型AIの時代への移行を促進するために、より効率的なハードウェアとソフトウェアの開発を進めている。",
+    "link": "https://venturebeat.com/infrastructure/nvidia-introduces-vera-rubin-a-seven-chip-ai-platform-with-openai-anthropic",
     "category": "AI",
-    "publishedAt": "2026-03-16 16:19"
+    "publishedAt": "2026-03-17 22:48"
   },
   {
     "source": "VentureBeat",
-    "title": "エージェントはRAG以上にベクタ検索を必要としている",
-    "title_en": "Agents need vector search more than RAG ever did",
-    "summary": "最近、エージェント型AIの世界におけるベクターデータベースの役割が注目されている。大規模なエージェントは多くのクエリを必要としており、情報の取得問題は拡大しており、単なるメモリソリューションでは対応できないことが明らかになっている。Qdrantのような企業は、この課題に特化したインフラを提供し、従来のデータベースが対応できないスケールでの情報取得の重要性を訴えている。",
-    "summary_en": "最近、エージェント型AIの世界におけるベクターデータベースの役割が注目されている。大規模なエージェントは多くのクエリを必要とし、情報の取得問題は拡大しており、単なるメモリソリューションでは対応できないことが明らかになっている。Qdrantのような企業は、この課題に特化したインフラを提供し、従来のデータベースが対応できないスケールでの情報 retrieval の重要性を訴えている。",
-    "link": "https://venturebeat.com/data/agents-dont-replace-vector-search-they-make-it-harder-to-get-right",
+    "title": "Nvidia BlueField-4 STX、ストレージにコンテキストメモリ層を追加しエージェントAIのスループットギャップを解消",
+    "title_en": "Nvidia BlueField-4 STX adds a context memory layer to storage to close the agentic AI throughput gap",
+    "summary": "Nvidiaは、AIエージェントの文脈の保持を最適化するため、GPUと従来のストレージの間に専用のコンテキストメモリ層を挿入するBlueField-4 STXという参照アーキテクチャを発表しました。このアーキテクチャにより、従来のCPUベースのストレージと比較して、大幅な性能向上が期待されます。企業は、ストレージ層をAIインフラの主要な部分として考慮し、STXに基づくシステムを導入することで、エージェントAIワークロードに対応した効率的なストレージソリューションを得ることができます。",
+    "summary_en": "Nvidiaは、AIエージェントの文脈の保持を最適化するため、GPUと従来のストレージの間に専用のコンテキストメモリ層を挿入するBlueField-4 STXという参照アーキテクチャを発表しました。このアーキテクチャにより、従来のCPUベースのストレージと比較して、大幅な性能向上が期待されます。企業は、ストレージ層をAIインフラの主要な部分として考慮し、STXに基づくシステムを導入することで、エージェントAIワークロードに対応した効率的なストレージソリューションを得ることができます。",
+    "link": "https://venturebeat.com/data/nvidia-bluefield-4-stx-adds-a-context-memory-layer-to-storage-to-close-the",
     "category": "AI",
-    "publishedAt": "2026-03-16 16:19"
+    "publishedAt": "2026-03-17 22:48"
   },
   {
     "source": "NHK",
-    "title": "石油の民間備蓄 放出開始 安定供給につなげたい考え 政府",
+    "title": "政府 日米首脳会談でアラスカ産原油調達の意向伝える方針",
     "title_en": "",
-    "summary": "政府は、民間企業に義務付けられている石油の備蓄放出を始めました。今週中に中東からのタンカーが大幅に減少する可能性があるため、早めの対応を図っています。これにより、安定供給を維持する狙いがあります。",
+    "summary": "イラン情勢の緊迫化により原油の安定供給に懸念が生じています。政府は日米首脳会談でアラスカ州の原油増産に向けた協力を提案し、その原油を調達する意向を示す方針です。これにより、原油供給力の向上と調達の多角化を目指しています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260316/k10015076451000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260317/k10015078051000.html",
     "category": "経済",
-    "publishedAt": "2026-03-16 16:19"
+    "publishedAt": "2026-03-17 22:48"
   },
   {
     "source": "BBC",
-    "title": "新たな常態': BBC、イラン戦争から2週間のドーハ市場を再訪",
-    "title_en": "'A new norm': BBC visits Doha market starting to fill up again two weeks into Iran war",
-    "summary": "BBCの国際ニュース特派員バーバラ・プレット・アッシャーがドーハのスーク・ワキフ市場を訪問しました。地域で続くストライキの影響について報告しています。市場の様子や人々の反応が伝えられています。",
-    "summary_en": "BBCの国際ニュース特派員バーバラ・プレット・アッシャーがドーハのスーク・ワキフ市場を訪問しました。地域で続くストライキの影響について報告しています。市場の様子や人々の反応が伝えられています。",
-    "link": "https://www.bbc.com/news/videos/cp32gez414yo?at_medium=RSS&at_campaign=rss",
+    "title": "トランプ、中国での習近平との会談を延期することを模索",
+    "title_en": "Trump seeks to delay meeting with Xi in China",
+    "summary": "イランでの戦争が激化する中、アメリカの外交政策の目標が影を潜めている。 この状況は、他の国際的課題の進展にも影響を与えている。 さらに、アメリカの対応が問われる中、国際社会の注目も集まっている。",
+    "summary_en": "イランでの戦争が激化する中、アメリカの外交政策の目標が影を潜めている。 この状況は、他の国際的課題の進展にも影響を与えている。 さらに、アメリカの対応が問われる中、国際社会の注目も集まっている。",
+    "link": "https://www.bbc.com/news/articles/cn9e0z7v3nxo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-03-16 16:19"
+    "publishedAt": "2026-03-17 22:48"
   },
   {
     "source": "NHK",
-    "title": "米アカデミー賞授賞式 日本の作品ノミネートも受賞ならず",
+    "title": "芝山努さん死去 「ドラえもん」「忍たま」 アニメ業界けん引",
     "title_en": "",
-    "summary": "アカデミー賞の授賞式で、レオナルド・ディカプリオさん主演の「ワン・バトル・アフターアナザー」が作品賞を含む6部門で受賞しました。日本映画「国宝」のヘアメイクチームは「メーキャップ・ヘアスタイリング賞」にノミネートされましたが、受賞には至りませんでした。全体として、アメリカ映画の作品が高く評価される結果となりました。",
+    "summary": "著名なアニメ監督の芝山努さんが肺がんで亡くなりました。彼は「ドラえもん」や「忍たま乱太郎」など、多くの作品を手掛けていました。アニメーション業界に大きな影響を与えた人物でした。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260316/k10015077011000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260317/k10015078121000.html",
     "category": "その他",
-    "publishedAt": "2026-03-16 16:19"
+    "publishedAt": "2026-03-17 22:48"
   }
 ]
