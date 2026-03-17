@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-03-17T07:18:42.442Z",
+  "updatedAt": "2026-03-17T13:52:08.861Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Trump's confidence is undimmed - but every Iran option comes with risk",
-      "url": "https://www.bbc.com/news/articles/c70k29914q4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The odds of a quick resolution to the war appear to be dwindling by the day, and the political stakes for the president are only growing."
+      "title": "Trump seeks to delay meeting with Xi in China",
+      "url": "https://www.bbc.com/news/articles/cn9e0z7v3nxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The escalating war in Iran has overshadowed many of the US' foreign policy objectives"
     },
     {
       "source": "BBC World",
-      "title": "Dozens killed after Afghanistan rehab centre struck",
+      "title": "Trump says presidents 'should not have learning disabilities' as he mocks Newsom's dyslexia",
+      "url": "https://www.bbc.com/news/articles/c4gjnwmm984o?at_medium=RSS&at_campaign=rss",
+      "summary": "The National Center for Learning Disabilities said it was \"disturbed\" by the president's remarks. "
+    },
+    {
+      "source": "BBC World",
+      "title": "Pakistan air strike kills at least 100 at Kabul drug rehab centre",
       "url": "https://www.bbc.com/news/articles/c4g8n7e0l40o?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC visited the facility and saw more than 30 bodies being carried out on stretchers."
-    },
-    {
-      "source": "BBC World",
-      "title": "Utah bereavement author found guilty of fatally poisoning her husband",
-      "url": "https://www.bbc.com/news/articles/cdxg1nx2r61o?at_medium=RSS&at_campaign=rss",
-      "summary": "A jury found that Kouri Richins killed her husband in March 2022 by poisoning him with a fentanyl-laced drink."
+      "summary": "Some of the bodies were injured beyond recognition, forensic laboratory sources told the BBC."
     },
     {
       "source": "BBC Technology",
@@ -27,41 +27,41 @@
     },
     {
       "source": "BBC Technology",
+      "title": "Teens sue Musk's xAI over Grok's pornographic images of them",
+      "url": "https://www.bbc.com/news/articles/cgk2lzmm22eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Musk's AI chatbot has created millions of fake sexualised images, experts say."
+    },
+    {
+      "source": "BBC Technology",
       "title": "Firms urged to check if other users edited their data on Companies House",
       "url": "https://www.bbc.com/news/articles/c5y41p0dy1wo?at_medium=RSS&at_campaign=rss",
       "summary": "The glitch meant logged-in users could view and edit other companies' details without their consent."
     },
     {
-      "source": "BBC Technology",
-      "title": "Is this product 'human-made'? The race to establish an AI-free logo",
-      "url": "https://www.bbc.com/news/articles/cj0d6el50ppo?at_medium=RSS&at_campaign=rss",
-      "summary": "The backlash to the growing use of the tech has led to an explosion in attempts to come up with 'AI-Free' logo that could be used globally. "
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "The Live Nation trial restarts with a &#8216;velvet hammer&#8217;",
+        "#text": "Poco’s first Pro Max phone earns the name with an 8,500mAh battery",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/895778/live-nation-ticketmaster-states-trial-continues",
+      "url": "https://www.theverge.com/tech/895884/poco-x8-pro-max-8500mah-battery-dynamic-rgb-lights-iron-man",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "DLSS 5 looks like a real-time generative AI filter for video games",
+        "#text": "Oppo’s nearly creaseless foldable isn’t launching in Europe after all",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics",
+      "url": "https://www.theverge.com/tech/895859/oppo-find-n6-launch-release-markets-specs-battery",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Teens sue Elon Musk’s xAI over Grok’s AI-generated CSAM",
+        "#text": "Samsung discontinues its Galaxy Z TriFold after just three months",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/895639/xai-grok-teens-lawsuit-grok-ai-elon-musk",
+      "url": "https://www.theverge.com/tech/895879/samsung-galaxy-z-trifold-discontinued-stock-sold-out",
       "summary": "(要約準備中)"
     }
   ]
