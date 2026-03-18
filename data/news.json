@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-03-18T07:17:39.270Z",
+  "updatedAt": "2026-03-18T13:53:58.144Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
-      "url": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss",
-      "summary": "National Counterterrorism Center Director Joe Kent says Trump \"started this war due to pressure from Israel and its powerful American lobby\"."
+      "title": "Total repression and air strikes bring unrelenting dread for Iranians",
+      "url": "https://www.bbc.com/news/articles/cn9e0wrglgdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Tehran residents tell the BBC they're caught between US-Israeli bombing and an Iranian regime trying to reassert its power. "
     },
     {
       "source": "BBC World",
@@ -15,9 +15,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Total repression and air strikes bring unrelenting dread for Iranians",
-      "url": "https://www.bbc.com/news/articles/cn9e0wrglgdo?at_medium=RSS&at_campaign=rss",
-      "summary": "Tehran residents tell the BBC they're caught between US-Israeli bombing and an Iranian regime trying to reassert its power. "
+      "title": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
+      "url": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss",
+      "summary": "National Counterterrorism Center Director Joe Kent says Trump \"started this war due to pressure from Israel and its powerful American lobby\"."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Government backtracks on AI and copyright after outcry from major artists",
+      "url": "https://www.bbc.com/news/articles/cvg1gr5v333o?at_medium=RSS&at_campaign=rss",
+      "summary": "However, the government's position is now unclear, saying it \"no longer has a preferred option\" for what to do next."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "Nvidia says the tool will transform game graphics - critics warn it could squeeze out artistic expression."
     },
     {
-      "source": "BBC Technology",
-      "title": "AI firm Anthropic seeks weapons expert to stop users from 'misuse'",
-      "url": "https://www.bbc.com/news/articles/c74721xyd1wo?at_medium=RSS&at_campaign=rss",
-      "summary": "The artificial intelligence firm says it wants to prevent \"catastrophic misuse\" of its systems."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "I went to the Pentagon to watch Pete Hegseth scold war reporters",
+        "#text": "The hits keep coming in Spider-Man: Brand New Day’s first trailer",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/896312/pentagon-briefing-iran-war-pete-hegseth",
+      "url": "https://www.theverge.com/entertainment/896564/spider-man-brand-new-day-trailer",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The Beats Studio Pro are nearly $200 off ahead of Amazon’s big spring sale",
+        "#text": "The great EV pullback: all the obstacles, cancellations, and delays",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/896279/beats-studio-pro-anc-headphones-amazon-big-spring-sale-deal-2026",
+      "url": "https://www.theverge.com/transportation/896559/ev-cancellation-delay-hybrid-china",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Remedy’s live-service shooter Firebreak is getting its final major update",
+        "#text": "Nvidia has lost the plot with gamers",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/896278/fbc-firebreak-last-update-remedy",
+      "url": "https://www.theverge.com/games/895753/nvidia-dlss-5-slop-face-fake-frames",
       "summary": "(要約準備中)"
     }
   ]
