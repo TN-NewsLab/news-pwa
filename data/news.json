@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-03-18T13:53:58.144Z",
+  "updatedAt": "2026-03-18T19:17:38.138Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Total repression and air strikes bring unrelenting dread for Iranians",
-      "url": "https://www.bbc.com/news/articles/cn9e0wrglgdo?at_medium=RSS&at_campaign=rss",
-      "summary": "Tehran residents tell the BBC they're caught between US-Israeli bombing and an Iranian regime trying to reassert its power. "
+      "title": "Iran's intelligence minister Esmail Khatib killed in air strike",
+      "url": "https://www.bbc.com/news/articles/c2d1dz14k51o?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel said it had killed Khatib, whose death was confirmed by Iranian President Masoud Pezeshkian on Wednesday. "
     },
     {
       "source": "BBC World",
-      "title": "Death of Ali Larijani deepens crisis at heart of Iran's leadership",
-      "url": "https://www.bbc.com/news/articles/cgqgxqekp89o?at_medium=RSS&at_campaign=rss",
-      "summary": "Larijani has long been seen as one of the Islamic Republic's most experienced and influential policy makers."
+      "title": "'Very difficult to stop': BBC visits scene of Iran cluster bomb strike on Israel",
+      "url": "https://www.bbc.com/news/articles/cwy9yldgn7qo?at_medium=RSS&at_campaign=rss",
+      "summary": "An elderly couple was killed after a bomb flew into their apartment in central Israel and exploded."
     },
     {
       "source": "BBC World",
-      "title": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
-      "url": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss",
-      "summary": "National Counterterrorism Center Director Joe Kent says Trump \"started this war due to pressure from Israel and its powerful American lobby\"."
+      "title": "Russian archaeologist can be sent to Ukraine for trial, Polish judge rules",
+      "url": "https://www.bbc.com/news/articles/c86y65j26xno?at_medium=RSS&at_campaign=rss",
+      "summary": "Archaeologist Alexander Butyagin is accused of conducting illegal excavations in Crimea - Ukraine's peninsula annexed by Russia. \n"
     },
     {
       "source": "BBC Technology",
@@ -27,41 +27,41 @@
     },
     {
       "source": "BBC Technology",
+      "title": "Quantum pioneers win Turing Award for encryption breakthrough",
+      "url": "https://www.bbc.com/news/articles/c7474004g01o?at_medium=RSS&at_campaign=rss",
+      "summary": "It is hoped Charles H Bennett and Gilles Brassard's work will make digital communications secure for decades ahead."
+    },
+    {
+      "source": "BBC Technology",
       "title": "Ad for AI editing app which said it could 'remove anything' banned ",
       "url": "https://www.bbc.com/news/articles/cx2g8888q53o?at_medium=RSS&at_campaign=rss",
       "summary": "The UK regulator said the ad condoned \"digitally altering and exposing women's bodies without their consent.\""
     },
     {
-      "source": "BBC Technology",
-      "title": "Nvidia faces gamer backlash over 'breakthrough' AI graphics feature",
-      "url": "https://www.bbc.com/news/articles/cdxg15eyv5ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Nvidia says the tool will transform game graphics - critics warn it could squeeze out artistic expression."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "The hits keep coming in Spider-Man: Brand New Day’s first trailer",
+        "#text": "Trump&#8217;s AI chief&#8217;s big Iran warning gets big time ignored",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/896564/spider-man-brand-new-day-trailer",
+      "url": "https://www.theverge.com/column/896949/regulator-david-sacks-iran-polymarket",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The great EV pullback: all the obstacles, cancellations, and delays",
+        "#text": "Robinhood is making a social network",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/transportation/896559/ev-cancellation-delay-hybrid-china",
+      "url": "https://www.theverge.com/tech/896989/robinhood-social-network-beta",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Nvidia has lost the plot with gamers",
+        "#text": "ChatGPT did not cure a dog’s cancer",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/895753/nvidia-dlss-5-slop-face-fake-frames",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/896878/ai-did-not-cure-this-dogs-cancer",
       "summary": "(要約準備中)"
     }
   ]
