@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "NvidiaがVera Rubinを発表、OpenAI、Anthropic、Metaを協力に迎えた7チップのAIプラットフォーム",
-    "title_en": "Nvidia introduces Vera Rubin, a seven-chip AI platform with OpenAI, Anthropic and Meta on board",
-    "summary": "Nvidiaは新しい「Vera Rubin」プラットフォームを発表し、AI業界において大規模なインフラ構築の開始を宣言した。新プラットフォームは、従来のシステムと比べて性能効率が大幅に向上し、主要なクラウドプロバイダーと多くの顧客から支持を得ている。NvidiaはAIの未来を見据え、エージェント型AIの時代への移行を促進するために、より効率的なハードウェアとソフトウェアの開発を進めている。",
-    "summary_en": "Nvidiaは新しい「Vera Rubin」プラットフォームを発表し、AI業界において大規模なインフラ構築の開始を宣言した。新プラットフォームは、従来のシステムと比べて性能効率が大幅に向上し、主要なクラウドプロバイダーと多くの顧客から支持を得ている。NvidiaはAIの未来を見据え、エージェント型AIの時代への移行を促進するために、より効率的なハードウェアとソフトウェアの開発を進めている。",
-    "link": "https://venturebeat.com/infrastructure/nvidia-introduces-vera-rubin-a-seven-chip-ai-platform-with-openai-anthropic",
+    "title": "オープンソースMamba-3が登場、Transformerアーキテクチャを超え言語モデリング性能を4%向上、遅延を低減",
+    "title_en": "Open source Mamba 3 arrives to surpass Transformer architecture with nearly 4% improved language modeling, reduced latency",
+    "summary": "最近、Mamba-3という新しいAIアーキテクチャが登場し、従来のTransformersと比べて効率的な推論が可能になりました。このモデルは、言語処理における知識を維持しつつ、必要なメモリを半減させ、計算能力を向上させます。Mamba-3はオープンソースとして公開され、企業でも活用できるようになっており、AIの効率を重視した新たな潮流を示しています。",
+    "summary_en": "最近、Mamba-3という新しいAIアーキテクチャが登場し、従来のTransformersと比べて効率的な推論が可能になりました。このモデルは、言語処理における知識を維持しつつ、必要なメモリを半減させ、計算能力を向上させます。Mamba-3はオープンソースとして公開され、企業でも活用できるようになっており、AIの効率を重視した新たな潮流を示しています。",
+    "link": "https://venturebeat.com/technology/open-source-mamba-3-arrives-to-surpass-transformer-architecture-with-nearly",
     "category": "AI",
-    "publishedAt": "2026-03-17 22:48"
+    "publishedAt": "2026-03-18 16:51"
   },
   {
     "source": "VentureBeat",
-    "title": "Nvidia BlueField-4 STX、ストレージにコンテキストメモリ層を追加しエージェントAIのスループットギャップを解消",
-    "title_en": "Nvidia BlueField-4 STX adds a context memory layer to storage to close the agentic AI throughput gap",
-    "summary": "Nvidiaは、AIエージェントの文脈の保持を最適化するため、GPUと従来のストレージの間に専用のコンテキストメモリ層を挿入するBlueField-4 STXという参照アーキテクチャを発表しました。このアーキテクチャにより、従来のCPUベースのストレージと比較して、大幅な性能向上が期待されます。企業は、ストレージ層をAIインフラの主要な部分として考慮し、STXに基づくシステムを導入することで、エージェントAIワークロードに対応した効率的なストレージソリューションを得ることができます。",
-    "summary_en": "Nvidiaは、AIエージェントの文脈の保持を最適化するため、GPUと従来のストレージの間に専用のコンテキストメモリ層を挿入するBlueField-4 STXという参照アーキテクチャを発表しました。このアーキテクチャにより、従来のCPUベースのストレージと比較して、大幅な性能向上が期待されます。企業は、ストレージ層をAIインフラの主要な部分として考慮し、STXに基づくシステムを導入することで、エージェントAIワークロードに対応した効率的なストレージソリューションを得ることができます。",
-    "link": "https://venturebeat.com/data/nvidia-bluefield-4-stx-adds-a-context-memory-layer-to-storage-to-close-the",
+    "title": "Mistral AI、Forgeを発表 - 企業が独自のAIモデルを構築できるプラットフォームを提供し、クラウド大手に挑戦",
+    "title_en": "Mistral AI launches Forge to help companies build proprietary AI models, challenging cloud giants",
+    "summary": "Mistral AIが新たに発表した「Forge」は、企業が独自のデータを使用してAIモデルを構築・カスタマイズ・改善できるプラットフォームであり、従来の細かい調整APIを超えた包括的なモデル訓練のライフサイクルをサポートします。最近の一連の発表により、Mistralはモデルのベンチマーク競争から脱却し、企業が自分たちのAIを所有するためのインフラを提供する方向にシフトしています。Forgeはデータプライバシーを重視し、クリティカルなビジネス問題に対してカスタムモデルの必要性を強調することで、特にデータセンシティブな業界のニーズに応えています。",
+    "summary_en": "Mistral AIが新たに発表した「Forge」は、企業が独自のデータを使用してAIモデルを構築・カスタマイズ・改善できるプラットフォームであり、従来の細かい調整APIを超えた包括的なモデル訓練のライフサイクルをサポートします。最近の一連の発表により、Mistralはモデルのベンチマーク競争から脱却し、企業が自分たちのAIを所有するためのインフラを提供する方向にシフトしています。Forgeはデータプライバシーを重視し、クリティカルなビジネス問題に対してカスタムモデルの必要性を強調することで、特にデータセンシティブな業界のニーズに応えています。",
+    "link": "https://venturebeat.com/infrastructure/mistral-ai-launches-forge-to-help-companies-build-proprietary-ai-models",
     "category": "AI",
-    "publishedAt": "2026-03-17 22:48"
+    "publishedAt": "2026-03-18 16:51"
   },
   {
     "source": "NHK",
-    "title": "政府 日米首脳会談でアラスカ産原油調達の意向伝える方針",
+    "title": "JR東日本 社長ら経営陣を処分 相次ぐ大規模な輸送トラブル受け",
     "title_en": "",
-    "summary": "イラン情勢の緊迫化により原油の安定供給に懸念が生じています。政府は日米首脳会談でアラスカ州の原油増産に向けた協力を提案し、その原油を調達する意向を示す方針です。これにより、原油供給力の向上と調達の多角化を目指しています。",
+    "summary": "JR東日本は、最近の大規模な輸送トラブルを受けて、社長が報酬の20％を1か月返上する処分を発表しました。トラブルには山手線や京浜東北線の長時間運転停止が含まれています。会社の対応としての責任を明確にする意図があります。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260317/k10015078051000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260318/k10015078741000.html",
     "category": "経済",
-    "publishedAt": "2026-03-17 22:48"
+    "publishedAt": "2026-03-18 16:52"
   },
   {
     "source": "BBC",
-    "title": "トランプ、中国での習近平との会談を延期することを模索",
-    "title_en": "Trump seeks to delay meeting with Xi in China",
-    "summary": "イランでの戦争が激化する中、アメリカの外交政策の目標が影を潜めている。 この状況は、他の国際的課題の進展にも影響を与えている。 さらに、アメリカの対応が問われる中、国際社会の注目も集まっている。",
-    "summary_en": "イランでの戦争が激化する中、アメリカの外交政策の目標が影を潜めている。 この状況は、他の国際的課題の進展にも影響を与えている。 さらに、アメリカの対応が問われる中、国際社会の注目も集まっている。",
-    "link": "https://www.bbc.com/news/articles/cn9e0z7v3nxo?at_medium=RSS&at_campaign=rss",
+    "title": "米国の対テロ担当高官がイラン戦争を巡り辞任、トランプに「方針を転換せよ」と促す",
+    "title_en": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
+    "summary": "国家対テロセンターのジョー・ケント所長は、トランプが「イスラエルとその強力なアメリカのロビーからの圧力によってこの戦争を始めた」と述べています。彼の発言は、アメリカの外交政策における特定の影響力の所在を指摘しており、トランプ政権下での中東政策の批判としても受け取られています。",
+    "summary_en": "国家対テロセンターのジョー・ケント所長は、トランプが「イスラエルとその強力なアメリカのロビーからの圧力によってこの戦争を始めた」と述べています。彼の発言は、アメリカの外交政策における特定の影響力の所在を指摘しています。この発言は、トランプ政権下での中東政策の批判としても受け取られています。",
+    "link": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-03-17 22:48"
+    "publishedAt": "2026-03-18 16:52"
   },
   {
     "source": "NHK",
-    "title": "芝山努さん死去 「ドラえもん」「忍たま」 アニメ業界けん引",
+    "title": "将棋 王将戦 藤井聡太六冠と永瀬拓矢九段 第6局が始まる",
     "title_en": "",
-    "summary": "著名なアニメ監督の芝山努さんが肺がんで亡くなりました。彼は「ドラえもん」や「忍たま乱太郎」など、多くの作品を手掛けていました。アニメーション業界に大きな影響を与えた人物でした。",
+    "summary": "将棋の八大タイトルの一つである王将戦の第6局が名古屋市で始まりました。藤井聡太六冠は、敗れればタイトル防衛が危うくなる状況に直面しています。彼の勝利が最終局への望みをつなげるかどうかが注目されています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260317/k10015078121000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260318/k10015078371000.html",
     "category": "その他",
-    "publishedAt": "2026-03-17 22:48"
+    "publishedAt": "2026-03-18 16:52"
   }
 ]
