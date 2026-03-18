@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-17T19:20:12.247Z",
+  "updatedAt": "2026-03-18T03:20:37.071Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,15 +9,21 @@
     },
     {
       "source": "BBC World",
-      "title": "Air strike hit Kabul rehab centre as patients ate dinner, survivor tells BBC",
-      "url": "https://www.bbc.com/news/articles/ckg1kgz6wkgo?at_medium=RSS&at_campaign=rss",
-      "summary": "The exact number killed in Monday night's strike by Pakistan is still not known, but is feared to be in the hundreds."
+      "title": "Death of Ali Larijani deepens crisis at heart of Iran's leadership",
+      "url": "https://www.bbc.com/news/articles/cgqgxqekp89o?at_medium=RSS&at_campaign=rss",
+      "summary": "Larijani has long been seen as one of the Islamic Republic's most experienced and influential policy makers."
     },
     {
       "source": "BBC World",
-      "title": "Israel says it killed Iranian security chief Ali Larijani in air strike",
-      "url": "https://www.bbc.com/news/articles/c24deezq6meo?at_medium=RSS&at_campaign=rss",
-      "summary": "The deaths of Larijani and the head of the paramilitary Basij force have not been confirmed by Iranian authorities.\n\n"
+      "title": "Total repression and air strikes bring unrelenting dread for Iranians",
+      "url": "https://www.bbc.com/news/articles/cn9e0wrglgdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Tehran residents tell the BBC they're caught between US-Israeli bombing and an Iranian regime trying to reassert its power. "
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Ad for AI editing app which said it could 'remove anything' banned ",
+      "url": "https://www.bbc.com/news/articles/cx2g8888q53o?at_medium=RSS&at_campaign=rss",
+      "summary": "The UK regulator said the ad condoned \"digitally altering and exposing women's bodies without their consent.\""
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "The artificial intelligence firm says it wants to prevent \"catastrophic misuse\" of its systems."
     },
     {
-      "source": "BBC Technology",
-      "title": "Teens sue Musk's xAI over Grok's pornographic images of them",
-      "url": "https://www.bbc.com/news/articles/cgk2lzmm22eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Musk's AI chatbot has created millions of fake sexualised images, experts say."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Ikea tried to build a smart home for everyone — here&#8217;s why it&#8217;s not working yet",
+        "#text": "I went to the Pentagon to watch Pete Hegseth scold war reporters",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/896006/ikea-matter-thread-smart-home-problems",
+      "url": "https://www.theverge.com/policy/896312/pentagon-briefing-iran-war-pete-hegseth",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Nvidia&#8217;s DLSS 5 is like motion smoothing for video games, but worse",
+        "#text": "The Beats Studio Pro are nearly $200 off ahead of Amazon’s big spring sale",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing",
+      "url": "https://www.theverge.com/gadgets/896279/beats-studio-pro-anc-headphones-amazon-big-spring-sale-deal-2026",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Antigravity’s 360-degree drone is 20 percent off ahead of its next feature drop",
+        "#text": "Remedy’s live-service shooter Firebreak is getting its final major update",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/895980/antigravity-a1-360-degree-drone-deal-amazon-big-spring-sale-2026",
+      "url": "https://www.theverge.com/entertainment/896278/fbc-firebreak-last-update-remedy",
       "summary": "(要約準備中)"
     }
   ]
