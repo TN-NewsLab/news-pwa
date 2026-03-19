@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-03-19T13:42:33.065Z",
+  "updatedAt": "2026-03-19T19:14:59.502Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Are US and Israel aligned on Iran war? Deciphering Trump's post after gas field attacks",
+      "url": "https://www.bbc.com/news/articles/c8x7leknlywo?at_medium=RSS&at_campaign=rss",
+      "summary": "What does Trump's Truth Social post after gas field attacks tell us about US-Israeli alignment?"
+    },
     {
       "source": "BBC World",
       "title": "How Europe sleepwalked into yet another energy crisis",
@@ -9,15 +15,15 @@
     },
     {
       "source": "BBC World",
-      "title": "US intelligence chief says Iran's regime 'intact' but 'degraded'",
-      "url": "https://www.bbc.com/news/articles/c1d6dk569w6o?at_medium=RSS&at_campaign=rss",
-      "summary": "Lawmakers pressed intelligence officials about the Iran war, and if the Islamic Republic had posed an imminent threat."
+      "title": "Spain's king welcomes Mexico's World Cup invite after 'abuse' comments",
+      "url": "https://www.bbc.com/news/articles/cvglew9p891o?at_medium=RSS&at_campaign=rss",
+      "summary": "News of the invitation emerges after the monarch acknowledged \"a lot of abuse\" during the Spanish conquest of Mexico."
     },
     {
-      "source": "BBC World",
-      "title": "Gas price soars 25% after strikes on Qatar hub",
-      "url": "https://www.bbc.com/news/articles/c78x83lpgngo?at_medium=RSS&at_campaign=rss",
-      "summary": "Energy costs jump after fresh strikes hit key infrastructure in the Middle East."
+      "source": "BBC Technology",
+      "title": "Facebook offering TikTok and YouTube creators $3,000 to post content",
+      "url": "https://www.bbc.com/news/articles/c895wwp3kqlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Meta wants creators to \"rediscover\" Facebook, but a social media expert says viewers will not follow."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "An analyst tells the BBC how she tracked down a victim of child sexual abuse after years of searching."
     },
     {
-      "source": "BBC Technology",
-      "title": "Amazon's Alexa has had an AI upgrade. Now she's got more to say",
-      "url": "https://www.bbc.com/news/articles/c3ewe7v7gpgo?at_medium=RSS&at_campaign=rss",
-      "summary": "There has been criticism the Echo has stagnated, while other AI chatbots have become much easier to communicate with."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Tubi and TikTok are partnering to produce long form series",
+        "#text": "Hermès doesn’t include a power adapter with its $5,150 charging case",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/896648/tubi-tiktok-creatorverse-incubator",
+      "url": "https://www.theverge.com/tech/897474/hermes-paddock-wireless-charger-apple-watch-airpods-iphone-leather-luxury",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Nothing Phone 4A Pro review: That flagship feeling",
+        "#text": "A rogue AI led to a serious security incident at Meta",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/896626/nothing-phone-4a-pro-review-design-specs-battery-camera",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Adobe’s AI image generator can now be trained on your own art",
+        "#text": "Microsoft’s go-to Xbox controller is selling at its best price of the year",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/897243/adobe-firefly-ai-custom-models-image-public-beta",
+      "url": "https://www.theverge.com/gadgets/897334/xbox-wireless-controller-pc-steam-deck-amazon-big-spring-sale-2026-deal",
       "summary": "(要約準備中)"
     }
   ]
