@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-03-19T07:14:38.084Z",
+  "updatedAt": "2026-03-19T13:42:33.065Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "How the Iran war has left Europe facing yet another energy crisis",
+      "title": "How Europe sleepwalked into yet another energy crisis",
       "url": "https://www.bbc.com/news/articles/c24de9e97vno?at_medium=RSS&at_campaign=rss",
       "summary": "It is not the first time that there has been deep energy-linked frustration in the heart of Europe."
     },
@@ -15,9 +15,15 @@
     },
     {
       "source": "BBC World",
-      "title": "One killed as ski gondola crashes down mountain at Swiss resort",
-      "url": "https://www.bbc.com/news/articles/cq575yp1lw6o?at_medium=RSS&at_campaign=rss",
-      "summary": "Dramatic footage showed the gondola flipping over several times in the snow before coming to a halt in Engelberg."
+      "title": "Gas price soars 25% after strikes on Qatar hub",
+      "url": "https://www.bbc.com/news/articles/c78x83lpgngo?at_medium=RSS&at_campaign=rss",
+      "summary": "Energy costs jump after fresh strikes hit key infrastructure in the Middle East."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "US messageboard 4Chan mocks £520,000 fine for UK online safety breaches",
+      "url": "https://www.bbc.com/news/articles/c624330lg1ko?at_medium=RSS&at_campaign=rss",
+      "summary": "The fine includes £450,000 for lack of age checks to prevent children from seeing pornography."
     },
     {
       "source": "BBC Technology",
@@ -27,41 +33,35 @@
     },
     {
       "source": "BBC Technology",
-      "title": "Government backtracks on AI and copyright after outcry from major artists",
-      "url": "https://www.bbc.com/news/articles/cvg1gr5v333o?at_medium=RSS&at_campaign=rss",
-      "summary": "However, the government's position is now unclear, saying it \"no longer has a preferred option\" for what to do next."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Quantum pioneers win Turing Award for encryption breakthrough",
-      "url": "https://www.bbc.com/news/articles/c7474004g01o?at_medium=RSS&at_campaign=rss",
-      "summary": "It is hoped Charles H Bennett and Gilles Brassard's work will make digital communications secure for decades ahead."
+      "title": "Amazon's Alexa has had an AI upgrade. Now she's got more to say",
+      "url": "https://www.bbc.com/news/articles/c3ewe7v7gpgo?at_medium=RSS&at_campaign=rss",
+      "summary": "There has been criticism the Echo has stagnated, while other AI chatbots have become much easier to communicate with."
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The FBI is buying Americans’ location data",
+        "#text": "Tubi and TikTok are partnering to produce long form series",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/897145/kash-patel-ron-wyden-fbi-location-data-no-warrant",
+      "url": "https://www.theverge.com/entertainment/896648/tubi-tiktok-creatorverse-incubator",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Amazon doesn’t want the blame for the Post Office going under",
+        "#text": "Nothing Phone 4A Pro review: That flagship feeling",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/897114/amazon-usps-contract-money-running-out",
+      "url": "https://www.theverge.com/tech/896626/nothing-phone-4a-pro-review-design-specs-battery-camera",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Congress considers blowing up internet law",
+        "#text": "Adobe’s AI image generator can now be trained on your own art",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/897106/section-230-reform-hearing-jawboning-social-media",
+      "url": "https://www.theverge.com/tech/897243/adobe-firefly-ai-custom-models-image-public-beta",
       "summary": "(要約準備中)"
     }
   ]
