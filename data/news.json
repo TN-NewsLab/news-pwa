@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-03-18T19:17:38.138Z",
+  "updatedAt": "2026-03-19T03:21:17.754Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "US intelligence chief says Iran's regime 'intact' but 'degraded'",
+      "url": "https://www.bbc.com/news/articles/c1d6dk569w6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Lawmakers pressed intelligence officials about the Iran war, and if the Islamic Republic had posed an imminent threat."
+    },
     {
       "source": "BBC World",
       "title": "Iran's intelligence minister Esmail Khatib killed in air strike",
@@ -9,15 +15,9 @@
     },
     {
       "source": "BBC World",
-      "title": "'Very difficult to stop': BBC visits scene of Iran cluster bomb strike on Israel",
-      "url": "https://www.bbc.com/news/articles/cwy9yldgn7qo?at_medium=RSS&at_campaign=rss",
-      "summary": "An elderly couple was killed after a bomb flew into their apartment in central Israel and exploded."
-    },
-    {
-      "source": "BBC World",
-      "title": "Russian archaeologist can be sent to Ukraine for trial, Polish judge rules",
-      "url": "https://www.bbc.com/news/articles/c86y65j26xno?at_medium=RSS&at_campaign=rss",
-      "summary": "Archaeologist Alexander Butyagin is accused of conducting illegal excavations in Crimea - Ukraine's peninsula annexed by Russia. \n"
+      "title": "One killed as ski gondola crashes down mountain at Swiss resort",
+      "url": "https://www.bbc.com/news/articles/cq575yp1lw6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Dramatic footage showed the gondola flipping over several times in the snow before coming to a halt in Engelberg."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Trump&#8217;s AI chief&#8217;s big Iran warning gets big time ignored",
+        "#text": "The FBI is buying Americans’ location data",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/column/896949/regulator-david-sacks-iran-polymarket",
+      "url": "https://www.theverge.com/news/897145/kash-patel-ron-wyden-fbi-location-data-no-warrant",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Robinhood is making a social network",
+        "#text": "Amazon doesn’t want the blame for the Post Office going under",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/896989/robinhood-social-network-beta",
+      "url": "https://www.theverge.com/tech/897114/amazon-usps-contract-money-running-out",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "ChatGPT did not cure a dog’s cancer",
+        "#text": "Congress considers blowing up internet law",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/896878/ai-did-not-cure-this-dogs-cancer",
+      "url": "https://www.theverge.com/policy/897106/section-230-reform-hearing-jawboning-social-media",
       "summary": "(要約準備中)"
     }
   ]
