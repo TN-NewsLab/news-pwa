@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "オープンソースMamba-3が登場、Transformerアーキテクチャを超え言語モデリング性能を4%向上、遅延を低減",
-    "title_en": "Open source Mamba 3 arrives to surpass Transformer architecture with nearly 4% improved language modeling, reduced latency",
-    "summary": "最近、Mamba-3という新しいAIアーキテクチャが登場し、従来のTransformersと比べて効率的な推論が可能になりました。このモデルは、言語処理における知識を維持しつつ、必要なメモリを半減させ、計算能力を向上させます。Mamba-3はオープンソースとして公開され、企業でも活用できるようになっており、AIの効率を重視した新たな潮流を示しています。",
-    "summary_en": "最近、Mamba-3という新しいAIアーキテクチャが登場し、従来のTransformersと比べて効率的な推論が可能になりました。このモデルは、言語処理における知識を維持しつつ、必要なメモリを半減させ、計算能力を向上させます。Mamba-3はオープンソースとして公開され、企業でも活用できるようになっており、AIの効率を重視した新たな潮流を示しています。",
-    "link": "https://venturebeat.com/technology/open-source-mamba-3-arrives-to-surpass-transformer-architecture-with-nearly",
+    "title": "Xiaomi、GPT-5.2やOpus 4.6に近い性能を持つ新型MiMo-V2-Proを低コストで発表",
+    "title_en": "Xiaomi stuns with new MiMo-V2-Pro LLM nearing GPT-5.2, Opus 4.6 performance at a fraction of the cost",
+    "summary": "Xiaomiが新たに発表したMiMo-V2-Proは、1兆のパラメータを持ち、アメリカのAI企業に匹敵する性能を誇りながらコストは非常に抑えられています。モデルはハイブリッドアテンション機構を用い、大規模なデータ処理における効率性を高めており、実際のタスクにおいても優れた結果を示しています。Xiaomiはこのモデルを開発者市場での競争力を持つ製品として位置付けており、将来的にはオープンソース版のモデルも提供する計画があります。",
+    "summary_en": "Xiaomiが新たに発表したMiMo-V2-Proは、1兆のパラメータを持ち、アメリカのAI企業に匹敵する性能を誇りながらコストは非常に抑えられています。モデルはハイブリッドアテンション機構を用い、大規模なデータ処理における効率性を高めており、実際のタスクにおいても優れた結果を示しています。Xiaomiはこのモデルを開発者市場での競争力を持つ製品として位置付けており、将来的にはオープンソース版のモデルも提供する計画があります。",
+    "link": "https://venturebeat.com/technology/xiaomi-stuns-with-new-mimo-v2-pro-llm-nearing-gpt-5-2-opus-4-6-performance",
     "category": "AI",
-    "publishedAt": "2026-03-18 16:51"
+    "publishedAt": "2026-03-19 17:39"
   },
   {
     "source": "VentureBeat",
-    "title": "Mistral AI、Forgeを発表 - 企業が独自のAIモデルを構築できるプラットフォームを提供し、クラウド大手に挑戦",
-    "title_en": "Mistral AI launches Forge to help companies build proprietary AI models, challenging cloud giants",
-    "summary": "Mistral AIが新たに発表した「Forge」は、企業が独自のデータを使用してAIモデルを構築・カスタマイズ・改善できるプラットフォームであり、従来の細かい調整APIを超えた包括的なモデル訓練のライフサイクルをサポートします。最近の一連の発表により、Mistralはモデルのベンチマーク競争から脱却し、企業が自分たちのAIを所有するためのインフラを提供する方向にシフトしています。Forgeはデータプライバシーを重視し、クリティカルなビジネス問題に対してカスタムモデルの必要性を強調することで、特にデータセンシティブな業界のニーズに応えています。",
-    "summary_en": "Mistral AIが新たに発表した「Forge」は、企業が独自のデータを使用してAIモデルを構築・カスタマイズ・改善できるプラットフォームであり、従来の細かい調整APIを超えた包括的なモデル訓練のライフサイクルをサポートします。最近の一連の発表により、Mistralはモデルのベンチマーク競争から脱却し、企業が自分たちのAIを所有するためのインフラを提供する方向にシフトしています。Forgeはデータプライバシーを重視し、クリティカルなビジネス問題に対してカスタムモデルの必要性を強調することで、特にデータセンシティブな業界のニーズに応えています。",
-    "link": "https://venturebeat.com/infrastructure/mistral-ai-launches-forge-to-help-companies-build-proprietary-ai-models",
+    "title": "新しいMiniMax M2.7独自AIモデルは「自己進化型」であり、強化学習研究のワークフローの30-50％を実行可能",
+    "title_en": "New MiniMax M2.7 proprietary AI model is 'self-evolving' and can perform 30-50% of reinforcement learning research workflow",
+    "summary": "最近、中国のAIスタートアップMiniMaxが新しいプロプライエタリモデルM2.7を発表し、AIエージェントの性能向上を図っています。このモデルは自己進化が可能で、高度なタスクにおけるコスト効率に優れ、業界のパラダイムシフトを示唆しています。また、MiniMaxはオープンソースの前身からプロプライエタリモデルへの戦略転換を進めており、企業決定者には自社のAI導入に関する重要な選択肢を提供しています。",
+    "summary_en": "最近、中国のAIスタートアップMiniMaxが新しいプロプライエタリモデルM2.7を発表し、AIエージェントの性能向上を図っています。このモデルは自己進化が可能で、高度なタスクにおけるコスト効率に優れ、業界のパラダイムシフトを示唆しています。また、MiniMaxはオープンソースの前身からプロプライエタリモデルへの戦略転換を進めており、企業決定者には自社のAI導入に関する重要な選択肢を提供しています。",
+    "link": "https://venturebeat.com/technology/new-minimax-m2-7-proprietary-ai-model-is-self-evolving-and-can-perform-30-50",
     "category": "AI",
-    "publishedAt": "2026-03-18 16:51"
+    "publishedAt": "2026-03-19 17:39"
   },
   {
     "source": "NHK",
-    "title": "JR東日本 社長ら経営陣を処分 相次ぐ大規模な輸送トラブル受け",
+    "title": "イラン情勢緊迫化 車の部品材料調達ルート多角化検討 自工会",
     "title_en": "",
-    "summary": "JR東日本は、最近の大規模な輸送トラブルを受けて、社長が報酬の20％を1か月返上する処分を発表しました。トラブルには山手線や京浜東北線の長時間運転停止が含まれています。会社の対応としての責任を明確にする意図があります。",
+    "summary": "トヨタ自動車の佐藤社長は、イラン情勢の悪化により石油製品の供給に懸念があると述べました。これが車の部品の材料調達に影響を及ぼす可能性があると警鐘を鳴らしました。佐藤社長は、調達ルートの多角化を検討する意向を示しました。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260318/k10015078741000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260319/k10015079851000.html",
     "category": "経済",
-    "publishedAt": "2026-03-18 16:52"
+    "publishedAt": "2026-03-19 17:39"
   },
   {
     "source": "BBC",
-    "title": "米国の対テロ担当高官がイラン戦争を巡り辞任、トランプに「方針を転換せよ」と促す",
-    "title_en": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
-    "summary": "国家対テロセンターのジョー・ケント所長は、トランプが「イスラエルとその強力なアメリカのロビーからの圧力によってこの戦争を始めた」と述べています。彼の発言は、アメリカの外交政策における特定の影響力の所在を指摘しており、トランプ政権下での中東政策の批判としても受け取られています。",
-    "summary_en": "国家対テロセンターのジョー・ケント所長は、トランプが「イスラエルとその強力なアメリカのロビーからの圧力によってこの戦争を始めた」と述べています。彼の発言は、アメリカの外交政策における特定の影響力の所在を指摘しています。この発言は、トランプ政権下での中東政策の批判としても受け取られています。",
-    "link": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss",
+    "title": "イラン戦争がヨーロッパを再びエネルギー危機に追いやった理由",
+    "title_en": "How the Iran war has left Europe facing yet another energy crisis",
+    "summary": "ヨーロッパの中心部でエネルギーに関する深刻な不満が再燃している。過去にも同様の状況が存在したことがある。エネルギー問題は地域の安定に影響を与えている。",
+    "summary_en": "ヨーロッパの中心部でエネルギーに関する深刻な不満が再燃している。過去にも同様の状況が存在したことがある。エネルギー問題は地域の安定に影響を与えている。",
+    "link": "https://www.bbc.com/news/articles/c24de9e97vno?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-03-18 16:52"
+    "publishedAt": "2026-03-19 17:40"
   },
   {
     "source": "NHK",
-    "title": "将棋 王将戦 藤井聡太六冠と永瀬拓矢九段 第6局が始まる",
+    "title": "ウィーン少年合唱団 初の日本語のオリジナル曲を公開",
     "title_en": "",
-    "summary": "将棋の八大タイトルの一つである王将戦の第6局が名古屋市で始まりました。藤井聡太六冠は、敗れればタイトル防衛が危うくなる状況に直面しています。彼の勝利が最終局への望みをつなげるかどうかが注目されています。",
+    "summary": "ウィーン少年合唱団が国外公演100年を記念し、初の日本語オリジナル曲を発表しました。彼らは「天使の歌声」として名高い合唱団です。この楽曲は新たな国際的な展開を象徴しています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260318/k10015078371000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260319/k10015079241000.html",
     "category": "その他",
-    "publishedAt": "2026-03-18 16:52"
+    "publishedAt": "2026-03-19 17:40"
   }
 ]
