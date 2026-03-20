@@ -1,67 +1,67 @@
 {
-  "updatedAt": "2026-03-20T13:34:16.088Z",
+  "updatedAt": "2026-03-20T19:06:55.564Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Russia, China and the US – the global winners and losers of the Iran war",
-      "url": "https://www.bbc.com/news/articles/c3wlwnn05zqo?at_medium=RSS&at_campaign=rss",
-      "summary": "As the conflict triggers economic disruption some risk being hit hard, while others stand to benefit."
-    },
-    {
-      "source": "BBC World",
-      "title": "Norway's crown princess breaks silence on Epstein links: 'I was manipulated and deceived'",
+      "title": "Norway's crown princess breaks silence, claiming she was 'manipulated and deceived' by Epstein",
       "url": "https://www.bbc.com/news/articles/cde5y63y3n7o?at_medium=RSS&at_campaign=rss",
       "summary": "Crown Princess Mette Marit tells Norwegian TV she wishes she had never met the late sex offender."
     },
     {
       "source": "BBC World",
-      "title": "Hungary's Orbán accused of disloyalty and blackmail over Ukraine loan veto",
-      "url": "https://www.bbc.com/news/articles/cq6jrvgqeejo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Hungarian leader says a pipeline carrying Russian oil through Ukraine to Hungary must be repaired before any funds can be released."
+      "title": "Israel strikes Syria after Druze clashes",
+      "url": "https://www.bbc.com/news/articles/c248pgn158go?at_medium=RSS&at_campaign=rss",
+      "summary": "Syria condemned the strikes on weapons sites and government infrastructure as an \"outrageous\" assault on Syria's sovereignty. "
+    },
+    {
+      "source": "BBC World",
+      "title": "BTS return from military service - but does their album live up to the hype?",
+      "url": "https://www.bbc.com/news/articles/c070eg32dryo?at_medium=RSS&at_campaign=rss",
+      "summary": "The band's 10th album sees them return to the rebellious, rap-heavy sound of their early days."
     },
     {
       "source": "BBC Technology",
-      "title": "IT failure leaves Hargreaves Lansdown clients unable to make transactions",
+      "title": "Luke Littler applies to trademark his face to combat AI fakes",
+      "url": "https://www.bbc.com/news/articles/c5y7374x9n4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The darts star's image has been used legally on darts merchandise, snacks and fashion brands."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Hargreaves Lansdown says IT issues which affected thousands are over",
       "url": "https://www.bbc.com/news/articles/cx2reyjdyjzo?at_medium=RSS&at_campaign=rss",
       "summary": "The finance firm has apologised for the disruption to its website and app, which has angered many customers."
     },
     {
       "source": "BBC Technology",
-      "title": "Facebook offering TikTok and YouTube creators $3,000 to post content",
-      "url": "https://www.bbc.com/news/articles/c895wwp3kqlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Meta wants creators to \"rediscover\" Facebook, but a social media expert says viewers will not follow."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "US messageboard 4Chan mocks £520,000 fine for UK online safety breaches",
-      "url": "https://www.bbc.com/news/articles/c624330lg1ko?at_medium=RSS&at_campaign=rss",
-      "summary": "The fine includes £450,000 for lack of age checks to prevent children from seeing pornography."
+      "title": "Publisher cancels horror novel's release over AI claims",
+      "url": "https://www.bbc.com/news/articles/c5y9d44jj24o?at_medium=RSS&at_campaign=rss",
+      "summary": "Author Mia Ballard denies having used AI herself when writing the horror story Shy Girl."
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Why people really hate AI",
+        "#text": "Windows 11 is finally getting a movable taskbar",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/podcast/897900/ai-trust-gap-killer-app-vergecast",
+      "url": "https://www.theverge.com/tech/897849/microsoft-windows-11-taskbar-vertical-top-movable",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Amazon&#8217;s Big Spring Sale 2026: all of the latest deals",
+        "#text": "Microsoft is ending the Windows Update nightmare — and letting you pause them indefinitely",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/897580/amazon-big-spring-sale-2026-deals-news",
+      "url": "https://www.theverge.com/tech/898082/microsoft-promises-to-end-forced-windows-updates-still-automatic",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "&#8216;Work from home,&#8217; encourages the world&#8217;s energy watchdog",
+        "#text": "This is Microsoft&#8217;s plan to fix Windows 11",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/science/897874/iea-fuel-gas-shortage-recommendations-work-from-home",
+      "url": "https://www.theverge.com/news/897834/microsoft-windows-11-quality-performance-commitments-changes",
       "summary": "(要約準備中)"
     }
   ]
