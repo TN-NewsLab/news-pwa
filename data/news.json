@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2026-03-20T07:13:43.474Z",
+  "updatedAt": "2026-03-20T13:34:16.088Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "The global winners and losers of the war in Iran ",
+      "title": "Russia, China and the US – the global winners and losers of the Iran war",
       "url": "https://www.bbc.com/news/articles/c3wlwnn05zqo?at_medium=RSS&at_campaign=rss",
       "summary": "As the conflict triggers economic disruption some risk being hit hard, while others stand to benefit."
     },
     {
       "source": "BBC World",
-      "title": "Trump compares attack on Iran to Pearl Harbor in meeting with Japanese PM",
-      "url": "https://www.bbc.com/news/videos/cx248jvgwj8o?at_medium=RSS&at_campaign=rss",
-      "summary": "In a meeting with Japanese Prime Minister, US President Donald Trump was asked why he didn't inform allies about his plan to attack Iran."
+      "title": "Norway's crown princess breaks silence on Epstein links: 'I was manipulated and deceived'",
+      "url": "https://www.bbc.com/news/articles/cde5y63y3n7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Crown Princess Mette Marit tells Norwegian TV she wishes she had never met the late sex offender."
     },
     {
       "source": "BBC World",
-      "title": "Several injured as turbulence hits Delta flight into Sydney",
-      "url": "https://www.bbc.com/news/articles/c78l572p4n7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Three flight attendants were taken to hospital after the Airbus A350 experienced turbulence during its descent into Sydney Airport."
+      "title": "Hungary's Orbán accused of disloyalty and blackmail over Ukraine loan veto",
+      "url": "https://www.bbc.com/news/articles/cq6jrvgqeejo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Hungarian leader says a pipeline carrying Russian oil through Ukraine to Hungary must be repaired before any funds can be released."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "IT failure leaves Hargreaves Lansdown clients unable to make transactions",
+      "url": "https://www.bbc.com/news/articles/cx2reyjdyjzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The finance firm has apologised for the disruption to its website and app, which has angered many customers."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "The fine includes £450,000 for lack of age checks to prevent children from seeing pornography."
     },
     {
-      "source": "BBC Technology",
-      "title": "Child seen in sex abuse videos identified after researcher spots school badge",
-      "url": "https://www.bbc.com/news/articles/cvgj22e7qwyo?at_medium=RSS&at_campaign=rss",
-      "summary": "An analyst tells the BBC how she tracked down a victim of child sexual abuse after years of searching."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Valve’s huge SteamOS 3.8 update adds long-awaited features — and supports Steam Machine",
+        "#text": "Why people really hate AI",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/897765/valve-steamos-3-8-update-steam-deck-hibernation-steam-machine-xbox-ally",
+      "url": "https://www.theverge.com/podcast/897900/ai-trust-gap-killer-app-vergecast",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "OpenAI is planning a desktop ‘superapp’",
+        "#text": "Amazon&#8217;s Big Spring Sale 2026: all of the latest deals",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/897778/openai-chatgpt-codex-atlas-browser-superapp",
+      "url": "https://www.theverge.com/gadgets/897580/amazon-big-spring-sale-2026-deals-news",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Sony’s new WF-1000XM6 earbuds are already on sale for $30 off",
+        "#text": "&#8216;Work from home,&#8217; encourages the world&#8217;s energy watchdog",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/897668/sony-wf-1000xm6-wireless-earbuds-deal-sale",
+      "url": "https://www.theverge.com/science/897874/iea-fuel-gas-shortage-recommendations-work-from-home",
       "summary": "(要約準備中)"
     }
   ]
