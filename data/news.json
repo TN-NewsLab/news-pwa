@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-21T07:03:24.183Z",
+  "updatedAt": "2026-03-21T13:11:57.741Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,15 +9,15 @@
     },
     {
       "source": "BBC World",
-      "title": "US lifts sanctions on some Iranian oil as gas prices soar",
-      "url": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss",
-      "summary": "The treasury secretary says the move will quickly bring about 140m barrels of oil to global markets."
+      "title": "Fans elated as BTS play first gig together in nearly four years",
+      "url": "https://www.bbc.com/news/articles/cge0dyjwezgo?at_medium=RSS&at_campaign=rss",
+      "summary": "RM, Jin, Suga, J-Hope, Jimin, V and Jung Kook perform together for the first time since October 2022."
     },
     {
       "source": "BBC World",
-      "title": "Chuck Norris memes were undefeated for a generation of young fans",
-      "url": "https://www.bbc.com/news/articles/c62541e29z9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Chuck Norris became an inadvertent source of humour for a viral online celebration of his movie tough guy persona."
+      "title": "Russian drone attack kills two in Ukraine ahead of talks in US, officials say",
+      "url": "https://www.bbc.com/news/articles/crl18nwjzzzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Two children, aged 11 and 15 were also injured in the attack which took place in Zaporizhzhia."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Jury finds Elon Musk&#8217;s &#8216;stupid tweets&#8217; caused Twitter investors&#8217; losses",
+        "#text": "Oeuf is a punishing platformer in a cozy shell",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/898511/elon-musk-twitter-lawsuit",
+      "url": "https://www.theverge.com/entertainment/895435/oeuf-review",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "An automated moderation error left Tumblr users panicked",
+        "#text": "Dreame’s self-cleaning L10s Pro Ultra is nearly $1,000 off its original list price",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/898402/tumblr-automated-account-bans-march-2026",
+      "url": "https://www.theverge.com/gadgets/898287/dreame-l10s-pro-ultra-robot-vacuum-mop-amazon-big-spring-sale-2026-deal",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "A new Nintendo Switch 2 could be the poster child for replaceable batteries",
+        "#text": "The new MacBook Pro is still fast as hell",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/898313/nintendo-switch-2-eu-replaceable-battery",
+      "url": "https://www.theverge.com/tech/898062/apple-macbook-pro-16-m5-max-m1-comparison-review",
       "summary": "(要約準備中)"
     }
   ]
