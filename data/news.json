@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-03-20T19:06:55.564Z",
+  "updatedAt": "2026-03-21T02:47:02.221Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Norway's crown princess breaks silence, claiming she was 'manipulated and deceived' by Epstein",
-      "url": "https://www.bbc.com/news/articles/cde5y63y3n7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Crown Princess Mette Marit tells Norwegian TV she wishes she had never met the late sex offender."
+      "title": "Iranian strikes on bases used by US caused $800m in damage, new analysis shows",
+      "url": "https://www.bbc.com/news/articles/cddq7j48p35o?at_medium=RSS&at_campaign=rss",
+      "summary": "Much of the damage was caused in initial retaliatory strikes by Iran in the week after the US and Israel launched its operation."
     },
     {
       "source": "BBC World",
-      "title": "Israel strikes Syria after Druze clashes",
-      "url": "https://www.bbc.com/news/articles/c248pgn158go?at_medium=RSS&at_campaign=rss",
-      "summary": "Syria condemned the strikes on weapons sites and government infrastructure as an \"outrageous\" assault on Syria's sovereignty. "
+      "title": "US lifts sanctions on some Iranian oil as gas prices soar",
+      "url": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss",
+      "summary": "The treasury secretary says the move will quickly bring about 140m barrels of oil to global markets."
     },
     {
       "source": "BBC World",
-      "title": "BTS return from military service - but does their album live up to the hype?",
-      "url": "https://www.bbc.com/news/articles/c070eg32dryo?at_medium=RSS&at_campaign=rss",
-      "summary": "The band's 10th album sees them return to the rebellious, rap-heavy sound of their early days."
+      "title": "Ukraine-Hungary oil pipeline row threatens EU loan",
+      "url": "https://www.bbc.com/news/articles/cr71rkeg7xxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Kyiv and Budapest disagree on how badly damaged a hub in western Ukraine bombed by Russia really is, as its oil flow remains suspended."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Windows 11 is finally getting a movable taskbar",
+        "#text": "Jury finds Elon Musk&#8217;s &#8216;stupid tweets&#8217; caused Twitter investors&#8217; losses",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/897849/microsoft-windows-11-taskbar-vertical-top-movable",
+      "url": "https://www.theverge.com/tech/898511/elon-musk-twitter-lawsuit",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Microsoft is ending the Windows Update nightmare — and letting you pause them indefinitely",
+        "#text": "An automated moderation error left Tumblr users panicked",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/898082/microsoft-promises-to-end-forced-windows-updates-still-automatic",
+      "url": "https://www.theverge.com/tech/898402/tumblr-automated-account-bans-march-2026",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "This is Microsoft&#8217;s plan to fix Windows 11",
+        "#text": "A new Nintendo Switch 2 could be the poster child for replaceable batteries",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/897834/microsoft-windows-11-quality-performance-commitments-changes",
+      "url": "https://www.theverge.com/games/898313/nintendo-switch-2-eu-replaceable-battery",
       "summary": "(要約準備中)"
     }
   ]
