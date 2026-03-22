@@ -1,9 +1,15 @@
 {
-  "updatedAt": "2026-03-22T13:13:56.711Z",
+  "updatedAt": "2026-03-22T18:55:49.487Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Iranian missiles injure 160 in towns near Israeli nuclear site",
+      "title": "Israeli settlers target Palestinian villages in occupied West Bank, attacking people and properties",
+      "url": "https://www.bbc.com/news/articles/cew719w80g7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The violence began after 18-year-old settler Yehuda Sherman was killed after reportedly being hit by a vehicle driven by a Palestinian while on his quad bike."
+    },
+    {
+      "source": "BBC World",
+      "title": "Iranian missiles injure 180 in towns near Israeli nuclear site",
       "url": "https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss",
       "summary": "Israel is investigating how ballistic missiles got through the country's sophisticated air defences."
     },
@@ -12,12 +18,6 @@
       "title": "Sudan drone attack on key hospital killed 64 people during Eid, WHO says",
       "url": "https://www.bbc.com/news/articles/cr715xynkvvo?at_medium=RSS&at_campaign=rss",
       "summary": "The strike killed 64 people, including 13 children, two nurses and a doctor, according to the WHO head."
-    },
-    {
-      "source": "BBC World",
-      "title": "Socialists battle to hold Paris as France holds mayoral elections",
-      "url": "https://www.bbc.com/news/articles/c87wgw27201o?at_medium=RSS&at_campaign=rss",
-      "summary": "The capital could shift to the right after 25 years under the Socialists if Rachida Dati defeats Emmanuel Grégoire."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "The pint-sized Sonos Roam 2 is more over 20 percent this weekend",
+        "#text": "Crimson Desert dev apologizes for use of AI art",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/898414/sonos-roam-2-bluetooth-speaker-amazon-big-spring-sale-2026-deals",
+      "url": "https://www.theverge.com/games/898771/crimson-desert-dev-apologizes-ai-art",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "AI was everywhere at gaming’s big developer conference — except the games",
+        "#text": "The best early deals you can already grab from Amazon’s Big Spring Sale",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/897982/gdc-2026-ai-game-developer-conference",
+      "url": "https://www.theverge.com/gadgets/895635/best-amazon-big-spring-sale-early-deals-2026",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Online age checks came first — a VPN crackdown could be next",
+        "#text": "Musk says he’s building Terafab chip plant in Austin, Texas",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/column/898122/online-age-verification-vpns",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/898722/musk-terafab-chip-plant",
       "summary": "(要約準備中)"
     }
   ]
