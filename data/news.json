@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2026-03-22T07:08:35.395Z",
+  "updatedAt": "2026-03-22T13:13:56.711Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Iranian strike hits near Israeli nuclear facility after Tehran says its site targeted",
+      "title": "Iranian missiles injure 160 in towns near Israeli nuclear site",
       "url": "https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The chief of the International Atomic Energy Agency called for \"maximum military restraint\" following the strikes. "
+      "summary": "Israel is investigating how ballistic missiles got through the country's sophisticated air defences."
     },
     {
       "source": "BBC World",
-      "title": "Trump at a crossroads as US weighs tough options in Iran",
-      "url": "https://www.bbc.com/news/articles/clyxv87zwwpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Statements from President Trump that the war is almost over are not matching up with the reality on the ground.  "
+      "title": "Sudan drone attack on key hospital killed 64 people during Eid, WHO says",
+      "url": "https://www.bbc.com/news/articles/cr715xynkvvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The strike killed 64 people, including 13 children, two nurses and a doctor, according to the WHO head."
     },
     {
       "source": "BBC World",
-      "title": "National blackout hits Cuba for second time in a week",
-      "url": "https://www.bbc.com/news/articles/cvg0l44yxrvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Another total failure of its power grid underlines Cuba's hardship under a US-imposed fuel blockade."
+      "title": "Socialists battle to hold Paris as France holds mayoral elections",
+      "url": "https://www.bbc.com/news/articles/c87wgw27201o?at_medium=RSS&at_campaign=rss",
+      "summary": "The capital could shift to the right after 25 years under the Socialists if Rachida Dati defeats Emmanuel Grégoire."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "AI videos of sexualised black women removed from TikTok after BBC investigation",
+      "url": "https://www.bbc.com/news/articles/c070e283k8vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Dozens of Instagram and TikTok accounts have used AI avatars to promote explicit content, the BBC finds."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "The finance firm has apologised for the disruption to its website and app, which has angered many customers."
     },
     {
-      "source": "BBC Technology",
-      "title": "Publisher cancels horror novel's release over AI claims",
-      "url": "https://www.bbc.com/news/articles/c5y9d44jj24o?at_medium=RSS&at_campaign=rss",
-      "summary": "Author Mia Ballard denies having used AI herself when writing the horror story Shy Girl."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Halide co-founder is suing former partner for bringing source code to Apple",
+        "#text": "The pint-sized Sonos Roam 2 is more over 20 percent this weekend",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/business/898687/halide-lawsuit-co-founder-apple",
+      "url": "https://www.theverge.com/gadgets/898414/sonos-roam-2-bluetooth-speaker-amazon-big-spring-sale-2026-deals",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The AirPods Pro 3 are $50 off right now, nearly matching their best-ever price",
+        "#text": "AI was everywhere at gaming’s big developer conference — except the games",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/898502/airpods-pro-3-amazon-big-spring-sale-2026-deal",
+      "url": "https://www.theverge.com/games/897982/gdc-2026-ai-game-developer-conference",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Here are 20 of our favorite outdoor deals from REI’s Member Days Sale",
+        "#text": "Online age checks came first — a VPN crackdown could be next",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/897628/best-outdoor-deals-rei-member-days-sale-2026",
+      "url": "https://www.theverge.com/column/898122/online-age-verification-vpns",
       "summary": "(要約準備中)"
     }
   ]
