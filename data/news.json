@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-03-21T18:54:00.705Z",
+  "updatedAt": "2026-03-22T03:21:14.533Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Iranian strikes on bases used by US caused $800m in damage, new analysis shows",
-      "url": "https://www.bbc.com/news/articles/cddq7j48p35o?at_medium=RSS&at_campaign=rss",
-      "summary": "Much of the damage was caused in initial retaliatory strikes by Iran in the week after the US and Israel launched its operation."
+      "title": "Iranian strike hits near Israeli nuclear facility after Tehran says its site targeted",
+      "url": "https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The chief of the International Atomic Energy Agency called for \"maximum military restraint\" following the strikes. "
     },
     {
       "source": "BBC World",
-      "title": "Thousands evacuated as Hawaii faces worst flooding in 20 years",
-      "url": "https://www.bbc.com/news/articles/c20qj970gwro?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 230 people have been rescued so far, the authorities said on Friday."
+      "title": "Trump at a crossroads as US weighs tough options in Iran",
+      "url": "https://www.bbc.com/news/articles/clyxv87zwwpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Statements from President Trump that the war is almost over are not matching up with the reality on the ground.  "
     },
     {
       "source": "BBC World",
-      "title": "Pentagon restrictions on press violate First Amendment, judge rules",
-      "url": "https://www.bbc.com/news/articles/cwy3961xdr8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Department of Defense had required reporters to agree to certain rules on what information they could gather in order to maintain access to the Pentagon."
+      "title": "National blackout hits Cuba for second time in a week",
+      "url": "https://www.bbc.com/news/articles/cvg0l44yxrvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Another total failure of its power grid underlines Cuba's hardship under a US-imposed fuel blockade."
     },
     {
       "source": "BBC Technology",
@@ -40,6 +40,15 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "Halide co-founder is suing former partner for bringing source code to Apple",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/business/898687/halide-lawsuit-co-founder-apple",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "The AirPods Pro 3 are $50 off right now, nearly matching their best-ever price",
         "@_type": "html"
       },
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/gadgets/897628/best-outdoor-deals-rei-member-days-sale-2026",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "The gen AI Kool-Aid tastes like eugenics",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/entertainment/897923/ghost-in-the-machine-valerie-veatch-interview",
       "summary": "(要約準備中)"
     }
   ]
