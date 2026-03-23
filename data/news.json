@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-03-23T07:39:24.652Z",
+  "updatedAt": "2026-03-23T13:49:05.974Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Plane and ground vehicle collide at New York's LaGuardia Airport halting flights",
+      "title": "Two pilots dead after plane and ground vehicle collide at New York's LaGuardia Airport",
       "url": "https://www.bbc.com/news/articles/cy01g522ww4o?at_medium=RSS&at_campaign=rss",
-      "summary": "An Air Canada Express plane suffered significant damage after the collision."
+      "summary": "The plane, arriving from Montreal, collided with a firefighting vehicle responding to a separate incident."
     },
     {
       "source": "BBC World",
-      "title": "Asia stocks slide as US and Iran threaten to escalate war",
+      "title": "Oil falls and shares rebound after Trump says talks have been held to end war",
       "url": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The International Energy Agency chief said the war could lead to the world's worst energy crisis in decades."
+      "summary": "Energy prices fall and stock markets rebound after the US president says \"very good and productive\" talks have been held."
     },
     {
       "source": "BBC World",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "AI influencer awards season is upon us",
+        "#text": "Confronting the CEO of the AI company that impersonated me",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/898781/ai-personality-of-the-year-influencer-contest",
+      "url": "https://www.theverge.com/podcast/898715/superhuman-grammarly-expert-review-shishir-mehrotra-interview-ai-impersonation",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Topical Dancer is propulsive, playful, and political",
+        "#text": "Every bulb on Govee’s new outdoor string lights can display multicolor effects",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/898796/charlotte-adigery-bolis-pupul-topical-dancer-review",
+      "url": "https://www.theverge.com/tech/897950/govee-outdoor-chromatic-string-lights-weatherproof-color-changing-price-availability",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Crimson Desert dev apologizes for use of AI art",
+        "#text": "Samsung adds native AirDrop support to Galaxy S26 devices",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/898771/crimson-desert-dev-apologizes-ai-art",
+      "url": "https://www.theverge.com/tech/898815/samsung-quick-share-airdrop-support-galaxy-s26",
       "summary": "(要約準備中)"
     }
   ]
