@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-22T18:55:49.487Z",
+  "updatedAt": "2026-03-23T03:24:00.557Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,15 +9,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Iranian missiles injure 180 in towns near Israeli nuclear site",
-      "url": "https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel is investigating how ballistic missiles got through the country's sophisticated air defences."
+      "title": "Israel to expand ground and air attacks against Hezbollah in Lebanon",
+      "url": "https://www.bbc.com/news/articles/c30rl05evd8o?at_medium=RSS&at_campaign=rss",
+      "summary": "There are fears in Lebanon that Israel is preparing for a large-scale ground invasion."
     },
     {
       "source": "BBC World",
-      "title": "Sudan drone attack on key hospital killed 64 people during Eid, WHO says",
-      "url": "https://www.bbc.com/news/articles/cr715xynkvvo?at_medium=RSS&at_campaign=rss",
-      "summary": "The strike killed 64 people, including 13 children, two nurses and a doctor, according to the WHO head."
+      "title": "France's Socialists hold onto power in major cities in election boost for mainstream",
+      "url": "https://www.bbc.com/news/articles/crk14m7mjddo?at_medium=RSS&at_campaign=rss",
+      "summary": "Paris and Marseille are held by the Socialists in local elections which saw the nationalist right win in Nice and certain towns."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "AI influencer awards season is upon us",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/ai-artificial-intelligence/898781/ai-personality-of-the-year-influencer-contest",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "Topical Dancer is propulsive, playful, and political",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/entertainment/898796/charlotte-adigery-bolis-pupul-topical-dancer-review",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "Crimson Desert dev apologizes for use of AI art",
         "@_type": "html"
       },
       "url": "https://www.theverge.com/games/898771/crimson-desert-dev-apologizes-ai-art",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "The best early deals you can already grab from Amazon’s Big Spring Sale",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/gadgets/895635/best-amazon-big-spring-sale-early-deals-2026",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Musk says he’s building Terafab chip plant in Austin, Texas",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/898722/musk-terafab-chip-plant",
       "summary": "(要約準備中)"
     }
   ]
