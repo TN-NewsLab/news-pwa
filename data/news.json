@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2026-03-23T19:13:44.518Z",
+  "updatedAt": "2026-03-24T03:13:18.617Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "A pharmacist and a homesick lifestyle blogger: The 'alarming' civilian cost of war in Iran",
-      "url": "https://www.bbc.com/news/articles/c3v6ld7lv9no?at_medium=RSS&at_campaign=rss",
-      "summary": "The toll on civilians is mounting fast as the US-Israeli war on Iran continues."
+      "title": "Ultimatums, diplomacy and a trip to Graceland as Trump eyes a deal with Iran",
+      "url": "https://www.bbc.com/news/articles/c895v5pq5p1o?at_medium=RSS&at_campaign=rss",
+      "summary": "America may be a nation at war, but the president's activities have been a mix of diplomacy and diversions - with the occasional swing toward the surreal."
     },
     {
       "source": "BBC World",
-      "title": "Colombian Air Force plane crashes with 125 people on board",
-      "url": "https://www.bbc.com/news/articles/c8dlmrjn1l2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Colombia's defence minister says it was a \"tragic accident\" but the cause is not yet clear."
+      "title": "'Like the plane got cut in half': LaGuardia crash that killed two pilots now under investigation",
+      "url": "https://www.bbc.com/news/articles/c78rdze8zvjo?at_medium=RSS&at_campaign=rss",
+      "summary": "In the aftermath of the collision of Air Canada flight AC8646 with a fire truck in New York, US transportation chief Sean Duffy emphasized that seat belts helped save lives"
     },
     {
       "source": "BBC World",
-      "title": "Oil falls and shares rebound after Trump says talks have been held to end war",
-      "url": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Energy prices fall and stock markets rebound after the US president says \"very good and productive\" talks have been held."
+      "title": "Inside the alleged Russian operation to trigger anti-government protests in Angola",
+      "url": "https://www.bbc.com/news/articles/c1mklzkz41jo?at_medium=RSS&at_campaign=rss",
+      "summary": "A group of Russians and Angolans are going on trial in Angola after being accused of fomenting protests, which they deny."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "US bans new foreign-made consumer internet routers",
+      "url": "https://www.bbc.com/news/articles/c74787w149zo?at_medium=RSS&at_campaign=rss",
+      "summary": "There are almost no major brands of internet routers that are manufactured in the US."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "The darts star's image has been used legally on darts merchandise, snacks and fashion brands."
     },
     {
-      "source": "BBC Technology",
-      "title": "Hargreaves Lansdown says IT issues which affected thousands are over",
-      "url": "https://www.bbc.com/news/articles/cx2reyjdyjzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The finance firm has apologised for the disruption to its website and app, which has angered many customers."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Apple could put ads in Maps as soon as this summer",
+        "#text": "The US government just banned consumer routers made outside the US",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/899053/apple-maps-advertising-rumor",
+      "url": "https://www.theverge.com/news/899172/fcc-foreign-router-ban",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Donut Lab’s solid-state battery could barely hold a charge after getting damaged",
+        "#text": "The kid-friendly Fitbit Ace is $100, which matches its best price",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/transportation/898881/donut-lab-solid-state-battery-damage-test",
+      "url": "https://www.theverge.com/gadgets/899134/fitbit-ace-amazon-big-spring-sale-2026-deal",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Apple’s WWDC 2026 event starts June 8th",
+        "#text": "Kalshi says it will block politicians and athletes from trading in markets they’re tied to",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/898997/apple-wwdc-2026-june-8-ios-27-ai-siri",
+      "url": "https://www.theverge.com/tech/899097/kalshi-politicians-athletes-insider-trading-blocked",
       "summary": "(要約準備中)"
     }
   ]
