@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2026-03-24T13:51:23.347Z",
+  "updatedAt": "2026-03-24T19:29:31.442Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Israel says it will take control of large buffer zone in southern Lebanon",
-      "url": "https://www.bbc.com/news/articles/cy91j9qwp4do?at_medium=RSS&at_campaign=rss",
-      "summary": "Thousands of displaced Lebanese residents will not be allowed to return home until northern Israel is safe, he says."
+      "title": "Iran war shows norms of international conflicts have been overturned",
+      "url": "https://www.bbc.com/news/articles/c4gjv02g54ko?at_medium=RSS&at_campaign=rss",
+      "summary": "US threats against energy infrastructure, and Iran's retaliation on its Gulf neighbours, signal a clear change."
     },
     {
       "source": "BBC World",
-      "title": "At least five killed in massive wave of Russian strikes across Ukraine, officials say",
-      "url": "https://www.bbc.com/news/articles/c87wxvn0z3vo?at_medium=RSS&at_campaign=rss",
-      "summary": "Officials said the attacks were among the worst in ten days, with damage reported in eleven regions across the country."
+      "title": "Russia launches 948 drones at Ukraine in largest attack over 24-hour period",
+      "url": "https://www.bbc.com/news/articles/cz90gpyw90wo?at_medium=RSS&at_campaign=rss",
+      "summary": "Cities across the west of Ukraine were hit, with residential buildings damaged and many injured."
     },
     {
       "source": "BBC World",
       "title": "Australia and EU agree sweeping trade deal in face of global uncertainty",
       "url": "https://www.bbc.com/news/articles/cly6g6l6lq7o?at_medium=RSS&at_campaign=rss",
       "summary": "Australia and the EU sign sweeping trade and security deals after years of negotiations."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Fortnite-maker Epic Games lays off 1,000 more staff",
+      "url": "https://www.bbc.com/news/articles/c5yxv5kzlv5o?at_medium=RSS&at_campaign=rss",
+      "summary": "It is the second time in recent years the company has announced lays offs due to struggles with its blockbuster online game."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "Dozens of Instagram and TikTok accounts have used AI avatars to promote explicit content, the BBC finds."
     },
     {
-      "source": "BBC Technology",
-      "title": "Luke Littler applies to trademark his face to combat AI fakes",
-      "url": "https://www.bbc.com/news/articles/c5y7374x9n4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The darts star's image has been used legally on darts merchandise, snacks and fashion brands."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Anthropic’s Claude Code and Cowork can control your computer",
+        "#text": "Apple launches iOS 26.4 with AI playlists, purchase sharing, and more",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/899430/anthropic-claude-code-cowork-ai-control-computer",
+      "url": "https://www.theverge.com/tech/899799/apple-ios-26-4-ai-playlist-purchase-sharing-update",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Ayaneo says selling its Windows gaming handheld &#8216;is no longer sustainable&#8217;",
+        "#text": "The Lego Game Boy makes for a great gift, and it’s $10 off today",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/899357/ayaneo-windows-gaming-handheld-sustainable-ram",
+      "url": "https://www.theverge.com/gadgets/899688/lego-game-boy-set-nintendo-handheld-kohls-deal-sale",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The Hisense U7SG is a great midrange TV you shouldn’t buy yet",
+        "#text": "The Apple Watch SE 3 is even easier to recommend at $50 off",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/899160/hisense-u7sg-tv-review",
+      "url": "https://www.theverge.com/gadgets/899671/apple-watch-se-third-generation-deal-sale",
       "summary": "(要約準備中)"
     }
   ]
