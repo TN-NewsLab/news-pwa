@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "ゼネラリストは死んだと思っていた — 「バイブワーク」時代において、彼らはかつてないほど重要になっている",
-    "title_en": "You thought the generalist was dead — in the 'vibe work' era, they're more important than ever",
-    "summary": "最近、AI技術の進展により、一般的な職場での「ゼネラリスト」の役割が進化しています。AIは、専門知識が不足していたタスクを遂行するための支援を提供し、ゼネラリストはAIの出力を評価し、専門家へ適切に依存する新しい役割を担うことが期待されています。また、企業はAIを有効に活用できる人材を求め、業務の効率やパフォーマンス基準も変化しています。",
-    "summary_en": "最近、AI技術の進展により、一般的な職場での「ゼネラリスト」の役割が進化しています。AIは、専門知識が不足していたタスクを遂行するための支援を提供し、ゼネラリストはAIの出力を評価し、専門家へ適切に依存する新しい役割を担うことが期待されています。また、企業はAIを有効に活用できる人材を求め、業務の効率やパフォーマンス基準も変化しています。",
-    "link": "https://venturebeat.com/technology/you-thought-the-generalist-was-dead-in-the-vibe-work-era-theyre-more",
+    "title": "DeerFlow 2.0とは何か、企業が知っておくべき新しい強力なローカルAIエージェントオーケストレーターとは？",
+    "title_en": "What is DeerFlow 2.0 and what should enterprises know about this new, powerful local AI agent orchestrator?",
+    "summary": "ByteDanceがリリースしたオープンソースのAIエージェントフレームワーク「DeerFlow 2.0」は、複雑なタスクを自律的に処理するための多機能なツールです。このフレームワークは、MITライセンスの下で自由に使用・改良可能であり、企業向けの大規模なデプロイが可能です。しかし、導入にはDockerやCLIの知識が必要で、セキュリティや性能に関する懸念も残っています。",
+    "summary_en": "ByteDanceがリリースしたオープンソースのAIエージェントフレームワーク「DeerFlow 2.0」は、複雑なタスクを自律的に処理するための多機能なツールです。このフレームワークは、MITライセンスの下で自由に使用・改良可能であり、企業向けの大規模なデプロイが可能です。しかし、導入にはDockerやCLIの知識が必要で、セキュリティや性能に関する懸念も残っています。",
+    "link": "https://venturebeat.com/orchestration/what-is-deerflow-and-what-should-enterprises-know-about-this-new-local-ai",
     "category": "AI",
-    "publishedAt": "2026-03-23 17:34"
+    "publishedAt": "2026-03-24 17:37"
   },
   {
     "source": "VentureBeat",
-    "title": "自律エージェントのテスト（または、心配をやめて混沌を受け入れる方法）",
-    "title_en": "Testing autonomous agents (Or: how I learned to stop worrying and embrace chaos)",
-    "summary": "最近、AIエージェントの自律性に関する問題が注目されています。特に、自動的に重要な決定を下す能力を持つシステムは、慎重なエンジニアリングと安全対策が必要で、依然としてリスクが伴います。効果的なリライアビリティの確保やガードレールの設計が不可欠であり、失敗に備えた設計が重要であることが強調されています。",
-    "summary_en": "最近、AIエージェントの自律性に関する問題が注目されています。特に、自動的に重要な決定を下す能力を持つシステムは、慎重なエンジニアリングと安全対策が必要であり、依然としてリスクが伴います。効果的なリライアビリティの確保やガードレールの設計が不可欠であり、失敗に備えた設計が重要であることが強調されています。",
-    "link": "https://venturebeat.com/orchestration/testing-autonomous-agents-or-how-i-learned-to-stop-worrying-and-embrace",
+    "title": "一般職は死んだと思っていたあなたへ — 'バイブ作業'時代において、彼らの重要性は増すばかり",
+    "title_en": "You thought the generalist was dead — in the 'vibe work' era, they're more important than ever",
+    "summary": "最近、AI技術は職場での一般的な役割を変え、専門家でなくても多様なタスクを適切に遂行できるようにしています。一般人はAIを利用してスキルを拡張し、チームの効率を向上させることが求められていますが、AIの信頼性には注意が必要です。新たな一般人は好奇心や適応力を持ち、AIの出力を評価する能力を備え、専門家の助言を求めることが大切になっています。",
+    "summary_en": "最近、AI技術は職場での一般的な役割を変え、専門家でなくても多様なタスクを適切に遂行できるようにしています。一般人はAIを利用してスキルを拡張し、チームの効率を向上させることが求められていますが、AIの信頼性には注意が必要です。新たな一般人は好奇心や適応力を持ち、AIの出力を評価する能力を備え、専門家の助言を求めることが大切になっています。",
+    "link": "https://venturebeat.com/technology/you-thought-the-generalist-was-dead-in-the-vibe-work-era-theyre-more",
     "category": "AI",
-    "publishedAt": "2026-03-23 17:35"
+    "publishedAt": "2026-03-24 17:38"
   },
   {
     "source": "NHK",
-    "title": "主食用米需要量 当初見込みから下方修正 価格高止まりで消費減",
+    "title": "2月のデパート売り上げ 2か月連続増加 時計や宝飾品などが好調",
     "title_en": "",
-    "summary": "農林水産省は、主食用米の需要量を下方修正しました。これは、価格が高止まりしている影響で消費が減少しているためです。見込みの変更は、最近の市場状況を反映したものです。",
+    "summary": "全国のデパートの2月の売り上げは、全体として増加しました。外国人旅行者向けの免税品は減少しましたが、時計や宝飾品の販売が好調でした。これにより、売り上げは2か月連続で増加しています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260323/k10015082021000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260324/k10015083011000.html",
     "category": "経済",
-    "publishedAt": "2026-03-23 17:35"
+    "publishedAt": "2026-03-24 17:38"
   },
   {
     "source": "BBC",
-    "title": "ニューヨークのラガーディア空港で航空機と地上車両が衝突、フライトが停止",
-    "title_en": "Plane and ground vehicle collide at New York's LaGuardia Airport halting flights",
-    "summary": "エアカナダエクスプレスの航空機が地上車両と衝突し、重大な損傷を受けました。この事故により、フライトが停止しています。関係当局は事故の原因を調査中です。",
-    "summary_en": "エアカナダエクスプレスの航空機が衝突事故を起こし、重大な損傷を受けました。この事故により、機体に深刻な影響が及びました。関係当局は事故の原因を調査中です。",
-    "link": "https://www.bbc.com/news/articles/cy01g522ww4o?at_medium=RSS&at_campaign=rss",
+    "title": "トランプ大統領がイランとの取引を目指す中、最後通告、外交、そしてグレースランドへの訪問",
+    "title_en": "Ultimatums, diplomacy and a trip to Graceland as Trump eyes a deal with Iran",
+    "summary": "アメリカは戦争状態にあるが、大統領の活動は外交と娯楽が入り混じっている。時には非現実的な一面も見せている。全体として、国家の状況とは異なる側面が目立つ。",
+    "summary_en": "アメリカは戦争状態にあるが、大統領の活動は外交と娯楽が入り混じっている。時には非現実的な一面も見せている。全体として、国家の状況とは異なる側面が目立つ。",
+    "link": "https://www.bbc.com/news/articles/c895v5pq5p1o?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-03-23 17:35"
+    "publishedAt": "2026-03-24 17:38"
   },
   {
     "source": "NHK",
-    "title": "博物館資料の廃棄めぐり 奈良県の専門家委がマニュアル案示す",
+    "title": "心臓移植で新基準 60歳未満で余命1か月以内の人を優先",
     "title_en": "",
-    "summary": "奈良県の県立民俗博物館で、収蔵庫に収まりきらない資料の廃棄について議論が行われています。県の専門家委員会は、廃棄時に外部の専門家の意見を考慮するマニュアル案を提示しました。これにより、資料廃棄の透明性と適正化が目指されています。",
+    "summary": "心臓移植を待つ患者を減らすため、新たな移植基準が導入されます。60歳未満で余命1か月以内と予測される人が優先される方針です。この基準は来月から運用を開始します。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260322/k10015081411000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260323/k10015082101000.html",
     "category": "その他",
-    "publishedAt": "2026-03-23 17:35"
+    "publishedAt": "2026-03-24 17:38"
   }
 ]
