@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-03-25T07:17:48.636Z",
+  "updatedAt": "2026-03-25T13:50:11.347Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "'He liked the fear in our eyes', Epstein survivors tell BBC",
+      "title": "'There's no safety anymore': Palestinians warn of expanding West Bank settler violence",
+      "url": "https://www.bbc.com/news/articles/c747x00m83vo?at_medium=RSS&at_campaign=rss",
+      "summary": "There has been a surge of attacks by Israeli settlers on Palestinian villages across the occupied territory since the start of the Iran war."
+    },
+    {
+      "source": "BBC World",
+      "title": "'He liked the fear in our eyes,' Epstein survivors tell BBC",
       "url": "https://www.bbc.com/news/articles/cy81n9wexx6o?at_medium=RSS&at_campaign=rss",
       "summary": "In an interview with BBC Newsnight, five women abused by the disgraced financier describe the impact of their shared ordeal."
     },
     {
       "source": "BBC World",
-      "title": "Tough negotiations loom as Denmark's Social Democrats fail to secure a majority",
+      "title": "Danish PM fails to secure majority in party's weakest election showing since 1903",
       "url": "https://www.bbc.com/news/articles/c74v5qynl9vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The party, which has governed since 2019, gained the most votes but saw its weakest results in over a century."
-    },
-    {
-      "source": "BBC World",
-      "title": "Meta told to pay $375m for misleading users over child safety",
-      "url": "https://www.bbc.com/news/articles/cql75dn07n2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The owner of Instagram, Facebook and WhatsApp has been found liable by a court in New Mexico."
+      "summary": "The party, which has been in power since 2019, gained the most votes but faces tough talks on forming a new government."
     },
     {
       "source": "BBC Technology",
@@ -33,35 +33,35 @@
     },
     {
       "source": "BBC Technology",
-      "title": "OpenAI ends Disney partnership as it closes Sora video-making app",
+      "title": "OpenAI closes Sora video-making app and cancels $1bn Disney deal",
       "url": "https://www.bbc.com/news/articles/c3w3e467ewqo?at_medium=RSS&at_campaign=rss",
       "summary": "The move comes less two years after the launch of the AI video app sent shockwaves through the media industry."
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The BB-777 is the ultimate in boombox nostalgia",
+        "#text": "The best deals we’ve found from Amazon’s Big Spring Sale (so far)",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/897876/the-bb-777-is-the-ultimate-in-boombox-nostalgia",
+      "url": "https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Instagram and Facebook are about to be filled with affiliate content",
+        "#text": "Dell made its new Pro laptops thinner and tweaked their naming scheme, again",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/899717/meta-instagram-facebook-affiliate-shopping-links-reels",
+      "url": "https://www.theverge.com/tech/900090/dell-made-its-new-pro-laptops-thinner-and-tweaked-their-naming-scheme-again",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Meta misled users about its products’ safety, jury decides",
+        "#text": "Reolink’s first solar-powered floodlight camera offers wire-free home security",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/899910/meta-new-mexico-jury-verdict",
+      "url": "https://www.theverge.com/tech/900204/reolink-solar-floodlight-camera-price-release-date-specs",
       "summary": "(要約準備中)"
     }
   ]
