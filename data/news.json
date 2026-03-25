@@ -1,23 +1,35 @@
 {
-  "updatedAt": "2026-03-25T13:50:11.347Z",
+  "updatedAt": "2026-03-25T19:11:28.113Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "'There's no safety anymore': Palestinians warn of expanding West Bank settler violence",
-      "url": "https://www.bbc.com/news/articles/c747x00m83vo?at_medium=RSS&at_campaign=rss",
-      "summary": "There has been a surge of attacks by Israeli settlers on Palestinian villages across the occupied territory since the start of the Iran war."
+      "title": "Meta and Google found liable in landmark social media addiction trial",
+      "url": "https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&at_campaign=rss",
+      "summary": "The verdict marks the end of a five-week trial on the addictive nature of social media platforms."
     },
     {
       "source": "BBC World",
-      "title": "'He liked the fear in our eyes,' Epstein survivors tell BBC",
-      "url": "https://www.bbc.com/news/articles/cy81n9wexx6o?at_medium=RSS&at_campaign=rss",
-      "summary": "In an interview with BBC Newsnight, five women abused by the disgraced financier describe the impact of their shared ordeal."
+      "title": "UN votes to recognise slavery as 'gravest crime against humanity'",
+      "url": "https://www.bbc.com/news/articles/cvg06q36052o?at_medium=RSS&at_campaign=rss",
+      "summary": "The landmark resolution calls for an apology and contributions to a reparations fund, without specifying an amount."
     },
     {
       "source": "BBC World",
-      "title": "Danish PM fails to secure majority in party's weakest election showing since 1903",
-      "url": "https://www.bbc.com/news/articles/c74v5qynl9vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The party, which has been in power since 2019, gained the most votes but faces tough talks on forming a new government."
+      "title": "Democrats flip Florida state seat that includes Trump's Mar-a-Lago home",
+      "url": "https://www.bbc.com/news/articles/c9qd7wyln2jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Emily Gregory’s projected victory comes in a legislative district which a Republican candidate won by 19 percentage points in 2024."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Meta and Google found liable in landmark social media addiction trial",
+      "url": "https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&at_campaign=rss",
+      "summary": "The verdict marks the end of a five-week trial on the addictive nature of social media platforms."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Apple brings in age checks for UK iPhone users",
+      "url": "https://www.bbc.com/news/articles/c20qwz9xzr9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Customers who do not confirm how old they are or are underage will have web content filters turned on automatically."
     },
     {
       "source": "BBC Technology",
@@ -26,42 +38,30 @@
       "summary": "The government will interview the young people and their parents before and after they try the limits to assess their impact."
     },
     {
-      "source": "BBC Technology",
-      "title": "Meta told to pay $375m for misleading users over child safety",
-      "url": "https://www.bbc.com/news/articles/cql75dn07n2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The owner of Instagram, Facebook and WhatsApp has been found liable by a court in New Mexico."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "OpenAI closes Sora video-making app and cancels $1bn Disney deal",
-      "url": "https://www.bbc.com/news/articles/c3w3e467ewqo?at_medium=RSS&at_campaign=rss",
-      "summary": "The move comes less two years after the launch of the AI video app sent shockwaves through the media industry."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "The best deals we’ve found from Amazon’s Big Spring Sale (so far)",
+        "#text": "Woot is offering over 20 percent off Switch 2 controllers and games today",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals",
+      "url": "https://www.theverge.com/gadgets/900490/nintendo-switch-2-controllers-games-amazon-big-spring-sale-2026-deals",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Dell made its new Pro laptops thinner and tweaked their naming scheme, again",
+        "#text": "Can you monitor a situation without monitors? The Polymarket sports bar tried",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/900090/dell-made-its-new-pro-laptops-thinner-and-tweaked-their-naming-scheme-again",
+      "url": "https://www.theverge.com/column/900536/alliance-for-a-better-future-polymarket",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Reolink’s first solar-powered floodlight camera offers wire-free home security",
+        "#text": "The United States router ban, explained",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/900204/reolink-solar-floodlight-camera-price-release-date-specs",
+      "url": "https://www.theverge.com/tech/899906/fcc-router-ban-march-2026-explainer",
       "summary": "(要約準備中)"
     }
   ]
