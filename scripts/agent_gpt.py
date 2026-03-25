@@ -18,7 +18,7 @@ DATA_PATH = REPO_ROOT / "docs" / "data" / "summary_v2.json"
 
 DATA_PATH.parent.mkdir(parents=True, exist_ok=True)
 
-# 1) .env 読み込み
+# .env 読み込み
 load_dotenv()
 API_KEY = os.getenv("OPENAI_API_KEY")
 
@@ -78,7 +78,7 @@ def fetch_rss_ai_multiple(url, max_items=2):
 
     keywords = ["openai", "chatgpt", "sam altman", "gpt", "large language model"]
 
-    # --- ① 優先記事（OpenAI/ChatGPT関連）を先に取得
+    # 優先記事（OpenAI/ChatGPT関連）を先に取得
     priority_items = []
     normal_items = []
 
@@ -89,11 +89,12 @@ def fetch_rss_ai_multiple(url, max_items=2):
         else:
             normal_items.append(e)
 
-    # --- ② 優先 → 通常 の順で max_items 件取り出す
+    # 優先 → 通常 の順で max_items 件取り出す
     combined = priority_items + normal_items
     return combined[:max_items]
 
-# ********** title・summary抽出 / 要約（約150文字程度、3文程度） **********
+# ********** title・summary抽出 / 要約（約150文字、3文程度） **********
+# 日本語要約
 def summarize(text, title=""):
     date_rule = (
             "要約では年号（例：2023年、2025年など）を使用しないでください。"
@@ -135,6 +136,26 @@ def summarize(text, title=""):
 
     # それでもダメなら、とりあえず文字列化して返す
     return str(content)
+
+# 英語要約
+def summarize_en(text, title=""):
+    if not text or text.strip() == "":
+        prompt = (
+            "Summarize the following news title in about 3 sentences.\n"
+            f"Title: {title}\n"
+        )
+    else:
+        prompt = (
+            "Summarize the following article in about 3 sentences:\n"
+            f"{text}"
+        )
+
+    res = client.chat.completions.create(
+        model="gpt-4o-mini",
+        messages=[{"role": "user", "content": prompt}]
+    )
+
+    return res.choices[0].message.content
 
 # ********** 英語タイトル＆要約 → 日本語翻訳 **********
 def translate_to_japanese(title_en: str, summary_en: str):
@@ -188,7 +209,7 @@ def classify_category(title: str, summary: str, feed_key: str, description: str 
     # AIマーカー（said等の誤検出抑制）
     has_ai_marker = bool(re.search(r"(?i)(?<![a-z])ai(?![a-z])", text)) or ("人工知能" in text)
 
-    # ✅ 経済は「金融ド直球」だけにする（汎用語は入れない！）
+    # 経済は、金融に特化しているワードだけにする（汎用語は入れない）
     finance_strong = [
         # JP
         "株", "株価", "銘柄", "決算", "業績", "投資", "相場", "バブル",
@@ -206,7 +227,7 @@ def classify_category(title: str, summary: str, feed_key: str, description: str 
     ]
     finance_hits = [k for k in finance_strong if k in t]
 
-    # ✅ AI（A方針：生成AI/LLM中心 + AIインフラ）
+    # AI（A方針：生成AI/LLM中心 + AIインフラ）
     ai_core = [
         "chatgpt", "openai", "gpt", "llm", "large language model",
         "anthropic", "claude", "gemini", "deepseek",
@@ -220,22 +241,22 @@ def classify_category(title: str, summary: str, feed_key: str, description: str 
     ]
     is_ai = any(k in t for k in ai_core) or (has_ai_marker and any(k in t for k in ai_infra))
 
-    # --- デバッグ（誤爆犯人ワードを見る）---
+    # --- デバッグ（誤爆ワードを見る）---
     if debug:
         print("DEBUG classify:", {"feed_key": key, "finance_hits": finance_hits, "is_ai": is_ai, "title": title})
 
-    # ① economyフィードは経済固定
+    # economyフィードは経済固定
     if key == "economy":
         return "経済"
 
-    # ② aiフィード（VentureBeatなど）は基本AI固定
-    #    ただし「AI関連銘柄/AIバブル」みたいに金融語が出たら経済に逃がす
+    # aiフィード（VentureBeatなど）は基本AI固定
+    # ただし「AI関連銘柄/AIバブル」のような金融語が出た場合は、経済へ
     if key == "ai":
         if finance_hits:
             return "経済"
         return "AI"
 
-    # ③ 他フィードは「金融が強い→経済」「AI主題→AI」「それ以外→その他」
+    # 他フィードは「金融が強い→経済」「AI主題→AI」「それ以外→その他」
     if len(finance_hits) >= 2 or (finance_hits and has_ai_marker):
         return "経済"
     if is_ai:
@@ -297,32 +318,40 @@ def main():
             print(f"🧠 [{info['source']}] 要約中...")
             summary = summarize(description, title)
 
-            # ★ 英語記事（VentureBeat / BBC）のみ日本語翻訳をかける
             title_ja = title
-            summary_ja = summary
+            summary_ja = ""
             title_en = ""
             summary_en = ""
 
             if info["source"] in ["VentureBeat", "BBC"]:
                 title_en = title
                 summary_en = summary
+            
+            # 英語記事（VentureBeat / BBC）のみ日本語翻訳をかける
+            if info["source"] in ["VentureBeat", "BBC"]:
+                print(f"🧠 [{info['source']}] 英語要約中...")
+                summary_en = summarize_en(description, title)
+                title_en = title
+
                 print(f"🌐 [{info['source']}] 日本語翻訳中...")
                 translation = translate_to_japanese(title_en, summary_en)
+
                 if translation["error"] == "":
                     title_ja = translation["translated_title_ja"] or title
-                    summary_ja = translation["translated_summary_ja"] or summary
+                    summary_ja = translation["translated_summary_ja"] or summary_en
                 else:
                     title_ja = "翻訳に失敗しました"
                     summary_ja = "翻訳に失敗しました。原文は英語フィールドを参照してください。"
-                    print(
-                        f"⚠️ [{info['source']}] 翻訳処理に失敗しました。"
-                        f" title_en / summary_en を保持して処理を継続します: {translation['error']}"
-                    )
-            
+
+            # 日本語記事
+            else:
+                print(f"🧠 [{info['source']}] 日本語要約中...")
+                summary_ja = summarize(description, title)
+           
             # カテゴリ判定（title + description + summary で判定）
             category_final = classify_category(title, summary, category, description)
             
-            # VentureBeatは全部「AI」に固定
+            # VentureBeatはすべて「AI」に固定
             if info.get("source") == "VentureBeat":
                 category_final = "AI"
 
