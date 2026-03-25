@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-03-24T19:29:31.442Z",
+  "updatedAt": "2026-03-25T03:18:46.669Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Oil at $150 will trigger global recession, says boss of financial giant BlackRock",
+      "url": "https://www.bbc.com/news/articles/c9wqrdkx8ppo?at_medium=RSS&at_campaign=rss",
+      "summary": "Larry Fink says if oil prices stay high for a sustained period it will have \"profound implications\" for the world economy."
+    },
     {
       "source": "BBC World",
       "title": "Iran war shows norms of international conflicts have been overturned",
@@ -9,15 +15,21 @@
     },
     {
       "source": "BBC World",
-      "title": "Russia launches 948 drones at Ukraine in largest attack over 24-hour period",
-      "url": "https://www.bbc.com/news/articles/cz90gpyw90wo?at_medium=RSS&at_campaign=rss",
-      "summary": "Cities across the west of Ukraine were hit, with residential buildings damaged and many injured."
+      "title": "Pilots killed in LaGuardia plane crash named",
+      "url": "https://www.bbc.com/news/articles/cz67jq0enwpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Investigators released details from the final three minutes of cockpit and tower communications, which showed controllers cleared both the plane and a fire truck to cross the runway."
     },
     {
-      "source": "BBC World",
-      "title": "Australia and EU agree sweeping trade deal in face of global uncertainty",
-      "url": "https://www.bbc.com/news/articles/cly6g6l6lq7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Australia and the EU sign sweeping trade and security deals after years of negotiations."
+      "source": "BBC Technology",
+      "title": "Social media bans and digital curfews to be trialled on UK teenagers",
+      "url": "https://www.bbc.com/news/articles/cn89g3ngkyzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The government will interview the young people and their parents before and after they try the limits to assess their impact."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Meta told to pay $375m for misleading users over child safety",
+      "url": "https://www.bbc.com/news/articles/cql75dn07n2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The owner of Instagram, Facebook and WhatsApp has been found liable by a court in New Mexico."
     },
     {
       "source": "BBC Technology",
@@ -26,42 +38,30 @@
       "summary": "It is the second time in recent years the company has announced lays offs due to struggles with its blockbuster online game."
     },
     {
-      "source": "BBC Technology",
-      "title": "US bans new foreign-made consumer internet routers",
-      "url": "https://www.bbc.com/news/articles/c74787w149zo?at_medium=RSS&at_campaign=rss",
-      "summary": "There are almost no major brands of internet routers that are manufactured in the US."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "AI videos of sexualised black women removed from TikTok after BBC investigation",
-      "url": "https://www.bbc.com/news/articles/c070e283k8vo?at_medium=RSS&at_campaign=rss",
-      "summary": "Dozens of Instagram and TikTok accounts have used AI avatars to promote explicit content, the BBC finds."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Apple launches iOS 26.4 with AI playlists, purchase sharing, and more",
+        "#text": "The BB-777 is the ultimate in boombox nostalgia",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/899799/apple-ios-26-4-ai-playlist-purchase-sharing-update",
+      "url": "https://www.theverge.com/tech/897876/the-bb-777-is-the-ultimate-in-boombox-nostalgia",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The Lego Game Boy makes for a great gift, and it’s $10 off today",
+        "#text": "Instagram and Facebook are about to be filled with affiliate content",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/899688/lego-game-boy-set-nintendo-handheld-kohls-deal-sale",
+      "url": "https://www.theverge.com/news/899717/meta-instagram-facebook-affiliate-shopping-links-reels",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The Apple Watch SE 3 is even easier to recommend at $50 off",
+        "#text": "Meta misled users about its products’ safety, jury decides",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/899671/apple-watch-se-third-generation-deal-sale",
+      "url": "https://www.theverge.com/policy/899910/meta-new-mexico-jury-verdict",
       "summary": "(要約準備中)"
     }
   ]
