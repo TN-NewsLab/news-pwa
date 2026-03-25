@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "DeerFlow 2.0とは何か？企業が知っておくべき新しい強力なローカルAIエージェントオーケストレーターについて",
-    "title_en": "What is DeerFlow 2.0 and what should enterprises know about this new, powerful local AI agent orchestrator?",
-    "summary": "ByteDanceがリリースしたDeerFlow 2.0は、複数のAIサブエージェントを自治的に動かし、複雑なタスクを短時間で完成させるオープンソースのAIエージェントフレームワークです。このフレームワークはMITライセンスの下で提供され、商業利用も可能ですが、導入には一定の技術的知識が必要です。特にセキュリティ面やリソース要件については注意が必要で、企業の運用においては、実行環境の監査とデータの保護が重要な課題となります。",
-    "summary_en": "ByteDanceがリリースしたDeerFlow 2.0は、複数のAIサブエージェントを自治的に動かし、複雑なタスクを短時間で完成させるオープンソースのAIエージェントフレームワークです。このフレームワークはMITライセンスの下で提供され、商業利用も可能ですが、導入には一定の技術的知識が必要です。特にセキュリティ面やリソース要件については注意が必要で、企業の運用においては、実行環境の監査とデータの保護が重要な課題となります。",
-    "link": "https://venturebeat.com/orchestration/what-is-deerflow-and-what-should-enterprises-know-about-this-new-local-ai",
+    "title": "OpenAIが強力なAIビデオモデル「Sora」のアプリとAPIを終了",
+    "title_en": "OpenAI is shutting down Sora, its powerful AI video model, app and API",
+    "summary": "OpenAIは、AIビデオ生成アプリおよびソーシャルネットワーク「Sora」を終了し、開発者向けのSora 2ビデオモデルAPIへのアクセスも中止することを発表しました。この決定は予告なしに発表され、具体的な終了日も提示されていません。また、他のビデオAIプロバイダーとの競争が影響しているとみられます。この動きは、さまざまな製品を統合した「スーパーアプリ」の開発に向けたOpenAIの戦略的なシフトによるものであり、再編と生命科学やコミュニティプログラムへの投資など、異なる優先事項への焦点を合わせています。",
+    "summary_en": "OpenAI is shutting down Sora, its AI video generation app and social network, and will also discontinue access to the Sora 2 video model API for developers. The decision was announced unexpectedly, with no specific shutdown date provided, and follows a recent pattern of competition from other video AI providers. This move aligns with OpenAI's strategic shift towards developing a \"super app\" that consolidates its various products, amid ongoing restructuring and a focus on different priorities, such as investments in life sciences and community programs.",
+    "link": "https://venturebeat.com/technology/openai-is-shutting-down-sora-its-powerful-ai-video-app",
     "category": "AI",
-    "publishedAt": "2026-03-24 18:06"
+    "publishedAt": "2026-03-25 17:34"
   },
   {
     "source": "VentureBeat",
-    "title": "ジェネラリストは死んだと思われていた — 「バイブワーク」時代において彼らはこれまで以上に重要",
-    "title_en": "You thought the generalist was dead — in the 'vibe work' era, they're more important than ever",
-    "summary": "最近、AIの進化により、一般的な職務をこなせる「ジェネラリスト」が新たな役割を持つようになっています。AIは人々に専門分野を超えて成功する機会を与え、業務の効率性を向上させる一方で、AIの出力を信頼する上でのリスクも伴います。これにより、専門家と協力する動きが進み、企業はAIを使いこなせる能力を持つ人材を重視するようになっています。",
-    "summary_en": "最近、AIの進化により、一般的な職務をこなせる「ジェネラリスト」が新たな役割を持つようになっています。AIは人々に専門分野を超えて成功する機会を与え、業務の効率性を向上させる一方で、AIの出力を信頼する上でのリスクも伴います。これにより、専門家と協力する動きが進み、企業はAIを使いこなせる能力を持つ人材を重視するようになっています。",
-    "link": "https://venturebeat.com/technology/you-thought-the-generalist-was-dead-in-the-vibe-work-era-theyre-more",
+    "title": "AnthropicのClaudeがMacを操作可能に、実際に作業を行うAIエージェントの開発競争が加速",
+    "title_en": "Anthropic’s Claude can now control your Mac, escalating the fight to build AI agents that actually do work",
+    "summary": "Anthropicは、ユーザーのMacを直接操作できるようになったClaudeチャットボットの画期的なアップデートを発表しました。この機能により、ユーザーが席を外している間にボタンをクリックしたり、アプリケーションを開いたりすることが可能になります。この新機能は、定期購読者向けの研究プレビューを通じて利用でき、ClaudeをAI業界での競争が激化する中で、より能力の高いデジタルアシスタントとして位置付けています。OpenAIやGoogleのような企業が既存のソフトウェア環境内で機能するAIエージェントを開発する競争が進んでいます。しかし、初期のテストでは情報の取得などのタスクが効果的に機能しているものの、ユーザーはセキュリティリスクや複雑なワークフローへの適用の限界について懸念を示しており、革新的な機能と信頼性、安全性のバランスを取ることの課題を浮き彫りにしています。",
+    "summary_en": "Anthropic has launched a groundbreaking update for its Claude chatbot that allows it to take direct control of users' Macs, enabling it to perform tasks like clicking buttons and opening applications while the user is away. This feature, available through a research preview for paying subscribers, positions Claude as a more capable digital assistant amidst growing competition in the AI industry, where companies like OpenAI and Google are racing to develop AI agents that operate within existing software environments. However, while the initial testing shows some promise, with tasks like information retrieval working effectively, users express concerns about security risks and the technology’s limited success with complex workflows, highlighting the challenges of balancing innovative capabilities with reliability and safety.",
+    "link": "https://venturebeat.com/technology/anthropics-claude-can-now-control-your-mac-escalating-the-fight-to-build-ai",
     "category": "AI",
-    "publishedAt": "2026-03-24 18:06"
+    "publishedAt": "2026-03-25 17:35"
   },
   {
     "source": "NHK",
-    "title": "原油タンカー2隻 ホルムズ海峡除くルートで到着へ 赤澤経産相",
+    "title": "高市首相 IEA事務局長に石油備蓄の追加的協調放出へ準備求める",
     "title_en": "",
-    "summary": "赤澤経済産業大臣は、イランへの軍事作戦後、中東を出発した2隻の原油タンカーがホルムズ海峡を回避するルートを通ると伝えました。これらのタンカーは、今後数週間以内に日本に到着する見込みです。状況に応じて、原油供給に影響を与える可能性があります。",
+    "summary": "エネルギーの安定供給に対する懸念が高まる中、高市総理大臣は国際エネルギー機関のビロル事務局長と会談しました。総理は、事態の長期化に備えて、IEA加盟国による石油備蓄の追加的な協調放出に向けた準備を求めました。これにより、エネルギー供給の確保を図ろうとしています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260324/k10015083041000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260325/k10015083891000.html",
     "category": "経済",
-    "publishedAt": "2026-03-24 18:06"
+    "publishedAt": "2026-03-25 17:35"
   },
   {
     "source": "BBC",
-    "title": "トランプ氏、イランとの取引を視野に入れた最後通告や外交、グレースランド訪問",
-    "title_en": "Ultimatums, diplomacy and a trip to Graceland as Trump eyes a deal with Iran",
-    "summary": "アメリカは戦争状態にあるが、大統領の活動は外交と娯楽が交じり合っている。時折、非現実的な要素も見られる。政治と個人的な活動のバランスを取る難しさが浮き彫りになっている。",
-    "summary_en": "アメリカは戦争状態にあるが、大統領の活動は外交と娯楽が交じり合っている。時折、非現実的な要素も見られる。政治と個人的な活動のバランスを取る難しさが浮き彫りになっている。",
-    "link": "https://www.bbc.com/news/articles/c895v5pq5p1o?at_medium=RSS&at_campaign=rss",
+    "title": "「彼は私たちの目の中の恐怖が好きだった」エプスタインの生存者がBBCに語る",
+    "title_en": "'He liked the fear in our eyes,' Epstein survivors tell BBC",
+    "summary": "BBCニュースナイトのインタビューで、悪名高いフィナンシャルマネージャーから虐待を受けた5人の女性が、自らの経験による深い感情的および心理的影響について語ります。彼女たちはトラウマと闘いの物語を共有し、その虐待が彼女たちの生活に与える長期的な影響を強調します。この議論は、こうした侵害の生存者が声を上げ、正義を求めることの重要性を浮き彫りにしています。",
+    "summary_en": "In an interview with BBC Newsnight, five women who were abused by a disgraced financier recount the profound emotional and psychological effects of their experiences. They share their stories of trauma and struggle, emphasizing the long-lasting impact of the abuse on their lives. The discussion highlights the importance of speaking out and seeking justice for survivors of such violations.",
+    "link": "https://www.bbc.com/news/articles/cy81n9wexx6o?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-03-24 18:06"
+    "publishedAt": "2026-03-25 17:35"
   },
   {
     "source": "NHK",
-    "title": "心臓移植で新基準 60歳未満で余命1か月以内の人を優先",
+    "title": "“AIで書かれた論文”を判定するソフト 日本物理学会が導入",
     "title_en": "",
-    "summary": "心臓移植を待つ患者の減少を目指し、60歳未満で余命1か月以内と予測される人への移植優先基準が新たに設けられました。これにより、移植を必要とする人々への支援が強化されます。この基準は来月から運用が開始される予定です。",
+    "summary": "海外の学術誌でAIによる粗悪な論文投稿が問題視されています。これを受けて国立情報学研究所の研究チームが、AIが書いたかどうかを判定するソフトを開発しました。日本物理学会はそのソフトを最近から導入したと発表しています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260323/k10015082101000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260325/k10015083851000.html",
     "category": "その他",
-    "publishedAt": "2026-03-24 18:06"
+    "publishedAt": "2026-03-25 17:35"
   }
 ]
