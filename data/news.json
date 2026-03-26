@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2026-03-26T13:58:38.200Z",
+  "updatedAt": "2026-03-26T19:32:10.640Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Prepare for turbulence - how a prolonged Middle East conflict could reshape how we fly",
-      "url": "https://www.bbc.com/news/articles/cn08x9lw0pzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Gulf's hub airports made long-distance travel cheaper - but now their future looks unclear."
+      "title": "Zelensky visits Saudi Arabia after offering Ukraine's drone expertise",
+      "url": "https://www.bbc.com/news/articles/cx2r4wxdw3no?at_medium=RSS&at_campaign=rss",
+      "summary": "There is renewed urgency for Ukraine to get a drone deal done, as the US increasingly focuses on Iran."
     },
     {
       "source": "BBC World",
-      "title": "'A game-changing moment for social media' - what next for big tech after landmark addiction verdict?",
-      "url": "https://www.bbc.com/news/articles/c87wd0d84jqo?at_medium=RSS&at_campaign=rss",
-      "summary": "The ruling could be the beginning of the end of social media as we know it, writes the BBC's technology editor Zoe Kleinman."
+      "title": "Rationing power and diluting petrol - how African countries are coping with effects of Iran war",
+      "url": "https://www.bbc.com/news/articles/cq8wkq1n9epo?at_medium=RSS&at_campaign=rss",
+      "summary": "The disruption in oil supplies has caused shortages and concerns in several African countries."
     },
     {
       "source": "BBC World",
-      "title": "'I have no recollection of anything' - Epstein survivor says she was drugged and raped",
-      "url": "https://www.bbc.com/news/articles/c05dz39m6qgo?at_medium=RSS&at_campaign=rss",
-      "summary": "A survivor of Epstein's abuses spoke publicly for the first time to BBC Newsnight about her experience of being raped and drugged by the sex offender. "
+      "title": "US prosecutors argue Maduro 'plundered' Venezuelan wealth in court battle over legal fees",
+      "url": "https://www.bbc.com/news/articles/c4g8wxyq7v5o?at_medium=RSS&at_campaign=rss",
+      "summary": "A judge said the right to defence was paramount as prosecutors argued the couple should not be able to use Venezuelan funds to pay their lawyers."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Elon Musk's X advertising boycott lawsuit dismissed by US judge",
+      "url": "https://www.bbc.com/news/articles/c05dlm0l0jgo?at_medium=RSS&at_campaign=rss",
+      "summary": "US District Judge Jane Boyle said the company had failed to show it had suffered any harm under federal competition laws."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "A woman has been awarded $6m in a verdict that could have implications for hundreds of other cases in the US."
     },
     {
-      "source": "BBC Technology",
-      "title": "Parents should monitor children '24/7' on Roblox, says developer",
-      "url": "https://www.bbc.com/news/articles/cd6l07wwvlpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Roblox said safety was a top priority and it had advanced safeguards in place to keep users safe."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Some of our favorite Apple tech is cheaper than ever during Amazon’s Big Spring Sale",
+        "#text": "Streaming keeps getting more expensive: all the latest price hikes",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/900953/best-apple-deals-amazon-big-spring-sale-2026",
+      "url": "https://www.theverge.com/23901586/streaming-service-prices-netflix-disney-hulu-peacock-max",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Webtoon is adding AI localization tools to its comics platform",
+        "#text": "Netflix is raising prices again",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/899108/webtoon-canvas-ai-translation-localization-yongsoo-kim",
+      "url": "https://www.theverge.com/streaming/901833/netflix-subscription-pricing-increase-2026",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The versatile Play speaker is a great way into the Sonos world",
+        "#text": "Google&#8217;s &#8216;live&#8217; AI search assistant can handle conversations in dozens more languages",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/901105/sonos-play-speaker-review",
+      "url": "https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion",
       "summary": "(要約準備中)"
     }
   ]
