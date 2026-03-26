@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "OpenAIが強力なAIビデオモデル「Sora」のアプリとAPIを終了",
-    "title_en": "OpenAI is shutting down Sora, its powerful AI video model, app and API",
-    "summary": "OpenAIは、AIビデオ生成アプリおよびソーシャルネットワーク「Sora」を終了し、開発者向けのSora 2ビデオモデルAPIへのアクセスも中止することを発表しました。この決定は予告なしに発表され、具体的な終了日も提示されていません。また、他のビデオAIプロバイダーとの競争が影響しているとみられます。この動きは、さまざまな製品を統合した「スーパーアプリ」の開発に向けたOpenAIの戦略的なシフトによるものであり、再編と生命科学やコミュニティプログラムへの投資など、異なる優先事項への焦点を合わせています。",
-    "summary_en": "OpenAI is shutting down Sora, its AI video generation app and social network, and will also discontinue access to the Sora 2 video model API for developers. The decision was announced unexpectedly, with no specific shutdown date provided, and follows a recent pattern of competition from other video AI providers. This move aligns with OpenAI's strategic shift towards developing a \"super app\" that consolidates its various products, amid ongoing restructuring and a focus on different priorities, such as investments in life sciences and community programs.",
-    "link": "https://venturebeat.com/technology/openai-is-shutting-down-sora-its-powerful-ai-video-app",
+    "title": "Google、新しいTurboQuantアルゴリズムでAIメモリを8倍高速化し、コストを50%以上削減",
+    "title_en": "Google's new TurboQuant algorithm speeds up AI memory 8x, cutting costs by 50% or more",
+    "summary": "大規模言語モデル（LLM）がその能力を拡張する中で、キー・バリュー（KV）キャッシュのボトルネックにより、大きなGPUメモリを消費し、性能が低下する制約に直面しています。GoogleリサーチはTurboQuantアルゴリズムスイートを導入し、KVメモリ使用量を6分の1に削減し、新しい圧縮技術によって計算効率を8倍向上させることが可能になりました。この手法はモデルの知性を犠牲にすることなく実現されています。TurboQuantはその数学的フレームワークを公開することにより、企業が再学習を必要とせずにAIモデルをコスト効率よく改善する方法を提供し、AIの実装とハードウェア要件の変革をもたらす潜在能力を秘めています。",
+    "summary_en": "As Large Language Models (LLMs) expand their capabilities, they face limitations due to the Key-Value (KV) cache bottleneck, which consumes significant GPU memory and slows performance. Google Research has introduced the TurboQuant algorithm suite, which allows for a six-fold reduction in KV memory usage and an eight-fold increase in computing efficiency through a new compression technique that doesn't sacrifice model intelligence. By making the mathematical frameworks publicly available, TurboQuant offers enterprises a cost-effective way to improve their AI models without requiring retraining, potentially transforming the landscape of AI implementation and hardware requirements.",
+    "link": "https://venturebeat.com/infrastructure/googles-new-turboquant-algorithm-speeds-up-ai-memory-8x-cutting-costs-by-50",
     "category": "AI",
-    "publishedAt": "2026-03-25 17:34"
+    "publishedAt": "2026-03-26 17:29"
   },
   {
     "source": "VentureBeat",
-    "title": "AnthropicのClaudeがMacを操作可能に、実際に作業を行うAIエージェントの開発競争が加速",
-    "title_en": "Anthropic’s Claude can now control your Mac, escalating the fight to build AI agents that actually do work",
-    "summary": "Anthropicは、ユーザーのMacを直接操作できるようになったClaudeチャットボットの画期的なアップデートを発表しました。この機能により、ユーザーが席を外している間にボタンをクリックしたり、アプリケーションを開いたりすることが可能になります。この新機能は、定期購読者向けの研究プレビューを通じて利用でき、ClaudeをAI業界での競争が激化する中で、より能力の高いデジタルアシスタントとして位置付けています。OpenAIやGoogleのような企業が既存のソフトウェア環境内で機能するAIエージェントを開発する競争が進んでいます。しかし、初期のテストでは情報の取得などのタスクが効果的に機能しているものの、ユーザーはセキュリティリスクや複雑なワークフローへの適用の限界について懸念を示しており、革新的な機能と信頼性、安全性のバランスを取ることの課題を浮き彫りにしています。",
-    "summary_en": "Anthropic has launched a groundbreaking update for its Claude chatbot that allows it to take direct control of users' Macs, enabling it to perform tasks like clicking buttons and opening applications while the user is away. This feature, available through a research preview for paying subscribers, positions Claude as a more capable digital assistant amidst growing competition in the AI industry, where companies like OpenAI and Google are racing to develop AI agents that operate within existing software environments. However, while the initial testing shows some promise, with tasks like information retrieval working effectively, users express concerns about security risks and the technology’s limited success with complex workflows, highlighting the challenges of balancing innovative capabilities with reliability and safety.",
-    "link": "https://venturebeat.com/technology/anthropics-claude-can-now-control-your-mac-escalating-the-fight-to-build-ai",
+    "title": "xMemoryがAIエージェントのトークンコストとコンテキスト肥大化を削減する方法",
+    "title_en": "How xMemory cuts token costs and context bloat in AI agents",
+    "summary": "標準的なRAG（リトリーバル拡張生成）パイプラインは、言語モデルの長期および複数セッション展開において苦労しており、企業が持続的なAIアシスタントを開発する能力を妨げています。ロンドン大学キングスカレッジとアラン・チューリング研究所の研究者たちは、会話を検索可能な意味的テーマの階層に整理する新しい技術xMemoryを発表しました。この技術は、回答の質と長期的な推論能力を向上させるとともに、推論コストを大幅に削減します。xMemoryは、メモリ構築およびリトリーバルプロセスの最適化を通じて、企業アプリケーションにおけるよりコンテキストを意識したAIエージェントを可能にしますが、その構造化されたアーキテクチャを管理するためにより多くの初期計算リソースが必要です。",
+    "summary_en": "Standard RAG (retrieval-augmented generation) pipelines struggle with long-term, multi-session deployments for language models, hindering enterprises' ability to develop persistent AI assistants. Researchers from King’s College London and The Alan Turing Institute have introduced xMemory, a novel technique that organizes conversations into a searchable hierarchy of semantic themes, improving answer quality and long-range reasoning while reducing inference costs significantly. By optimizing memory construction and retrieval processes, xMemory allows for more context-aware AI agents in enterprise applications, although it requires a greater upfront computational effort for managing its structured architecture.",
+    "link": "https://venturebeat.com/orchestration/how-xmemory-cuts-token-costs-and-context-bloat-in-ai-agents",
     "category": "AI",
-    "publishedAt": "2026-03-25 17:35"
+    "publishedAt": "2026-03-26 17:30"
   },
   {
     "source": "NHK",
-    "title": "高市首相 IEA事務局長に石油備蓄の追加的協調放出へ準備求める",
+    "title": "石油の「国家備蓄」の放出始まる 安定供給につなげたい考え",
     "title_en": "",
-    "summary": "エネルギーの安定供給に対する懸念が高まる中、高市総理大臣は国際エネルギー機関のビロル事務局長と会談しました。総理は、事態の長期化に備えて、IEA加盟国による石油備蓄の追加的な協調放出に向けた準備を求めました。これにより、エネルギー供給の確保を図ろうとしています。",
+    "summary": "政府は石油の国家備蓄の放出を始め、民間備蓄と合わせて過去最大規模の石油を供給する方針です。これにより、石油の安定供給を目指しています。放出は最近の市場状況を受けた対策の一環です。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260325/k10015083891000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260326/k10015084541000.html",
     "category": "経済",
-    "publishedAt": "2026-03-25 17:35"
+    "publishedAt": "2026-03-26 17:30"
   },
   {
     "source": "BBC",
-    "title": "「彼は私たちの目の中の恐怖が好きだった」エプスタインの生存者がBBCに語る",
-    "title_en": "'He liked the fear in our eyes,' Epstein survivors tell BBC",
-    "summary": "BBCニュースナイトのインタビューで、悪名高いフィナンシャルマネージャーから虐待を受けた5人の女性が、自らの経験による深い感情的および心理的影響について語ります。彼女たちはトラウマと闘いの物語を共有し、その虐待が彼女たちの生活に与える長期的な影響を強調します。この議論は、こうした侵害の生存者が声を上げ、正義を求めることの重要性を浮き彫りにしています。",
-    "summary_en": "In an interview with BBC Newsnight, five women who were abused by a disgraced financier recount the profound emotional and psychological effects of their experiences. They share their stories of trauma and struggle, emphasizing the long-lasting impact of the abuse on their lives. The discussion highlights the importance of speaking out and seeking justice for survivors of such violations.",
-    "link": "https://www.bbc.com/news/articles/cy81n9wexx6o?at_medium=RSS&at_campaign=rss",
+    "title": "メタとYouTubeが画期的なソーシャルメディア依存訴訟で責任を負う",
+    "title_en": "Meta and YouTube found liable in landmark social media addiction trial",
+    "summary": "女性が、アメリカ全土における他の多くの訴訟に影響を与える可能性のある事例で、600万ドルの判決を受けました。この判決は、過失や責任に関連する類似の事件に影響を与える重要な法的疑問を提起しています。法律専門家は、この決定がより多くの人々に同様の請求を追求させる可能性があり、法的環境に大きな影響を与えるかもしれないと示唆しています。",
+    "summary_en": "A woman has received a $6 million verdict in a case that may set a precedent affecting numerous other lawsuits across the United States. The ruling raises important legal questions that could influence similar cases involving issues related to negligence or liability. Legal experts suggest that this decision may encourage more individuals to pursue similar claims, potentially impacting the legal landscape significantly.",
+    "link": "https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-03-25 17:35"
+    "publishedAt": "2026-03-26 17:30"
   },
   {
     "source": "NHK",
-    "title": "“AIで書かれた論文”を判定するソフト 日本物理学会が導入",
+    "title": "将棋「王将戦」最終局 藤井六冠が永瀬九段に勝ちタイトル5連覇",
     "title_en": "",
-    "summary": "海外の学術誌でAIによる粗悪な論文投稿が問題視されています。これを受けて国立情報学研究所の研究チームが、AIが書いたかどうかを判定するソフトを開発しました。日本物理学会はそのソフトを最近から導入したと発表しています。",
+    "summary": "将棋の王将戦最終局が大阪府で行われました。藤井聡太六冠が挑戦者の永瀬拓矢九段に勝利し、王将タイトルを5連覇しました。藤井六冠の連覇は、将棋界での彼の強さを再確認させる結果となりました。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260325/k10015083851000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260326/k10015084791000.html",
     "category": "その他",
-    "publishedAt": "2026-03-25 17:35"
+    "publishedAt": "2026-03-26 17:30"
   }
 ]
