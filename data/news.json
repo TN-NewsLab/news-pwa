@@ -1,18 +1,6 @@
 {
-  "updatedAt": "2026-03-26T07:36:01.682Z",
+  "updatedAt": "2026-03-26T13:58:38.200Z",
   "top": [
-    {
-      "source": "BBC World",
-      "title": "Meta and YouTube found liable in landmark social media addiction trial",
-      "url": "https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&at_campaign=rss",
-      "summary": "A woman has been awarded $6m in a verdict that could have implications for hundreds of other cases in the US."
-    },
-    {
-      "source": "BBC World",
-      "title": "Who wants what and why from US-Iran peace talks?",
-      "url": "https://www.bbc.com/news/articles/cm29l9r68j8o?at_medium=RSS&at_campaign=rss",
-      "summary": "There is indirect contact and channels between the two sides - but a deal may still be a long way off."
-    },
     {
       "source": "BBC World",
       "title": "Prepare for turbulence - how a prolonged Middle East conflict could reshape how we fly",
@@ -20,48 +8,60 @@
       "summary": "The Gulf's hub airports made long-distance travel cheaper - but now their future looks unclear."
     },
     {
+      "source": "BBC World",
+      "title": "'A game-changing moment for social media' - what next for big tech after landmark addiction verdict?",
+      "url": "https://www.bbc.com/news/articles/c87wd0d84jqo?at_medium=RSS&at_campaign=rss",
+      "summary": "The ruling could be the beginning of the end of social media as we know it, writes the BBC's technology editor Zoe Kleinman."
+    },
+    {
+      "source": "BBC World",
+      "title": "'I have no recollection of anything' - Epstein survivor says she was drugged and raped",
+      "url": "https://www.bbc.com/news/articles/c05dz39m6qgo?at_medium=RSS&at_campaign=rss",
+      "summary": "A survivor of Epstein's abuses spoke publicly for the first time to BBC Newsnight about her experience of being raped and drugged by the sex offender. "
+    },
+    {
       "source": "BBC Technology",
-      "title": "Meta and YouTube found liable in landmark social media addiction trial",
+      "title": "'A game-changing moment for social media' - what next for big tech after landmark addiction verdict?",
+      "url": "https://www.bbc.com/news/articles/c87wd0d84jqo?at_medium=RSS&at_campaign=rss",
+      "summary": "The ruling could be the beginning of the end of social media as we know it, writes the BBC's technology editor Zoe Kleinman."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Campaigners welcome Meta and YouTube's defeat in landmark social media addiction trial",
       "url": "https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&at_campaign=rss",
       "summary": "A woman has been awarded $6m in a verdict that could have implications for hundreds of other cases in the US."
     },
     {
       "source": "BBC Technology",
-      "title": "Apple brings in age checks for UK iPhone users",
-      "url": "https://www.bbc.com/news/articles/c20qwz9xzr9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Customers who do not confirm how old they are or are underage will have web content filters turned on automatically."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Rocket stocks soar on report Musk's SpaceX to file for share sale",
-      "url": "https://www.bbc.com/news/articles/c5y8d721q18o?at_medium=RSS&at_campaign=rss",
-      "summary": "Reports it plans the biggest listing ever sent the shares of firms in its orbit soaring in US trade on Wednesday."
+      "title": "Parents should monitor children '24/7' on Roblox, says developer",
+      "url": "https://www.bbc.com/news/articles/cd6l07wwvlpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Roblox said safety was a top priority and it had advanced safeguards in place to keep users safe."
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Intel and LG Display may have beaten Apple and Qualcomm with the best laptop battery life ever",
+        "#text": "Some of our favorite Apple tech is cheaper than ever during Amazon’s Big Spring Sale",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/901155/dell-xps-16-best-battery-lg-display-1hz-panther-lake-intel",
+      "url": "https://www.theverge.com/gadgets/900953/best-apple-deals-amazon-big-spring-sale-2026",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The Sonos Ace are a hefty 25 percent for Amazon’s Big Spring Sale",
+        "#text": "Webtoon is adding AI localization tools to its comics platform",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/900836/sonos-ace-noise-canceling-headphones-amazon-big-spring-sale-2026-deal",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/899108/webtoon-canvas-ai-translation-localization-yongsoo-kim",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The best deals we’ve found from Amazon’s Big Spring Sale (so far)",
+        "#text": "The versatile Play speaker is a great way into the Sonos world",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals",
+      "url": "https://www.theverge.com/tech/901105/sonos-play-speaker-review",
       "summary": "(要約準備中)"
     }
   ]
