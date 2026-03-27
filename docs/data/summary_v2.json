@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "Google、新しいTurboQuantアルゴリズムでAIメモリを8倍高速化し、コストを50%以上削減",
-    "title_en": "Google's new TurboQuant algorithm speeds up AI memory 8x, cutting costs by 50% or more",
-    "summary": "大規模言語モデル（LLM）がその能力を拡張する中で、キー・バリュー（KV）キャッシュのボトルネックにより、大きなGPUメモリを消費し、性能が低下する制約に直面しています。GoogleリサーチはTurboQuantアルゴリズムスイートを導入し、KVメモリ使用量を6分の1に削減し、新しい圧縮技術によって計算効率を8倍向上させることが可能になりました。この手法はモデルの知性を犠牲にすることなく実現されています。TurboQuantはその数学的フレームワークを公開することにより、企業が再学習を必要とせずにAIモデルをコスト効率よく改善する方法を提供し、AIの実装とハードウェア要件の変革をもたらす潜在能力を秘めています。",
-    "summary_en": "As Large Language Models (LLMs) expand their capabilities, they face limitations due to the Key-Value (KV) cache bottleneck, which consumes significant GPU memory and slows performance. Google Research has introduced the TurboQuant algorithm suite, which allows for a six-fold reduction in KV memory usage and an eight-fold increase in computing efficiency through a new compression technique that doesn't sacrifice model intelligence. By making the mathematical frameworks publicly available, TurboQuant offers enterprises a cost-effective way to improve their AI models without requiring retraining, potentially transforming the landscape of AI implementation and hardware requirements.",
-    "link": "https://venturebeat.com/infrastructure/googles-new-turboquant-algorithm-speeds-up-ai-memory-8x-cutting-costs-by-50",
+    "title": "インターコムの新しい後学習済みモデルFin Apex 1.0が、顧客サポート解決率でGPT-5.4やクロード・ソネット4.6を凌ぐ",
+    "title_en": "Intercom's new post-trained Fin Apex 1.0 beats GPT-5.4 and Claude Sonnet 4.6 at customer service resolutions",
+    "summary": "インターコムは、自社のAIモデルFin Apex 1.0を発表し、顧客サポート指標においてOpenAIやAnthropicの主要競合を上回ると主張しています。このモデルは顧客の問い合わせに対して73.1%の解決率を達成し、他のモデルと比較して応答処理が迅速で不正確さが減少しています。これはインターコムがAIに重点を置いたビジネスへの戦略的転換の一環であり、収益の大幅な増加に寄与しています。印象的な主張にもかかわらず、インターコムはApexに使用されている基盤モデルを開示しておらず、透明性や競争上の意味合いに関する疑問を引き起こしています。",
+    "summary_en": "Intercom has introduced its own AI model, Fin Apex 1.0, claiming it outperforms leading competitors like OpenAI and Anthropic in customer support metrics, achieving a 73.1% resolution rate for customer queries. The model, which processes responses faster and has reduced inaccuracies compared to other models, is part of a strategic pivot for Intercom as it transitions to an AI-focused business, contributing to a significant revenue increase. Despite the impressive claims, Intercom has not disclosed the base model used for Apex, raising questions about transparency and the competitive implications of their approach.",
+    "link": "https://venturebeat.com/technology/intercoms-new-post-trained-fin-apex-1-0-beats-gpt-5-4-and-claude-sonnet-4-6",
     "category": "AI",
-    "publishedAt": "2026-03-26 17:29"
+    "publishedAt": "2026-03-27 17:17"
   },
   {
     "source": "VentureBeat",
-    "title": "xMemoryがAIエージェントのトークンコストとコンテキスト肥大化を削減する方法",
-    "title_en": "How xMemory cuts token costs and context bloat in AI agents",
-    "summary": "標準的なRAG（リトリーバル拡張生成）パイプラインは、言語モデルの長期および複数セッション展開において苦労しており、企業が持続的なAIアシスタントを開発する能力を妨げています。ロンドン大学キングスカレッジとアラン・チューリング研究所の研究者たちは、会話を検索可能な意味的テーマの階層に整理する新しい技術xMemoryを発表しました。この技術は、回答の質と長期的な推論能力を向上させるとともに、推論コストを大幅に削減します。xMemoryは、メモリ構築およびリトリーバルプロセスの最適化を通じて、企業アプリケーションにおけるよりコンテキストを意識したAIエージェントを可能にしますが、その構造化されたアーキテクチャを管理するためにより多くの初期計算リソースが必要です。",
-    "summary_en": "Standard RAG (retrieval-augmented generation) pipelines struggle with long-term, multi-session deployments for language models, hindering enterprises' ability to develop persistent AI assistants. Researchers from King’s College London and The Alan Turing Institute have introduced xMemory, a novel technique that organizes conversations into a searchable hierarchy of semantic themes, improving answer quality and long-range reasoning while reducing inference costs significantly. By optimizing memory construction and retrieval processes, xMemory allows for more context-aware AI agents in enterprise applications, although it requires a greater upfront computational effort for managing its structured architecture.",
-    "link": "https://venturebeat.com/orchestration/how-xmemory-cuts-token-costs-and-context-bloat-in-ai-agents",
+    "title": "Mistral AIが新しいテキスト音声変換モデルを発表、ElevenLabsを上回ると主張し、重みを無料で提供",
+    "title_en": "Mistral AI just released a text-to-speech model it says beats ElevenLabs — and it's giving away the weights for free",
+    "summary": "エンタープライズ向け音声AI市場は急速に進化しており、ElevenLabsやIBMなどの企業が協力してサービスを強化する一方、Google CloudやOpenAIは機能を拡大し続けている。この競争の激しい状況の中、Mistral AIはVoxtral TTSというオープンウェイトのテキスト音声変換モデルを発表した。これにより企業は第三者サービスに依存することなく、音声AIシステムを完全にコントロールできる。コスト効果が高くカスタマイズ可能な代替手段として位置付けられているVoxtral TTSは、企業がAI機能を借りるのではなく、所有する方向へシフトすることを目指し、特に厳しいデータ主権やコンプライアンスを求められる産業に対応している。",
+    "summary_en": "The enterprise voice AI market is rapidly evolving, with companies like ElevenLabs and IBM collaborating to enhance their offerings, while Google Cloud and OpenAI continue to expand their capabilities. In this competitive landscape, Mistral AI has introduced Voxtral TTS, an open-weight text-to-speech model that allows enterprises to have complete control over their voice AI systems without relying on third-party services. Positioned as a cost-effective and customizable alternative, Voxtral TTS aims to shift enterprises from renting AI capabilities to owning them, catering specifically to industries that require stringent data sovereignty and compliance.",
+    "link": "https://venturebeat.com/orchestration/mistral-ai-just-released-a-text-to-speech-model-it-says-beats-elevenlabs-and",
     "category": "AI",
-    "publishedAt": "2026-03-26 17:30"
+    "publishedAt": "2026-03-27 17:17"
   },
   {
     "source": "NHK",
-    "title": "石油の「国家備蓄」の放出始まる 安定供給につなげたい考え",
+    "title": "特定技能制度 「外食業」受け入れ数 5月にも上限超える見通し",
     "title_en": "",
-    "summary": "政府は石油の国家備蓄の放出を始め、民間備蓄と合わせて過去最大規模の石油を供給する方針です。これにより、石油の安定供給を目指しています。放出は最近の市場状況を受けた対策の一環です。",
+    "summary": "特定技能制度での外国人受け入れにおいて、外食業の受け入れ人数が上限を超える見込みが示されました。これに伴い、入国時の在留資格証明書の交付が一時的に停止される予定です。政府の対応が注目されています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260326/k10015084541000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260327/k10015085591000.html",
     "category": "経済",
-    "publishedAt": "2026-03-26 17:30"
+    "publishedAt": "2026-03-27 17:17"
   },
   {
     "source": "BBC",
-    "title": "メタとYouTubeが画期的なソーシャルメディア依存訴訟で責任を負う",
-    "title_en": "Meta and YouTube found liable in landmark social media addiction trial",
-    "summary": "女性が、アメリカ全土における他の多くの訴訟に影響を与える可能性のある事例で、600万ドルの判決を受けました。この判決は、過失や責任に関連する類似の事件に影響を与える重要な法的疑問を提起しています。法律専門家は、この決定がより多くの人々に同様の請求を追求させる可能性があり、法的環境に大きな影響を与えるかもしれないと示唆しています。",
-    "summary_en": "A woman has received a $6 million verdict in a case that may set a precedent affecting numerous other lawsuits across the United States. The ruling raises important legal questions that could influence similar cases involving issues related to negligence or liability. Legal experts suggest that this decision may encourage more individuals to pursue similar claims, potentially impacting the legal landscape significantly.",
-    "link": "https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&at_campaign=rss",
+    "title": "電力の rationing とガソリンの希釈 - アフリカ諸国がイラン戦争の影響にどのように対処しているか",
+    "title_en": "Rationing power and diluting petrol - how African countries are coping with effects of Iran war",
+    "summary": "石油供給の混乱により、アフリカのさまざまな国で深刻な不足が生じ、懸念が高まっています。この状況は、石油輸入に依存する経済に課題をもたらし、交通や燃料価格に影響を及ぼしています。その結果、政府は影響を軽減し、国民に安定した供給を確保するための解決策を模索しています。",
+    "summary_en": "The disruption in oil supplies has led to significant shortages and heightened concerns in various African countries. This situation has created challenges for economies reliant on oil imports, affecting transportation and fueling prices. As a result, governments are seeking solutions to mitigate the impact and ensure a stable supply for their populations.",
+    "link": "https://www.bbc.com/news/articles/cq8wkq1n9epo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-03-26 17:30"
+    "publishedAt": "2026-03-27 17:17"
   },
   {
     "source": "NHK",
-    "title": "将棋「王将戦」最終局 藤井六冠が永瀬九段に勝ちタイトル5連覇",
+    "title": "政府 科学技術政策の新基本計画決定 安保政策連携など盛り込む",
     "title_en": "",
-    "summary": "将棋の王将戦最終局が大阪府で行われました。藤井聡太六冠が挑戦者の永瀬拓矢九段に勝利し、王将タイトルを5連覇しました。藤井六冠の連覇は、将棋界での彼の強さを再確認させる結果となりました。",
+    "summary": "政府は、科学技術政策の新たな基本計画を決定しました。これにより、デュアルユース技術の推進や安全保障政策との連携が強化される方向です。さらに、官民の研究開発投資を大幅に拡充することが盛り込まれています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260326/k10015084791000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260327/k10015085391000.html",
     "category": "その他",
-    "publishedAt": "2026-03-26 17:30"
+    "publishedAt": "2026-03-27 17:17"
   }
 ]
