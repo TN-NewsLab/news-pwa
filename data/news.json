@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2026-03-27T13:43:35.285Z",
+  "updatedAt": "2026-03-27T19:11:29.224Z",
   "top": [
-    {
-      "source": "BBC World",
-      "title": "'My daughter is under the rubble': Inside Tehran as civilian toll of strikes rises",
-      "url": "https://www.bbc.com/news/articles/cn0w1qxzd4xo?at_medium=RSS&at_campaign=rss",
-      "summary": "One month since the US and Israel launched strikes on Iran, Tehran residents tell the BBC their lives have been devastated."
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump's paused attack on Iran's energy - for diplomacy or escalation?",
-      "url": "https://www.bbc.com/news/articles/c2evg2m3ye2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president's commitment to deadlines is fluid but he uses them for a purpose, writes the BBC's James Landale."
-    },
     {
       "source": "BBC World",
       "title": "UN human rights chief calls on US to conclude probe into Iran school strike",
       "url": "https://www.bbc.com/news/articles/c75kzk3lgl5o?at_medium=RSS&at_campaign=rss",
       "summary": "The strike - which killed at least 168 people, mostly children - \"evoked a visceral horror\", Volker Türk said."
+    },
+    {
+      "source": "BBC World",
+      "title": "Iran-backed hackers breach FBI director Kash Patel's personal emails",
+      "url": "https://www.bbc.com/news/articles/cvgl4yk7vgpo?at_medium=RSS&at_campaign=rss",
+      "summary": "A hacker group shares Patel's purported resume and  photos of him on its website along with a statement that says, \"This is just our beginning.\""
+    },
+    {
+      "source": "BBC World",
+      "title": "Spanish woman who died through euthanasia failed by state, say critics",
+      "url": "https://www.bbc.com/news/articles/c4g8w4xp97jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Noelia Castillo died on Thursday evening in a Barcelona hospital, after a protracted legal battle with her own father."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "PS5 price hiked by £90 due to global 'pressures'",
+      "url": "https://www.bbc.com/news/articles/czx9852nkexo?at_medium=RSS&at_campaign=rss",
+      "summary": "The changes will see the recommended retail price of the PS5 rise from £479.99 to £569.99 in the UK.\n\n"
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "The UK's competition watchdog says it is looking at five firms in its investigation into misleading online reviews."
     },
     {
-      "source": "BBC Technology",
-      "title": "Judge rejects Pentagon's attempt to 'cripple' Anthropic",
-      "url": "https://www.bbc.com/news/articles/cvg4p02lvd0o?at_medium=RSS&at_campaign=rss",
-      "summary": "A federal judge told the government it could not immediately enforce a ban on Anthropic’s tools.\n"
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Meta’s court losses could be just the beginning",
+        "#text": "The latest in data centers, AI, and energy ",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/podcast/902162/meta-youtube-kgm-court-ruling-vergecast",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Sony is raising PS5 prices by $100 in April",
+        "#text": "Anker’s 160W Prime Charger can power three devices at once, and it&#8217;s $50 off",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/902224/sony-ps5-playstation-price-hike",
+      "url": "https://www.theverge.com/gadgets/902130/anker-prime-charger-160w-usb-c-amazon-big-spring-sale-2026-deal",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Rank the 50 best Apple products",
+        "#text": "Nuki’s one-touch retrofit smart lock got its first-ever discount",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/cs/tech/900477/apple-50-anniversary-rank-products",
+      "url": "https://www.theverge.com/gadgets/902276/nuki-smart-lock-thread-matter-smart-home-amazon-big-spring-sale-2026-deal",
       "summary": "(要約準備中)"
     }
   ]
