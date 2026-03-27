@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-26T19:32:10.640Z",
+  "updatedAt": "2026-03-27T03:29:38.708Z",
   "top": [
     {
       "source": "BBC World",
@@ -17,7 +17,13 @@
       "source": "BBC World",
       "title": "US prosecutors argue Maduro 'plundered' Venezuelan wealth in court battle over legal fees",
       "url": "https://www.bbc.com/news/articles/c4g8wxyq7v5o?at_medium=RSS&at_campaign=rss",
-      "summary": "A judge said the right to defence was paramount as prosecutors argued the couple should not be able to use Venezuelan funds to pay their lawyers."
+      "summary": "A judge said the right to defence was paramount as prosecutors argued the couple should not be able to use Venezuelan funds to pay lawyers."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Judge rejects Pentagon's attempt to 'cripple' Anthropic",
+      "url": "https://www.bbc.com/news/articles/cvg4p02lvd0o?at_medium=RSS&at_campaign=rss",
+      "summary": "A federal judge told the government it could not immediately enforce a ban on Anthropic’s tools.\n"
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "The ruling could be the beginning of the end of social media as we know it, writes the BBC's technology editor Zoe Kleinman."
     },
     {
-      "source": "BBC Technology",
-      "title": "Campaigners welcome Meta and YouTube's defeat in landmark social media addiction trial",
-      "url": "https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&at_campaign=rss",
-      "summary": "A woman has been awarded $6m in a verdict that could have implications for hundreds of other cases in the US."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Streaming keeps getting more expensive: all the latest price hikes",
+        "#text": "Judge sides with Anthropic to temporarily block the Pentagon&#8217;s ban",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/23901586/streaming-service-prices-netflix-disney-hulu-peacock-max",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Netflix is raising prices again",
+        "#text": "Brendan Carr says his broadcast license threat wasn&#8217;t really about Iran war coverage",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/streaming/901833/netflix-subscription-pricing-increase-2026",
+      "url": "https://www.theverge.com/policy/902132/brendan-carr-iran-broadcast-license-threat",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Google&#8217;s &#8216;live&#8217; AI search assistant can handle conversations in dozens more languages",
+        "#text": "David Sacks is no longer the White House AI and Crypto Czar",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion",
+      "url": "https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar",
       "summary": "(要約準備中)"
     }
   ]
