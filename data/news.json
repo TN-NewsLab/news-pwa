@@ -1,23 +1,35 @@
 {
-  "updatedAt": "2026-03-27T07:35:08.808Z",
+  "updatedAt": "2026-03-27T13:43:35.285Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Rationing power and diluting petrol - how African countries are coping with effects of Iran war",
-      "url": "https://www.bbc.com/news/articles/cq8wkq1n9epo?at_medium=RSS&at_campaign=rss",
-      "summary": "The disruption in oil supplies has caused shortages and concerns in several African countries."
+      "title": "'My daughter is under the rubble': Inside Tehran as civilian toll of strikes rises",
+      "url": "https://www.bbc.com/news/articles/cn0w1qxzd4xo?at_medium=RSS&at_campaign=rss",
+      "summary": "One month since the US and Israel launched strikes on Iran, Tehran residents tell the BBC their lives have been devastated."
     },
     {
       "source": "BBC World",
-      "title": "Panic buying prompts PM to reassure Australians over fuel supply",
-      "url": "https://www.bbc.com/news/articles/cg73znr1vj7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Anthony Albanese says nation's supply remains \"secure\" amid reports of panic buying and shortages."
+      "title": "Trump's paused attack on Iran's energy - for diplomacy or escalation?",
+      "url": "https://www.bbc.com/news/articles/c2evg2m3ye2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president's commitment to deadlines is fluid but he uses them for a purpose, writes the BBC's James Landale."
     },
     {
       "source": "BBC World",
-      "title": "Two Cuba-bound aid ships missing after leaving Mexico",
-      "url": "https://www.bbc.com/news/articles/cp84kw1y337o?at_medium=RSS&at_campaign=rss",
-      "summary": "Mexico's navy launches a rescue mission for ships delivering aid to Cuba, strained by food and fuel shortages amid a US embargo."
+      "title": "UN human rights chief calls on US to conclude probe into Iran school strike",
+      "url": "https://www.bbc.com/news/articles/c75kzk3lgl5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The strike - which killed at least 168 people, mostly children - \"evoked a visceral horror\", Volker Türk said."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Lloyds bank reveals IT glitch affected almost half a million customers",
+      "url": "https://www.bbc.com/news/articles/c70dqk2vjv8o?at_medium=RSS&at_campaign=rss",
+      "summary": "In a letter to the Treasury Select Committee, Lloyds apologised and said some compensation had been paid."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Just Eat and Autotrader among firms investigated in fake reviews probe",
+      "url": "https://www.bbc.com/news/articles/cj37eeyz0epo?at_medium=RSS&at_campaign=rss",
+      "summary": "The UK's competition watchdog says it is looking at five firms in its investigation into misleading online reviews."
     },
     {
       "source": "BBC Technology",
@@ -26,42 +38,30 @@
       "summary": "A federal judge told the government it could not immediately enforce a ban on Anthropic’s tools.\n"
     },
     {
-      "source": "BBC Technology",
-      "title": "Elon Musk's X advertising boycott lawsuit dismissed by US judge",
-      "url": "https://www.bbc.com/news/articles/c05dlm0l0jgo?at_medium=RSS&at_campaign=rss",
-      "summary": "US District Judge Jane Boyle said the company had failed to show it had suffered any harm under federal competition laws."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "'A game-changing moment for social media' - what next for big tech after landmark addiction verdict?",
-      "url": "https://www.bbc.com/news/articles/c87wd0d84jqo?at_medium=RSS&at_campaign=rss",
-      "summary": "The ruling could be the beginning of the end of social media as we know it, writes the BBC's technology editor Zoe Kleinman."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Judge sides with Anthropic to temporarily block the Pentagon&#8217;s ban",
+        "#text": "Meta’s court losses could be just the beginning",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction",
+      "url": "https://www.theverge.com/podcast/902162/meta-youtube-kgm-court-ruling-vergecast",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Brendan Carr says his broadcast license threat wasn&#8217;t really about Iran war coverage",
+        "#text": "Sony is raising PS5 prices by $100 in April",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/902132/brendan-carr-iran-broadcast-license-threat",
+      "url": "https://www.theverge.com/games/902224/sony-ps5-playstation-price-hike",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "David Sacks is no longer the White House AI and Crypto Czar",
+        "#text": "Rank the 50 best Apple products",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar",
+      "url": "https://www.theverge.com/cs/tech/900477/apple-50-anniversary-rank-products",
       "summary": "(要約準備中)"
     }
   ]
