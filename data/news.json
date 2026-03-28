@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-03-27T19:11:29.224Z",
+  "updatedAt": "2026-03-28T03:16:10.760Z",
   "top": [
-    {
-      "source": "BBC World",
-      "title": "UN human rights chief calls on US to conclude probe into Iran school strike",
-      "url": "https://www.bbc.com/news/articles/c75kzk3lgl5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The strike - which killed at least 168 people, mostly children - \"evoked a visceral horror\", Volker Türk said."
-    },
     {
       "source": "BBC World",
       "title": "Iran-backed hackers breach FBI director Kash Patel's personal emails",
       "url": "https://www.bbc.com/news/articles/cvgl4yk7vgpo?at_medium=RSS&at_campaign=rss",
-      "summary": "A hacker group shares Patel's purported resume and  photos of him on its website along with a statement that says, \"This is just our beginning.\""
+      "summary": "A hacker group shares Patel's purported resume and photos - information, the FBI says, is \"historical in nature\"."
+    },
+    {
+      "source": "BBC World",
+      "title": "Tiger Woods charged with driving under influence after crash",
+      "url": "https://www.bbc.com/sport/golf/articles/cvg092kege7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Tiger Woods is facing charges of driving under the influence after rolling his car in a crash in Florida."
     },
     {
       "source": "BBC World",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "The latest in data centers, AI, and energy ",
+        "#text": "Sony temporarily suspends memory card sales due to shortages",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+      "url": "https://www.theverge.com/tech/902828/sony-sd-cfexpress-memory-card-shortage",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Anker’s 160W Prime Charger can power three devices at once, and it&#8217;s $50 off",
+        "#text": "Insta360’s last-gen Link 2C is fantastic 4K webcam now that it’s 20 percent off",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/902130/anker-prime-charger-160w-usb-c-amazon-big-spring-sale-2026-deal",
+      "url": "https://www.theverge.com/gadgets/902499/insta360-link-2c-webcam-amazon-big-spring-sale-2026-deal",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Nuki’s one-touch retrofit smart lock got its first-ever discount",
+        "#text": "The White House has an app now, and Trump wants you to report people to ICE on it",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/902276/nuki-smart-lock-thread-matter-smart-home-amazon-big-spring-sale-2026-deal",
+      "url": "https://www.theverge.com/tech/902703/white-house-app-iphone-android",
       "summary": "(要約準備中)"
     }
   ]
