@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-03-28T07:14:23.820Z",
+  "updatedAt": "2026-03-28T13:19:05.104Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Nepal's ex-PM arrested over fatal protest crackdown",
-      "url": "https://www.bbc.com/news/articles/cn89ry7y835o?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 70 people were killed during an uprising last year which ousted Oli's government."
+      "title": "Iran war splits older and younger conservatives - as pressure builds for Trump to find exit ramp",
+      "url": "https://www.bbc.com/news/articles/cjd8e4px12ro?at_medium=RSS&at_campaign=rss",
+      "summary": "More than a thousand miles from Washington, the conflict was a dominant topic of conversation at CPAC."
     },
     {
       "source": "BBC World",
-      "title": "'The gravest crime against humanity': What does the UN vote on slavery mean?",
-      "url": "https://www.bbc.com/news/articles/c0rxqng5pyno?at_medium=RSS&at_campaign=rss",
-      "summary": "African and Caribbean nations want countries which benefited from slavery to pay compensation but it will not be straightforward."
+      "title": "Gaza peace doubts deepen as attention shifts to Iran",
+      "url": "https://www.bbc.com/news/articles/crr10v5p7lgo?at_medium=RSS&at_campaign=rss",
+      "summary": "With the world focused on the Iran war, there is increasing uncertainty about what happens next for Gaza. "
     },
     {
       "source": "BBC World",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Bluetti’s Sora 500 solar panel is incredibly powerful for its size",
+        "#text": "A classic Zelda-style adventure, but a lot more cozy",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/reviews/899289/bluetti-sora-500-review-portable-solar-panel",
+      "url": "https://www.theverge.com/games/902384/under-the-island-review",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Sony temporarily suspends memory card sales due to shortages",
+        "#text": "Here’s what Verge readers are buying during Amazon’s Big Spring Sale",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/902828/sony-sd-cfexpress-memory-card-shortage",
+      "url": "https://www.theverge.com/gadgets/902473/most-popular-reader-picks-amazon-big-spring-sale-2026-deals",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Insta360’s last-gen Link 2C is fantastic 4K webcam now that it’s 20 percent off",
+        "#text": "Why OpenAI killed Sora",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/902499/insta360-link-2c-webcam-amazon-big-spring-sale-2026-deal",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition",
       "summary": "(要約準備中)"
     }
   ]
