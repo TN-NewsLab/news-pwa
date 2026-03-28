@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-28T13:19:05.104Z",
+  "updatedAt": "2026-03-28T18:59:41.063Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,13 +9,13 @@
     },
     {
       "source": "BBC World",
-      "title": "Gaza peace doubts deepen as attention shifts to Iran",
-      "url": "https://www.bbc.com/news/articles/crr10v5p7lgo?at_medium=RSS&at_campaign=rss",
-      "summary": "With the world focused on the Iran war, there is increasing uncertainty about what happens next for Gaza. "
+      "title": "Three Lebanese journalists killed in Israeli strike, say broadcasters",
+      "url": "https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Israeli military confirms it killed Ali Shoeib from the Hezbollah-affiliated Al Manar TV."
     },
     {
       "source": "BBC World",
-      "title": "Tiger Woods charged with driving under influence after crash",
+      "title": "Tiger Woods released on bail after DUI arrest",
       "url": "https://www.bbc.com/sport/golf/articles/cvg092kege7o?at_medium=RSS&at_campaign=rss",
       "summary": "Tiger Woods, the 15-time golf major champion, is released on bail following his arrest on charges of driving under the influence following a car crash in Florida."
     },
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "A classic Zelda-style adventure, but a lot more cozy",
+        "#text": "Suno leans into customization with v5.5",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/902384/under-the-island-review",
+      "url": "https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Here’s what Verge readers are buying during Amazon’s Big Spring Sale",
+        "#text": "The best deals we’ve found from Amazon’s Big Spring Sale (so far)",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/902473/most-popular-reader-picks-amazon-big-spring-sale-2026-deals",
+      "url": "https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Why OpenAI killed Sora",
+        "#text": "SteelSeries’ feature-packed Nova Pro Wireless headset is $80 off",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition",
+      "url": "https://www.theverge.com/gadgets/902643/steelseries-arctis-nova-pro-wireless-pc-ps5-xbox-headset-gaming-amazon-big-spring-sale-2026-deal",
       "summary": "(要約準備中)"
     }
   ]
