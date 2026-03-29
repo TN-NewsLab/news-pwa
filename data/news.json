@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-03-29T07:18:57.506Z",
+  "updatedAt": "2026-03-29T13:21:01.363Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Trump is waging war based on instinct and it isn't working",
+      "title": "Jeremy Bowen: Trump is waging war based on instinct and it isn't working",
       "url": "https://www.bbc.com/news/articles/c5y969pnxgvo?at_medium=RSS&at_campaign=rss",
-      "summary": "One month into the conflict in Iran, Trump's gut-instinct approach is not proving effective."
+      "summary": "One month into the conflict in Iran, Trump's gut-instinct approach is not proving effective, writes the BBC's international editor."
+    },
+    {
+      "source": "BBC World",
+      "title": "Iranian attacks across Gulf continue as major industrial sites hit",
+      "url": "https://www.bbc.com/news/articles/cp86yrq5jy7o?at_medium=RSS&at_campaign=rss",
+      "summary": "A number of people are said to have been injured after attacks on aluminium sites in the UAE and Bahrain."
     },
     {
       "source": "BBC World",
       "title": "Three Lebanese journalists killed in Israeli strike, say broadcasters",
       "url": "https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&at_campaign=rss",
       "summary": "The Israeli military confirms it killed Ali Shoeib from the Hezbollah-affiliated Al Manar TV."
-    },
-    {
-      "source": "BBC World",
-      "title": "One ant for $220: the new frontier of wildlife trafficking",
-      "url": "https://www.bbc.com/news/articles/cg4g44zv37qo?at_medium=RSS&at_campaign=rss",
-      "summary": "The craze for collecting ants takes Kenya by surprise as smugglers zone in to make a profit."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Suno leans into customization with v5.5",
+        "#text": "Amazon’s Big Spring Sale is a great time to get a fancy, AI-powered bird feeder",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model",
+      "url": "https://www.theverge.com/gadgets/902829/birdbuddy-netvue-smart-bird-feeders-amazon-big-spring-sale-2026-deals",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The best deals we’ve found from Amazon’s Big Spring Sale (so far)",
+        "#text": "The Macintosh changed computers forever",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals",
+      "url": "https://www.theverge.com/podcast/903068/macintosh-1984-version-history",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "SteelSeries’ feature-packed Nova Pro Wireless headset is $80 off",
+        "#text": "Apple’s long, bitter App Store antitrust war",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/902643/steelseries-arctis-nova-pro-wireless-pc-ps5-xbox-headset-gaming-amazon-big-spring-sale-2026-deal",
+      "url": "https://www.theverge.com/column/902668/apple-antitrust-app-store-war",
       "summary": "(要約準備中)"
     }
   ]
