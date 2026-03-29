@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-29T13:21:01.363Z",
+  "updatedAt": "2026-03-29T19:02:12.120Z",
   "top": [
     {
       "source": "BBC World",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Amazon’s Big Spring Sale is a great time to get a fancy, AI-powered bird feeder",
+        "#text": "The best deals we’ve found from Amazon’s Big Spring Sale (so far)",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/902829/birdbuddy-netvue-smart-bird-feeders-amazon-big-spring-sale-2026-deals",
+      "url": "https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The Macintosh changed computers forever",
+        "#text": "Can my favorite Game Boy gadget tell fake cartridges from real?",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/podcast/903068/macintosh-1984-version-history",
+      "url": "https://www.theverge.com/games/902910/epilogue-gb-operator-phone-counterfeit-fake-cartridge-detection",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Apple’s long, bitter App Store antitrust war",
+        "#text": "There is no ethical consumption of HBO’s Harry Potter series",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/column/902668/apple-antitrust-app-store-war",
+      "url": "https://www.theverge.com/report/901818/hbo-harry-potter-jk-rowling-transphobia",
       "summary": "(要約準備中)"
     }
   ]
