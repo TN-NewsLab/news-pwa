@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-03-30T14:02:54.055Z",
+  "updatedAt": "2026-03-30T19:19:14.091Z",
   "top": [
-    {
-      "source": "BBC World",
-      "title": "Why does the US have Iran's Kharg Island in its sights?",
-      "url": "https://www.bbc.com/news/articles/c8jxzlwvd8ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The tiny island is home to one of the most critical pieces of Iran's energy infrastructure."
-    },
-    {
-      "source": "BBC World",
-      "title": "Russian oil tanker reaches Cuba after Trump appears to loosen blockade",
-      "url": "https://www.bbc.com/news/articles/czrevyx28z2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The tanker has reached Cuban waters just hours after Donald Trump said he had \"no problem\" with it arriving. "
-    },
     {
       "source": "BBC World",
       "title": "Spain closes airspace to US aircraft involved in Iran war",
       "url": "https://www.bbc.com/news/articles/cwy368j1e3lo?at_medium=RSS&at_campaign=rss",
       "summary": "It follows a decision by the Spanish government to deny the US use of the two jointly run military bases in Andalusia."
+    },
+    {
+      "source": "BBC World",
+      "title": "Russian oil tanker reaches Cuba after Trump appears to loosen blockade",
+      "url": "https://www.bbc.com/news/articles/czrevyx28z2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The tanker has reached Cuban waters just hours after Donald Trump said he had \"no problem\" with it. "
+    },
+    {
+      "source": "BBC World",
+      "title": "Zelensky says allies asked him to scale back attacks on Russian energy",
+      "url": "https://www.bbc.com/news/articles/c0e7lrxrelwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine's president says partners asked if the attacks could be \"reduced\" as prices soar due to the Iran war."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Xbox’s next big games showcase happens on June 7th",
+        "#text": "Beats’ gym-friendly Powerbeats Fit are $30 off for Amazon’s Big Spring Sale",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/903282/xbox-games-showcase-2026-sgf-date",
+      "url": "https://www.theverge.com/gadgets/903373/beats-powerbeats-fit-pro-2-earbuds-amazon-big-spring-sale-2026-deal",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "For $200 more, you can get a MacBook Air",
+        "#text": "A new RCS update could connect iPhone and Android video calls, someday",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/901698/macbook-air-history",
+      "url": "https://www.theverge.com/tech/903509/apple-iphone-google-android-video-calls-rcs-universal-profile-4-0",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The mad dash to build the future of multimedia",
+        "#text": "Dyson&#8217;s ultra-thin PencilVac Fluffycones is tougher to resist at $150 off",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/902721/quicktime-history-apple",
+      "url": "https://www.theverge.com/gadgets/903416/dyson-pencilvac-fluffycones-amazon-big-spring-sale-deal-sale",
       "summary": "(要約準備中)"
     }
   ]
