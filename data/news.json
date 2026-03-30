@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2026-03-30T08:01:13.720Z",
+  "updatedAt": "2026-03-30T14:02:54.055Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Photos show heavily damaged US radar jet at Saudi base",
-      "url": "https://www.bbc.com/news/articles/cwyd07m7e1xo?at_medium=RSS&at_campaign=rss",
-      "summary": "US Central Command has not yet publicly commented on the incident."
+      "title": "Why does the US have Iran's Kharg Island in its sights?",
+      "url": "https://www.bbc.com/news/articles/c8jxzlwvd8ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The tiny island is home to one of the most critical pieces of Iran's energy infrastructure."
     },
     {
       "source": "BBC World",
-      "title": "Fugitive Dezi Freeman shot dead by Australian police after seven months in hiding",
-      "url": "https://www.bbc.com/news/articles/c93e4gxn22wo?at_medium=RSS&at_campaign=rss",
-      "summary": "Freeman has been wanted since the fatal shooting of two police officers in Porepunkah in August."
+      "title": "Russian oil tanker reaches Cuba after Trump appears to loosen blockade",
+      "url": "https://www.bbc.com/news/articles/czrevyx28z2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The tanker has reached Cuban waters just hours after Donald Trump said he had \"no problem\" with it arriving. "
     },
     {
       "source": "BBC World",
-      "title": "Myanmar junta chief Min Aung Hlaing nominated as president",
-      "url": "https://www.bbc.com/news/articles/clyew40w249o?at_medium=RSS&at_campaign=rss",
-      "summary": "The military leader, who has been sanctioned by Western countries, is now certain to get the job."
+      "title": "Spain closes airspace to US aircraft involved in Iran war",
+      "url": "https://www.bbc.com/news/articles/cwy368j1e3lo?at_medium=RSS&at_campaign=rss",
+      "summary": "It follows a decision by the Spanish government to deny the US use of the two jointly run military bases in Andalusia."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Kris Jenner's image spreads in Chinese social media good luck trend",
+      "url": "https://www.bbc.com/news/articles/c0rx57zgz52o?at_medium=RSS&at_campaign=rss",
+      "summary": "Hundreds of thousands of posts have been shared in the past three days as users hope for prosperity"
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "Mainland firms are using the territory to test products and as a springboard for global expansion."
     },
     {
-      "source": "BBC Technology",
-      "title": "PS5 price hiked by £90 due to global 'pressures'",
-      "url": "https://www.bbc.com/news/articles/czx9852nkexo?at_medium=RSS&at_campaign=rss",
-      "summary": "The changes will see the recommended retail price of the PS5 rise from £479.99 to £569.99 in the UK.\n\n"
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "All the latest in AI &#8216;music&#8217;",
+        "#text": "Xbox’s next big games showcase happens on June 7th",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/903196/ai-music-suno-udio-art-lawsuit",
+      "url": "https://www.theverge.com/games/903282/xbox-games-showcase-2026-sgf-date",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Bluesky’s new app is an AI for customizing your feed",
+        "#text": "For $200 more, you can get a MacBook Air",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds",
+      "url": "https://www.theverge.com/tech/901698/macbook-air-history",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Red Rooms makes online poker as thrilling as its serial killer",
+        "#text": "The mad dash to build the future of multimedia",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/903174/red-rooms-movie-review-serial-killer-dark-web",
+      "url": "https://www.theverge.com/tech/902721/quicktime-history-apple",
       "summary": "(要約準備中)"
     }
   ]
