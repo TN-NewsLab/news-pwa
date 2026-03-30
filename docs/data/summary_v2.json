@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "新しいスパースアテンション最適化手法IndexCacheが長文コンテキストAIモデルにおいて1.82倍の高速推論を実現",
+    "title": "新しいスパースアテンション最適化手法「IndexCache」が長文コンテキストAIモデルにおいて1.82倍の高速推論を実現",
     "title_en": "IndexCache, a new sparse attention optimizer, delivers 1.82x faster inference on long-context AI models",
-    "summary": "清華大学とZ.aiの研究者たちが、スパースアテンションモデルにおける冗長計算を最大75%削減する技術、IndexCacheを開発しました。この技術により、DeepSeekやGLMのような大規模言語モデルにおいて、反応時間が大幅に短縮され、生成スループットが向上します。この手法は、従来の自己注意の二次的複雑性問題に対処するもので、レイヤー間で重要なトークンのインデックスをキャッシュすることで、出力品質を損なうことなく推論時の処理を迅速化します。初期のテストでは、この革新が長文コンテキストの応用において、推論能力を損なうことなく大幅なコスト削減と効率改善につながる可能性があることが示されています。",
-    "summary_en": "Researchers from Tsinghua University and Z.ai have developed a technique called IndexCache that reduces redundant computations in sparse attention models by up to 75%, resulting in significantly faster response times and improved generation throughput for large language models like DeepSeek and GLM. The method addresses the quadratic complexity issue of traditional self-attention by caching indices of important tokens across layers, which enables quicker processing during inference without sacrificing output quality. Preliminary tests indicate that this innovation can lead to substantial cost savings and efficiency improvements, especially in long-context applications, without compromising reasoning capabilities.",
+    "summary": "清華大学とZ.aiの研究者たちは、スパースアテンションメカニズムにおける冗長な計算を最大75%削減することで、大規模言語モデルの計算コストを大幅に削減する「IndexCache」という技術を開発しました。この手法は、DeepSeek Sparse Attentionアーキテクチャに基づくモデルの効率性を向上させ、処理速度を最大1.82倍、生成スループットを1.48倍向上させることを実現し、出力品質を損なうことなく動作します。GLM-5のような大規模モデルに対する初期テストでは、特に長文コンテキストタスクにおいて顕著な速度向上が示されており、デプロイメントコストの削減や企業のユーザー体験の向上に寄与しています。",
+    "summary_en": "Researchers at Tsinghua University and Z.ai have developed a technique called IndexCache, designed to significantly reduce computational costs in large language models by cutting up to 75% of redundant calculations in sparse attention mechanisms. This method enhances the efficiency of models, including those based on the DeepSeek Sparse Attention architecture, achieving up to 1.82 times faster processing times and 1.48 times greater generation throughput without sacrificing output quality. Preliminary tests on large models like GLM-5 have demonstrated substantial speed gains, particularly for long-context tasks, translating to reduced deployment costs and improved user experience for enterprises.",
     "link": "https://venturebeat.com/technology/indexcache-a-new-sparse-attention-optimizer-delivers-1-82x-faster-inference",
     "category": "AI",
-    "publishedAt": "2026-03-29 16:43"
+    "publishedAt": "2026-03-30 17:33"
   },
   {
     "source": "VentureBeat",
-    "title": "インターコムの新しいAIモデルFin Apex 1.0がGPT-5.4およびClaude Sonnet 4.6を顧客サポートの解決率で上回る",
+    "title": "インターコムの新しいポストトレーニング済みFin Apex 1.0が顧客サービスの解決率でGPT-5.4とClaude Sonnet 4.6を上回る",
     "title_en": "Intercom's new post-trained Fin Apex 1.0 beats GPT-5.4 and Claude Sonnet 4.6 at customer service resolutions",
-    "summary": "インターコムは新しいAIモデル、Fin Apex 1.0を発表しました。これによれば、このモデルは顧客サポートにおいてOpenAIやAnthropicの主要なモデルを上回り、解決率73.1%を達成し、応答時間も短縮され、ハルシネーションが大幅に減少しています。しかし、同社は競争上の理由からモデルの基盤に関する詳細を公開しておらず、透明性に関する主張に懐疑的な声が上がっています。インターコムは顧客サービスにおけるAI市場を支配することを目指しており、その成功は汎用AIモデルへの依存をchallengingし、企業向けアプリケーションにおける専門的なソリューションへの移行を強調しています。",
-    "summary_en": "Intercom has launched a new AI model, Fin Apex 1.0, which it claims outperforms leading models from OpenAI and Anthropic in customer support, achieving a resolution rate of 73.1% with faster response times and significantly reduced hallucinations. Despite its strong performance, the company has withheld details about the model's base foundation for competitive reasons, leading to skepticism regarding its claims of transparency. As Intercom aims to dominate the AI space in customer service, its success challenges the reliance on generic AI models, highlighting a shift towards specialized solutions in enterprise applications.",
+    "summary": "インターコムは独自のAIモデルであるFin Apex 1.0を発表し、顧客サポートのパフォーマンスでOpenAIやAnthropicの主要AIモデルを上回ると主張しています。このモデルは人間の介入なしで顧客問題の73.1%を解決することができ、より迅速な応答とエラーの削減を実現しています。インターコムのFin AIエージェントに統合されており、これにより週に200万件以上の顧客インタラクションを管理し、同社の重要な収益源となる見込みです。インターコムはFin Apexの基本モデルについて具体的には明かしていませんが、顧客サービスといった専門的なアプリケーションにおける優れたパフォーマンスを達成するためには、独自データを用いたポストトレーニングの重要性を強調しています。",
+    "summary_en": "Intercom has introduced its proprietary AI model, Fin Apex 1.0, which it claims surpasses leading AI models from OpenAI and Anthropic in customer support performance, achieving a 73.1% resolution rate for customer issues without human intervention. The model, which delivers faster responses and reduces errors, is integrated into Intercom's Fin AI agent that manages over two million customer interactions weekly and is expected to become a significant revenue driver for the company. While Intercom remains secretive about the specific base model used for Fin Apex, it emphasizes the importance of post-training with proprietary data to achieve superior performance in specialized applications like customer service.",
     "link": "https://venturebeat.com/technology/intercoms-new-post-trained-fin-apex-1-0-beats-gpt-5-4-and-claude-sonnet-4-6",
     "category": "AI",
-    "publishedAt": "2026-03-29 16:44"
+    "publishedAt": "2026-03-30 17:33"
   },
   {
     "source": "NHK",
-    "title": "中東産原油 愛媛県沖に到着 イラン軍事作戦開始後初めて日本へ",
+    "title": "株価 大幅な値下がり イラン情勢長期化で世界経済への打撃懸念",
     "title_en": "",
-    "summary": "イラン情勢の影響で原油供給が懸念される中、中東産の原油がホルムズ海峡を経由せずに愛媛県沖に到着しました。アメリカとイスラエルの軍事作戦後、日本に中東から届いた原油は初めてとされ、注目されています。これにより、原油の供給ルートに変化が見られる可能性があります。",
+    "summary": "週明けの東京株式市場では、イラン情勢の長期化が懸念され、日経平均株価が大幅に下落しました。投資家たちは、これが世界経済に与える影響を警戒しています。市場の不安定さが続いている状況です。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260328/k10015086681000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260330/k10015087351000.html",
     "category": "経済",
-    "publishedAt": "2026-03-29 16:44"
+    "publishedAt": "2026-03-30 17:33"
   },
   {
     "source": "BBC",
-    "title": "トランプ氏は本能に基づく戦いを続けているが、うまくいっていない",
-    "title_en": "Trump is waging war based on instinct and it isn't working",
-    "summary": "イランの紛争が2ヶ月目に入る中、元大統領トランプ氏の本能的なアプローチは効果を示す兆しが見えなくなっている。アナリストは、彼の一貫した戦略の欠如と衝動的な意思決定への依存が、前向きな結果を妨げる可能性があると指摘している。続く混乱はイラン危機の複雑さを浮き彫りにし、より精緻な外交努力の必要性を強調している。",
-    "summary_en": "As the conflict in Iran enters its second month, former President Trump's instinctive approach to the situation is showing signs of ineffectiveness. Analysts suggest that his lack of a coherent strategy and reliance on impulsive decision-making may hinder any positive outcomes. The ongoing turmoil underscores the complexities of the Iranian crisis, highlighting the need for more nuanced diplomatic efforts.",
-    "link": "https://www.bbc.com/news/articles/c5y969pnxgvo?at_medium=RSS&at_campaign=rss",
+    "title": "サウジ基地で大きく損傷した米軍のレーダー機の写真",
+    "title_en": "Photos show heavily damaged US radar jet at Saudi base",
+    "summary": "米中央軍は最近の事件に関して公表した声明を出していない。このため、状況に関する詳細は不明なままだ。現時点で、中央軍からのさらなる情報は提供されていない。",
+    "summary_en": "US Central Command has not released any public statements regarding a recent incident. The lack of commentary leaves details surrounding the situation unclear. As of now, no further information has been provided by the command.",
+    "link": "https://www.bbc.com/news/articles/cwyd07m7e1xo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-03-29 16:44"
+    "publishedAt": "2026-03-30 17:34"
   },
   {
     "source": "NHK",
-    "title": "NHK全国短歌大会 3人が大賞に選ばれる 東京 渋谷",
+    "title": "柏崎刈羽原発6号機 営業運転4月16日開始の計画 東電が国に申請",
     "title_en": "",
-    "summary": "全国の短歌愛好家が参加する「NHK全国短歌大会」が東京の渋谷で開催されました。優れた短歌作品が多数紹介され、参加者たちが交流しました。大会は短歌の魅力を再確認する機会となりました。",
+    "summary": "東京電力は、再稼働した柏崎刈羽原子力発電所6号機の営業運転を始める計画を国に申請しました。営業運転が開始されれば、長い間行われていなかったことになります。これは、原発の運転が再開される重要なステップです。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260328/k10015086661000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260330/k10015087641000.html",
     "category": "その他",
-    "publishedAt": "2026-03-29 16:44"
+    "publishedAt": "2026-03-30 17:34"
   }
 ]
