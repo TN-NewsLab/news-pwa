@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-29T19:02:12.120Z",
+  "updatedAt": "2026-03-30T03:42:36.044Z",
   "top": [
     {
       "source": "BBC World",
@@ -21,47 +21,47 @@
     },
     {
       "source": "BBC Technology",
+      "title": "Tech CEOs suddenly love blaming AI for mass job cuts. Why?",
+      "url": "https://www.bbc.com/news/articles/cde5y2x51y8o?at_medium=RSS&at_campaign=rss",
+      "summary": "More tech leaders are pointing to job cuts caused by AI tools - and a need for more investment cash."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Why Chinese tech companies are racing to set up in Hong Kong",
+      "url": "https://www.bbc.com/news/articles/c8d5v404m96o?at_medium=RSS&at_campaign=rss",
+      "summary": "Mainland firms are using the territory to test products and as a springboard for global expansion."
+    },
+    {
+      "source": "BBC Technology",
       "title": "PS5 price hiked by £90 due to global 'pressures'",
       "url": "https://www.bbc.com/news/articles/czx9852nkexo?at_medium=RSS&at_campaign=rss",
       "summary": "The changes will see the recommended retail price of the PS5 rise from £479.99 to £569.99 in the UK.\n\n"
     },
     {
-      "source": "BBC Technology",
-      "title": "Lloyds bank reveals IT glitch affected almost half a million customers",
-      "url": "https://www.bbc.com/news/articles/c70dqk2vjv8o?at_medium=RSS&at_campaign=rss",
-      "summary": "In a letter to the Treasury Select Committee, Lloyds apologised and said some compensation had been paid."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Just Eat and Autotrader among firms investigated in fake reviews probe",
-      "url": "https://www.bbc.com/news/articles/cj37eeyz0epo?at_medium=RSS&at_campaign=rss",
-      "summary": "The UK's competition watchdog says it is looking at five firms in its investigation into misleading online reviews."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "The best deals we’ve found from Amazon’s Big Spring Sale (so far)",
+        "#text": "All the latest in AI &#8216;music&#8217;",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/903196/ai-music-suno-udio-art-lawsuit",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Can my favorite Game Boy gadget tell fake cartridges from real?",
+        "#text": "Bluesky’s new app is an AI for customizing your feed",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/902910/epilogue-gb-operator-phone-counterfeit-fake-cartridge-detection",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "There is no ethical consumption of HBO’s Harry Potter series",
+        "#text": "Red Rooms makes online poker as thrilling as its serial killer",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/report/901818/hbo-harry-potter-jk-rowling-transphobia",
+      "url": "https://www.theverge.com/entertainment/903174/red-rooms-movie-review-serial-killer-dark-web",
       "summary": "(要約準備中)"
     }
   ]
