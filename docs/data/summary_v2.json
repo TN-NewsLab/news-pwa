@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "新しいスパースアテンション最適化手法「IndexCache」が長文コンテキストAIモデルにおいて1.82倍の高速推論を実現",
-    "title_en": "IndexCache, a new sparse attention optimizer, delivers 1.82x faster inference on long-context AI models",
-    "summary": "清華大学とZ.aiの研究者たちは、スパースアテンションメカニズムにおける冗長な計算を最大75%削減することで、大規模言語モデルの計算コストを大幅に削減する「IndexCache」という技術を開発しました。この手法は、DeepSeek Sparse Attentionアーキテクチャに基づくモデルの効率性を向上させ、処理速度を最大1.82倍、生成スループットを1.48倍向上させることを実現し、出力品質を損なうことなく動作します。GLM-5のような大規模モデルに対する初期テストでは、特に長文コンテキストタスクにおいて顕著な速度向上が示されており、デプロイメントコストの削減や企業のユーザー体験の向上に寄与しています。",
-    "summary_en": "Researchers at Tsinghua University and Z.ai have developed a technique called IndexCache, designed to significantly reduce computational costs in large language models by cutting up to 75% of redundant calculations in sparse attention mechanisms. This method enhances the efficiency of models, including those based on the DeepSeek Sparse Attention architecture, achieving up to 1.82 times faster processing times and 1.48 times greater generation throughput without sacrificing output quality. Preliminary tests on large models like GLM-5 have demonstrated substantial speed gains, particularly for long-context tasks, translating to reduced deployment costs and improved user experience for enterprises.",
-    "link": "https://venturebeat.com/technology/indexcache-a-new-sparse-attention-optimizer-delivers-1-82x-faster-inference",
+    "title": "Midjourneyのエンジニアがウェブデザインを革新するオープンソース基準「Pretext」を発表",
+    "title_en": "Midjourney engineer debuts new vibe coded, open source standard Pretext to revolutionize web design",
+    "summary": "チェン・ルー氏が最近リリースした軽量TypeScriptライブラリ「Pretext」は、開発者がテキストレイアウトをブラウザのDocument Object Model（DOM）とは完全に独立して管理できるようにすることで、ウェブテキストレイアウトに関連する長年のパフォーマンス問題の解決を目指しています。この革新により、ユーザーの操作にシームレスに適応する動的でレスポンシブなテキストが可能になり、レンダリング速度が大幅に改善され、従来の手法と比較してレイアウト計算が300〜600倍速く達成されると報告されています。Pretextはウェブテキストレイアウトを再定義するだけでなく、より高度なインタラクティブ性やデザインの可能性を開き、急速に進化するデジタル環境において開発者がウェブアーキテクチャに取り組む方法を根本的に変える可能性があります。",
+    "summary_en": "Cheng Lou's recent release of Pretext, a lightweight TypeScript library, aims to address long-standing performance issues associated with web text layout by allowing developers to manage text layout entirely outside the browser's Document Object Model (DOM). This innovation enables dynamic, responsive text that adapts seamlessly to user interactions, vastly improving rendering speed—reportedly achieving layout calculations 300–600 times faster than traditional methods. Pretext not only redefines web text layout but also opens the door for more advanced interactivity and design possibilities, potentially reshaping how developers approach web architecture in the rapidly evolving digital landscape.",
+    "link": "https://venturebeat.com/technology/midjourney-engineer-debuts-new-vibe-coded-open-source-standard-pretext-to",
     "category": "AI",
-    "publishedAt": "2026-03-30 17:33"
+    "publishedAt": "2026-03-31 18:01"
   },
   {
     "source": "VentureBeat",
-    "title": "インターコムの新しいポストトレーニング済みFin Apex 1.0が顧客サービスの解決率でGPT-5.4とClaude Sonnet 4.6を上回る",
-    "title_en": "Intercom's new post-trained Fin Apex 1.0 beats GPT-5.4 and Claude Sonnet 4.6 at customer service resolutions",
-    "summary": "インターコムは独自のAIモデルであるFin Apex 1.0を発表し、顧客サポートのパフォーマンスでOpenAIやAnthropicの主要AIモデルを上回ると主張しています。このモデルは人間の介入なしで顧客問題の73.1%を解決することができ、より迅速な応答とエラーの削減を実現しています。インターコムのFin AIエージェントに統合されており、これにより週に200万件以上の顧客インタラクションを管理し、同社の重要な収益源となる見込みです。インターコムはFin Apexの基本モデルについて具体的には明かしていませんが、顧客サービスといった専門的なアプリケーションにおける優れたパフォーマンスを達成するためには、独自データを用いたポストトレーニングの重要性を強調しています。",
-    "summary_en": "Intercom has introduced its proprietary AI model, Fin Apex 1.0, which it claims surpasses leading AI models from OpenAI and Anthropic in customer support performance, achieving a 73.1% resolution rate for customer issues without human intervention. The model, which delivers faster responses and reduces errors, is integrated into Intercom's Fin AI agent that manages over two million customer interactions weekly and is expected to become a significant revenue driver for the company. While Intercom remains secretive about the specific base model used for Fin Apex, it emphasizes the importance of post-training with proprietary data to achieve superior performance in specialized applications like customer service.",
-    "link": "https://venturebeat.com/technology/intercoms-new-post-trained-fin-apex-1-0-beats-gpt-5-4-and-claude-sonnet-4-6",
+    "title": "RSAC 2026で5つのエージェントアイデンティティフレームワークが発表され、3つの重要なギャップが残される",
+    "title_en": "RSAC 2026 shipped five agent identity frameworks and left three critical gaps open",
+    "summary": "RSAカンファレンス2026において、CrowdStrikeのCTOエリア・ザイツェフ氏はAIエージェントのセキュリティ確保の課題を強調し、言語の本質的な欺瞞能力から、その意図を分析することは無意味であると述べました。彼は、意図を推測するのではなく、CrowdStrikeのFalconセンサーを通じてエージェントの行動をリアルタイムで追跡することに注力すべきだと主張しました。最近のフォーチュン50企業を含む事件は、大きなセキュリティギャップを示しており、ベンダーはエージェントのアイデンティティを確認できるものの、エージェントの行動や委任を十分に追跡できておらず、企業環境におけるAIのガバナンスと安全性への懸念を高めています。",
+    "summary_en": "During RSA Conference 2026, CrowdStrike's CTO Elia Zaitsev emphasized the challenges of securing AI agents, stating that analyzing their intent is futile due to language's inherent capability for deception. He advocated for a focus on tracking actions through CrowdStrike’s Falcon sensor, which monitors what agents do in real-time rather than inferring their intentions. Recent incidents involving Fortune 50 companies demonstrated significant security gaps, highlighting that while vendors can verify agent identities, they fail to adequately track agent actions and delegation, raising concerns about the governance and safety of AI in enterprise environments.",
+    "link": "https://venturebeat.com/security/rsac-2026-agent-identity-frameworks-three-gaps",
     "category": "AI",
-    "publishedAt": "2026-03-30 17:33"
+    "publishedAt": "2026-03-31 18:02"
   },
   {
     "source": "NHK",
-    "title": "株価 大幅な値下がり イラン情勢長期化で世界経済への打撃懸念",
+    "title": "4月値上げの食品は2798品目に 去年10月以来の2000品目超",
     "title_en": "",
-    "summary": "週明けの東京株式市場では、イラン情勢の長期化が懸念され、日経平均株価が大幅に下落しました。投資家たちは、これが世界経済に与える影響を警戒しています。市場の不安定さが続いている状況です。",
+    "summary": "最近の調査によると、4月に値上げされる食品は2798品目に達したことが分かりました。これは去年10月以来の2000品目超えです。調査会社は中東情勢が今後の値上げに影響を与える可能性があると警告しています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260330/k10015087351000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260331/k10015088321000.html",
     "category": "経済",
-    "publishedAt": "2026-03-30 17:33"
+    "publishedAt": "2026-03-31 18:02"
   },
   {
     "source": "BBC",
-    "title": "サウジ基地で大きく損傷した米軍のレーダー機の写真",
-    "title_en": "Photos show heavily damaged US radar jet at Saudi base",
-    "summary": "米中央軍は最近の事件に関して公表した声明を出していない。このため、状況に関する詳細は不明なままだ。現時点で、中央軍からのさらなる情報は提供されていない。",
-    "summary_en": "US Central Command has not released any public statements regarding a recent incident. The lack of commentary leaves details surrounding the situation unclear. As of now, no further information has been provided by the command.",
-    "link": "https://www.bbc.com/news/articles/cwyd07m7e1xo?at_medium=RSS&at_campaign=rss",
+    "title": "スペイン、イラン戦争に関与する米軍機の空域を閉鎖",
+    "title_en": "Spain closes airspace to US aircraft involved in Iran war",
+    "summary": "スペイン政府は、共同運用されているアンダルシアの2つの軍事基地へのアメリカのアクセスを拒否することを決定しました。この決定は、スペインの防衛政策と外国軍の存在に対する姿勢の変化を反映しています。この動きは、米国とスペインの関係や地域の安全保障のダイナミクスに与える影響について疑問を引き起こしています。",
+    "summary_en": "The Spanish government has decided to deny the United States access to two military bases in Andalusia that are jointly operated. This decision reflects a shift in Spain's defense policy and its stance on foreign military presence. The move has raised questions about the implications for U.S.-Spain relations and regional security dynamics.",
+    "link": "https://www.bbc.com/news/articles/cwy368j1e3lo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-03-30 17:34"
+    "publishedAt": "2026-03-31 18:02"
   },
   {
     "source": "NHK",
-    "title": "柏崎刈羽原発6号機 営業運転4月16日開始の計画 東電が国に申請",
+    "title": "博物館の運営基準改正 「廃棄」規定盛り込む 31日施行",
     "title_en": "",
-    "summary": "東京電力は、再稼働した柏崎刈羽原子力発電所6号機の営業運転を始める計画を国に申請しました。営業運転が開始されれば、長い間行われていなかったことになります。これは、原発の運転が再開される重要なステップです。",
+    "summary": "博物館の運営基準が改正され、「廃棄」に関する規定が追加されました。これにより、収蔵庫に入りきらない資料の廃棄が議論される中、安易な廃棄を防ぐための措置が強化されました。松本文部科学大臣は、やむを得ない理由がある場合に限ることを明言しました。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260330/k10015087641000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260331/k10015088411000.html",
     "category": "その他",
-    "publishedAt": "2026-03-30 17:34"
+    "publishedAt": "2026-03-31 18:02"
   }
 ]
