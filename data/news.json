@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-30T19:19:14.091Z",
+  "updatedAt": "2026-03-31T03:29:32.033Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,15 +9,21 @@
     },
     {
       "source": "BBC World",
-      "title": "Russian oil tanker reaches Cuba after Trump appears to loosen blockade",
-      "url": "https://www.bbc.com/news/articles/czrevyx28z2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The tanker has reached Cuban waters just hours after Donald Trump said he had \"no problem\" with it. "
+      "title": "King Charles should meet Epstein victims, US lawmaker says",
+      "url": "https://www.bbc.com/news/articles/cn78xp0m75zo?at_medium=RSS&at_campaign=rss",
+      "summary": "While the trip is not officially confirmed, the King and Queen Camilla are reportedly planning to visit the US at the end of April. "
     },
     {
       "source": "BBC World",
-      "title": "Zelensky says allies asked him to scale back attacks on Russian energy",
-      "url": "https://www.bbc.com/news/articles/c0e7lrxrelwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine's president says partners asked if the attacks could be \"reduced\" as prices soar due to the Iran war."
+      "title": "Palestinians convicted of deadly attacks face death penalty under new Israeli law",
+      "url": "https://www.bbc.com/news/articles/cp8dkd6lnjdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The new law, passed on Monday, was pushed hard by the far-right and Security Minister Itamar Ben-Gvir."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Social media firms must better enforce Australia under-16 ban, watchdog says",
+      "url": "https://www.bbc.com/news/articles/cy4181pkxl2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Regulator eSafety says it has concerns about how Facebook, Instagram, Snapchat, TikTok and YouTube are complying with the ban."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "More tech leaders are pointing to job cuts caused by AI tools - and a need for more investment cash."
     },
     {
-      "source": "BBC Technology",
-      "title": "Why Chinese tech companies are racing to set up in Hong Kong",
-      "url": "https://www.bbc.com/news/articles/c8d5v404m96o?at_medium=RSS&at_campaign=rss",
-      "summary": "Mainland firms are using the territory to test products and as a springboard for global expansion."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Beats’ gym-friendly Powerbeats Fit are $30 off for Amazon’s Big Spring Sale",
+        "#text": "150 million users later, Roblox competitor Rec Room is shutting down",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/903373/beats-powerbeats-fit-pro-2-earbuds-amazon-big-spring-sale-2026-deal",
+      "url": "https://www.theverge.com/games/903885/150-million-users-later-roblox-competitor-rec-room-is-shutting-down",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "A new RCS update could connect iPhone and Android video calls, someday",
+        "#text": "Here are our favorite spring cleaning deals from Amazon’s Big Spring Sale",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/903509/apple-iphone-google-android-video-calls-rcs-universal-profile-4-0",
+      "url": "https://www.theverge.com/gadgets/903543/spring-cleaning-gadgets-vacuums-tools-air-purifiers-amazon-big-spring-sale-2026-deals",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Dyson&#8217;s ultra-thin PencilVac Fluffycones is tougher to resist at $150 off",
+        "#text": "The first Apple Home Key-ready smart lock with UWB is cheaper during Amazon’s Big Spring Sale",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/903416/dyson-pencilvac-fluffycones-amazon-big-spring-sale-deal-sale",
+      "url": "https://www.theverge.com/gadgets/903555/aqara-u400-apple-home-key-uwb-smart-lock-amazon-big-spring-sale-2026-deal",
       "summary": "(要約準備中)"
     }
   ]
