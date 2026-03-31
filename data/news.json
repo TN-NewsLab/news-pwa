@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-03-31T14:02:13.663Z",
+  "updatedAt": "2026-03-31T19:19:24.419Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Iran using children in security roles in war, reports and witnesses say",
+      "url": "https://www.bbc.com/news/articles/c9wqgjn7x89o?at_medium=RSS&at_campaign=rss",
+      "summary": "An 11-year-old is reported to have been killed in an air strike while manning a checkpoint in Tehran."
+    },
+    {
+      "source": "BBC World",
+      "title": "Israel says it will keep control over part of southern Lebanon after war with Hezbollah ends",
+      "url": "https://www.bbc.com/news/articles/c5yx8knpr5no?at_medium=RSS&at_campaign=rss",
+      "summary": "Defence Minister Israel Katz also says houses in Lebanese villages near the Israeli border will be demolished."
+    },
     {
       "source": "BBC World",
       "title": "China bans storing cremated remains in empty 'bone ash apartments'",
       "url": "https://www.bbc.com/news/articles/cm25ynex2zxo?at_medium=RSS&at_campaign=rss",
       "summary": "China bans 'bone ash apartments' where mourners are storing cremated remains instead of cemeteries."
-    },
-    {
-      "source": "BBC World",
-      "title": "Wolf bites woman in shock German attack in Hamburg shopping street ",
-      "url": "https://www.bbc.com/news/articles/c20qxjxe2nno?at_medium=RSS&at_campaign=rss",
-      "summary": "It is believed to be the first wolf attack on a human since the animals began to reestablish themselves in Germany decades ago."
-    },
-    {
-      "source": "BBC World",
-      "title": "Sexual violence part of 'everyday life' in parts of Sudan, charity says",
-      "url": "https://www.bbc.com/news/articles/c5ywgn2n3nqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Victims describe how they have been targeted while carrying out everyday activities. "
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Apple at 50: the good and the bad",
+        "#text": "The Super Mario Galaxy Movie is beautiful but a little too busy",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/podcast/903976/apple-50-good-bad-podcasts-vergecast",
+      "url": "https://www.theverge.com/entertainment/904033/the-super-mario-galaxy-movie-review",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "You can finally replace your embarrassing Gmail username",
+        "#text": "Evercade’s new handheld has a larger screen and dual thumbsticks for 3D games",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/904005/google-change-gmail-email-address",
+      "url": "https://www.theverge.com/tech/904543/evercade-nexus-handheld-console-retro-gaming-preorder-pricing-availability",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The AirPods Max 2 are a great sequel, but not an ambitious one",
+        "#text": "No Kings is taking back Americana",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/903754/apple-airpods-max-2-review",
+      "url": "https://www.theverge.com/policy/904405/no-kings-protests-portland-americana",
       "summary": "(要約準備中)"
     }
   ]
