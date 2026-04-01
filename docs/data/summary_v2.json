@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "Midjourneyのエンジニアがウェブデザインを革新するオープンソース基準「Pretext」を発表",
-    "title_en": "Midjourney engineer debuts new vibe coded, open source standard Pretext to revolutionize web design",
-    "summary": "チェン・ルー氏が最近リリースした軽量TypeScriptライブラリ「Pretext」は、開発者がテキストレイアウトをブラウザのDocument Object Model（DOM）とは完全に独立して管理できるようにすることで、ウェブテキストレイアウトに関連する長年のパフォーマンス問題の解決を目指しています。この革新により、ユーザーの操作にシームレスに適応する動的でレスポンシブなテキストが可能になり、レンダリング速度が大幅に改善され、従来の手法と比較してレイアウト計算が300〜600倍速く達成されると報告されています。Pretextはウェブテキストレイアウトを再定義するだけでなく、より高度なインタラクティブ性やデザインの可能性を開き、急速に進化するデジタル環境において開発者がウェブアーキテクチャに取り組む方法を根本的に変える可能性があります。",
-    "summary_en": "Cheng Lou's recent release of Pretext, a lightweight TypeScript library, aims to address long-standing performance issues associated with web text layout by allowing developers to manage text layout entirely outside the browser's Document Object Model (DOM). This innovation enables dynamic, responsive text that adapts seamlessly to user interactions, vastly improving rendering speed—reportedly achieving layout calculations 300–600 times faster than traditional methods. Pretext not only redefines web text layout but also opens the door for more advanced interactivity and design possibilities, potentially reshaping how developers approach web architecture in the rapidly evolving digital landscape.",
-    "link": "https://venturebeat.com/technology/midjourney-engineer-debuts-new-vibe-coded-open-source-standard-pretext-to",
+    "title": "Metaの新しい構造化プロンプト技術がLLMのコードレビュー精度を大幅に向上 — 場合によっては93%に達する精度を実現",
+    "title_en": "Meta's new structured prompting technique makes LLMs significantly better at code review — boosting accuracy to 93% in some cases",
+    "summary": "Metaの研究者たちは、バグ検出やコードレビューなどのタスクの精度を向上させるためのAIエージェント向けの構造化プロンプト技術「セミフォーマル推論」を導入しました。この手法では、エージェントが前提を明示し、実行経路を追跡し、検証可能な証拠に基づいて結論を導く必要があり、構造化されていない推論アプローチと比較してエラーを減らし、信頼性を高めます。高価な実行サンドボックスへの依存が減り、検証精度が向上するなどの大きな利点がある一方で、計算コストの増加や不完全な推論により自信を持って間違った答えを出す可能性があるなどの限界もあります。",
+    "summary_en": "Researchers at Meta have introduced \"semi-formal reasoning,\" a structured prompting technique for AI agents that improves the accuracy of tasks like bug detection and code review without executing code. This method requires agents to explicitly outline premises, trace execution paths, and derive conclusions based on verifiable evidence, reducing errors and enhancing reliability compared to unstructured reasoning approaches. While it offers significant benefits, such as reduced reliance on expensive execution sandboxes and higher verification accuracy, it also has limitations, including increased computational costs and potential for confidently incorrect answers when the reasoning is incomplete.",
+    "link": "https://venturebeat.com/orchestration/metas-new-structured-prompting-technique-makes-llms-significantly-better-at",
     "category": "AI",
-    "publishedAt": "2026-03-31 18:01"
+    "publishedAt": "2026-04-01 17:46"
   },
   {
     "source": "VentureBeat",
-    "title": "RSAC 2026で5つのエージェントアイデンティティフレームワークが発表され、3つの重要なギャップが残される",
-    "title_en": "RSAC 2026 shipped five agent identity frameworks and left three critical gaps open",
-    "summary": "RSAカンファレンス2026において、CrowdStrikeのCTOエリア・ザイツェフ氏はAIエージェントのセキュリティ確保の課題を強調し、言語の本質的な欺瞞能力から、その意図を分析することは無意味であると述べました。彼は、意図を推測するのではなく、CrowdStrikeのFalconセンサーを通じてエージェントの行動をリアルタイムで追跡することに注力すべきだと主張しました。最近のフォーチュン50企業を含む事件は、大きなセキュリティギャップを示しており、ベンダーはエージェントのアイデンティティを確認できるものの、エージェントの行動や委任を十分に追跡できておらず、企業環境におけるAIのガバナンスと安全性への懸念を高めています。",
-    "summary_en": "During RSA Conference 2026, CrowdStrike's CTO Elia Zaitsev emphasized the challenges of securing AI agents, stating that analyzing their intent is futile due to language's inherent capability for deception. He advocated for a focus on tracking actions through CrowdStrike’s Falcon sensor, which monitors what agents do in real-time rather than inferring their intentions. Recent incidents involving Fortune 50 companies demonstrated significant security gaps, highlighting that while vendors can verify agent identities, they fail to adequately track agent actions and delegation, raising concerns about the governance and safety of AI in enterprise environments.",
-    "link": "https://venturebeat.com/security/rsac-2026-agent-identity-frameworks-three-gaps",
+    "title": "CrowdStrike、Cisco、Palo Alto NetworksがRSAC 2026でエージェント型SOCツールを発表 - エージェントの行動基準のギャップはすべての企業に残る",
+    "title_en": "CrowdStrike, Cisco and Palo Alto Networks all shipped agentic SOC tools at RSAC 2026 — the agent behavioral baseline gap survived all three",
+    "summary": "RSAカンファレンス2026において、CrowdStrikeのCEOジョージ・カーツは、敵の突破時間が27秒に大幅に短縮されたことを指摘し、企業環境に存在するAI関連の脆弱性に対抗するためのセキュリティチームが直面する緊急の脅威状況を強調しました。調査対象の企業の85％がAIのパイロットプロジェクトを開始していますが、人間の活動とエージェントの活動を区別することや、複数のAIソリューションによって悪化したセキュリティの複雑さを管理する上での課題により、パイロットフェーズと本番フェーズの間にギャップが残っています。ClawHavocのような脅威の出現や、現在のソリューションがエージェントの行動を一貫して定義できないことは、セキュリティオペレーションセンター（SOC）における可視性の向上と積極的な対策の必要性を浮き彫りにしており、今後の数か月の意思決定がこの進化する状況に適応するために重要であることを示しています。",
+    "summary_en": "At the RSA Conference 2026, CrowdStrike CEO George Kurtz noted a significant reduction in adversary breakout time to 27 seconds, highlighting the urgent threat landscape faced by security teams who must defend against AI-related vulnerabilities now present in enterprise environments. With 85% of surveyed enterprises beginning AI pilot projects, a gap remains between pilot and production phases due to challenges in distinguishing between human and agent activities, as well as managing security complexity exacerbated by multiple AI solutions. The emergence of threats like ClawHavoc and the inability of current solutions to consistently define agent behavior underscore the need for improved visibility and proactive measures in the security operations center (SOC), as decision-making in the coming months will be crucial for adapting to this evolving landscape.",
+    "link": "https://venturebeat.com/security/rsac-2026-agentic-soc-agent-telemetry-security-gap",
     "category": "AI",
-    "publishedAt": "2026-03-31 18:02"
+    "publishedAt": "2026-04-01 17:46"
   },
   {
     "source": "NHK",
-    "title": "4月値上げの食品は2798品目に 去年10月以来の2000品目超",
+    "title": "ガソリン価格 全国平均1リットル170.2円 2週連続値下がり",
     "title_en": "",
-    "summary": "最近の調査によると、4月に値上げされる食品は2798品目に達したことが分かりました。これは去年10月以来の2000品目超えです。調査会社は中東情勢が今後の値上げに影響を与える可能性があると警告しています。",
+    "summary": "レギュラーガソリンの全国平均価格が、最近の激変緩和措置の影響で値下がりしました。現在、1リットル当たり170.2円となっています。これは2週連続の減少となります。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260331/k10015088321000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260401/k10015089841000.html",
     "category": "経済",
-    "publishedAt": "2026-03-31 18:02"
+    "publishedAt": "2026-04-01 17:46"
   },
   {
     "source": "BBC",
-    "title": "スペイン、イラン戦争に関与する米軍機の空域を閉鎖",
-    "title_en": "Spain closes airspace to US aircraft involved in Iran war",
-    "summary": "スペイン政府は、共同運用されているアンダルシアの2つの軍事基地へのアメリカのアクセスを拒否することを決定しました。この決定は、スペインの防衛政策と外国軍の存在に対する姿勢の変化を反映しています。この動きは、米国とスペインの関係や地域の安全保障のダイナミクスに与える影響について疑問を引き起こしています。",
-    "summary_en": "The Spanish government has decided to deny the United States access to two military bases in Andalusia that are jointly operated. This decision reflects a shift in Spain's defense policy and its stance on foreign military presence. The move has raised questions about the implications for U.S.-Spain relations and regional security dynamics.",
-    "link": "https://www.bbc.com/news/articles/cwy368j1e3lo?at_medium=RSS&at_campaign=rss",
+    "title": "中国がイラン戦争の仲介役を果たそうとしている - それは成功するのか？",
+    "title_en": "China is trying to play peacemaker in the Iran war - will it work?",
+    "summary": "中国の最近の対応の変化は、以前の控えめな姿勢からの重大な転換を示しています。この政府の新たな取り組みは、戦略的利益に基づいているようで、影響力を強化し、国内の懸念に対処することを目的としている可能性があります。この方向転換は、地域や世界の問題へのより深い関与を強調しており、中国当局が変化する状況に合わせてアプローチを再調整していることを示唆しています。",
+    "summary_en": "China's recent shift in response marks a significant change from its previous muted stance. The government's newfound initiative appears to be driven by strategic interests, possibly to reinforce its influence and address domestic concerns. This pivot underscores a deeper engagement in regional or global affairs, suggesting that Chinese authorities are recalibrating their approach to align with evolving circumstances.",
+    "link": "https://www.bbc.com/news/articles/cze0kz7gr84o?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-03-31 18:02"
+    "publishedAt": "2026-04-01 17:46"
   },
   {
     "source": "NHK",
-    "title": "博物館の運営基準改正 「廃棄」規定盛り込む 31日施行",
+    "title": "「核のごみ」最終処分地選定 南鳥島での文献調査 説明会開催へ",
     "title_en": "",
-    "summary": "博物館の運営基準が改正され、「廃棄」に関する規定が追加されました。これにより、収蔵庫に入りきらない資料の廃棄が議論される中、安易な廃棄を防ぐための措置が強化されました。松本文部科学大臣は、やむを得ない理由がある場合に限ることを明言しました。",
+    "summary": "原子力発電による核のごみの最終処分地選定について、小笠原村が国からの申し入れに応じて南鳥島で文献調査を行う方針を示しました。村は母島と父島で住民説明会を開催し、村長の考えを伝えました。文献調査の実施判断は国に委ねる方向で調整中です。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260331/k10015088411000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260401/k10015089361000.html",
     "category": "その他",
-    "publishedAt": "2026-03-31 18:02"
+    "publishedAt": "2026-04-01 17:46"
   }
 ]
