@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-04-01T14:04:20.082Z",
+  "updatedAt": "2026-04-01T19:31:36.734Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "China is trying to play peacemaker in the Iran war - will it work?",
-      "url": "https://www.bbc.com/news/articles/cze0kz7gr84o?at_medium=RSS&at_campaign=rss",
-      "summary": "It's a turnaround for Beijing, whose official response has been muted so far. Why is China stepping in now?"
+      "title": "What do Trump's latest comments on leaving Nato mean for the alliance?",
+      "url": "https://www.bbc.com/news/articles/c79je4vldq5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump has criticised Nato members for showing a lack of support for US objectives in Iran."
     },
     {
       "source": "BBC World",
@@ -15,9 +15,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Russian military plane crash kills 29 in occupied Crimea",
-      "url": "https://www.bbc.com/news/articles/cly6387xgqxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Russian authorities say a technical malfunction caused the An-26 to crash into a cliff."
+      "title": "Families cram into Greek court for trial into deadliest train crash",
+      "url": "https://www.bbc.com/news/articles/cx2wq13758no?at_medium=RSS&at_campaign=rss",
+      "summary": "Fifty-seven people were killed when two trains collided in 2023 in the worst rail accident in Greek history, with 36 accused in a trial expected to last years."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Peppa Pig and Transformers owner Hasbro hit by cyber-attack",
+      "url": "https://www.bbc.com/news/articles/cx24e1nryn9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The firm says its operations remain open but says the hack \"may result in some delays\". "
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "Baidu has not responded to a request for comment about the outage, which affected at least 100 cars."
     },
     {
-      "source": "BBC Technology",
-      "title": "Thousands lose their jobs in deep cuts at tech giant Oracle ",
-      "url": "https://www.bbc.com/news/articles/cm296jzzl9yo?at_medium=RSS&at_campaign=rss",
-      "summary": "It is thought that thousands of people may have lost their jobs at Oracle, one of the world's largest tech companies."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "A YouTuber channeled his distaste for the PS5’s design into slick console covers",
+        "#text": "The Artemis Moon base project is legally dubious",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/904086/boxplates-ps5-pro-slim-console-covers-hands-on",
+      "url": "https://www.theverge.com/science/905406/artemis-ii-moon-base-law",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Nintendo is weathering the storm",
+        "#text": "Everything is iPhone now",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/904653/nintendo-games-industry-success",
+      "url": "https://www.theverge.com/tech/905398/apple-iphone-anniversary-jobs-release",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Today is the final day to save up to $150 on a PS5 before the price goes up",
+        "#text": "April Fools’ Day 2026: the best and cringiest pranks",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/904614/playstation-5-ps5-pro-digital-edition-refurbished-deal-sale-price-increase",
+      "url": "https://www.theverge.com/tldr/904346/april-fools-day-2026-pranks-jokes-best-worst",
       "summary": "(要約準備中)"
     }
   ]
