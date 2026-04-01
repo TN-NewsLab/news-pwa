@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-01T07:54:14.784Z",
+  "updatedAt": "2026-04-01T14:04:20.082Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,59 +9,59 @@
     },
     {
       "source": "BBC World",
-      "title": "Iran using children in security roles in war, reports and witnesses say",
-      "url": "https://www.bbc.com/news/articles/c9wqgjn7x89o?at_medium=RSS&at_campaign=rss",
-      "summary": "An 11-year-old is reported to have been killed in an air strike while manning a checkpoint in Tehran."
+      "title": "Israel intensifies Lebanon attacks and hits areas not in Hezbollah's control",
+      "url": "https://www.bbc.com/news/articles/cvg07j6yeweo?at_medium=RSS&at_campaign=rss",
+      "summary": "Attacks have continued as Israel has announced its intention to control swathes of south Lebanon."
     },
     {
       "source": "BBC World",
-      "title": "Israel says it will keep control over part of southern Lebanon after war with Hezbollah ends",
-      "url": "https://www.bbc.com/news/articles/c5yx8knpr5no?at_medium=RSS&at_campaign=rss",
-      "summary": "Defence Minister Israel Katz also says houses in Lebanese villages near the Israeli border will be demolished."
+      "title": "Russian military plane crash kills 29 in occupied Crimea",
+      "url": "https://www.bbc.com/news/articles/cly6387xgqxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Russian authorities say a technical malfunction caused the An-26 to crash into a cliff."
     },
     {
       "source": "BBC Technology",
-      "title": "Tech giant Oracle makes 'significant' job cuts",
+      "title": "Claude Code users hitting usage limits 'way faster than expected'",
+      "url": "https://www.bbc.com/news/articles/ce8l2q5yq51o?at_medium=RSS&at_campaign=rss",
+      "summary": "Anthropic, the company behind the AI coding assistant, said it was fixing a problem blocking users."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Mass robotaxi malfunction halts traffic in Chinese city",
+      "url": "https://www.bbc.com/news/articles/cvge91r9j80o?at_medium=RSS&at_campaign=rss",
+      "summary": "Baidu has not responded to a request for comment about the outage, which affected at least 100 cars."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Thousands lose their jobs in deep cuts at tech giant Oracle ",
       "url": "https://www.bbc.com/news/articles/cm296jzzl9yo?at_medium=RSS&at_campaign=rss",
       "summary": "It is thought that thousands of people may have lost their jobs at Oracle, one of the world's largest tech companies."
     },
     {
-      "source": "BBC Technology",
-      "title": "Social media firms must better enforce Australia under-16 ban, watchdog says",
-      "url": "https://www.bbc.com/news/articles/cy4181pkxl2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Regulator eSafety says it has concerns about how Facebook, Instagram, Snapchat, TikTok and YouTube are complying with the ban."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Kris Jenner's image spreads in Chinese social media good luck trend",
-      "url": "https://www.bbc.com/news/articles/c0rx57zgz52o?at_medium=RSS&at_campaign=rss",
-      "summary": "Hundreds of thousands of posts have been shared in the past three days as users hope for prosperity"
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "The best deals to shop during the last few hours of Amazon’s Big Spring Sale",
+        "#text": "A YouTuber channeled his distaste for the PS5’s design into slick console covers",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals",
+      "url": "https://www.theverge.com/tech/904086/boxplates-ps5-pro-slim-console-covers-hands-on",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Amazon&#8217;s Big Spring Sale 2026: all of the latest deals",
+        "#text": "Nintendo is weathering the storm",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/897580/amazon-big-spring-sale-2026-deals-news",
+      "url": "https://www.theverge.com/games/904653/nintendo-games-industry-success",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The AirPods Pro 3 are nearly matching their best-ever price for Amazon’s Big Spring Sale",
+        "#text": "Today is the final day to save up to $150 on a PS5 before the price goes up",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/898502/airpods-pro-3-amazon-big-spring-sale-2026-deal",
+      "url": "https://www.theverge.com/gadgets/904614/playstation-5-ps5-pro-digital-edition-refurbished-deal-sale-price-increase",
       "summary": "(要約準備中)"
     }
   ]
