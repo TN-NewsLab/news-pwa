@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-31T19:19:24.419Z",
+  "updatedAt": "2026-04-01T03:45:30.878Z",
   "top": [
     {
       "source": "BBC World",
@@ -15,9 +15,15 @@
     },
     {
       "source": "BBC World",
-      "title": "China bans storing cremated remains in empty 'bone ash apartments'",
-      "url": "https://www.bbc.com/news/articles/cm25ynex2zxo?at_medium=RSS&at_campaign=rss",
-      "summary": "China bans 'bone ash apartments' where mourners are storing cremated remains instead of cemeteries."
+      "title": "US journalist Shelly Kittleson kidnapped in Baghdad",
+      "url": "https://www.bbc.com/news/articles/c5yled478zwo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US state department says a suspect in her abduction has ties to an Iran-backed militia group, Kataib Hezbollah."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Tech giant Oracle makes 'significant' job cuts",
+      "url": "https://www.bbc.com/news/articles/cm296jzzl9yo?at_medium=RSS&at_campaign=rss",
+      "summary": "It is thought that thousands of people may have lost their jobs at Oracle, one of the world's largest tech companies."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "Hundreds of thousands of posts have been shared in the past three days as users hope for prosperity"
     },
     {
-      "source": "BBC Technology",
-      "title": "Tech CEOs suddenly love blaming AI for mass job cuts. Why?",
-      "url": "https://www.bbc.com/news/articles/cde5y2x51y8o?at_medium=RSS&at_campaign=rss",
-      "summary": "More tech leaders are pointing to job cuts caused by AI tools - and a need for more investment cash."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "The Super Mario Galaxy Movie is beautiful but a little too busy",
+        "#text": "The best deals to shop during the last few hours of Amazon’s Big Spring Sale",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/904033/the-super-mario-galaxy-movie-review",
+      "url": "https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Evercade’s new handheld has a larger screen and dual thumbsticks for 3D games",
+        "#text": "Amazon&#8217;s Big Spring Sale 2026: all of the latest deals",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/904543/evercade-nexus-handheld-console-retro-gaming-preorder-pricing-availability",
+      "url": "https://www.theverge.com/gadgets/897580/amazon-big-spring-sale-2026-deals-news",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "No Kings is taking back Americana",
+        "#text": "The AirPods Pro 3 are nearly matching their best-ever price for Amazon’s Big Spring Sale",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/904405/no-kings-protests-portland-americana",
+      "url": "https://www.theverge.com/gadgets/898502/airpods-pro-3-amazon-big-spring-sale-2026-deal",
       "summary": "(要約準備中)"
     }
   ]
