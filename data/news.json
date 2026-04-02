@@ -1,11 +1,17 @@
 {
-  "updatedAt": "2026-04-01T19:31:36.734Z",
+  "updatedAt": "2026-04-02T03:26:04.634Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "What do Trump's latest comments on leaving Nato mean for the alliance?",
-      "url": "https://www.bbc.com/news/articles/c79je4vldq5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump has criticised Nato members for showing a lack of support for US objectives in Iran."
+      "title": "Watch the moment Artemis II blasts into space",
+      "url": "https://www.bbc.com/news/videos/cwydnrmggnno?at_medium=RSS&at_campaign=rss",
+      "summary": "After delays and technical issues, the first crewed Moon mission in 50 years finally took off from Florida and is now in Earth's orbit."
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump says Iran war objectives 'nearing completion' in address to nation",
+      "url": "https://www.bbc.com/news/articles/cql72qk97gpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump's first televised address of the conflict with Iran did little to quell uneasy markets. "
     },
     {
       "source": "BBC World",
@@ -14,10 +20,10 @@
       "summary": "Attacks have continued as Israel has announced its intention to control swathes of south Lebanon."
     },
     {
-      "source": "BBC World",
-      "title": "Families cram into Greek court for trial into deadliest train crash",
-      "url": "https://www.bbc.com/news/articles/cx2wq13758no?at_medium=RSS&at_campaign=rss",
-      "summary": "Fifty-seven people were killed when two trains collided in 2023 in the worst rail accident in Greek history, with 36 accused in a trial expected to last years."
+      "source": "BBC Technology",
+      "title": "Elon Musk's SpaceX moves to become a publicly traded company",
+      "url": "https://www.bbc.com/news/articles/c2k35lg92dpo?at_medium=RSS&at_campaign=rss",
+      "summary": "The company’s public stock debut is set to be one of the most valuable in history, and could make Musk the world's first trillionaire."
     },
     {
       "source": "BBC Technology",
@@ -32,10 +38,22 @@
       "summary": "Anthropic, the company behind the AI coding assistant, said it was fixing a problem blocking users."
     },
     {
-      "source": "BBC Technology",
-      "title": "Mass robotaxi malfunction halts traffic in Chinese city",
-      "url": "https://www.bbc.com/news/articles/cvge91r9j80o?at_medium=RSS&at_campaign=rss",
-      "summary": "Baidu has not responded to a request for comment about the outage, which affected at least 100 cars."
+      "source": "The Verge",
+      "title": {
+        "#text": "Trump’s birthright citizenship ban may fail — but the administration already got too far",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/policy/905649/trump-supreme-court-birthright-citizenship-scotus-arguments",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "NASA launches four astronauts toward the Moon on the Artemis II mission",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/science/904458/nasa-artemis-ii-mission-moon-astronauts",
+      "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
@@ -44,24 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/science/905406/artemis-ii-moon-base-law",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Everything is iPhone now",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/tech/905398/apple-iphone-anniversary-jobs-release",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "April Fools’ Day 2026: the best and cringiest pranks",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/tldr/904346/april-fools-day-2026-pranks-jokes-best-worst",
       "summary": "(要約準備中)"
     }
   ]
