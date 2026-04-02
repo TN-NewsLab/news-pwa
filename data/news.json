@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-04-02T07:41:25.911Z",
+  "updatedAt": "2026-04-02T13:57:08.801Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Watch the moment Artemis II blasts into space",
-      "url": "https://www.bbc.com/news/videos/cwydnrmggnno?at_medium=RSS&at_campaign=rss",
-      "summary": "After delays and technical issues, the first crewed Moon mission in 50 years finally took off from Florida and is now in Earth's orbit."
+      "title": "Macron calls Trump's remarks on his marriage 'inelegant'",
+      "url": "https://www.bbc.com/news/videos/c70dxqp0q2do?at_medium=RSS&at_campaign=rss",
+      "summary": "French President Emmanuel Macron has said Donald Trump's comments about his marriage were \"neither elegant nor up to standard\"."
     },
     {
       "source": "BBC World",
-      "title": "Trump leaves key questions unanswered as he seeks to calm nerves over Iran war",
-      "url": "https://www.bbc.com/news/articles/cnv81ven263o?at_medium=RSS&at_campaign=rss",
-      "summary": "There were some glaring omissions in the president's primetime address, writes the BBC's Gary O'Donoghue."
+      "title": "Man dies in storm as Saharan dust shrouds Crete",
+      "url": "https://www.bbc.com/news/articles/c070d9g5k7jo?at_medium=RSS&at_campaign=rss",
+      "summary": "A man dies in flooding near Athens as rain lashes several regions in Greece, while a Saharan dust storm enveloped Crete."
     },
     {
       "source": "BBC World",
-      "title": "Magnitude 7.4 earthquake hits off Indonesia, killing one",
-      "url": "https://www.bbc.com/news/articles/cn53krrrr24o?at_medium=RSS&at_campaign=rss",
-      "summary": "The quake struck between the islands of Manado and Ternate. Tsunami warnings have now been lifted."
+      "title": "Brazil grants joint custody over pets in new law for separated couples",
+      "url": "https://www.bbc.com/news/articles/ce8jzn180x2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Lawmakers in the Brazilian Congress on Tuesday viewed the law change as a reflection on the importance people place on their pets. \n\n"
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Trump’s birthright citizenship ban may fail — but the administration already got too far",
+        "#text": "This even smaller credit card-sized e-reader has one tragic flaw",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/905649/trump-supreme-court-birthright-citizenship-scotus-arguments",
+      "url": "https://www.theverge.com/tech/905258/xteink-x3-e-ink-reader-ebooks-hands-on",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "NASA launches four astronauts toward the Moon on the Artemis II mission",
+        "#text": "Google Home’s latest update makes Gemini better at understanding your commands",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/science/904458/nasa-artemis-ii-mission-moon-astronauts",
+      "url": "https://www.theverge.com/tech/905805/google-home-gemini-temperature-controls-lighting",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The Artemis Moon base project is legally dubious",
+        "#text": "United adds TSA wait times to its mobile app",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/science/905406/artemis-ii-moon-base-law",
+      "url": "https://www.theverge.com/tech/905817/united-airlines-app-ios-android-airtag-location-sharing-tsa-line",
       "summary": "(要約準備中)"
     }
   ]
