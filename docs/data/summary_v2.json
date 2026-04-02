@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "Metaの新しい構造化プロンプト技術がLLMのコードレビュー精度を大幅に向上 — 場合によっては93%に達する精度を実現",
-    "title_en": "Meta's new structured prompting technique makes LLMs significantly better at code review — boosting accuracy to 93% in some cases",
-    "summary": "Metaの研究者たちは、バグ検出やコードレビューなどのタスクの精度を向上させるためのAIエージェント向けの構造化プロンプト技術「セミフォーマル推論」を導入しました。この手法では、エージェントが前提を明示し、実行経路を追跡し、検証可能な証拠に基づいて結論を導く必要があり、構造化されていない推論アプローチと比較してエラーを減らし、信頼性を高めます。高価な実行サンドボックスへの依存が減り、検証精度が向上するなどの大きな利点がある一方で、計算コストの増加や不完全な推論により自信を持って間違った答えを出す可能性があるなどの限界もあります。",
-    "summary_en": "Researchers at Meta have introduced \"semi-formal reasoning,\" a structured prompting technique for AI agents that improves the accuracy of tasks like bug detection and code review without executing code. This method requires agents to explicitly outline premises, trace execution paths, and derive conclusions based on verifiable evidence, reducing errors and enhancing reliability compared to unstructured reasoning approaches. While it offers significant benefits, such as reduced reliance on expensive execution sandboxes and higher verification accuracy, it also has limitations, including increased computational costs and potential for confidently incorrect answers when the reasoning is incomplete.",
-    "link": "https://venturebeat.com/orchestration/metas-new-structured-prompting-technique-makes-llms-significantly-better-at",
+    "title": "CrowdStrike、Cisco、Palo Alto NetworksがRSAC 2026でエージェント型SOCツールを提供 - エージェントの行動ベースラインのギャップは依然として存在",
+    "title_en": "CrowdStrike, Cisco and Palo Alto Networks all shipped agentic SOC tools at RSAC 2026 — the agent behavioral baseline gap survived all three",
+    "summary": "RSAカンファレンス2026で、CrowdStrikeのCEOジョージ・カーツ氏は、記録された最速の敵の突破時間が27秒に短縮されたことを報告し、脅威が拡散する前に現在平均29分かかることを踏まえ、防御側の対応の緊急性を強調しました。企業におけるAIアプリケーションの増加は複雑さをもたらし、調査を受けたCiscoの顧客の85%がAIエージェントを試験運用しているものの、セキュリティチームがこれらのエージェントを管理・追跡するのに苦労しているため、実生産環境に移行したのはわずか5%にとどまっています。業界の主要プレーヤーは新しい技術やフレームワークを導入し、検出と応答能力の向上を目指していますが、エージェントの行動ベースラインを確立する上での大きなギャップが残っており、セキュリティオペレーションにおける可視性と制御の強化が求められています。",
+    "summary_en": "At the RSA Conference 2026, CrowdStrike CEO George Kurtz reported that the fastest recorded adversary breakout time has decreased to 27 seconds, emphasizing the urgency for defenders in addressing security threats that now average 29 minutes before spreading. The rise of AI applications in enterprises brings complexity, as 85% of surveyed Cisco customers are piloting AI agents, yet only 5% have moved them to production due to security teams struggling to manage and track these agents. Key industry players are introducing new technologies and frameworks to improve detection and response capabilities, but a significant gap remains in establishing baseline behaviors for agents, highlighting the need for enhanced visibility and control in security operations.",
+    "link": "https://venturebeat.com/security/rsac-2026-agentic-soc-agent-telemetry-security-gap",
     "category": "AI",
-    "publishedAt": "2026-04-01 17:46"
+    "publishedAt": "2026-04-02 19:07"
   },
   {
     "source": "VentureBeat",
-    "title": "CrowdStrike、Cisco、Palo Alto NetworksがRSAC 2026でエージェント型SOCツールを発表 - エージェントの行動基準のギャップはすべての企業に残る",
-    "title_en": "CrowdStrike, Cisco and Palo Alto Networks all shipped agentic SOC tools at RSAC 2026 — the agent behavioral baseline gap survived all three",
-    "summary": "RSAカンファレンス2026において、CrowdStrikeのCEOジョージ・カーツは、敵の突破時間が27秒に大幅に短縮されたことを指摘し、企業環境に存在するAI関連の脆弱性に対抗するためのセキュリティチームが直面する緊急の脅威状況を強調しました。調査対象の企業の85％がAIのパイロットプロジェクトを開始していますが、人間の活動とエージェントの活動を区別することや、複数のAIソリューションによって悪化したセキュリティの複雑さを管理する上での課題により、パイロットフェーズと本番フェーズの間にギャップが残っています。ClawHavocのような脅威の出現や、現在のソリューションがエージェントの行動を一貫して定義できないことは、セキュリティオペレーションセンター（SOC）における可視性の向上と積極的な対策の必要性を浮き彫りにしており、今後の数か月の意思決定がこの進化する状況に適応するために重要であることを示しています。",
-    "summary_en": "At the RSA Conference 2026, CrowdStrike CEO George Kurtz noted a significant reduction in adversary breakout time to 27 seconds, highlighting the urgent threat landscape faced by security teams who must defend against AI-related vulnerabilities now present in enterprise environments. With 85% of surveyed enterprises beginning AI pilot projects, a gap remains between pilot and production phases due to challenges in distinguishing between human and agent activities, as well as managing security complexity exacerbated by multiple AI solutions. The emergence of threats like ClawHavoc and the inability of current solutions to consistently define agent behavior underscore the need for improved visibility and proactive measures in the security operations center (SOC), as decision-making in the coming months will be crucial for adapting to this evolving landscape.",
-    "link": "https://venturebeat.com/security/rsac-2026-agentic-soc-agent-telemetry-security-gap",
+    "title": "メタ、新しい構造化プロンプティング技術によりLLMのコードレビュー精度を93%に向上",
+    "title_en": "Meta's new structured prompting technique makes LLMs significantly better at code review — boosting accuracy to 93% in some cases",
+    "summary": "メタの研究者たちは、AIエージェントがコードを実行せずにバグ検出やコードレビューなどのコーディングタスクを実行する能力を向上させる「半形式的推論」方法を提案しました。これは従来のアプローチの大きな計算コストに対応するものです。この構造化プロンプティング技術は、エージェントが実行パスに明示的に従い、論理証明を通じて推論を確認することを必要とし、コーディングタスクにおける精度の向上とエラーの減少をもたらします。この方法はより高い計算負荷をもたらすものの、時には自信を持って間違った回答を生じることがありますが、意味的コード分析の信頼性を大幅に向上させ、複雑な実行環境の必要性を軽減します。",
+    "summary_en": "Meta researchers propose a \"semi-formal reasoning\" method to enhance AI agents' ability to perform coding tasks like bug detection and code reviews without executing code, addressing the significant computational overhead of traditional approaches. This structured prompting technique requires agents to explicitly follow execution paths and confirm their reasoning through logical certificates, leading to increased accuracy and reduced errors in coding tasks. Although this method introduces higher computational demands and may sometimes yield confident but incorrect answers, it significantly improves reliability in semantic code analysis while reducing the need for complex execution environments.",
+    "link": "https://venturebeat.com/orchestration/metas-new-structured-prompting-technique-makes-llms-significantly-better-at",
     "category": "AI",
-    "publishedAt": "2026-04-01 17:46"
+    "publishedAt": "2026-04-02 19:07"
   },
   {
     "source": "NHK",
-    "title": "ガソリン価格 全国平均1リットル170.2円 2週連続値下がり",
+    "title": "【解説】トランプ大統領演説 日本経済への影響は",
     "title_en": "",
-    "summary": "レギュラーガソリンの全国平均価格が、最近の激変緩和措置の影響で値下がりしました。現在、1リットル当たり170.2円となっています。これは2週連続の減少となります。",
+    "summary": "アメリカのトランプ大統領は、イラン情勢に関する演説で主要な戦略目標がほぼ達成されていると強調しました。今後数週間は激しい攻撃を行う意向を示しつつ、イランとの協議も続けていると述べました。演説の影響が経済に及ぶ可能性についても言及されています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260401/k10015089841000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260402/k10015090461000.html",
     "category": "経済",
-    "publishedAt": "2026-04-01 17:46"
+    "publishedAt": "2026-04-02 19:07"
   },
   {
     "source": "BBC",
-    "title": "中国がイラン戦争の仲介役を果たそうとしている - それは成功するのか？",
-    "title_en": "China is trying to play peacemaker in the Iran war - will it work?",
-    "summary": "中国の最近の対応の変化は、以前の控えめな姿勢からの重大な転換を示しています。この政府の新たな取り組みは、戦略的利益に基づいているようで、影響力を強化し、国内の懸念に対処することを目的としている可能性があります。この方向転換は、地域や世界の問題へのより深い関与を強調しており、中国当局が変化する状況に合わせてアプローチを再調整していることを示唆しています。",
-    "summary_en": "China's recent shift in response marks a significant change from its previous muted stance. The government's newfound initiative appears to be driven by strategic interests, possibly to reinforce its influence and address domestic concerns. This pivot underscores a deeper engagement in regional or global affairs, suggesting that Chinese authorities are recalibrating their approach to align with evolving circumstances.",
-    "link": "https://www.bbc.com/news/articles/cze0kz7gr84o?at_medium=RSS&at_campaign=rss",
+    "title": "アルtemis II号が宇宙へ飛び立つ瞬間を見よう",
+    "title_en": "Watch the moment Artemis II blasts into space",
+    "summary": "50年ぶりの有人月面ミッションが、フロリダでの遅延や技術的な課題を乗り越え、成功裏に打ち上げられました。この宇宙船は現在、地球の軌道に到達しており、月面探査における重要なマイルストーンを迎えています。このミッションは、将来の月面およびそれ以降のミッションへの道を切り開くことを目的としています。",
+    "summary_en": "The first crewed Moon mission in 50 years successfully launched from Florida after facing delays and technical challenges. The spacecraft has now reached Earth's orbit, marking a significant milestone in lunar exploration. This mission aims to pave the way for future missions to the Moon and beyond.",
+    "link": "https://www.bbc.com/news/videos/cwydnrmggnno?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-04-01 17:46"
+    "publishedAt": "2026-04-02 19:07"
   },
   {
     "source": "NHK",
-    "title": "「核のごみ」最終処分地選定 南鳥島での文献調査 説明会開催へ",
+    "title": "「アルテミス計画」打ち上げ成功 人類 約半世紀ぶり月へ",
     "title_en": "",
-    "summary": "原子力発電による核のごみの最終処分地選定について、小笠原村が国からの申し入れに応じて南鳥島で文献調査を行う方針を示しました。村は母島と父島で住民説明会を開催し、村長の考えを伝えました。文献調査の実施判断は国に委ねる方向で調整中です。",
+    "summary": "アメリカが主導する「アルテミス計画」により、宇宙飛行士を乗せた宇宙船がフロリダ州から打ち上げられ、成功裏に月に向かう軌道に投入されました。このミッションは10日間の日程で月を周回し、地球に戻る計画です。人類が月に向かうのはアポロ計画以来、長い時間が経過してのこととなります。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260401/k10015089361000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260402/k10015090331000.html",
     "category": "その他",
-    "publishedAt": "2026-04-01 17:46"
+    "publishedAt": "2026-04-02 19:07"
   }
 ]
