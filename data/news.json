@@ -1,27 +1,33 @@
 {
-  "updatedAt": "2026-04-02T13:57:08.801Z",
+  "updatedAt": "2026-04-02T19:15:31.316Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Macron calls Trump's remarks on his marriage 'inelegant'",
-      "url": "https://www.bbc.com/news/videos/c70dxqp0q2do?at_medium=RSS&at_campaign=rss",
-      "summary": "French President Emmanuel Macron has said Donald Trump's comments about his marriage were \"neither elegant nor up to standard\"."
+      "title": "'Be serious... don't speak every day': Macron criticises Trump approach to Iran war",
+      "url": "https://www.bbc.com/news/articles/cevk0e4ykwko?at_medium=RSS&at_campaign=rss",
+      "summary": "The comments were an apparent jab at the US leader's sometimes contradictory stance on the US-Israeli war against Iran. "
     },
     {
       "source": "BBC World",
-      "title": "Man dies in storm as Saharan dust shrouds Crete",
-      "url": "https://www.bbc.com/news/articles/c070d9g5k7jo?at_medium=RSS&at_campaign=rss",
-      "summary": "A man dies in flooding near Athens as rain lashes several regions in Greece, while a Saharan dust storm enveloped Crete."
+      "title": "Iran's two largest steel plants shut down due to strikes, companies say",
+      "url": "https://www.bbc.com/news/articles/c1w4pdexxqpo?at_medium=RSS&at_campaign=rss",
+      "summary": "The strikes, which Iran says were first launched by Israel in co-ordination with the US last week, could cause major damage to the Iranian economy."
     },
     {
       "source": "BBC World",
       "title": "Brazil grants joint custody over pets in new law for separated couples",
       "url": "https://www.bbc.com/news/articles/ce8jzn180x2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Lawmakers in the Brazilian Congress on Tuesday viewed the law change as a reflection on the importance people place on their pets. \n\n"
+      "summary": "Lawmakers in the Brazilian Congress view the law change as a reflection of pets' importance for their owners."
     },
     {
       "source": "BBC Technology",
-      "title": "Elon Musk's SpaceX set to go public in $1 trillion share listing",
+      "title": "Fewer UK adults posting on social media, Ofcom finds",
+      "url": "https://www.bbc.com/news/articles/cgqk718l4neo?at_medium=RSS&at_campaign=rss",
+      "summary": "Some experts believe it highlights a social media shift as platforms boost short video."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Elon Musk's SpaceX set to be worth $1 trillion with planned public listing",
       "url": "https://www.bbc.com/news/articles/c2k35lg92dpo?at_medium=RSS&at_campaign=rss",
       "summary": "The company’s public stock debut is set to be one of the most valuable in history, and could make Musk the world's first trillionaire."
     },
@@ -32,36 +38,30 @@
       "summary": "The firm says its operations remain open but says the hack \"may result in some delays\". "
     },
     {
-      "source": "BBC Technology",
-      "title": "Claude Code users hitting usage limits 'way faster than expected'",
-      "url": "https://www.bbc.com/news/articles/ce8l2q5yq51o?at_medium=RSS&at_campaign=rss",
-      "summary": "Anthropic, the company behind the AI coding assistant, said it was fixing a problem blocking users."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "This even smaller credit card-sized e-reader has one tragic flaw",
+        "#text": "Trump fires attorney general Pam Bondi.",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/905258/xteink-x3-e-ink-reader-ebooks-hands-on",
+      "url": "https://www.theverge.com/policy/905961/pam-bondi-fired",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Google Home’s latest update makes Gemini better at understanding your commands",
+        "#text": "Five questions for the guys who made a compass that points to the Times Square Olive Garden",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/905805/google-home-gemini-temperature-controls-lighting",
+      "url": "https://www.theverge.com/gadgets/905977/five-questions-for-the-guys-who-made-a-compass-that-points-to-the-times-square-olive-garden",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "United adds TSA wait times to its mobile app",
+        "#text": "Elon Musk is about to be a very busy boy!",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/905817/united-airlines-app-ios-android-airtag-location-sharing-tsa-line",
+      "url": "https://www.theverge.com/tech/906027/elon-musk-lawsuit-ipo-spacex-tesla",
       "summary": "(要約準備中)"
     }
   ]
