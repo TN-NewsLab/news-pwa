@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-04-03T03:28:01.469Z",
+  "updatedAt": "2026-04-03T07:37:05.747Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Artemis II blasts ever closer to the far side of the Moon",
+      "url": "https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The mission's last, big push on its lunar journey takes humans out of the Earth's orbit for the first time since 1972."
+    },
     {
       "source": "BBC World",
       "title": "Trump removes US Attorney General Pam Bondi ",
@@ -12,12 +18,6 @@
       "title": "'I haven't slept for days': Iranians describe mounting desperation after a month of war",
       "url": "https://www.bbc.com/news/articles/crm1vj941x9o?at_medium=RSS&at_campaign=rss",
       "summary": "Ordinary people from various parts of Iran describe expanding strikes, economic pain and fear of repression."
-    },
-    {
-      "source": "BBC World",
-      "title": "Iran war could make beer and bottled water pricier for Indians",
-      "url": "https://www.bbc.com/news/articles/c5ywqky5dd7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Makers of plastic and glass bottles are struggling to access raw materials as the war squeezes supplies."
     },
     {
       "source": "BBC Technology",
