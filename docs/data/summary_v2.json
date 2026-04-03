@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "CrowdStrike、Cisco、Palo Alto NetworksがRSAC 2026でエージェント型SOCツールを提供 - エージェントの行動ベースラインのギャップは依然として存在",
-    "title_en": "CrowdStrike, Cisco and Palo Alto Networks all shipped agentic SOC tools at RSAC 2026 — the agent behavioral baseline gap survived all three",
-    "summary": "RSAカンファレンス2026で、CrowdStrikeのCEOジョージ・カーツ氏は、記録された最速の敵の突破時間が27秒に短縮されたことを報告し、脅威が拡散する前に現在平均29分かかることを踏まえ、防御側の対応の緊急性を強調しました。企業におけるAIアプリケーションの増加は複雑さをもたらし、調査を受けたCiscoの顧客の85%がAIエージェントを試験運用しているものの、セキュリティチームがこれらのエージェントを管理・追跡するのに苦労しているため、実生産環境に移行したのはわずか5%にとどまっています。業界の主要プレーヤーは新しい技術やフレームワークを導入し、検出と応答能力の向上を目指していますが、エージェントの行動ベースラインを確立する上での大きなギャップが残っており、セキュリティオペレーションにおける可視性と制御の強化が求められています。",
-    "summary_en": "At the RSA Conference 2026, CrowdStrike CEO George Kurtz reported that the fastest recorded adversary breakout time has decreased to 27 seconds, emphasizing the urgency for defenders in addressing security threats that now average 29 minutes before spreading. The rise of AI applications in enterprises brings complexity, as 85% of surveyed Cisco customers are piloting AI agents, yet only 5% have moved them to production due to security teams struggling to manage and track these agents. Key industry players are introducing new technologies and frameworks to improve detection and response capabilities, but a significant gap remains in establishing baseline behaviors for agents, highlighting the need for enhanced visibility and control in security operations.",
-    "link": "https://venturebeat.com/security/rsac-2026-agentic-soc-agent-telemetry-security-gap",
+    "title": "Arceeの新しいオープンソースのTrinity-Large-Thinkingは、企業がダウンロードしてカスタマイズできる稀な強力な米国製AIモデルです",
+    "title_en": "Arcee's new, open source Trinity-Large-Thinking is the rare, powerful U.S.-made AI model that enterprises can download and customize",
+    "summary": "サンフランシスコに拠点を置くラボのArceeは、最近、3990億パラメータのテキスト専用推論モデルであるAIトリニティ・ラージ・シンキングモデルをApache 2.0ライセンスのもとに発表しました。このモデルは完全なカスタマイズ性と商業利用を促進しています。このリリースは、多くの中国のラボが専有モデルに戻りつつある時期に行われており、特に重要インフラに対する中国技術への依存を懸念する企業から、米国でオープンソースの代替品への需要が高まっています。トリニティモデルは高速度推論のためにスパースアーキテクチャを設計しており、専有製品と密接に競争しており、信頼性の高い自律エージェントの開発にコスト効果的なソリューションを提供するとともに、急速に進化するAI環境において所有権と適応性を促進しています。",
+    "summary_en": "Arcee, a San Francisco-based lab, has recently launched its AI Trinity-Large-Thinking model, a 399-billion parameter text-only reasoning model under the Apache 2.0 license, promoting full customizability and commercial usage. This release comes at a time when many Chinese labs are shifting back to proprietary models, prompting demand for open source alternatives in the U.S., particularly from enterprises wary of reliance on Chinese technologies for critical infrastructure. The Trinity model, designed for high-speed reasoning through a sparse architecture, competes closely with proprietary offerings, providing a cost-effective solution for developing reliable autonomous agents while encouraging ownership and adaptability in a rapidly evolving AI landscape.",
+    "link": "https://venturebeat.com/technology/arcees-new-open-source-trinity-large-thinking-is-the-rare-powerful-u-s-made",
     "category": "AI",
-    "publishedAt": "2026-04-02 19:07"
+    "publishedAt": "2026-04-03 17:41"
   },
   {
     "source": "VentureBeat",
-    "title": "メタ、新しい構造化プロンプティング技術によりLLMのコードレビュー精度を93%に向上",
-    "title_en": "Meta's new structured prompting technique makes LLMs significantly better at code review — boosting accuracy to 93% in some cases",
-    "summary": "メタの研究者たちは、AIエージェントがコードを実行せずにバグ検出やコードレビューなどのコーディングタスクを実行する能力を向上させる「半形式的推論」方法を提案しました。これは従来のアプローチの大きな計算コストに対応するものです。この構造化プロンプティング技術は、エージェントが実行パスに明示的に従い、論理証明を通じて推論を確認することを必要とし、コーディングタスクにおける精度の向上とエラーの減少をもたらします。この方法はより高い計算負荷をもたらすものの、時には自信を持って間違った回答を生じることがありますが、意味的コード分析の信頼性を大幅に向上させ、複雑な実行環境の必要性を軽減します。",
-    "summary_en": "Meta researchers propose a \"semi-formal reasoning\" method to enhance AI agents' ability to perform coding tasks like bug detection and code reviews without executing code, addressing the significant computational overhead of traditional approaches. This structured prompting technique requires agents to explicitly follow execution paths and confirm their reasoning through logical certificates, leading to increased accuracy and reduced errors in coding tasks. Although this method introduces higher computational demands and may sometimes yield confident but incorrect answers, it significantly improves reliability in semantic code analysis while reducing the need for complex execution environments.",
-    "link": "https://venturebeat.com/orchestration/metas-new-structured-prompting-technique-makes-llms-significantly-better-at",
+    "title": "マイクロソフト、OpenAIとGoogleに対抗する3つの新しいAIモデルを発表",
+    "title_en": "Microsoft launches 3 new AI models in direct shot at OpenAI and Google",
+    "summary": "マイクロソフトは最近、音声転写用のMAI-Transcribe-1、音声生成用のMAI-Voice-1、画像生成用のMAI-Image-2という3つの最先端の基盤AIモデルを導入し、OpenAIやGoogleなどの他のテックジャイアンツとの競争において重要な一歩を踏み出しました。これらのモデルはMicrosoft Foundryを通じて利用可能であり、競争力のある価格で提供され、困難な金融環境の中で利益を求める市場の圧力に応える形で、AIの自給自足に対する同社のコミットメントを示すことを目指しています。小規模なチームが最高の結果を達成している中、マイクロソフトはAI分野での実力ある競争者としての地位を確立し、今後は独立性の確保と大規模な言語モデルの能力拡張を計画しています。",
+    "summary_en": "Microsoft recently introduced three state-of-the-art foundational AI models—MAI-Transcribe-1 for speech transcription, MAI-Voice-1 for voice generation, and MAI-Image-2 for image creation—marking a significant step in its competition against other tech giants like OpenAI and Google. These models, available through Microsoft Foundry and priced competitively, aim to showcase the company's commitment to AI self-sufficiency while addressing market pressures for profitability amid a challenging financial landscape. With small teams achieving best-in-class results, Microsoft positions itself as a viable contender in the AI space, with plans for independence and expansion of its capabilities in large language models in the future.",
+    "link": "https://venturebeat.com/technology/microsoft-launches-3-new-ai-models-in-direct-shot-at-openai-and-google",
     "category": "AI",
-    "publishedAt": "2026-04-02 19:07"
+    "publishedAt": "2026-04-03 17:42"
   },
   {
     "source": "NHK",
-    "title": "【解説】トランプ大統領演説 日本経済への影響は",
+    "title": "スーパーのコメ平均価格 5キロ 3935円 7週連続で値下がり",
     "title_en": "",
-    "summary": "アメリカのトランプ大統領は、イラン情勢に関する演説で主要な戦略目標がほぼ達成されていると強調しました。今後数週間は激しい攻撃を行う意向を示しつつ、イランとの協議も続けていると述べました。演説の影響が経済に及ぶ可能性についても言及されています。",
+    "summary": "農林水産省の報告によると、全国のスーパーでのコメの平均価格が最近、5キロあたり3935円に下がりました。これは前週比で43円の値下がりとなっています。コメの価格が下がるのは7週連続です。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260402/k10015090461000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260403/k10015091621000.html",
     "category": "経済",
-    "publishedAt": "2026-04-02 19:07"
+    "publishedAt": "2026-04-03 17:42"
   },
   {
     "source": "BBC",
-    "title": "アルテミスII号が宇宙へ飛び立つ瞬間を見よう",
-    "title_en": "Watch the moment Artemis II blasts into space",
-    "summary": "50年ぶりの有人月面ミッションが、フロリダでの遅延や技術的な課題を乗り越え、成功裏に打ち上げられました。この宇宙船は現在、地球の軌道に到達しており、月面探査における重要なマイルストーンを迎えています。このミッションは、将来の月面およびそれ以降のミッションへの道を切り開くことを目的としています。",
-    "summary_en": "The first crewed Moon mission in 50 years successfully launched from Florida after facing delays and technical challenges. The spacecraft has now reached Earth's orbit, marking a significant milestone in lunar exploration. This mission aims to pave the way for future missions to the Moon and beyond.",
-    "link": "https://www.bbc.com/news/videos/cwydnrmggnno?at_medium=RSS&at_campaign=rss",
+    "title": "アルテミスII、月の裏側へ急接近",
+    "title_en": "Artemis II blasts ever closer to the far side of the Moon",
+    "summary": "このミッションは、1972年以来初めて人類が地球の軌道を超える重要なマイルストーンを示すものであり、月探査における大きな一歩を意味しています。旅のこの最終段階は、宇宙旅行の進展を強調しており、月についての理解を深めることを目指しています。この取り組みは、研究や将来のミッションのために人類を月面に戻すことへの関心が高まっていることを示しています。",
+    "summary_en": "The mission marks a significant milestone as it takes humans beyond Earth's orbit for the first time since 1972, representing a major step in lunar exploration. This final phase of the journey highlights advancements in space travel and aims to expand our understanding of the Moon. The endeavor underscores the increasing interest in returning humans to the lunar surface for research and potential future missions.",
+    "link": "https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-04-02 19:07"
+    "publishedAt": "2026-04-03 17:42"
   },
   {
     "source": "NHK",
-    "title": "高市首相「節電や節約協力呼びかけ 排除せず 臨機応変に対応」",
+    "title": "「アルテミス計画」の宇宙船 地球回る軌道外れ 月への飛行開始",
     "title_en": "",
-    "summary": "イラン情勢を受けたエネルギーの安定供給をめぐり、衆議院本会議で野党が節電要請の可能性を質問しました。これに対し高市総理大臣は、石油は備蓄放出や代替調達で必要量を確保しており、電力もホルムズ海峡への依存度が低く安定供給に問題はないと説明しました。また、節電要請は例年、需要が増える夏と冬に行っているとしたうえで、今後も需給や価格の状況を見極めながら、柔軟に対応していく方針を示しました。",
+    "summary": "アメリカ主導のアルテミス計画の一環で、宇宙船が月への飛行を開始しました。これは、アポロ計画以来、長い間地球の軌道を外れる人類の活動です。最近の打ち上げにより、人類の月探査が再び進展しています。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/na-k10015090851000",
+    "link": "http://www3.nhk.or.jp/news/html/20260403/k10015091311000.html",
     "category": "その他",
-    "publishedAt": "2026-04-02 19:07"
+    "publishedAt": "2026-04-03 17:42"
   }
 ]
