@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-04-03T13:38:09.325Z",
+  "updatedAt": "2026-04-03T19:05:27.902Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Artemis II leaves Earth's orbit on track for far side of the Moon",
-      "url": "https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The mission's last, big push on its lunar journey takes humans out of the Earth's orbit for the first time since 1972."
+      "title": "Artemis II crew take 'spectacular' image of Earth",
+      "url": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The snap was taken aboard the Orion capsule by its commander, Reid Wiseman, as the crew head towards the Moon."
     },
     {
       "source": "BBC World",
-      "title": "Watch: Artemis II astronauts speak from space",
-      "url": "https://www.bbc.com/news/videos/crl10127elgo?at_medium=RSS&at_campaign=rss",
-      "summary": "The crew on board the Artemis II spoke by video link, sharing messages for their families and experiences of the trip so far."
+      "title": "Burkina Faso must 'forget' about democracy, military leader says",
+      "url": "https://www.bbc.com/news/articles/cly0zp1xgz3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Capt Ibrahim Traoré, who seized power in 2023, says democratic rule would not work for his country."
     },
     {
       "source": "BBC World",
-      "title": "Trump removes US Attorney General Pam Bondi ",
-      "url": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Bondi's time as top US law enforcement officer was overshadowed by her handling of the Epstein files."
+      "title": "French-owned ship passes through Strait of Hormuz",
+      "url": "https://www.bbc.com/news/articles/cjd8275jrrko?at_medium=RSS&at_campaign=rss",
+      "summary": "It appears to be the first ship owned by a major European firm to go through the strait since the conflict began."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Apple’s best product ever",
+        "#text": "The best iPad deals you can get right now",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/podcast/906548/best-apple-product-vergecast",
+      "url": "https://www.theverge.com/21280354/best-ipad-deals-apple",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Chatbots are now prescribing psychiatric drugs",
+        "#text": "Mercedes adds steer-by-wire — and a dang steering yoke — to the EQS",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/906525/ai-chatbot-prescribe-refill-psychiatric-drugs",
+      "url": "https://www.theverge.com/transportation/906539/mercedes-steer-by-wire-steering-yoke-eqs",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "AO3 is finally out of beta after 17 years",
+        "#text": "Anker&#8217;s small, five-port travel adapter is down to its best price yet",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/906346/ao3-archive-of-our-own-beta-exit",
+      "url": "https://www.theverge.com/gadgets/906392/anker-nano-travel-adapter-samsung-galaxy-watch-ultra-deal-sale",
       "summary": "(要約準備中)"
     }
   ]
