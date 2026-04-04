@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-04T03:15:56.933Z",
+  "updatedAt": "2026-04-04T07:18:06.184Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,7 +9,7 @@
     },
     {
       "source": "BBC World",
-      "title": "Artemis II crew take 'spectacular' image of Earth",
+      "title": "Artemis II crew now halfway to Moon as they take 'spectacular' image of Earth ",
       "url": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss",
       "summary": "The snap was taken aboard the Orion capsule by its commander, Reid Wiseman, as the crew head towards the Moon."
     },
@@ -40,6 +40,15 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "Anker’s Nebula P1 projector is the portable sound king",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/reviews/906455/anker-nebula-p1-review-vanlife-sound-champ",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra",
         "@_type": "html"
       },
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/science/906988/nasa-artemis-ii-microsoft-outlook-issue-fixed",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "OpenAI’s AGI boss is taking a leave of absence",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence",
       "summary": "(要約準備中)"
     }
   ]
