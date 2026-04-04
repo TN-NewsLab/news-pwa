@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-04T07:18:06.184Z",
+  "updatedAt": "2026-04-04T13:20:26.614Z",
   "top": [
     {
       "source": "BBC World",
@@ -15,7 +15,7 @@
     },
     {
       "source": "BBC World",
-      "title": "After 16 years in power, can Viktor Orban finally be unseated?",
+      "title": "After 16 years in power, could Viktor Orban finally be unseated?",
       "url": "https://www.bbc.com/news/articles/czd7y1n3jyjo?at_medium=RSS&at_campaign=rss",
       "summary": "Hungary is going to the polls in nine days - after 16 years in power, can Viktor Orban be unseated?"
     },
@@ -23,7 +23,7 @@
       "source": "BBC Technology",
       "title": "Power-washing, pool-cleaning and mowing: Why millions are playing games about mundane jobs",
       "url": "https://www.bbc.com/news/articles/cj60r2kdnw1o?at_medium=RSS&at_campaign=rss",
-      "summary": "PowerWash Simulator 2 has been nominated for two Bafta Games Awards - but why have mundane job games become so popular?"
+      "summary": "It's been nominated for two Bafta Games Awards - but why have mundane job games like PowerWash Simulator 2 become so popular?"
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Anker’s Nebula P1 projector is the portable sound king",
+        "#text": "Really, you made this without AI? Prove it",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/reviews/906455/anker-nebula-p1-review-vanlife-sound-champ",
+      "url": "https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra",
+        "#text": "Super Meat Boy 3D makes suffering fun",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban",
+      "url": "https://www.theverge.com/games/904202/super-meat-boy-3d-review",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "NASA did eventually solve Artemis II&#8217;s Outlook glitch",
+        "#text": "The app for tracking TV, movies, podcasts, and everything",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/science/906988/nasa-artemis-ii-microsoft-outlook-issue-fixed",
+      "url": "https://www.theverge.com/tech/906873/sofa-app-track-tv-movies-installer",
       "summary": "(要約準備中)"
     }
   ]
