@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-04-03T19:05:27.902Z",
+  "updatedAt": "2026-04-04T03:15:56.933Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Rescue team in Iran face 'harrowing and dangerous' search for US crew member",
+      "url": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss",
+      "summary": "A former US marine tells the BBC the priority of any recovery team would be to look for signs of life."
+    },
     {
       "source": "BBC World",
       "title": "Artemis II crew take 'spectacular' image of Earth",
@@ -9,15 +15,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Burkina Faso must 'forget' about democracy, military leader says",
-      "url": "https://www.bbc.com/news/articles/cly0zp1xgz3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Capt Ibrahim Traoré, who seized power in 2023, says democratic rule would not work for his country."
+      "title": "After 16 years in power, can Viktor Orban finally be unseated?",
+      "url": "https://www.bbc.com/news/articles/czd7y1n3jyjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Hungary is going to the polls in nine days - after 16 years in power, can Viktor Orban be unseated?"
     },
     {
-      "source": "BBC World",
-      "title": "French-owned ship passes through Strait of Hormuz",
-      "url": "https://www.bbc.com/news/articles/cjd8275jrrko?at_medium=RSS&at_campaign=rss",
-      "summary": "It appears to be the first ship owned by a major European firm to go through the strait since the conflict began."
+      "source": "BBC Technology",
+      "title": "Power-washing, pool-cleaning and mowing: Why millions are playing games about mundane jobs",
+      "url": "https://www.bbc.com/news/articles/cj60r2kdnw1o?at_medium=RSS&at_campaign=rss",
+      "summary": "PowerWash Simulator 2 has been nominated for two Bafta Games Awards - but why have mundane job games become so popular?"
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "The company’s public stock debut is set to be one of the most valuable in history, and could make Musk the world's first trillionaire."
     },
     {
-      "source": "BBC Technology",
-      "title": "Peppa Pig and Transformers owner Hasbro hit by cyber-attack",
-      "url": "https://www.bbc.com/news/articles/cx24e1nryn9o?at_medium=RSS&at_campaign=rss",
-      "summary": "The firm says its operations remain open but says the hack \"may result in some delays\". "
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "The best iPad deals you can get right now",
+        "#text": "Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/21280354/best-ipad-deals-apple",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Mercedes adds steer-by-wire — and a dang steering yoke — to the EQS",
+        "#text": "NASA did eventually solve Artemis II&#8217;s Outlook glitch",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/transportation/906539/mercedes-steer-by-wire-steering-yoke-eqs",
+      "url": "https://www.theverge.com/science/906988/nasa-artemis-ii-microsoft-outlook-issue-fixed",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Anker&#8217;s small, five-port travel adapter is down to its best price yet",
+        "#text": "OpenAI’s AGI boss is taking a leave of absence",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/906392/anker-nano-travel-adapter-samsung-galaxy-watch-ultra-deal-sale",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence",
       "summary": "(要約準備中)"
     }
   ]
