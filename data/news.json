@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-04-05T13:30:23.971Z",
+  "updatedAt": "2026-04-05T19:03:34.072Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "What we know so far about rescue of US airman in Iran",
+      "title": "Seriously wounded US airman rescued from Iran, Trump says ",
+      "url": "https://www.bbc.com/news/articles/cr41evk126go?at_medium=RSS&at_campaign=rss",
+      "summary": "The recovery of the airman follows separate search efforts by both the US and Iran. "
+    },
+    {
+      "source": "BBC World",
+      "title": "How downed F-15 US airman was rescued inside Iran",
       "url": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss",
       "summary": "The US has rescued the missing crew member of the US F-15 fighter jet which was shot down over southern Iran. "
     },
     {
       "source": "BBC World",
-      "title": "Man charged over fatal shooting of baby in pram in New York",
-      "url": "https://www.bbc.com/news/articles/cx267dnex7ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Two men have been arrested over the shooting of a seven-month-old baby in Williamsburg. "
-    },
-    {
-      "source": "BBC World",
-      "title": "US says it has arrested relatives of late Iranian ​general Qasem ​Soleimani",
-      "url": "https://www.bbc.com/news/articles/cgqkn4j48qdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The niece and grand-niece of Qasem Soleimani are in the custody of US Immigration and Customs Enforcement, officials said. "
+      "title": "Hungary alleges plot to blow up gas pipeline ahead of election",
+      "url": "https://www.bbc.com/news/articles/cj60x206dx1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The incident comes a week before the polls, and follow warnings of a potential operations staged to influence voters."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Is the Slate Truck too minimal for its own good?",
+        "#text": "Los Thuthanaka’s Wak&#8217;a is a mellower follow-up to last year’s surprise Pitchfork favorite",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/transportation/905947/slate-truck-ev-minimal-range-size-interior-design",
+      "url": "https://www.theverge.com/entertainment/907174/los-thuthanaka-waka-review",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "How the Amazon Echo learned to talk — and listen",
+        "#text": "Suno is a music copyright nightmare",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/podcast/907146/amazon-echo-alexa-version-history",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Grammarly’s sloppelganger saga",
+        "#text": "I let Gemini in Google Maps plan my day and it went surprisingly well",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/column/906606/grammarly-expert-review-ai-saga",
+      "url": "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on",
       "summary": "(要約準備中)"
     }
   ]
