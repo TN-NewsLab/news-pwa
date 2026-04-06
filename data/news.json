@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-06T08:01:54.438Z",
+  "updatedAt": "2026-04-06T13:46:25.695Z",
   "top": [
     {
       "source": "BBC World",
@@ -15,9 +15,9 @@
     },
     {
       "source": "BBC World",
-      "title": "Hungary alleges plot to blow up gas pipeline ahead of election",
-      "url": "https://www.bbc.com/news/articles/cj60x206dx1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The incident comes a week before the polls, and follow warnings of a potential operations staged to influence voters."
+      "title": "'Really feeling the love' - Savannah Guthrie returns to NBC as search for mother goes on",
+      "url": "https://www.bbc.com/news/articles/c04xqglg7xgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Nancy Guthrie disappeared from her home in Tucson, Arizona, in what authorities believe was an abduction."
     },
     {
       "source": "BBC Technology",
@@ -40,6 +40,15 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "Can AI responses be influenced? The SEO industry is trying",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/tech/900302/ai-seo-industry-google-search-chatgpt-gemini-marketing",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "Los Thuthanaka’s Wak&#8217;a is a mellower follow-up to last year’s surprise Pitchfork favorite",
         "@_type": "html"
       },
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "I let Gemini in Google Maps plan my day and it went surprisingly well",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on",
       "summary": "(要約準備中)"
     }
   ]
