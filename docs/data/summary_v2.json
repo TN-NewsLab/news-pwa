@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "Arceeの新しいオープンソースのTrinity-Large-Thinkingは、企業がダウンロードしてカスタマイズできる稀な強力な米国製AIモデルです",
-    "title_en": "Arcee's new, open source Trinity-Large-Thinking is the rare, powerful U.S.-made AI model that enterprises can download and customize",
-    "summary": "サンフランシスコに拠点を置くラボのArceeは、最近、3990億パラメータのテキスト専用推論モデルであるAIトリニティ・ラージ・シンキングモデルをApache 2.0ライセンスのもとに発表しました。このモデルは完全なカスタマイズ性と商業利用を促進しています。このリリースは、多くの中国のラボが専有モデルに戻りつつある時期に行われており、特に重要インフラに対する中国技術への依存を懸念する企業から、米国でオープンソースの代替品への需要が高まっています。トリニティモデルは高速度推論のためにスパースアーキテクチャを設計しており、専有製品と密接に競争しており、信頼性の高い自律エージェントの開発にコスト効果的なソリューションを提供するとともに、急速に進化するAI環境において所有権と適応性を促進しています。",
-    "summary_en": "Arcee, a San Francisco-based lab, has recently launched its AI Trinity-Large-Thinking model, a 399-billion parameter text-only reasoning model under the Apache 2.0 license, promoting full customizability and commercial usage. This release comes at a time when many Chinese labs are shifting back to proprietary models, prompting demand for open source alternatives in the U.S., particularly from enterprises wary of reliance on Chinese technologies for critical infrastructure. The Trinity model, designed for high-speed reasoning through a sparse architecture, competes closely with proprietary offerings, providing a cost-effective solution for developing reliable autonomous agents while encouraging ownership and adaptability in a rapidly evolving AI landscape.",
-    "link": "https://venturebeat.com/technology/arcees-new-open-source-trinity-large-thinking-is-the-rare-powerful-u-s-made",
+    "title": "OCSFの解説：セキュリティチームが求めていた共有データ言語",
+    "title_en": "OCSF explained: The shared data language security teams have been missing",
+    "summary": "オープンサイバーセキュリティスキーマフレームワーク（OCSF）は、セキュリティ業界において重要な標準として浮上しており、さまざまなプラットフォームでのセキュリティデータを統一的に表現する方法を提供し、セキュリティイベントの検出と関連付けを円滑化しています。異なるセキュリティツールの統合の複雑さを軽減し、アナリスト間で一貫した言語を促進することによって、OCSFは特にAI技術の影響を受ける環境において、運用効率を向上させます。このフレームワークは急速に普及し、初期の小規模な取り組みから200以上の参加組織に拡大し、今日のデジタル環境における効果的なサイバーセキュリティ管理に欠かせないものとして確立されています。",
+    "summary_en": "The Open Cybersecurity Schema Framework (OCSF) has emerged as a pivotal standard within the security industry, providing a unified way to represent security data across various platforms, thereby streamlining the detection and correlation of security events. By reducing the complexities of integrating disparate security tools and facilitating consistent language among analysts, OCSF enhances operational efficiency, particularly in environments increasingly influenced by AI technologies. This framework has quickly gained traction, expanding from a small initiative to over 200 participating organizations, establishing itself as essential for effective cybersecurity management in today's digital landscape.",
+    "link": "https://venturebeat.com/security/ocsf-explained-the-shared-data-language-security-teams-have-been-missing",
     "category": "AI",
-    "publishedAt": "2026-04-03 17:41"
+    "publishedAt": "2026-04-06 16:32"
   },
   {
     "source": "VentureBeat",
-    "title": "マイクロソフト、OpenAIとGoogleに対抗する3つの新しいAIモデルを発表",
-    "title_en": "Microsoft launches 3 new AI models in direct shot at OpenAI and Google",
-    "summary": "マイクロソフトは最近、音声転写用のMAI-Transcribe-1、音声生成用のMAI-Voice-1、画像生成用のMAI-Image-2という3つの最先端の基盤AIモデルを導入し、OpenAIやGoogleなどの他のテックジャイアンツとの競争において重要な一歩を踏み出しました。これらのモデルはMicrosoft Foundryを通じて利用可能であり、競争力のある価格で提供され、困難な金融環境の中で利益を求める市場の圧力に応える形で、AIの自給自足に対する同社のコミットメントを示すことを目指しています。小規模なチームが最高の結果を達成している中、マイクロソフトはAI分野での実力ある競争者としての地位を確立し、今後は独立性の確保と大規模な言語モデルの能力拡張を計画しています。",
-    "summary_en": "Microsoft recently introduced three state-of-the-art foundational AI models—MAI-Transcribe-1 for speech transcription, MAI-Voice-1 for voice generation, and MAI-Image-2 for image creation—marking a significant step in its competition against other tech giants like OpenAI and Google. These models, available through Microsoft Foundry and priced competitively, aim to showcase the company's commitment to AI self-sufficiency while addressing market pressures for profitability amid a challenging financial landscape. With small teams achieving best-in-class results, Microsoft positions itself as a viable contender in the AI space, with plans for independence and expansion of its capabilities in large language models in the future.",
-    "link": "https://venturebeat.com/technology/microsoft-launches-3-new-ai-models-in-direct-shot-at-openai-and-google",
+    "title": "クロード、オープンクローと新たな現実：AIエージェントが登場し、混乱も訪れる",
+    "title_en": "Claude, OpenClaw and the new reality: AI agents are here — and so is the chaos",
+    "summary": "オープンクローやクロードコーワークのようなエージェントAIの台頭は、雇用の安全性や人工一般知能（AGI）に到達する際の潜在的リスクについての議論を引き起こしています。オープンクローはシステムへの深いアクセスを持つロボットアシスタントのように機能し、クロードコーワークは法律サービスなど、特定の業界内での複雑なタスクの自動化を専門としています。これらの技術の利点を最大化するためには、責任あるAIの原則、すなわち説明責任と透明性、そして倫理的で安全な相互作用を確保するための共有オントロジーの確立が重要です。",
+    "summary_en": "The rise of agentic AI, marked by tools like OpenClaw and Claude Cowork, is igniting discussions about job security and the potential risks of reaching artificial general intelligence (AGI). OpenClaw operates like a robot assistant with deep access to systems, while Claude Cowork specializes in automating complex tasks within specific industries, such as legal services. To maximize the benefits of these technologies, establishing responsible AI principles is crucial, including accountability and transparency, as well as a shared ontology to ensure ethical and safe interactions in a rapidly evolving landscape.",
+    "link": "https://venturebeat.com/technology/claude-openclaw-and-the-new-reality-ai-agents-are-here-and-so-is-the-chaos",
     "category": "AI",
-    "publishedAt": "2026-04-03 17:42"
+    "publishedAt": "2026-04-06 16:32"
   },
   {
     "source": "NHK",
-    "title": "スーパーのコメ平均価格 5キロ 3935円 7週連続で値下がり",
+    "title": "マツダ 中東に輸出する車の生産停止 欧州向けなどは生産増へ",
     "title_en": "",
-    "summary": "農林水産省の報告によると、全国のスーパーでのコメの平均価格が最近、5キロあたり3935円に下がりました。これは前週比で43円の値下がりとなっています。コメの価格が下がるのは7週連続です。",
+    "summary": "イラン情勢の緊迫化により、マツダは中東向け車両の生産を停止しました。ホルムズ海峡の封鎖が続いているためです。なお、ヨーロッパ向けの生産は増加する計画があり、全体の生産台数には影響しないとしています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260403/k10015091621000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260406/k10015093221000.html",
     "category": "経済",
-    "publishedAt": "2026-04-03 17:42"
+    "publishedAt": "2026-04-06 16:32"
   },
   {
     "source": "BBC",
-    "title": "アルテミスII、月の裏側へ急接近",
-    "title_en": "Artemis II blasts ever closer to the far side of the Moon",
-    "summary": "このミッションは、1972年以来初めて人類が地球の軌道を超える重要なマイルストーンを示すものであり、月探査における大きな一歩を意味しています。旅のこの最終段階は、宇宙旅行の進展を強調しており、月についての理解を深めることを目指しています。この取り組みは、研究や将来のミッションのために人類を月面に戻すことへの関心が高まっていることを示しています。",
-    "summary_en": "The mission marks a significant milestone as it takes humans beyond Earth's orbit for the first time since 1972, representing a major step in lunar exploration. This final phase of the journey highlights advancements in space travel and aims to expand our understanding of the Moon. The endeavor underscores the increasing interest in returning humans to the lunar surface for research and potential future missions.",
-    "link": "https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&at_campaign=rss",
+    "title": "イランの遠隔地での米空軍人救出の経緯",
+    "title_en": "How rescue of US airman in remote part of Iran unfolded",
+    "summary": "敵対的な地域からの救出作戦は非常に複雑であり、複数の米国政府機関の調整が必要でした。ミッションの複雑さは、このような危険な環境での作業の難しさを際立たせました。最終的には、成功を収めるために広範な計画と協力が必要でした。",
+    "summary_en": "The extraction operation to rescue him from hostile territory was highly intricate and required the coordination of several U.S. government agencies. The complexities of the mission underscored the challenges of operating in such dangerous environments. Ultimately, it involved extensive planning and collaboration to ensure a successful outcome.",
+    "link": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-04-03 17:42"
+    "publishedAt": "2026-04-06 16:32"
   },
   {
     "source": "NHK",
-    "title": "イラン情勢 自民「石油製品や燃料安定供給 国民へ情報提供を」",
+    "title": "福島第二原発1号機 燃料プール冷却停止 “直ちに問題起きず”",
     "title_en": "",
-    "summary": "イラン情勢を受け、自民党は合同会議を開き、関係省庁から燃料供給や国民生活への影響について報告を受けました。医療用資材の不足懸念や軽油に関する相談窓口の設置、農業・漁業向けの支援策などが示されました。議員からはサプライチェーンの把握と安定供給の確保、国民への適切な情報提供を求める声が相次ぎました。小林政調会長は、物資確保とともに国民が安心して生活できるようなリスクコミュニケーションの重要性を強調しました。",
+    "summary": "東京電力は、福島第二原発1号機でポンプ故障により使用済み核燃料の冷却を停止したと発表しました。燃料プールの水温は低く、上限温度に達するまでの余裕があるとしています。冷却の再開に向けて、ポンプの復旧作業を急いでいます。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/na-k10015091611000",
+    "link": "http://www3.nhk.or.jp/news/html/20260405/k10015092741000.html",
     "category": "その他",
-    "publishedAt": "2026-04-03 17:42"
+    "publishedAt": "2026-04-06 16:32"
   }
 ]
