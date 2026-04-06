@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-04-06T13:46:25.695Z",
+  "updatedAt": "2026-04-06T19:19:46.710Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "'We're sinking deeper': Iranians brace for infrastructure strikes as Trump deadline nears",
+      "url": "https://www.bbc.com/news/articles/cvgl0ng8z0do?at_medium=RSS&at_campaign=rss",
+      "summary": "Ordinary Iranians respond to the US president's threat to destroy Iran's power plants and bridges unless it opens the Strait of Hormuz."
+    },
     {
       "source": "BBC World",
       "title": "How rescue of US airman in remote part of Iran unfolded",
       "url": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss",
       "summary": "The operation to extract him from the ground in hostile territory was hugely complex and involved multiple US government agencies. "
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump declares victory after rescue but threats to US operation in Iran still loom",
-      "url": "https://www.bbc.com/news/articles/cy01vg7x5ppo?at_medium=RSS&at_campaign=rss",
-      "summary": "The rescue could impact how Trump views a ground operation to take Kharg Island or to seize enriched uranium sites."
     },
     {
       "source": "BBC World",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Can AI responses be influenced? The SEO industry is trying",
+        "#text": "The best deals on MacBooks right now",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/900302/ai-seo-industry-google-search-chatgpt-gemini-marketing",
+      "url": "https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Los Thuthanaka’s Wak&#8217;a is a mellower follow-up to last year’s surprise Pitchfork favorite",
+        "#text": "DJI’s Mic Mini records clear audio on the go, and it&#8217;s on sale for $60",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/907174/los-thuthanaka-waka-review",
+      "url": "https://www.theverge.com/gadgets/907582/dji-mic-mini-two-transmitters-deal-sale",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Suno is a music copyright nightmare",
+        "#text": "Robotaxi companies won’t say how often remote operators intervene",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers",
+      "url": "https://www.theverge.com/transportation/907478/robotaxi-remote-assistance-markey-investigation-waymo-tesla",
       "summary": "(要約準備中)"
     }
   ]
