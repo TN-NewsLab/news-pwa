@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "OCSFの解説：セキュリティチームが求めていた共有データ言語",
-    "title_en": "OCSF explained: The shared data language security teams have been missing",
-    "summary": "オープンサイバーセキュリティスキーマフレームワーク（OCSF）は、セキュリティ業界において重要な標準として浮上しており、さまざまなプラットフォームでのセキュリティデータを統一的に表現する方法を提供し、セキュリティイベントの検出と関連付けを円滑化しています。異なるセキュリティツールの統合の複雑さを軽減し、アナリスト間で一貫した言語を促進することによって、OCSFは特にAI技術の影響を受ける環境において、運用効率を向上させます。このフレームワークは急速に普及し、初期の小規模な取り組みから200以上の参加組織に拡大し、今日のデジタル環境における効果的なサイバーセキュリティ管理に欠かせないものとして確立されています。",
-    "summary_en": "The Open Cybersecurity Schema Framework (OCSF) has emerged as a pivotal standard within the security industry, providing a unified way to represent security data across various platforms, thereby streamlining the detection and correlation of security events. By reducing the complexities of integrating disparate security tools and facilitating consistent language among analysts, OCSF enhances operational efficiency, particularly in environments increasingly influenced by AI technologies. This framework has quickly gained traction, expanding from a small initiative to over 200 participating organizations, establishing itself as essential for effective cybersecurity management in today's digital landscape.",
-    "link": "https://venturebeat.com/security/ocsf-explained-the-shared-data-language-security-teams-have-been-missing",
+    "title": "ソフトウェアの問題を自動的に予防、検出、修正するAIエージェントが登場：NeuBird AIがFalconとFalconClawを発表",
+    "title_en": "AI agents that automatically prevent, detect and fix software issues are here as NeuBird AI launches Falcon, FalconClaw",
+    "summary": "企業のインフラ管理改善に注力するスタートアップ、NeuBird AIは、ハイブリッドクラウドやマイクロサービスの複雑化に対処するため、新たにFalconという自律型運用エージェントを発表しました。このプロジェクトは1,930万ドルの資金調達を支えにしています。NeuBird AIは、反応的な「インシデントレスポンス」から、積極的な「インシデント回避」へのシフトを提唱し、AIを活用して故障を予測・防止することで、エンジニアリングの時間を大幅に節約し、運用の混乱を減少させることを目指しています。高度なコンテキストマップや運用の専門知識をキャプチャするためのFalconClawなどの機能を通じて、NeuBird AIは経営層の理解とエンジニアの現実とのギャップを埋め、より効率的で自己修復可能なインフラの促進を目指しています。",
+    "summary_en": "NeuBird AI, a startup focused on improving enterprise infrastructure management, is addressing the increasing complexities of hybrid clouds and microservices with its new Falcon autonomous production operations agent, backed by a $19.3 million funding round. The company advocates for a shift from reactive \"incident response\" to proactive \"incident avoidance,\" utilizing AI to predict and prevent failures, which can save significant engineering time and reduce operational chaos. With features like Advanced Context Map and FalconClaw for capturing operational expertise, NeuBird AI aims to bridge the gap between executive understanding and engineers' reality, ultimately promoting a more efficient, self-healing infrastructure.",
+    "link": "https://venturebeat.com/security/ai-agents-that-automatically-prevent-detect-and-fix-software-issues-are-here",
     "category": "AI",
-    "publishedAt": "2026-04-06 16:32"
+    "publishedAt": "2026-04-07 17:46"
   },
   {
     "source": "VentureBeat",
-    "title": "クロード、オープンクローと新たな現実：AIエージェントが登場し、混乱も訪れる",
-    "title_en": "Claude, OpenClaw and the new reality: AI agents are here — and so is the chaos",
-    "summary": "オープンクローやクロードコーワークのようなエージェントAIの台頭は、雇用の安全性や人工一般知能（AGI）に到達する際の潜在的リスクについての議論を引き起こしています。オープンクローはシステムへの深いアクセスを持つロボットアシスタントのように機能し、クロードコーワークは法律サービスなど、特定の業界内での複雑なタスクの自動化を専門としています。これらの技術の利点を最大化するためには、責任あるAIの原則、すなわち説明責任と透明性、そして倫理的で安全な相互作用を確保するための共有オントロジーの確立が重要です。",
-    "summary_en": "The rise of agentic AI, marked by tools like OpenClaw and Claude Cowork, is igniting discussions about job security and the potential risks of reaching artificial general intelligence (AGI). OpenClaw operates like a robot assistant with deep access to systems, while Claude Cowork specializes in automating complex tasks within specific industries, such as legal services. To maximize the benefits of these technologies, establishing responsible AI principles is crucial, including accountability and transparency, as well as a shared ontology to ensure ethical and safe interactions in a rapidly evolving landscape.",
-    "link": "https://venturebeat.com/technology/claude-openclaw-and-the-new-reality-ai-agents-are-here-and-so-is-the-chaos",
+    "title": "OCSFの解説：セキュリティチームが欠いていた共有データ言語",
+    "title_en": "OCSF explained: The shared data language security teams have been missing",
+    "summary": "オープンサイバーセキュリティスキーマフレームワーク（OCSF）は、セキュリティデータを標準化された方法で表現する手段として、セキュリティ業界で注目を集めています。これにより、ベンダー、企業、セキュリティ専門家は脅威の検出と分析について効果的にコミュニケーションを取り、協力することが可能になります。200以上の参加組織と主要な業界プレイヤーからの継続的な支持により、OCSFは多様なセキュリティデータソースの統合を簡素化し、さまざまなツールやプラットフォーム間で情報を正規化する際の複雑さを低減します。AI技術がサイバーセキュリティの課題やテレメトリーにますます寄与する中で、OCSFはセキュリティイベントの調整を強化し、現代のセキュリティ運用において価値のある資産となることが期待されています。",
+    "summary_en": "The Open Cybersecurity Schema Framework (OCSF) is gaining traction in the security industry as a standardized way to represent security data, allowing vendors, enterprises, and security professionals to effectively communicate and collaborate on threat detection and analysis. With over 200 participating organizations and ongoing support from major industry players, OCSF simplifies the integration of diverse security data sources and reduces the complexities involved in normalizing information across various tools and platforms. As AI technologies increasingly contribute to cybersecurity challenges and telemetry, OCSF is positioned to enhance the coordination of security events, making it a valuable asset in modern security operations.",
+    "link": "https://venturebeat.com/security/ocsf-explained-the-shared-data-language-security-teams-have-been-missing",
     "category": "AI",
-    "publishedAt": "2026-04-06 16:32"
+    "publishedAt": "2026-04-07 17:46"
   },
   {
     "source": "NHK",
-    "title": "マツダ 中東に輸出する車の生産停止 欧州向けなどは生産増へ",
+    "title": "コメの生産などにかかるコストは5キロ2800円余 試算まとまる",
     "title_en": "",
-    "summary": "イラン情勢の緊迫化により、マツダは中東向け車両の生産を停止しました。ホルムズ海峡の封鎖が続いているためです。なお、ヨーロッパ向けの生産は増加する計画があり、全体の生産台数には影響しないとしています。",
+    "summary": "コメの生産や流通にかかるコストが5キロ当たり2800円余りと試算されました。これを受けて、生産者や小売業者は販売価格を検討する見込みです。今後の価格動向が注目されています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260406/k10015093221000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260407/k10015094121000.html",
     "category": "経済",
-    "publishedAt": "2026-04-06 16:32"
+    "publishedAt": "2026-04-07 17:46"
   },
   {
     "source": "BBC",
-    "title": "イランの遠隔地での米空軍人救出の経緯",
-    "title_en": "How rescue of US airman in remote part of Iran unfolded",
-    "summary": "敵対的な地域からの救出作戦は非常に複雑であり、複数の米国政府機関の調整が必要でした。ミッションの複雑さは、このような危険な環境での作業の難しさを際立たせました。最終的には、成功を収めるために広範な計画と協力が必要でした。",
-    "summary_en": "The extraction operation to rescue him from hostile territory was highly intricate and required the coordination of several U.S. government agencies. The complexities of the mission underscored the challenges of operating in such dangerous environments. Ultimately, it involved extensive planning and collaboration to ensure a successful outcome.",
-    "link": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss",
+    "title": "トランプ大統領のイラン締切が近づく中、進展の兆しは見えず",
+    "title_en": "Little sign of breakthrough as Trump's Iran deadline nears",
+    "summary": "イランがホルムズ海峡を再開する期限が近づく中、アメリカ大統領は厳しい政治状況に直面しています。緊張が高まり、政権は複雑な外交および安全保障上の考慮事項を調整しなければなりません。この状況は、アメリカとイランの関係だけでなく、世界の石油市場や地域の安定性にも影響を与えています。",
+    "summary_en": "The U.S. president faces a challenging political scenario as the deadline approaches for Iran to reopen the Strait of Hormuz. Tensions are escalating, and the administration must navigate complex diplomatic and security considerations. The situation impacts not only U.S.-Iran relations but also global oil markets and regional stability.",
+    "link": "https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-04-06 16:32"
+    "publishedAt": "2026-04-07 17:46"
   },
   {
     "source": "NHK",
-    "title": "福島第二原発1号機 燃料プール冷却停止 “直ちに問題起きず”",
+    "title": "人類が地球から最も離れた距離に到達 56年ぶり記録更新",
     "title_en": "",
-    "summary": "東京電力は、福島第二原発1号機でポンプ故障により使用済み核燃料の冷却を停止したと発表しました。燃料プールの水温は低く、上限温度に達するまでの余裕があるとしています。冷却の再開に向けて、ポンプの復旧作業を急いでいます。",
+    "summary": "アメリカの「アルテミス計画」により、宇宙飛行士を乗せた宇宙船が月の裏側を飛行しました。これにより、半世紀以上前のアポロ計画の記録を更新しました。人類は地球から最も離れた距離に達したことになります。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260405/k10015092741000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260407/k10015093711000.html",
     "category": "その他",
-    "publishedAt": "2026-04-06 16:32"
+    "publishedAt": "2026-04-07 17:46"
   }
 ]
