@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2026-04-07T07:49:24.971Z",
+  "updatedAt": "2026-04-07T14:00:48.647Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Little sign of breakthrough as Trump's Iran deadline nears ",
-      "url": "https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president is in a delicate political position as the final hours to Tuesday's deadline for Iran to open the Strait of Hormuz tick down."
+      "title": "Earthset and a solar eclipse: Nasa releases first images from Moon fly-by",
+      "url": "https://www.bbc.com/news/articles/cyv183v02j3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The first two images show an 'Earthrise' and the solar eclipse the astronauts viewed."
     },
     {
       "source": "BBC World",
-      "title": "JD Vance due in Hungary to back Orban's re-election bid",
+      "title": "JD Vance arrives in Hungary to back Orbán's re-election bid",
       "url": "https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&at_campaign=rss",
       "summary": "The US vice-president's visit is the latest show of White House support for the Hungarian leader."
     },
     {
       "source": "BBC World",
-      "title": "Taiwan opposition leader visits China for expected meeting with Xi Jinping",
-      "url": "https://www.bbc.com/news/articles/c0krnz7mmmjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Cheng Li-wun said she \"gladly accepted\" Xi Jinping's invitation and hopes to be a \"bridge for peace\"."
+      "title": "Chilean woman accused of Pinochet-era kidnaps loses Australia extradition battle",
+      "url": "https://www.bbc.com/news/articles/c8r40d4xdngo?at_medium=RSS&at_campaign=rss",
+      "summary": "Adriana Rivas moved from Chile to Australia in the 1970s, working there as a nanny and cleaner."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "OpenAI encourages firms to trial four-day weeks to adapt to AI era",
+      "url": "https://www.bbc.com/news/articles/c8x71ejrp92o?at_medium=RSS&at_campaign=rss",
+      "summary": "The ChatGPT-maker said its early policy ideas aim to prompt discussions about action needed as AI systems become more capable."
     },
     {
       "source": "BBC Technology",
@@ -27,41 +33,35 @@
     },
     {
       "source": "BBC Technology",
-      "title": "How China fell for a lobster: What an AI assistant tells us about Beijing's ambition",
-      "url": "https://www.bbc.com/news/articles/cy41n17e23go?at_medium=RSS&at_campaign=rss",
-      "summary": "The AI agent sparked a frenzy of \"raising lobsters\" in March, with users training the tool to suit their needs."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Apple at 50: Three products that changed how we live - and three that really didn't",
-      "url": "https://www.bbc.com/news/articles/ckgxdn9lyd2o?at_medium=RSS&at_campaign=rss",
-      "summary": "On the tech giant's 50th year, we ask analysts to give their top three Apple successes and misses"
+      "title": "China is winning one AI race, the US another - but either might pull ahead",
+      "url": "https://www.bbc.com/news/articles/c145enxln0go?at_medium=RSS&at_campaign=rss",
+      "summary": "Both sides don't want to let their rival dominate. And the competition may yet be transformed further."
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Wisconsin governor says ‘no’ to age checks for porn",
+        "#text": "Asus’ lightweight 16-inch laptop is a formidable MacBook Air alternative",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/907761/wisconsin-governor-porn-age-verification-vetoed",
+      "url": "https://www.theverge.com/tech/907864/asus-zenbook-a16-snapdragon-x2-elite-extreme-review",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Artemis II astronauts break a record, name a crater",
+        "#text": "Apple’s sci-fi thriller Dark Matter is back in August",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/science/907682/nasa-artemis-ii-distance-record-crater-names",
+      "url": "https://www.theverge.com/streaming/907885/dark-matter-season-2-date-apple-tv",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The best deals on MacBooks right now",
+        "#text": "Sorry kid, drones are for war now",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals",
+      "url": "https://www.theverge.com/news/906306/fcc-drone-ban-who-will-replace-dji-in-us-antigravity-hoverair-skydio",
       "summary": "(要約準備中)"
     }
   ]
