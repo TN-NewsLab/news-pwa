@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2026-04-07T14:00:48.647Z",
+  "updatedAt": "2026-04-07T19:31:52.381Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Earthset and a solar eclipse: Nasa releases first images from Moon fly-by",
-      "url": "https://www.bbc.com/news/articles/cyv183v02j3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The first two images show an 'Earthrise' and the solar eclipse the astronauts viewed."
+      "title": "Tracking recent US-Israeli strikes on Iranian infrastructure",
+      "url": "https://www.bbc.com/news/articles/cx2w0v19gw8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Attacks have targeted bridges, steel plants and pharmaceutical facilities, verified videos show."
     },
     {
       "source": "BBC World",
-      "title": "JD Vance arrives in Hungary to back Orbán's re-election bid",
-      "url": "https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US vice-president's visit is the latest show of White House support for the Hungarian leader."
+      "title": "Wireless Festival cancelled after Kanye West blocked from coming to UK",
+      "url": "https://www.bbc.com/news/articles/c4gxk3kxjr0o?at_medium=RSS&at_campaign=rss",
+      "summary": "West was due to headline the festival in July but drew criticism over past antisemitic comments."
     },
     {
       "source": "BBC World",
-      "title": "Chilean woman accused of Pinochet-era kidnaps loses Australia extradition battle",
-      "url": "https://www.bbc.com/news/articles/c8r40d4xdngo?at_medium=RSS&at_campaign=rss",
-      "summary": "Adriana Rivas moved from Chile to Australia in the 1970s, working there as a nanny and cleaner."
+      "title": "Has Artemis II shown we can land on the Moon again?",
+      "url": "https://www.bbc.com/news/articles/cj60nkd8nrko?at_medium=RSS&at_campaign=rss",
+      "summary": "The Artemis II mission has been near flawless to date, but has the test flight shown Nasa is ready to send humans to the lunar surface?"
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Ex-Meta worker investigated for downloading 30,000 private Facebook photos",
+      "url": "https://www.bbc.com/news/articles/cvg049xz1ygo?at_medium=RSS&at_campaign=rss",
+      "summary": "The former employee was fired from Meta after being suspected of downloading 30,000 photos, the company said."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "Firms are changing the way they present information on their websites, so they get noticed by AI."
     },
     {
-      "source": "BBC Technology",
-      "title": "China is winning one AI race, the US another - but either might pull ahead",
-      "url": "https://www.bbc.com/news/articles/c145enxln0go?at_medium=RSS&at_campaign=rss",
-      "summary": "Both sides don't want to let their rival dominate. And the competition may yet be transformed further."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Asus’ lightweight 16-inch laptop is a formidable MacBook Air alternative",
+        "#text": "You can now turn 2D apps into 3D while using the Galaxy XR headset",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/907864/asus-zenbook-a16-snapdragon-x2-elite-extreme-review",
+      "url": "https://www.theverge.com/tech/908268/android-xr-samsung-galaxy-auto-spatialization-2d-3d",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Apple’s sci-fi thriller Dark Matter is back in August",
+        "#text": "I wish this selfie phone case was better for selfies",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/streaming/907885/dark-matter-season-2-date-apple-tv",
+      "url": "https://www.theverge.com/tech/908251/dockcase-selfix-selfie-phone-case-hands-on",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Sorry kid, drones are for war now",
+        "#text": "Samsung’s Galaxy S26 Ultra is $200 off for the first time",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/906306/fcc-drone-ban-who-will-replace-dji-in-us-antigravity-hoverair-skydio",
+      "url": "https://www.theverge.com/gadgets/908196/samsung-galaxy-s26-ultra-privacy-display-deal-sale-unlocked",
       "summary": "(要約準備中)"
     }
   ]
