@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2026-04-06T19:19:46.710Z",
+  "updatedAt": "2026-04-07T03:30:57.030Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "'We're sinking deeper': Iranians brace for infrastructure strikes as Trump deadline nears",
-      "url": "https://www.bbc.com/news/articles/cvgl0ng8z0do?at_medium=RSS&at_campaign=rss",
-      "summary": "Ordinary Iranians respond to the US president's threat to destroy Iran's power plants and bridges unless it opens the Strait of Hormuz."
+      "title": "Trump threatens to take out Iran in 'one night' if no deal before deadline",
+      "url": "https://www.bbc.com/news/articles/cqj8ep9w1pno?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president wants Tehran to reopen the Strait of Hormuz, a critical global energy route, before his Tuesday deadline."
     },
     {
       "source": "BBC World",
-      "title": "How rescue of US airman in remote part of Iran unfolded",
-      "url": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss",
-      "summary": "The operation to extract him from the ground in hostile territory was hugely complex and involved multiple US government agencies. "
+      "title": "Clock ticks on Trump's Iran ultimatum with little sign of breakthrough",
+      "url": "https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president is in a delicate political position as the final hours to Tuesday's deadline for Iran to open the Strait of Hormuz tick down."
     },
     {
       "source": "BBC World",
-      "title": "'Really feeling the love' - Savannah Guthrie returns to NBC as search for mother goes on",
-      "url": "https://www.bbc.com/news/articles/c04xqglg7xgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Nancy Guthrie disappeared from her home in Tucson, Arizona, in what authorities believe was an abduction."
+      "title": "Ten killed in Israeli strikes and clashes between Hamas and militia in Gaza, local sources say",
+      "url": "https://www.bbc.com/news/articles/c77md512n71o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Israeli strikes reportedly targeted Hamas security personnel after they clashed with an Israeli-backed militia near Maghazi camp."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Businesses scramble to get noticed by AI search",
+      "url": "https://www.bbc.com/news/articles/c70n2rjgxeyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Firms are changing the way they present information on their websites, so they get noticed by AI."
     },
     {
       "source": "BBC Technology",
@@ -32,10 +38,22 @@
       "summary": "On the tech giant's 50th year, we ask analysts to give their top three Apple successes and misses"
     },
     {
-      "source": "BBC Technology",
-      "title": "Power-washing, pool-cleaning and mowing: Why millions are playing games about mundane jobs",
-      "url": "https://www.bbc.com/news/articles/cj60r2kdnw1o?at_medium=RSS&at_campaign=rss",
-      "summary": "It's been nominated for two Bafta Games Awards - but why have mundane job games like PowerWash Simulator 2 become so popular?"
+      "source": "The Verge",
+      "title": {
+        "#text": "Wisconsin governor says ‘no’ to age checks for porn",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/policy/907761/wisconsin-governor-porn-age-verification-vetoed",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "Artemis II astronauts break a record, name a crater",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/science/907682/nasa-artemis-ii-distance-record-crater-names",
+      "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
@@ -44,24 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "DJI’s Mic Mini records clear audio on the go, and it&#8217;s on sale for $60",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/gadgets/907582/dji-mic-mini-two-transmitters-deal-sale",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Robotaxi companies won’t say how often remote operators intervene",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/transportation/907478/robotaxi-remote-assistance-markey-investigation-waymo-tesla",
       "summary": "(要約準備中)"
     }
   ]
