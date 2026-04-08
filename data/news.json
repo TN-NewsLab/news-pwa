@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-08T07:52:53.049Z",
+  "updatedAt": "2026-04-08T14:02:18.835Z",
   "top": [
     {
       "source": "BBC World",
@@ -15,9 +15,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Trump-backed Republican Clay Fuller wins election to replace Marjorie Taylor Greene",
-      "url": "https://www.bbc.com/news/articles/c8r40erdj6mo?at_medium=RSS&at_campaign=rss",
-      "summary": "He will serve out the rest of Marjorie Taylor Greene's term, which ends in January 2027."
+      "title": "Israel carries out large wave of air strikes across Lebanon",
+      "url": "https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Attacks hit the southern suburbs of Beirut, southern Lebanon and the eastern Bekaa Valley hours after a US-Iran ceasefire was announced."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Brit says he is not elusive Bitcoin creator named by New York Times",
+      "url": "https://www.bbc.com/news/articles/cgrl4l1y9yxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The British computer scientist and entrepreneur has denied being the man who the New York Times identified at Satoshi Nakamoto."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "The ChatGPT-maker said its early policy ideas aim to prompt discussions about action needed as AI systems become more capable."
     },
     {
-      "source": "BBC Technology",
-      "title": "Businesses scramble to get noticed by AI search",
-      "url": "https://www.bbc.com/news/articles/c70n2rjgxeyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Firms are changing the way they present information on their websites, so they get noticed by AI."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Nothing’s noise-canceling CMF Buds 2A are down to $19.99 for the rest of today",
+        "#text": "The vibes are off at OpenAI",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/908409/nothing-cmf-buds-2a-earbuds-amazon-lightning-deal-sale",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/908513/the-vibes-are-off-at-openai",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Amazon is ending support for older Kindles and Kindle Fires",
+        "#text": "Tractive’s new dog and cat trackers provide more health insights for your pets",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/908302/amazon-ending-support-kindle-fire-tablet-e-reader-pre-2012-older",
+      "url": "https://www.theverge.com/tech/907947/tractive-dog-6-xl-cat-mini-pet-trackers-health-monitoring-location",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Spotify&#8217;s Prompted Playlists can help you find new podcasts to listen to",
+        "#text": "Xbox’s new era needs games like Forza Horizon 6",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/908339/spotify-prompted-playlists-podcasts",
+      "url": "https://www.theverge.com/games/908305/forza-horizon-6-preview-xbox",
       "summary": "(要約準備中)"
     }
   ]
