@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-04-07T19:31:52.381Z",
+  "updatedAt": "2026-04-08T03:32:24.978Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Tracking recent US-Israeli strikes on Iranian infrastructure",
-      "url": "https://www.bbc.com/news/articles/cx2w0v19gw8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Attacks have targeted bridges, steel plants and pharmaceutical facilities, verified videos show."
+      "title": "Iran ceasefire deal a partial win for Trump - but at a high cost",
+      "url": "https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&at_campaign=rss",
+      "summary": "The path to the two-week ceasefire with Iran may have fundamentally altered the way the rest of the world views the US."
     },
     {
       "source": "BBC World",
-      "title": "Wireless Festival cancelled after Kanye West blocked from coming to UK",
-      "url": "https://www.bbc.com/news/articles/c4gxk3kxjr0o?at_medium=RSS&at_campaign=rss",
-      "summary": "West was due to headline the festival in July but drew criticism over past antisemitic comments."
+      "title": "What we know about the two-week ceasefire between the US and Iran ",
+      "url": "https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The provisional truce comes more than a month after the US and Israel launched coordinated attacks on Iran."
     },
     {
       "source": "BBC World",
-      "title": "Has Artemis II shown we can land on the Moon again?",
-      "url": "https://www.bbc.com/news/articles/cj60nkd8nrko?at_medium=RSS&at_campaign=rss",
-      "summary": "The Artemis II mission has been near flawless to date, but has the test flight shown Nasa is ready to send humans to the lunar surface?"
+      "title": "Trump-backed Republican Clay Fuller wins election to replace Marjorie Taylor Greene",
+      "url": "https://www.bbc.com/news/articles/c8r40erdj6mo?at_medium=RSS&at_campaign=rss",
+      "summary": "He will serve out the rest of Marjorie Taylor Greene's term, which ends in January 2027."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "You can now turn 2D apps into 3D while using the Galaxy XR headset",
+        "#text": "Nothing’s noise-canceling CMF Buds 2A are down to $19.99 for the rest of today",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/908268/android-xr-samsung-galaxy-auto-spatialization-2d-3d",
+      "url": "https://www.theverge.com/gadgets/908409/nothing-cmf-buds-2a-earbuds-amazon-lightning-deal-sale",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "I wish this selfie phone case was better for selfies",
+        "#text": "Amazon is ending support for older Kindles and Kindle Fires",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/908251/dockcase-selfix-selfie-phone-case-hands-on",
+      "url": "https://www.theverge.com/tech/908302/amazon-ending-support-kindle-fire-tablet-e-reader-pre-2012-older",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Samsung’s Galaxy S26 Ultra is $200 off for the first time",
+        "#text": "Spotify&#8217;s Prompted Playlists can help you find new podcasts to listen to",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/908196/samsung-galaxy-s26-ultra-privacy-display-deal-sale-unlocked",
+      "url": "https://www.theverge.com/entertainment/908339/spotify-prompted-playlists-podcasts",
       "summary": "(要約準備中)"
     }
   ]
