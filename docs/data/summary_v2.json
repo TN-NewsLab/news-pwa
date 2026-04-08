@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "ソフトウェアの問題を自動的に予防、検出、修正するAIエージェントが登場：NeuBird AIがFalconとFalconClawを発表",
-    "title_en": "AI agents that automatically prevent, detect and fix software issues are here as NeuBird AI launches Falcon, FalconClaw",
-    "summary": "企業のインフラ管理改善に注力するスタートアップ、NeuBird AIは、ハイブリッドクラウドやマイクロサービスの複雑化に対処するため、新たにFalconという自律型運用エージェントを発表しました。このプロジェクトは1,930万ドルの資金調達を支えにしています。NeuBird AIは、反応的な「インシデントレスポンス」から、積極的な「インシデント回避」へのシフトを提唱し、AIを活用して故障を予測・防止することで、エンジニアリングの時間を大幅に節約し、運用の混乱を減少させることを目指しています。高度なコンテキストマップや運用の専門知識をキャプチャするためのFalconClawなどの機能を通じて、NeuBird AIは経営層の理解とエンジニアの現実とのギャップを埋め、より効率的で自己修復可能なインフラの促進を目指しています。",
-    "summary_en": "NeuBird AI, a startup focused on improving enterprise infrastructure management, is addressing the increasing complexities of hybrid clouds and microservices with its new Falcon autonomous production operations agent, backed by a $19.3 million funding round. The company advocates for a shift from reactive \"incident response\" to proactive \"incident avoidance,\" utilizing AI to predict and prevent failures, which can save significant engineering time and reduce operational chaos. With features like Advanced Context Map and FalconClaw for capturing operational expertise, NeuBird AI aims to bridge the gap between executive understanding and engineers' reality, ultimately promoting a more efficient, self-healing infrastructure.",
-    "link": "https://venturebeat.com/security/ai-agents-that-automatically-prevent-detect-and-fix-software-issues-are-here",
+    "title": "LLM経由のトラフィックは30〜40%にコンバート — しかしほとんどの企業は最適化を進めていない",
+    "title_en": "LLM-referred traffic converts at 30-40% — and most enterprises aren't optimizing for it",
+    "summary": "AIエージェントの出現により、従来の検索エンジン最適化（SEO）から、回答エンジン最適化（AEO）へのパラダイムシフトが生じました。AEOでは、コンテンツがAIシステムにどのように理解され、引用されるかが重要であり、クリック率のためにランキングされることから焦点が移っています。AEOでは、企業がこのAIモデルに認識されるために、構造化され、権威のある、直接的に回答に焦点を当てたコンテンツを作成する必要があります。これらのAIモデルは、ユーザーの問い合わせに対して次世代の効率で対応しているため、組織はAIの出力における可視性を高めるだけでなく、ますます自動化される情報環境において関連性を保つためにデジタル戦略を適応させる必要があります。",
+    "summary_en": "The emergence of AI agents has shifted the paradigm from traditional search engine optimization (SEO) to answer engine optimization (AEO), where the focus is on how content is understood and cited by AI systems rather than ranked for click-through rates. AEO requires businesses to produce structured, authoritative, and directly answer-focused content to be recognized by these AI models, which are increasingly handling user queries with next-level efficiency. As a result, organizations must adapt their digital strategies not only to enhance their visibility in AI outputs but also to ensure they maintain relevance in an increasingly automated information landscape.",
+    "link": "https://venturebeat.com/technology/llm-referred-traffic-converts-at-30-40-and-most-enterprises-arent-optimizing",
     "category": "AI",
-    "publishedAt": "2026-04-07 17:46"
+    "publishedAt": "2026-04-08 17:11"
   },
   {
     "source": "VentureBeat",
-    "title": "OCSFの解説：セキュリティチームが欠いていた共有データ言語",
-    "title_en": "OCSF explained: The shared data language security teams have been missing",
-    "summary": "オープンサイバーセキュリティスキーマフレームワーク（OCSF）は、セキュリティデータを標準化された方法で表現する手段として、セキュリティ業界で注目を集めています。これにより、ベンダー、企業、セキュリティ専門家は脅威の検出と分析について効果的にコミュニケーションを取り、協力することが可能になります。200以上の参加組織と主要な業界プレイヤーからの継続的な支持により、OCSFは多様なセキュリティデータソースの統合を簡素化し、さまざまなツールやプラットフォーム間で情報を正規化する際の複雑さを低減します。AI技術がサイバーセキュリティの課題やテレメトリーにますます寄与する中で、OCSFはセキュリティイベントの調整を強化し、現代のセキュリティ運用において価値のある資産となることが期待されています。",
-    "summary_en": "The Open Cybersecurity Schema Framework (OCSF) is gaining traction in the security industry as a standardized way to represent security data, allowing vendors, enterprises, and security professionals to effectively communicate and collaborate on threat detection and analysis. With over 200 participating organizations and ongoing support from major industry players, OCSF simplifies the integration of diverse security data sources and reduces the complexities involved in normalizing information across various tools and platforms. As AI technologies increasingly contribute to cybersecurity challenges and telemetry, OCSF is positioned to enhance the coordination of security events, making it a valuable asset in modern security operations.",
-    "link": "https://venturebeat.com/security/ocsf-explained-the-shared-data-language-security-teams-have-been-missing",
+    "title": "BlockがManagerbotを導入、Jack DorseyのAIへの賭けの最も明確な証拠",
+    "title_en": "Block introduces Managerbot, a proactive Square AI agent and the clearest proof point yet for Jack Dorsey’s AI bet",
+    "summary": "Blockは最近、Squareプラットフォーム内で小規模ビジネスを積極的に監視し、問題を特定し、販売者の促しなしに解決策を提案するAIエージェント「Managerbot」を導入しました。従来のシステムとは異なり、Managerbotは在庫管理、従業員のスケジューリング、マーケティングキャンペーンの作成などの積極的なタスクに焦点を当て、ビジネス運営を効率化するために高度なAIモデルを使用していますが、変更には販売者の承認が必要です。BlockがAI主導のアプローチに移行する中で、Managerbotはビジネス管理へのAI統合の重要なステップを示しており、意思決定や効率の向上を求める販売者をSquareエコシステムに引き込む可能性があります。",
+    "summary_en": "Block recently introduced Managerbot, an AI agent within the Square platform designed to proactively monitor small businesses, identify issues, and recommend solutions without seller prompts. Unlike its predecessor, Managerbot focuses on proactive tasks such as inventory management, employee scheduling, and marketing campaign creation, using advanced AI models to streamline business operations while requiring sellers' approval for any changes. As Block transitions towards an AI-driven approach, Managerbot represents a significant step in integrating AI into business management, potentially drawing more sellers into the Square ecosystem as they seek enhanced decision-making and efficiency.",
+    "link": "https://venturebeat.com/data/block-introduces-managerbot-a-proactive-square-ai-agent-and-the-clearest",
     "category": "AI",
-    "publishedAt": "2026-04-07 17:46"
+    "publishedAt": "2026-04-08 17:11"
   },
   {
     "source": "NHK",
-    "title": "コメの生産などにかかるコストは5キロ2800円余 試算まとまる",
+    "title": "株価 2800円余値上がり 終値として過去3番目に大きい上昇幅",
     "title_en": "",
-    "summary": "コメの生産や流通にかかるコストが5キロ当たり2800円余りと試算されました。これを受けて、生産者や小売業者は販売価格を検討する見込みです。今後の価格動向が注目されています。",
+    "summary": "8日の東京株式市場で、日経平均株価が2800円余り上昇し、終値としては過去3番目の大きな上昇幅を記録しました。株価の上昇は市場の好材料を反映していると考えられます。投資家の関心が高まり、活発な取引が行われました。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260407/k10015094121000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260408/k10015094551000.html",
     "category": "経済",
-    "publishedAt": "2026-04-07 17:46"
+    "publishedAt": "2026-04-08 17:11"
   },
   {
     "source": "BBC",
-    "title": "トランプ大統領のイラン締切が近づく中、進展の兆しは見えず",
-    "title_en": "Little sign of breakthrough as Trump's Iran deadline nears",
-    "summary": "イランがホルムズ海峡を再開する期限が近づく中、アメリカ大統領は厳しい政治状況に直面しています。緊張が高まり、政権は複雑な外交および安全保障上の考慮事項を調整しなければなりません。この状況は、アメリカとイランの関係だけでなく、世界の石油市場や地域の安定性にも影響を与えています。",
-    "summary_en": "The U.S. president faces a challenging political scenario as the deadline approaches for Iran to reopen the Strait of Hormuz. Tensions are escalating, and the administration must navigate complex diplomatic and security considerations. The situation impacts not only U.S.-Iran relations but also global oil markets and regional stability.",
-    "link": "https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&at_campaign=rss",
+    "title": "イランの停戦合意がトランプ氏に戦争からの脱出を提供 - しかし高い代償が伴う",
+    "title_en": "Iran ceasefire deal gives Trump a way out of war - but at a high cost",
+    "summary": "最近のイランとの2週間の停戦合意は、アメリカ合衆国に対する世界の見方を変え、外交アプローチの変化を示唆しています。この動きは、米国が国際関係において対立的な戦術よりも交渉と協力を優先する可能性があることを示唆しています。その結果、他の国々はこの変化する動態に応じて、自国の戦略や同盟を再評価するかもしれません。",
+    "summary_en": "The recent two-week ceasefire agreement with Iran has shifted global perceptions of the United States, signaling a potential change in its diplomatic approach. This development suggests that the US may be prioritizing negotiations and collaboration over confrontational tactics in international relations. As a result, other countries might reassess their strategies and alliances in response to this evolving dynamic.",
+    "link": "https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-04-07 17:46"
+    "publishedAt": "2026-04-08 17:11"
   },
   {
     "source": "NHK",
-    "title": "人類が地球から最も離れた距離に到達 56年ぶり記録更新",
+    "title": "地球からは確認できない“月の裏側”の写真 NASAが一部公開",
     "title_en": "",
-    "summary": "アメリカの「アルテミス計画」により、宇宙飛行士を乗せた宇宙船が月の裏側を飛行しました。これにより、半世紀以上前のアポロ計画の記録を更新しました。人類は地球から最も離れた距離に達したことになります。",
+    "summary": "アメリカの「アルテミス計画」により打ち上げられた宇宙船が月の裏側を飛行しました。宇宙飛行士がその際に撮影した写真が公開されています。これにより、月の探査に関する新たな視点が提供されています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260407/k10015093711000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260408/k10015094841000.html",
     "category": "その他",
-    "publishedAt": "2026-04-07 17:46"
+    "publishedAt": "2026-04-08 17:11"
   }
 ]
