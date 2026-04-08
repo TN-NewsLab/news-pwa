@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-08T14:02:18.835Z",
+  "updatedAt": "2026-04-08T19:40:06.265Z",
   "top": [
     {
       "source": "BBC World",
@@ -27,41 +27,41 @@
     },
     {
       "source": "BBC Technology",
+      "title": "Greece to ban social media for under-15s from next year",
+      "url": "https://www.bbc.com/news/articles/ckgx1x742x5o?at_medium=RSS&at_campaign=rss",
+      "summary": "It follows similar moves in other European countries, including France and Spain."
+    },
+    {
+      "source": "BBC Technology",
       "title": "Ex-Meta worker investigated for downloading 30,000 private Facebook photos",
       "url": "https://www.bbc.com/news/articles/cvg049xz1ygo?at_medium=RSS&at_campaign=rss",
       "summary": "The former employee was fired from Meta after being suspected of downloading 30,000 photos, the company said."
     },
     {
-      "source": "BBC Technology",
-      "title": "OpenAI encourages firms to trial four-day weeks to adapt to AI era",
-      "url": "https://www.bbc.com/news/articles/c8x71ejrp92o?at_medium=RSS&at_campaign=rss",
-      "summary": "The ChatGPT-maker said its early policy ideas aim to prompt discussions about action needed as AI systems become more capable."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "The vibes are off at OpenAI",
+        "#text": "The AI RAM shortage is also driving up SSD prices",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/908513/the-vibes-are-off-at-openai",
+      "url": "https://www.theverge.com/tech/908916/ssd-storage-shortages-price-increases",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Tractive’s new dog and cat trackers provide more health insights for your pets",
+        "#text": "The Neo Effect: How Apple&#8217;s cheapest Mac is changing the PC game",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/907947/tractive-dog-6-xl-cat-mini-pet-trackers-health-monitoring-location",
+      "url": "https://www.theverge.com/tech/904705/apple-macbook-neo-news-reviews-mods",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Xbox’s new era needs games like Forza Horizon 6",
+        "#text": "Microsoft’s executive shake-up continues as developer division chief resigns",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/908305/forza-horizon-6-preview-xbox",
+      "url": "https://www.theverge.com/tech/908793/microsoft-devdiv-julia-liuson-resignation",
       "summary": "(要約準備中)"
     }
   ]
