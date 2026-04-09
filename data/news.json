@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-04-09T07:55:02.411Z",
+  "updatedAt": "2026-04-09T14:14:32.449Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Israeli strikes in Lebanon 'grave violation' of ceasefire, Iran minister tells BBC",
+      "url": "https://www.bbc.com/news/articles/cp849k4j0y1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran's deputy foreign minister says the US must choose between 'war and ceasefire'."
+    },
     {
       "source": "BBC World",
       "title": "Trump criticises Nato as alliance chief describes meeting as 'very frank' ",
@@ -9,15 +15,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Iran ceasefire deal gives Trump a way out of war - but at a high cost",
-      "url": "https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&at_campaign=rss",
-      "summary": "The path to the two-week ceasefire with Iran may have fundamentally altered the way the rest of the world views the US."
+      "title": "At least 182 killed across Lebanon in large wave of Israeli strikes",
+      "url": "https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Attacks hit the southern suburbs of Beirut, southern Lebanon and the eastern Bekaa Valley, hours after a US-Iran ceasefire was announced."
     },
     {
-      "source": "BBC World",
-      "title": "What we know about the two-week ceasefire between the US and Iran ",
-      "url": "https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The provisional truce comes more than a month after the US and Israel launched coordinated attacks on Iran."
+      "source": "BBC Technology",
+      "title": "Amazon to end support for older Kindles, prompting user outcry",
+      "url": "https://www.bbc.com/news/articles/c98k91yy4z4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The move means owners of Kindles released before 2013 will be unable to download new e-books."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "It follows similar moves in other European countries, including France and Spain."
     },
     {
-      "source": "BBC Technology",
-      "title": "Ex-Meta worker investigated for downloading 30,000 private Facebook photos",
-      "url": "https://www.bbc.com/news/articles/cvg049xz1ygo?at_medium=RSS&at_campaign=rss",
-      "summary": "The former employee was fired from Meta after being suspected of downloading 30,000 photos, the company said."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Gemini gets notebooks to help you organize projects",
+        "#text": "A jury is about to decide the fate of Ticketmaster",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm",
+      "url": "https://www.theverge.com/policy/909192/live-nation-ticketmaster-antitrust-closing-arguments",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Dyson made a handheld version of its iconic fans",
+        "#text": "The AI industry’s race for profits is now existential",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/907802/dyson-hushjet-mini-cool-handheld-personal-fan-specs-availability",
+      "url": "https://www.theverge.com/podcast/909042/ai-monetization-cliff-anthropic-openai-profitable-ai-existential-moment",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "OpenAI made economic proposals — here’s what DC thinks of them",
+        "#text": "Waymo is offering to help cities fix their potholes",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/column/908880/openai-made-economic-proposals-heres-what-dc-thinks-of-them",
+      "url": "https://www.theverge.com/transportation/908886/waymo-potholes-cities-data-waze-robotaxi",
       "summary": "(要約準備中)"
     }
   ]
