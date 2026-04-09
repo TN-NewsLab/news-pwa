@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-04-08T19:40:06.265Z",
+  "updatedAt": "2026-04-09T03:28:29.686Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Trump criticises Nato as alliance chief describes meeting as 'very frank' ",
+      "url": "https://www.bbc.com/news/articles/c05d8j9r5ejo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president says Nato \"wasn't there when we needed them\" during the Iran war. "
+    },
     {
       "source": "BBC World",
       "title": "Iran ceasefire deal gives Trump a way out of war - but at a high cost",
@@ -12,12 +18,6 @@
       "title": "What we know about the two-week ceasefire between the US and Iran ",
       "url": "https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&at_campaign=rss",
       "summary": "The provisional truce comes more than a month after the US and Israel launched coordinated attacks on Iran."
-    },
-    {
-      "source": "BBC World",
-      "title": "Israel carries out large wave of air strikes across Lebanon",
-      "url": "https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&at_campaign=rss",
-      "summary": "Attacks hit the southern suburbs of Beirut, southern Lebanon and the eastern Bekaa Valley hours after a US-Iran ceasefire was announced."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "The AI RAM shortage is also driving up SSD prices",
+        "#text": "Gemini gets notebooks to help you organize projects",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/908916/ssd-storage-shortages-price-increases",
+      "url": "https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The Neo Effect: How Apple&#8217;s cheapest Mac is changing the PC game",
+        "#text": "Dyson made a handheld version of its iconic fans",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/904705/apple-macbook-neo-news-reviews-mods",
+      "url": "https://www.theverge.com/tech/907802/dyson-hushjet-mini-cool-handheld-personal-fan-specs-availability",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Microsoft’s executive shake-up continues as developer division chief resigns",
+        "#text": "OpenAI made economic proposals — here’s what DC thinks of them",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/908793/microsoft-devdiv-julia-liuson-resignation",
+      "url": "https://www.theverge.com/column/908880/openai-made-economic-proposals-heres-what-dc-thinks-of-them",
       "summary": "(要約準備中)"
     }
   ]
