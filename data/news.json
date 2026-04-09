@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-04-09T14:14:32.449Z",
+  "updatedAt": "2026-04-09T19:36:59.597Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Israeli strikes in Lebanon 'grave violation' of ceasefire, Iran minister tells BBC",
-      "url": "https://www.bbc.com/news/articles/cp849k4j0y1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran's deputy foreign minister says the US must choose between 'war and ceasefire'."
+      "title": "'Endless fears': Even if fighting stops, the damage to Iran's children will endure",
+      "url": "https://www.bbc.com/news/articles/ce84ngmjz8zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC has been able to obtain testimony from parents and those trying to help children deal with the distress that comes with war. "
     },
     {
       "source": "BBC World",
@@ -27,41 +27,41 @@
     },
     {
       "source": "BBC Technology",
+      "title": "OpenAI pauses UK data centre deal over energy costs and regulation",
+      "url": "https://www.bbc.com/news/articles/clyd032ej70o?at_medium=RSS&at_campaign=rss",
+      "summary": "The project was part of a package of tech investment promising the UK could become an AI superpower."
+    },
+    {
+      "source": "BBC Technology",
       "title": "Brit says he is not elusive Bitcoin creator named by New York Times",
       "url": "https://www.bbc.com/news/articles/cgrl4l1y9yxo?at_medium=RSS&at_campaign=rss",
       "summary": "The British computer scientist and entrepreneur has denied being the man who the New York Times identified at Satoshi Nakamoto."
     },
     {
-      "source": "BBC Technology",
-      "title": "Greece to ban social media for under-15s from next year",
-      "url": "https://www.bbc.com/news/articles/ckgx1x742x5o?at_medium=RSS&at_campaign=rss",
-      "summary": "It follows similar moves in other European countries, including France and Spain."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "A jury is about to decide the fate of Ticketmaster",
+        "#text": "Instagram now lets you edit your own comments",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/909192/live-nation-ticketmaster-antitrust-closing-arguments",
+      "url": "https://www.theverge.com/tech/909455/instagram-edit-comments",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The AI industry’s race for profits is now existential",
+        "#text": "Netflix&#8217;s TV games get a big boost with Jackbox collection",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/podcast/909042/ai-monetization-cliff-anthropic-openai-profitable-ai-existential-moment",
+      "url": "https://www.theverge.com/streaming/909415/netflix-games-jackbox-party-essentials",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Waymo is offering to help cities fix their potholes",
+        "#text": "Framework is teasing a lot of Linux for its April 21st event",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/transportation/908886/waymo-potholes-cities-data-waze-robotaxi",
+      "url": "https://www.theverge.com/tech/909401/framework-next-gen-linux-teaser",
       "summary": "(要約準備中)"
     }
   ]
