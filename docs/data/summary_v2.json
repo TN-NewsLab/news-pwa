@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "LLM経由のトラフィックは30〜40%にコンバート — しかしほとんどの企業は最適化を進めていない",
-    "title_en": "LLM-referred traffic converts at 30-40% — and most enterprises aren't optimizing for it",
-    "summary": "AIエージェントの出現により、従来の検索エンジン最適化（SEO）から、回答エンジン最適化（AEO）へのパラダイムシフトが生じました。AEOでは、コンテンツがAIシステムにどのように理解され、引用されるかが重要であり、クリック率のためにランキングされることから焦点が移っています。AEOでは、企業がこのAIモデルに認識されるために、構造化され、権威のある、直接的に回答に焦点を当てたコンテンツを作成する必要があります。これらのAIモデルは、ユーザーの問い合わせに対して次世代の効率で対応しているため、組織はAIの出力における可視性を高めるだけでなく、ますます自動化される情報環境において関連性を保つためにデジタル戦略を適応させる必要があります。",
-    "summary_en": "The emergence of AI agents has shifted the paradigm from traditional search engine optimization (SEO) to answer engine optimization (AEO), where the focus is on how content is understood and cited by AI systems rather than ranked for click-through rates. AEO requires businesses to produce structured, authoritative, and directly answer-focused content to be recognized by these AI models, which are increasingly handling user queries with next-level efficiency. As a result, organizations must adapt their digital strategies not only to enhance their visibility in AI outputs but also to ensure they maintain relevance in an increasingly automated information landscape.",
-    "link": "https://venturebeat.com/technology/llm-referred-traffic-converts-at-30-40-and-most-enterprises-arent-optimizing",
+    "title": "クロード、オープンクロー、そして新しい現実：AIエージェントが登場し、混乱も同時に訪れる",
+    "title_en": "Claude, OpenClaw and the new reality: AI agents are here — and so is the chaos",
+    "summary": "オープンクローやアンチグラビティ、クロードのようなエージェント型AIツールの出現により、雇用の安全性や人工一般知能（AGI）に伴う潜在的リスクについての重要な議論が生まれています。これらの高度なAIエージェントは、さまざまな分野でのタスク自動化に卓越した能力を提供しますが、データセキュリティや誤用の可能性についての懸念も引き起こしています。これらの技術の利点を責任を持って活用するためには、アカウンタビリティ、透明性、倫理的実践を中心にしたガードレールを確立することが重要であり、それによって人間の生産性を向上させ、予期せぬ混乱を引き起こさないことが求められます。",
+    "summary_en": "The emergence of agentic AI tools like OpenClaw, Antigravity, and Claude is prompting significant discussions about job security and the potential risks associated with artificial general intelligence (AGI). While these advanced AI agents offer remarkable capabilities for automating tasks across various domains, they also raise concerns about data security and the possibility of misuse. To harness the benefits of these technologies responsibly, it is crucial to establish guardrails centered around accountability, transparency, and ethical practices, ensuring that they enhance human productivity rather than create unforeseen chaos.",
+    "link": "https://venturebeat.com/infrastructure/claude-openclaw-and-the-new-reality-ai-agents-are-here-and-so-is-the-chaos",
     "category": "AI",
-    "publishedAt": "2026-04-08 17:11"
+    "publishedAt": "2026-04-09 16:32"
   },
   {
     "source": "VentureBeat",
-    "title": "BlockがManagerbotを導入、Jack DorseyのAIへの賭けの最も明確な証拠",
-    "title_en": "Block introduces Managerbot, a proactive Square AI agent and the clearest proof point yet for Jack Dorsey’s AI bet",
-    "summary": "Blockは最近、Squareプラットフォーム内で小規模ビジネスを積極的に監視し、問題を特定し、販売者の促しなしに解決策を提案するAIエージェント「Managerbot」を導入しました。従来のシステムとは異なり、Managerbotは在庫管理、従業員のスケジューリング、マーケティングキャンペーンの作成などの積極的なタスクに焦点を当て、ビジネス運営を効率化するために高度なAIモデルを使用していますが、変更には販売者の承認が必要です。BlockがAI主導のアプローチに移行する中で、Managerbotはビジネス管理へのAI統合の重要なステップを示しており、意思決定や効率の向上を求める販売者をSquareエコシステムに引き込む可能性があります。",
-    "summary_en": "Block recently introduced Managerbot, an AI agent within the Square platform designed to proactively monitor small businesses, identify issues, and recommend solutions without seller prompts. Unlike its predecessor, Managerbot focuses on proactive tasks such as inventory management, employee scheduling, and marketing campaign creation, using advanced AI models to streamline business operations while requiring sellers' approval for any changes. As Block transitions towards an AI-driven approach, Managerbot represents a significant step in integrating AI into business management, potentially drawing more sellers into the Square ecosystem as they seek enhanced decision-making and efficiency.",
-    "link": "https://venturebeat.com/data/block-introduces-managerbot-a-proactive-square-ai-agent-and-the-clearest",
+    "title": "さようなら、ラマ？メタが新しい独自AIモデル「Muse Spark」を発表—スーペイアインテリジェンスラボ設立以来初",
+    "title_en": "Goodbye, Llama? Meta launches new proprietary AI model Muse Spark — first since Superintelligence Labs' formation",
+    "summary": "メタは、過去のラマ4モデルの難しい展開を経て、「個人のスーパインテリジェンス」を強調した独自の生成AIモデル「Muse Spark」を発表しました。Muse Sparkは特にマルチモーダル推論と効率性において重要な進展を遂げており、以前のモデルを上回り、GoogleのGeminiやOpenAIのGPT-5.4といった主要なAIシステムと競争できる能力を備えています。また、メタのプラットフォーム全体でユーザー体験を向上させる新機能も統合されていますが、初期に忠実なユーザーベースを築いたオープンソースアプローチからは移行しています。",
+    "summary_en": "Meta has introduced Muse Spark, a proprietary generative AI model that emphasizes \"personal superintelligence,\" following a challenging rollout of its previous Llama 4 model which received mixed reviews. Muse Spark boasts significant advancements, particularly in multimodal reasoning and efficiency, enabling it to outperform previous models and compete with leading AI systems like Google's Gemini and OpenAI's GPT-5.4, while also integrating new features for enhanced user experiences across Meta's platforms, although it has shifted away from the open-source approach that initially garnered it a loyal user base.",
+    "link": "https://venturebeat.com/technology/goodbye-llama-meta-launches-new-proprietary-ai-model-muse-spark-first-since",
     "category": "AI",
-    "publishedAt": "2026-04-08 17:11"
+    "publishedAt": "2026-04-09 16:32"
   },
   {
     "source": "NHK",
-    "title": "株価 2800円余値上がり 終値として過去3番目に大きい上昇幅",
+    "title": "株価 値下がり アメリカとイラン停戦維持に投資家間で不透明感",
     "title_en": "",
-    "summary": "8日の東京株式市場で、日経平均株価が2800円余り上昇し、終値としては過去3番目の大きな上昇幅を記録しました。株価の上昇は市場の好材料を反映していると考えられます。投資家の関心が高まり、活発な取引が行われました。",
+    "summary": "東京株式市場は、記録的な値上がりの後、アメリカとイランの停戦合意に伴う不透明感から日経平均株価が値下がりしました。市場の先行きに対する懸念が影響しています。投資家の動きが冷やかされています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260408/k10015094551000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260409/k10015095581000.html",
     "category": "経済",
-    "publishedAt": "2026-04-08 17:11"
+    "publishedAt": "2026-04-09 16:32"
   },
   {
     "source": "BBC",
-    "title": "イランの停戦合意がトランプ氏に戦争からの脱出を提供 - しかし高い代償が伴う",
-    "title_en": "Iran ceasefire deal gives Trump a way out of war - but at a high cost",
-    "summary": "最近のイランとの2週間の停戦合意は、アメリカ合衆国に対する世界の見方を変え、外交アプローチの変化を示唆しています。この動きは、米国が国際関係において対立的な戦術よりも交渉と協力を優先する可能性があることを示唆しています。その結果、他の国々はこの変化する動態に応じて、自国の戦略や同盟を再評価するかもしれません。",
-    "summary_en": "The recent two-week ceasefire agreement with Iran has shifted global perceptions of the United States, signaling a potential change in its diplomatic approach. This development suggests that the US may be prioritizing negotiations and collaboration over confrontational tactics in international relations. As a result, other countries might reassess their strategies and alliances in response to this evolving dynamic.",
-    "link": "https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&at_campaign=rss",
+    "title": "トランプ、NATOを批判 - 同盟の首脳が会合を「非常に率直」と表現",
+    "title_en": "Trump criticises Nato as alliance chief describes meeting as 'very frank'",
+    "summary": "米国の大統領はイラン戦争中のNATOの支援の不足を批判し、同盟は「我々が必要な時にそこにいなかった」と述べた。彼は、紛争の際における同盟国間の信頼性と団結の重要性を強調した。この発言は、NATOの世界の安全保障における役割に関する緊張感を浮き彫りにしている。",
+    "summary_en": "The US president criticized NATO for its lack of support during the Iran war, stating that the alliance \"wasn't there when we needed them.\" He emphasized the importance of reliability and solidarity among allies in times of conflict. This remark underscores ongoing tensions regarding NATO's role in global security situations.",
+    "link": "https://www.bbc.com/news/articles/c05d8j9r5ejo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-04-08 17:11"
+    "publishedAt": "2026-04-09 16:32"
   },
   {
     "source": "NHK",
-    "title": "地球からは確認できない“月の裏側”の写真 NASAが一部公開",
+    "title": "2028年の大河ドラマ「ジョン万」 主演は山崎賢人さん",
     "title_en": "",
-    "summary": "アメリカの「アルテミス計画」により打ち上げられた宇宙船が月の裏側を飛行しました。宇宙飛行士がその際に撮影した写真が公開されています。これにより、月の探査に関する新たな視点が提供されています。",
+    "summary": "NHKの大河ドラマが、江戸時代の漂流者ジョン万次郎の生涯を描く「ジョン万」に決まりました。ドラマは最近発表されました。主演は山崎賢人さんです。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260408/k10015094841000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260409/k10015095461000.html",
     "category": "その他",
-    "publishedAt": "2026-04-08 17:11"
+    "publishedAt": "2026-04-09 16:32"
   }
 ]
