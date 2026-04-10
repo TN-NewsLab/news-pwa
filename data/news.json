@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-10T07:59:00.090Z",
+  "updatedAt": "2026-04-10T13:50:15.823Z",
   "top": [
     {
       "source": "BBC World",
@@ -21,6 +21,12 @@
     },
     {
       "source": "BBC Technology",
+      "title": "Dancer with ALS uses brainwaves to perform again through avatar",
+      "url": "https://www.bbc.com/news/articles/cgqkz5lzvnwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Breanna Olson said the tech was able to re-establish the expression and connection her ALS had eroded."
+    },
+    {
+      "source": "BBC Technology",
       "title": "White House staff told not to place bets on prediction markets",
       "url": "https://www.bbc.com/news/articles/cgld65x396go?at_medium=RSS&at_campaign=rss",
       "summary": "The gambling platforms have grown in popularity, with some users making wagers on conflicts."
@@ -32,36 +38,30 @@
       "summary": "Sir Sadiq Khan claims London is being targeted with disinformation portraying it as a city \"in decline\"."
     },
     {
-      "source": "BBC Technology",
-      "title": "Amazon to end support for older Kindles, prompting user outcry",
-      "url": "https://www.bbc.com/news/articles/c98k91yy4z4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The move means owners of Kindles released before 2013 will be unable to download new e-books."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "ChatGPT has a new $100 per month Pro subscription",
+        "#text": "Cloudflare made a WordPress for AI agents",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/909599/chatgpt-pro-subscription-new",
+      "url": "https://www.theverge.com/tech/909730/cloudflare-emdash-wordpress-community",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Here are the best Apple Watch deals available right now",
+        "#text": "Interior design at 25,000 mph",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/21289209/best-apple-watch-deals",
+      "url": "https://www.theverge.com/design/909710/artemis-ii-orion-capsule-interior-design",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Florida launches investigation into OpenAI",
+        "#text": "Fear and loathing at OpenAI",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/909557/openai-florida-investigation",
+      "url": "https://www.theverge.com/podcast/909621/openai-sam-altman-drama-vergecast",
       "summary": "(要約準備中)"
     }
   ]
