@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2026-04-09T19:36:59.597Z",
+  "updatedAt": "2026-04-10T03:41:46.206Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "'Endless fears': Even if fighting stops, the damage to Iran's children will endure",
-      "url": "https://www.bbc.com/news/articles/ce84ngmjz8zo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC has been able to obtain testimony from parents and those trying to help children deal with the distress that comes with war. "
+      "title": "Trump says Iran's handling of Strait of Hormuz is 'not the agreement we have'",
+      "url": "https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president accused Iran of \"doing a very poor job\" with the waterway as Israel and Lebanon to begin peace talks."
     },
     {
       "source": "BBC World",
-      "title": "Trump criticises Nato as alliance chief describes meeting as 'very frank' ",
-      "url": "https://www.bbc.com/news/articles/c05d8j9r5ejo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president says Nato \"wasn't there when we needed them\" during the Iran war. "
+      "title": "Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done",
+      "url": "https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Both sides have reason to end the war but share no common ground."
     },
     {
       "source": "BBC World",
-      "title": "At least 182 killed across Lebanon in large wave of Israeli strikes",
-      "url": "https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&at_campaign=rss",
-      "summary": "Attacks hit the southern suburbs of Beirut, southern Lebanon and the eastern Bekaa Valley, hours after a US-Iran ceasefire was announced."
+      "title": "Melania Trump denies ties to Jeffrey Epstein and urges hearing for survivors",
+      "url": "https://www.bbc.com/news/articles/c3ex07l1qvpo?at_medium=RSS&at_campaign=rss",
+      "summary": "She called rumours that Epstein introduced her to Donald Trump \"mean-spirited attempts to defame my reputation\". "
+    },
+    {
+      "source": "BBC Technology",
+      "title": "White House staff told not to place bets on prediction markets",
+      "url": "https://www.bbc.com/news/articles/cgld65x396go?at_medium=RSS&at_campaign=rss",
+      "summary": "The platforms have grown in popularity, with some users making bets on global events."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "The project was part of a package of tech investment promising the UK could become an AI superpower."
     },
     {
-      "source": "BBC Technology",
-      "title": "Brit says he is not elusive Bitcoin creator named by New York Times",
-      "url": "https://www.bbc.com/news/articles/cgrl4l1y9yxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The British computer scientist and entrepreneur has denied being the man who the New York Times identified at Satoshi Nakamoto."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Instagram now lets you edit your own comments",
+        "#text": "ChatGPT has a new $100 per month Pro subscription",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/909455/instagram-edit-comments",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/909599/chatgpt-pro-subscription-new",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Netflix&#8217;s TV games get a big boost with Jackbox collection",
+        "#text": "Here are the best Apple Watch deals available right now",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/streaming/909415/netflix-games-jackbox-party-essentials",
+      "url": "https://www.theverge.com/21289209/best-apple-watch-deals",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Framework is teasing a lot of Linux for its April 21st event",
+        "#text": "Florida launches investigation into OpenAI",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/909401/framework-next-gen-linux-teaser",
+      "url": "https://www.theverge.com/policy/909557/openai-florida-investigation",
       "summary": "(要約準備中)"
     }
   ]
