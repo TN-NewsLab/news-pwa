@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-10T13:50:15.823Z",
+  "updatedAt": "2026-04-10T19:11:53.892Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,21 +9,27 @@
     },
     {
       "source": "BBC World",
-      "title": "Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done",
-      "url": "https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Both sides have reason to end the war but share no common ground."
+      "title": "Lebanon says ceasefire must be in place before Israel talks",
+      "url": "https://www.bbc.com/news/articles/c93en5q2zl3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Lebanon will only take part in talks with Israel if a ceasefire is already in place, a senior official tells the BBC."
     },
     {
       "source": "BBC World",
-      "title": "Melania Trump denies ties to Jeffrey Epstein and urges hearing for survivors",
-      "url": "https://www.bbc.com/news/articles/c3ex07l1qvpo?at_medium=RSS&at_campaign=rss",
-      "summary": "She called rumours that Epstein introduced her to Donald Trump \"mean-spirited attempts to defame my reputation\". "
+      "title": "Palestinian shot dead during Israeli settler attack on occupied West Bank village",
+      "url": "https://www.bbc.com/news/articles/czrekrzzex1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The killing came as ex-security chiefs warned \"government sponsored Jewish terrorism\" was out of control."
     },
     {
       "source": "BBC Technology",
-      "title": "Dancer with ALS uses brainwaves to perform again through avatar",
+      "title": "Dancer with MND performs on stage again through digital avatar",
       "url": "https://www.bbc.com/news/articles/cgqkz5lzvnwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Breanna Olson said the tech was able to re-establish the expression and connection her ALS had eroded."
+      "summary": "Breanna Olson said brainwave tech was able to re-establish the expression and connection she felt had gone."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Meta pulls Facebook ads recruiting for social media addiction lawsuits",
+      "url": "https://www.bbc.com/news/articles/czjw0zgz9zyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Facebook owner recently lost a landmark social media addiction trial in California"
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "The gambling platforms have grown in popularity, with some users making wagers on conflicts."
     },
     {
-      "source": "BBC Technology",
-      "title": "Mayor warns of London 'disinformation blizzard'",
-      "url": "https://www.bbc.com/news/articles/cp3l4kwer5ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Sir Sadiq Khan claims London is being targeted with disinformation portraying it as a city \"in decline\"."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Cloudflare made a WordPress for AI agents",
+        "#text": "Microsoft finally lets Windows 11 testers unlock experimental features without ViVeTool",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/909730/cloudflare-emdash-wordpress-community",
+      "url": "https://www.theverge.com/news/909659/microsoft-windows-insider-changes-unlock-experimental-features-without-vivetool",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Interior design at 25,000 mph",
+        "#text": "My go-to electric screwdriver is on sale for over 50 percent off today",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/design/909710/artemis-ii-orion-capsule-interior-design",
+      "url": "https://www.theverge.com/gadgets/909546/fanttik-s1-pro-cordless-electric-screwdriver-iniu-20w-portable-charger-deal-sale",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Fear and loathing at OpenAI",
+        "#text": "Amazon Luna axes third-party game purchases",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/podcast/909621/openai-sam-altman-drama-vergecast",
+      "url": "https://www.theverge.com/tech/910025/amazon-luna-third-party-games-subscriptions",
       "summary": "(要約準備中)"
     }
   ]
