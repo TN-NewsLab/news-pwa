@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "クロード、オープンクロー、そして新しい現実：AIエージェントが登場し、混乱も同時に訪れる",
-    "title_en": "Claude, OpenClaw and the new reality: AI agents are here — and so is the chaos",
-    "summary": "オープンクローやアンチグラビティ、クロードのようなエージェント型AIツールの出現により、雇用の安全性や人工一般知能（AGI）に伴う潜在的リスクについての重要な議論が生まれています。これらの高度なAIエージェントは、さまざまな分野でのタスク自動化に卓越した能力を提供しますが、データセキュリティや誤用の可能性についての懸念も引き起こしています。これらの技術の利点を責任を持って活用するためには、アカウンタビリティ、透明性、倫理的実践を中心にしたガードレールを確立することが重要であり、それによって人間の生産性を向上させ、予期せぬ混乱を引き起こさないことが求められます。",
-    "summary_en": "The emergence of agentic AI tools like OpenClaw, Antigravity, and Claude is prompting significant discussions about job security and the potential risks associated with artificial general intelligence (AGI). While these advanced AI agents offer remarkable capabilities for automating tasks across various domains, they also raise concerns about data security and the possibility of misuse. To harness the benefits of these technologies responsibly, it is crucial to establish guardrails centered around accountability, transparency, and ethical practices, ensuring that they enhance human productivity rather than create unforeseen chaos.",
-    "link": "https://venturebeat.com/infrastructure/claude-openclaw-and-the-new-reality-ai-agents-are-here-and-so-is-the-chaos",
+    "title": "OpenAI、ChatGPT Proの$100プランを発表 - Codexの使用制限をPlusと比べ5倍に",
+    "title_en": "OpenAI introduces ChatGPT Pro $100 tier with 5X usage limits for Codex compared to Plus",
+    "summary": "OpenAIは新たに$100のChatGPT Proサブスクリプションプランを導入し、Anthropicなどの競合から開発者や「バイブコード」要員を引きつけることを目的としています。このプランは、既存の$20のPlusプランに比べてCodexコーディングアプリケーションの使用制限が5倍となっており、Plusサブスクライバーの使用条件も変更されます。この動きは、Anthropicの急速な財務成長に応じて行われ、OpenAIは新しいプランを通じて機能と容量を強化し、競合の制限に対抗してプロフェッショナル開発者市場を取り戻すことを目指しています。",
+    "summary_en": "OpenAI has launched a new $100 ChatGPT Pro subscription plan, aimed at attracting developers and \"vibe coders\" from competitors like Anthropic. This plan offers five times greater usage limits on the Codex coding application compared to the existing $20 Plus plan, while also adjusting the usage terms for Plus subscribers. The move comes in response to the rapid financial growth of Anthropic, and OpenAI seeks to reclaim the professional developer market by offering enhanced features and capacity through its new tier, leveraging its recent competitive hires and positioning against rival restrictions.",
+    "link": "https://venturebeat.com/orchestration/openai-introduces-chatgpt-pro-usd100-tier-with-5x-usage-limits-for-codex",
     "category": "AI",
-    "publishedAt": "2026-04-09 16:32"
+    "publishedAt": "2026-04-10 16:46"
   },
   {
     "source": "VentureBeat",
-    "title": "さようなら、ラマ？メタが新しい独自AIモデル「Muse Spark」を発表—スーペイアインテリジェンスラボ設立以来初",
-    "title_en": "Goodbye, Llama? Meta launches new proprietary AI model Muse Spark — first since Superintelligence Labs' formation",
-    "summary": "メタは、過去のラマ4モデルの難しい展開を経て、「個人のスーパインテリジェンス」を強調した独自の生成AIモデル「Muse Spark」を発表しました。Muse Sparkは特にマルチモーダル推論と効率性において重要な進展を遂げており、以前のモデルを上回り、GoogleのGeminiやOpenAIのGPT-5.4といった主要なAIシステムと競争できる能力を備えています。また、メタのプラットフォーム全体でユーザー体験を向上させる新機能も統合されていますが、初期に忠実なユーザーベースを築いたオープンソースアプローチからは移行しています。",
-    "summary_en": "Meta has introduced Muse Spark, a proprietary generative AI model that emphasizes \"personal superintelligence,\" following a challenging rollout of its previous Llama 4 model which received mixed reviews. Muse Spark boasts significant advancements, particularly in multimodal reasoning and efficiency, enabling it to outperform previous models and compete with leading AI systems like Google's Gemini and OpenAI's GPT-5.4, while also integrating new features for enhanced user experiences across Meta's platforms, although it has shifted away from the open-source approach that initially garnered it a loyal user base.",
-    "link": "https://venturebeat.com/technology/goodbye-llama-meta-launches-new-proprietary-ai-model-muse-spark-first-since",
+    "title": "クロード、オープンクロー、そして新しい現実：AIエージェントが登場 — そして混沌も",
+    "title_en": "Claude, OpenClaw and the new reality: AI agents are here — and so is the chaos",
+    "summary": "オープンクローやグーグルのアンチグラビティなどのツールに象徴されるエージェント型AIの台頭は、雇用の安全性や人工一般知性（AGI）に対する潜在的な危険性について重要な議論を引き起こしています。特定のタスクを実行するために設計されたこれらの自律エージェントは、コーディングや法的プロセスなど、多大な利益をもたらす一方で、ユーザーが十分な安全策なしに広範な権限を付与する場合、リスクも伴います。その潜在能力を責任を持って活用するためには、アカウンタビリティと透明性の原則を実施し、エージェントが可能な誤用やエラーを軽減するために制御された枠組み内で運営されることを保証することが重要です。",
+    "summary_en": "The rise of agentic AI, marked by tools like OpenClaw and Google's Antigravity, has sparked significant discussions about its implications for job security and the potential dangers of reaching artificial general intelligence (AGI). These autonomous agents, designed to perform specific tasks like coding and legal processes, offer both tremendous benefits and risks, especially if users grant them extensive powers without adequate safeguards. To harness their potential responsibly, it's essential to implement principles of accountability and transparency, ensuring that agents operate within a controlled framework that mitigates possible misuse and errors.",
+    "link": "https://venturebeat.com/infrastructure/claude-openclaw-and-the-new-reality-ai-agents-are-here-and-so-is-the-chaos",
     "category": "AI",
-    "publishedAt": "2026-04-09 16:32"
+    "publishedAt": "2026-04-10 16:46"
   },
   {
     "source": "NHK",
-    "title": "株価 値下がり アメリカとイラン停戦維持に投資家間で不透明感",
+    "title": "株価 一時 約1か月ぶりの5万7000円台に",
     "title_en": "",
-    "summary": "東京株式市場は、記録的な値上がりの後、アメリカとイランの停戦合意に伴う不透明感から日経平均株価が値下がりしました。市場の先行きに対する懸念が影響しています。投資家の動きが冷やかされています。",
+    "summary": "東京株式市場で日経平均株価が一時1100円以上上昇し、約1か月ぶりに5万7000円台に達しました。この成長は市場の活況を反映しています。投資家の関心が高まっている状況が伺えます。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260409/k10015095581000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260410/k10015095401000.html",
     "category": "経済",
-    "publishedAt": "2026-04-09 16:32"
+    "publishedAt": "2026-04-10 16:46"
   },
   {
     "source": "BBC",
-    "title": "トランプ、NATOを批判 - 同盟の首脳が会合を「非常に率直」と表現",
-    "title_en": "Trump criticises Nato as alliance chief describes meeting as 'very frank'",
-    "summary": "米国の大統領はイラン戦争中のNATOの支援の不足を批判し、同盟は「我々が必要な時にそこにいなかった」と述べた。彼は、紛争の際における同盟国間の信頼性と団結の重要性を強調した。この発言は、NATOの世界の安全保障における役割に関する緊張感を浮き彫りにしている。",
-    "summary_en": "The US president criticized NATO for its lack of support during the Iran war, stating that the alliance \"wasn't there when we needed them.\" He emphasized the importance of reliability and solidarity among allies in times of conflict. This remark underscores ongoing tensions regarding NATO's role in global security situations.",
-    "link": "https://www.bbc.com/news/articles/c05d8j9r5ejo?at_medium=RSS&at_campaign=rss",
+    "title": "トランプ大統領、イランのホルムズ海峡の取り扱いについて「私たちが合意したものではない」と発言",
+    "title_en": "Trump says Iran's handling of Strait of Hormuz is 'not the agreement we have'",
+    "summary": "米国の大統領は、戦略的な水路であるホルムズ海峡に対するイランの取り扱いが効果的でないと批判しました。このコメントは、イスラエルとレバノンが和平交渉を開始する準備を進めている中で発表され、地域の関係改善に向けた潜在的な変化を示唆しています。大統領の発言は、中東の地政学的緊張の継続を浮き彫りにしています。",
+    "summary_en": "The U.S. president criticized Iran for its handling of a strategic waterway, suggesting it has been ineffective in its management. This comment comes as Israel and Lebanon prepare to start peace talks, indicating a potential shift towards improved relations in the region. The president's remarks highlight ongoing tensions in Middle Eastern geopolitics.",
+    "link": "https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-04-09 16:32"
+    "publishedAt": "2026-04-10 16:46"
   },
   {
     "source": "NHK",
-    "title": "JA全中会長 “イラン情勢悪化で国内農業 生産量低下のおそれ”",
+    "title": "カンヌ映画祭コンペ部門 日本から是枝監督などの3作品が候補に",
     "title_en": "",
-    "summary": "JA全中（全国農業協同組合中央会）の神農会長は、イラン情勢の悪化により燃料や資材の高騰・不足が懸念され、生産コストの上昇や生産量の低下につながるおそれがあると指摘しました。安定供給への影響を強く懸念しています。実態把握のため、全国約490の農協を対象に調査を実施中で、結果は今月中に取りまとめ、国への要望や生産者支援に生かす方針です。",
+    "summary": "来月開幕するカンヌ映画祭で、日本から是枝裕和、濱口竜介、深田晃司の3作品が最優秀賞のパルムドールにノミネートされました。これはコンペティション部門で日本の作品が候補に挙がるのが25年ぶりのことです。日本の映画界にとって重要な出来事となっています。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/na-k10015095811000",
+    "link": "http://www3.nhk.or.jp/news/html/20260409/k10015095951000.html",
     "category": "その他",
-    "publishedAt": "2026-04-09 16:32"
+    "publishedAt": "2026-04-10 16:46"
   }
 ]
