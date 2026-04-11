@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-04-11T07:17:01.429Z",
+  "updatedAt": "2026-04-11T13:30:48.468Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Lyse Doucet: Historic US-Iran talks must bridge deep distrust",
-      "url": "https://www.bbc.com/news/articles/cn9qzl12537o?at_medium=RSS&at_campaign=rss",
-      "summary": "Face-to-face talks would mark the highest-level engagement between Iran and the US since the 1979 Islamic Revolution."
+      "title": "Artemis crew home safely after completing historic mission to the Moon",
+      "url": "https://www.bbc.com/news/articles/cr51z54d5rpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Four astronauts splashed down in the Pacific after a nine-day voyage that took them further from Earth than any humans."
     },
     {
       "source": "BBC World",
-      "title": "Final push for votes as challenger to Hungary's Orbán scents victory",
+      "title": "Final push for votes as challenger to Hungary's Orbán senses victory",
       "url": "https://www.bbc.com/news/articles/c0q9527y41lo?at_medium=RSS&at_campaign=rss",
       "summary": "As Péter Magyar's opposition movement leads in the polls, tens of thousands of anti-Orbán supporters fill Heroes' Square in Budapest."
     },
     {
       "source": "BBC World",
-      "title": "Artemis II mission was a triumph - now comes the hard part",
-      "url": "https://www.bbc.com/news/articles/cj0v119zp19o?at_medium=RSS&at_campaign=rss",
-      "summary": "The mission was almost flawless but there are considerable obstacles ahead before a Moon landing."
+      "title": "Frontrunner for California governor denies sexual assault allegations",
+      "url": "https://www.bbc.com/news/articles/c20qg3g9554o?at_medium=RSS&at_campaign=rss",
+      "summary": "The congressman is a leading Democratic candidate who is now facing calls to drop out of the race. "
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Now the FAA says gamers are the answer to its air traffic controller shortage",
+        "#text": "You don’t have to spend more than $50 on a great USB-C dock for your Switch 2",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/910434/now-the-faa-says-gamers-are-the-answer-to-its-air-traffic-controller-shortage",
+      "url": "https://www.theverge.com/gadgets/907645/nintendo-switch-2-genki-jsaux-usb-c-dock-hands-on",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman’s house",
+        "#text": "Demons and pinball are a perfect match",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail",
+      "url": "https://www.theverge.com/entertainment/909820/devils-on-the-moon-pinball-review-playdate",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "How to watch the Artemis II astronauts return to Earth",
+        "#text": "How Iran out-shitposted the White House",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/910397/how-to-watch-the-artemis-ii-astronauts-return-to-earth",
+      "url": "https://www.theverge.com/policy/910401/iran-war-propaganda-blackout-lego-ai-slop",
       "summary": "(要約準備中)"
     }
   ]
