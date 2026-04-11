@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-11T13:30:48.468Z",
+  "updatedAt": "2026-04-11T19:04:46.594Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,15 +9,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Final push for votes as challenger to Hungary's Orbán senses victory",
-      "url": "https://www.bbc.com/news/articles/c0q9527y41lo?at_medium=RSS&at_campaign=rss",
-      "summary": "As Péter Magyar's opposition movement leads in the polls, tens of thousands of anti-Orbán supporters fill Heroes' Square in Budapest."
+      "title": "Frontrunner for California governor denies sexual assault allegations",
+      "url": "https://www.bbc.com/news/articles/c20qg3g9554o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Democratic congressman, a leading candidate in the race, has strongly denied the accusations saying he will fight with \"facts\"."
     },
     {
       "source": "BBC World",
-      "title": "Frontrunner for California governor denies sexual assault allegations",
-      "url": "https://www.bbc.com/news/articles/c20qg3g9554o?at_medium=RSS&at_campaign=rss",
-      "summary": "The congressman is a leading Democratic candidate who is now facing calls to drop out of the race. "
+      "title": "Nearly 400 sentenced in Nigeria for links to militant Islamists",
+      "url": "https://www.bbc.com/news/articles/cvge1kdmpzwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Judges handed down sentences ranging from five years to life imprisonment following mass trials."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "You don’t have to spend more than $50 on a great USB-C dock for your Switch 2",
+        "#text": "Google says Polymarket bets showing up in News was an ‘error’",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/907645/nintendo-switch-2-genki-jsaux-usb-c-dock-hands-on",
+      "url": "https://www.theverge.com/tech/910691/google-news-polymarket-bets-error",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Demons and pinball are a perfect match",
+        "#text": "Pokémon Champions is off to a rough start",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/909820/devils-on-the-moon-pinball-review-playdate",
+      "url": "https://www.theverge.com/games/910110/pokemon-champions-bugs-balance-issues-vgc-newcomers",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "How Iran out-shitposted the White House",
+        "#text": "Your article about AI doesn’t need AI art",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/910401/iran-war-propaganda-blackout-lego-ai-slop",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
       "summary": "(要約準備中)"
     }
   ]
