@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-04-10T19:11:53.892Z",
+  "updatedAt": "2026-04-11T03:19:33.599Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Trump says Iran's handling of Strait of Hormuz is 'not the agreement we have'",
-      "url": "https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president accused Iran of \"doing a very poor job\" with the waterway as Israel and Lebanon to begin peace talks."
+      "title": "Historic Vance-Ghalibaf talks must bridge deep distrust",
+      "url": "https://www.bbc.com/news/articles/cn9qzl12537o?at_medium=RSS&at_campaign=rss",
+      "summary": "Face-to-face talks would mark the highest-level engagement between Iran and the US since the 1979 Islamic Revolution."
     },
     {
       "source": "BBC World",
-      "title": "Lebanon says ceasefire must be in place before Israel talks",
+      "title": "Final push for votes as challenger to Hungary's Orbán scents victory",
+      "url": "https://www.bbc.com/news/articles/c0q9527y41lo?at_medium=RSS&at_campaign=rss",
+      "summary": "As Péter Magyar's opposition movement leads in the polls, tens of thousands of anti-Orbán supporters fill Heroes' Square in Budapest."
+    },
+    {
+      "source": "BBC World",
+      "title": "Lebanon and Israel officials to meet in US on Tuesday",
       "url": "https://www.bbc.com/news/articles/c93en5q2zl3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Lebanon will only take part in talks with Israel if a ceasefire is already in place, a senior official tells the BBC."
-    },
-    {
-      "source": "BBC World",
-      "title": "Palestinian shot dead during Israeli settler attack on occupied West Bank village",
-      "url": "https://www.bbc.com/news/articles/czrekrzzex1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The killing came as ex-security chiefs warned \"government sponsored Jewish terrorism\" was out of control."
+      "summary": "A senior Lebanese official earlier told the BBC that Lebanon would only take part in talks if a ceasefire was in place."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Microsoft finally lets Windows 11 testers unlock experimental features without ViVeTool",
+        "#text": "Now the FAA says gamers are the answer to its air traffic controller shortage",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/909659/microsoft-windows-insider-changes-unlock-experimental-features-without-vivetool",
+      "url": "https://www.theverge.com/games/910434/now-the-faa-says-gamers-are-the-answer-to-its-air-traffic-controller-shortage",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "My go-to electric screwdriver is on sale for over 50 percent off today",
+        "#text": "20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman’s house",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/909546/fanttik-s1-pro-cordless-electric-screwdriver-iniu-20w-portable-charger-deal-sale",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Amazon Luna axes third-party game purchases",
+        "#text": "How to watch the Artemis II astronauts return to Earth",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/910025/amazon-luna-third-party-games-subscriptions",
+      "url": "https://www.theverge.com/news/910397/how-to-watch-the-artemis-ii-astronauts-return-to-earth",
       "summary": "(要約準備中)"
     }
   ]
