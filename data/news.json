@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-04-11T19:04:46.594Z",
+  "updatedAt": "2026-04-12T03:46:07.154Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Artemis crew home safely after completing historic mission to the Moon",
-      "url": "https://www.bbc.com/news/articles/cr51z54d5rpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Four astronauts splashed down in the Pacific after a nine-day voyage that took them further from Earth than any humans."
+      "title": "Hungarians decide whether to end 16 years of Orbán rule and elect rival",
+      "url": "https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss",
+      "summary": "Most polls favour Péter Magyar, who fronts a grassroots party, but PM Viktor Orbán has been in a defiant mood."
     },
     {
       "source": "BBC World",
-      "title": "Frontrunner for California governor denies sexual assault allegations",
-      "url": "https://www.bbc.com/news/articles/c20qg3g9554o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Democratic congressman, a leading candidate in the race, has strongly denied the accusations saying he will fight with \"facts\"."
+      "title": "'It's a special thing to be on Planet Earth': Artemis crew welcomed home in Houston",
+      "url": "https://www.bbc.com/news/videos/cd7jzj9rg1qo?at_medium=RSS&at_campaign=rss",
+      "summary": "The four astronauts flew around the Moon in a nine-day voyage that took them further from Earth than any humans in history."
     },
     {
       "source": "BBC World",
-      "title": "Nearly 400 sentenced in Nigeria for links to militant Islamists",
-      "url": "https://www.bbc.com/news/articles/cvge1kdmpzwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Judges handed down sentences ranging from five years to life imprisonment following mass trials."
+      "title": "Why this disillusioned Trump voter spends hours searching Epstein files",
+      "url": "https://www.bbc.com/news/articles/cx237vmr2lyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Many who support the president have expressed frustration with how Trump's former attorney general Pam Bondi handled the Epstein files."
     },
     {
       "source": "BBC Technology",
@@ -40,6 +40,15 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "The Netherlands is the first European country to approve Tesla’s supervised Full Self-Driving",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/transportation/910717/netherlands-tesla-supervised-full-self-driving",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "Google says Polymarket bets showing up in News was an ‘error’",
         "@_type": "html"
       },
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/games/910110/pokemon-champions-bugs-balance-issues-vgc-newcomers",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Your article about AI doesn’t need AI art",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
       "summary": "(要約準備中)"
     }
   ]
