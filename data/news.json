@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-04-12T07:44:17.029Z",
+  "updatedAt": "2026-04-12T13:35:06.425Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Hungarians decide whether to end 16 years of Orbán rule and elect rival",
-      "url": "https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss",
-      "summary": "Most polls favour Péter Magyar, who fronts a grassroots party, but PM Viktor Orbán has been in a defiant mood."
+      "title": "After Iran talks falter, the big question is 'what happens next?'",
+      "url": "https://www.bbc.com/news/articles/c5y943x2g8qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Twenty-one hours was not enough to end 47 years of hostility between Iran and the US, writes the BBC's Lyse Doucet."
     },
     {
       "source": "BBC World",
-      "title": "'We need real peace': Easter truce fails to lift grim mood in war-torn Ukraine",
-      "url": "https://www.bbc.com/news/articles/cj0vn30574no?at_medium=RSS&at_campaign=rss",
-      "summary": "Easter festivities are muted in Kharkiv as Ukrainians expect fighting to flare up again after a weekend truce."
+      "title": "Asha Bhosle: The sound of Bollywood dies aged 92",
+      "url": "https://www.bbc.com/news/articles/c6ppd0qdp1do?at_medium=RSS&at_campaign=rss",
+      "summary": "Her infectious voice got fans dancing and singing, becoming the soundtrack for generations of Indians."
     },
     {
       "source": "BBC World",
-      "title": "At least 30 feared dead in crush at Haitian tourist site",
-      "url": "https://www.bbc.com/news/articles/cwyj8d49wzxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The incident occurred at a \"tourist event attended by many young people\", Haiti's prime minister says."
+      "title": "Ukraine and Russia accuse each other of hundreds of ceasefire violations",
+      "url": "https://www.bbc.com/news/articles/cz78y73v830o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukrainian President Volodymyr Zelensky says his nation's forces would respond \"symmetrically\" to Russian attacks."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "The Netherlands is the first European country to approve Tesla’s supervised Full Self-Driving",
+        "#text": "The Hisense UR9 is a great first shot against OLED’s bow",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/transportation/910717/netherlands-tesla-supervised-full-self-driving",
+      "url": "https://www.theverge.com/tech/910537/hisense-ur9-rgb-led-tv-review",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Google says Polymarket bets showing up in News was an ‘error’",
+        "#text": "How AT&#038;T created the most iconic phone ever",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/910691/google-news-polymarket-bets-error",
+      "url": "https://www.theverge.com/podcast/910725/western-electric-500-att-version-history",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Pokémon Champions is off to a rough start",
+        "#text": "The AI code wars are heating up",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/910110/pokemon-champions-bugs-balance-issues-vgc-newcomers",
+      "url": "https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic",
       "summary": "(要約準備中)"
     }
   ]
