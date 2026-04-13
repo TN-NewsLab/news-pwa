@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "OpenAI、ChatGPT Proの$100プランを発表 - Codexの使用制限をPlusと比べ5倍に",
-    "title_en": "OpenAI introduces ChatGPT Pro $100 tier with 5X usage limits for Codex compared to Plus",
-    "summary": "OpenAIは新たに$100のChatGPT Proサブスクリプションプランを導入し、Anthropicなどの競合から開発者や「バイブコード」要員を引きつけることを目的としています。このプランは、既存の$20のPlusプランに比べてCodexコーディングアプリケーションの使用制限が5倍となっており、Plusサブスクライバーの使用条件も変更されます。この動きは、Anthropicの急速な財務成長に応じて行われ、OpenAIは新しいプランを通じて機能と容量を強化し、競合の制限に対抗してプロフェッショナル開発者市場を取り戻すことを目指しています。",
-    "summary_en": "OpenAI has launched a new $100 ChatGPT Pro subscription plan, aimed at attracting developers and \"vibe coders\" from competitors like Anthropic. This plan offers five times greater usage limits on the Codex coding application compared to the existing $20 Plus plan, while also adjusting the usage terms for Plus subscribers. The move comes in response to the rapid financial growth of Anthropic, and OpenAI seeks to reclaim the professional developer market by offering enhanced features and capacity through its new tier, leveraging its recent competitive hires and positioning against rival restrictions.",
-    "link": "https://venturebeat.com/orchestration/openai-introduces-chatgpt-pro-usd100-tier-with-5x-usage-limits-for-codex",
+    "title": "開発者はすでにローカルでAIを実行しています：エンドデバイス推論がCISOの新たな盲点となる理由",
+    "title_en": "Your developers are already running AI locally: Why on-device inference is the CISO’s new blind spot",
+    "summary": "過去18か月間、生成AIを管理するCISOのプレイブックはネットワークアクセスの制御に焦点を当てていましたが、ローカル推論、すなわち「自分のモデルを持ち込む」(BYOM)の台頭により、従業員が外部API呼び出しなしでAIを実行できるようになることで、このモデルが脅かされています。この変化は、従業員の多くがモデルの使用に対する監視や適切なガバナンスなしに運営しているため、コードの整合性、ライセンス契約の遵守、悪意あるソフトウェアへの露出に関する重大なセキュリティリスクを引き起こします。これに対処するために、専門家はエンドポイントガバナンスへの移行、キュレーションされた内部モデルハブの作成、ローカルAI使用を包含するポリシーの更新を推奨し、セキュリティを確保しつつ生産性を妨げないようにすることを提案しています。",
+    "summary_en": "Over the past 18 months, the CISO playbook for managing generative AI has focused on controlling network access, but the rise of local inference, or \"Bring Your Own Model\" (BYOM), threatens this model by allowing employees to run AI without external API calls. This shift raises significant security risks related to code integrity, compliance with licensing agreements, and potential exposure to malicious software, as many employees operate without oversight or proper governance of model usage. To address this, experts recommend transitioning to endpoint governance, creating curated internal model hubs, and updating policies to encompass local AI usage, ensuring security without hindering productivity.",
+    "link": "https://venturebeat.com/security/your-developers-are-already-running-ai-locally-why-on-device-inference-is",
     "category": "AI",
-    "publishedAt": "2026-04-10 16:46"
+    "publishedAt": "2026-04-13 17:42"
   },
   {
     "source": "VentureBeat",
-    "title": "クロード、オープンクロー、そして新しい現実：AIエージェントが登場 — そして混沌も",
-    "title_en": "Claude, OpenClaw and the new reality: AI agents are here — and so is the chaos",
-    "summary": "オープンクローやグーグルのアンチグラビティなどのツールに象徴されるエージェント型AIの台頭は、雇用の安全性や人工一般知性（AGI）に対する潜在的な危険性について重要な議論を引き起こしています。特定のタスクを実行するために設計されたこれらの自律エージェントは、コーディングや法的プロセスなど、多大な利益をもたらす一方で、ユーザーが十分な安全策なしに広範な権限を付与する場合、リスクも伴います。その潜在能力を責任を持って活用するためには、アカウンタビリティと透明性の原則を実施し、エージェントが可能な誤用やエラーを軽減するために制御された枠組み内で運営されることを保証することが重要です。",
-    "summary_en": "The rise of agentic AI, marked by tools like OpenClaw and Google's Antigravity, has sparked significant discussions about its implications for job security and the potential dangers of reaching artificial general intelligence (AGI). These autonomous agents, designed to perform specific tasks like coding and legal processes, offer both tremendous benefits and risks, especially if users grant them extensive powers without adequate safeguards. To harness their potential responsibly, it's essential to implement principles of accountability and transparency, ensuring that agents operate within a controlled framework that mitigates possible misuse and errors.",
-    "link": "https://venturebeat.com/infrastructure/claude-openclaw-and-the-new-reality-ai-agents-are-here-and-so-is-the-chaos",
+    "title": "インテュイット、税法の実施を数ヶ月から数時間に短縮 — 規制産業チームが適応できるワークフローを構築",
+    "title_en": "Intuit compressed months of tax code implementation into hours — and built a workflow any regulated-industry team can adapt",
+    "summary": "インテュイットのターボタックスチームは、900ページに及ぶ「ワン・ビッグ・ビューティフル・ビル（OBBB）」という複雑な法律に対処するためにAIを活用し、通常は長期を要する実施スケジュールを数日間に圧縮しました。文書分析に大規模言語モデルを使用し、コーディングやテストのためのカスタムツールを活用することで、複雑な税規制を実行可能なコードに変換し、効率性と信頼性を向上させました。このアプローチは、彼らのワークフローを改善しただけでなく、複雑な文書と厳しい納期に直面する他の規制産業にとってもテンプレートを提供します。",
+    "summary_en": "The TurboTax team at Intuit successfully leveraged AI to navigate the complexities of the One Big Beautiful Bill (OBBB), a 900-page piece of legislation, significantly compressing a normally lengthy implementation timeline into just days without sacrificing accuracy. By using large language models for document analysis and custom tools for coding and testing, they transformed how to distill complex tax regulations into actionable code, enhancing efficiency and reliability. This approach not only improved their workflow but also offers a template for other regulated industries facing similar challenges with complex documents and tight deadlines.",
+    "link": "https://venturebeat.com/data/intuit-compressed-months-of-tax-code-implementation-into-hours-and-built-a",
     "category": "AI",
-    "publishedAt": "2026-04-10 16:46"
+    "publishedAt": "2026-04-13 17:42"
   },
   {
     "source": "NHK",
-    "title": "株価 一時 約1か月ぶりの5万7000円台に",
+    "title": "関税措置で引き受け停止の米国向け郵便物 14日に再開 日本郵便",
     "title_en": "",
-    "summary": "東京株式市場で日経平均株価が一時1100円以上上昇し、約1か月ぶりに5万7000円台に達しました。この成長は市場の活況を反映しています。投資家の関心が高まっている状況が伺えます。",
+    "summary": "日本郵便は、アメリカ向け郵便物の引き受けを再開すると発表しました。これは、トランプ政権の関税措置の影響で中断されていたものです。手続きの整備が完了したため、再開が可能になりました。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260410/k10015095401000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260413/k10015098281000.html",
     "category": "経済",
-    "publishedAt": "2026-04-10 16:46"
+    "publishedAt": "2026-04-13 17:43"
   },
   {
     "source": "BBC",
-    "title": "トランプ大統領、イランのホルムズ海峡の取り扱いについて「私たちが合意したものではない」と発言",
-    "title_en": "Trump says Iran's handling of Strait of Hormuz is 'not the agreement we have'",
-    "summary": "米国の大統領は、戦略的な水路であるホルムズ海峡に対するイランの取り扱いが効果的でないと批判しました。このコメントは、イスラエルとレバノンが和平交渉を開始する準備を進めている中で発表され、地域の関係改善に向けた潜在的な変化を示唆しています。大統領の発言は、中東の地政学的緊張の継続を浮き彫りにしています。",
-    "summary_en": "The U.S. president criticized Iran for its handling of a strategic waterway, suggesting it has been ineffective in its management. This comment comes as Israel and Lebanon prepare to start peace talks, indicating a potential shift towards improved relations in the region. The president's remarks highlight ongoing tensions in Middle Eastern geopolitics.",
-    "link": "https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&at_campaign=rss",
+    "title": "オルバン時代、ペーテル・マジャールによるハンガリー選挙の大勝で終焉",
+    "title_en": "Orbán era swept away by Péter Magyar's Hungary election landslide",
+    "summary": "ヴィクトル・オルバンの長期政権が終了し、45歳の元党内部者が多数の支持を集めて有権者の過半数を勝ち取った。今回の大きな政治的変化は、オルバン政権下の数年間を経て、ハンガリー国民の変化への欲求を示している。新リーダーの成功は、現政権への不満の高まりとハンガリーの政治における新しい方向性への要望を浮き彫りにしている。",
+    "summary_en": "Viktor Orbán's long tenure as Hungary's leader has come to an end, as he was defeated by a 45-year-old former party insider who garnered enough support to win over the majority of voters. This significant political shift indicates a desire for change among the Hungarian populace after years of Orbán's rule. The new leader's success highlights a growing discontent with the current regime and a push for new direction in Hungarian politics.",
+    "link": "https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-04-10 16:46"
+    "publishedAt": "2026-04-13 17:43"
   },
   {
     "source": "NHK",
-    "title": "高市首相 石油「国家備蓄」約20日分を追加放出へ 来月上旬以降",
+    "title": "血液のがんなど患者増で経過観察をかかりつけ医に 福島・三重",
     "title_en": "",
-    "summary": "中東情勢を受け、政府は関係閣僚会議を開き、高市総理は原油の安定供給に向け、5月上旬以降に国家備蓄の約20日分を追加放出する方針を示しました。代替ルートによる調達で年越しの供給確保にめどが立っていると説明する一方、シンナーや軽油などの供給の目詰まり解消を指示しました。経産相は必要量は確保できているとしつつ、偏りの解消に全力を挙げると述べました。野党は対策パッケージと補正予算の提示を求めています。",
+    "summary": "治療の進歩により、血液のがん患者の生存率が向上しています。再発がないか経過観察を行う患者を地域のかかりつけ医に受け入れてもらう取り組みが始まります。専門学会と医師会が連携して推進する予定です。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/na-k10015096281000",
+    "link": "http://www3.nhk.or.jp/news/html/20260413/k10015098311000.html",
     "category": "その他",
-    "publishedAt": "2026-04-10 16:46"
+    "publishedAt": "2026-04-13 17:43"
   }
 ]
