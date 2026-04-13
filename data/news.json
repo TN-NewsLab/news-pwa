@@ -1,9 +1,15 @@
 {
-  "updatedAt": "2026-04-12T19:08:23.050Z",
+  "updatedAt": "2026-04-13T03:52:40.986Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Trump's Strait of Hormuz blockade threat raises risks and leaves predicaments unchanged",
+      "title": "Orbán era swept away by Péter Magyar's Hungary election landslide",
+      "url": "https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Viktor Orbán's 16-year rule is over, defeated by a 45-year-old ex-party insider who convinced a majority of Hungarians to oust him."
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump's blockade threat raises risks and leaves predicaments unchanged",
       "url": "https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&at_campaign=rss",
       "summary": "The conflict is now a test of wills - Iran’s capacity to absorb strikes versus Trump’s tolerance for the war's costs."
     },
@@ -12,12 +18,6 @@
       "title": "Asha Bhosle: The sound of Bollywood dies aged 92",
       "url": "https://www.bbc.com/news/articles/c6ppd0qdp1do?at_medium=RSS&at_campaign=rss",
       "summary": "Her infectious voice got fans dancing and singing, becoming the soundtrack for generations of Indians."
-    },
-    {
-      "source": "BBC World",
-      "title": "Civilians feared killed after reports of air strike on Nigerian market",
-      "url": "https://www.bbc.com/news/articles/cgk021z3ejpo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Nigerian Air Force has not addressed reports it struck a village market while targeting militants."
     },
     {
       "source": "BBC Technology",
@@ -40,6 +40,15 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "Room for the Moon is thrillingly weird experimental pop",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/entertainment/910826/room-for-the-moon-is-thrillingly-weird-experimental-pop",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "Rockstar Games says hack will have ‘no impact’",
         "@_type": "html"
       },
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/gadgets/909928/nintendo-switch-2-super-mario-galaxy-bundle-deal-sale",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "You can grab a refurbished 2021 Kindle Paperwhite starting at just $49.99",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/gadgets/910482/2021-amazon-kindle-paperwhite-signature-edition-refurbished-woot-deal-sale",
       "summary": "(要約準備中)"
     }
   ]
