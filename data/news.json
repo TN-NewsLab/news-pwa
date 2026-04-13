@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-13T08:22:30.154Z",
+  "updatedAt": "2026-04-13T14:07:28.307Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,15 +9,27 @@
     },
     {
       "source": "BBC World",
-      "title": "Viktor Orbán's Hungarian experiment runs out of steam",
-      "url": "https://www.bbc.com/news/articles/cy81lg4yzeyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Péter Magyar's historic win offers peace for a country exhausted by the tensions of Viktor Orbán's rule,  Nick Thorpe reports from Budapest."
+      "title": "Katya Adler: Jubilation in Budapest will be felt in Europe but leaves Moscow cold",
+      "url": "https://www.bbc.com/news/articles/cn0wzxqyx17o?at_medium=RSS&at_campaign=rss",
+      "summary": "European leaders share Hungarians' joy over the ousting of Vladimir Putin's EU ally, writes the BBC's Europe editor."
     },
     {
       "source": "BBC World",
-      "title": "Trump's threat raises risks and leaves predicaments unchanged",
-      "url": "https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The conflict is now a test of wills - Iran’s capacity to absorb strikes versus Trump’s tolerance for the war's costs."
+      "title": "Pope says he has 'no fear' of Trump after scathing criticism",
+      "url": "https://www.bbc.com/news/articles/cp841y07w5xo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president accuses Leo of being \"weak on crime and terrible for foreign policy\"."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Roblox defends expanded age‑checks after parents raise concerns over errors",
+      "url": "https://www.bbc.com/news/articles/cj94y9r0p10o?at_medium=RSS&at_campaign=rss",
+      "summary": "With 144m daily users, the gaming company is extending its tech to introduce two age‑specific accounts. "
+    },
+    {
+      "source": "BBC Technology",
+      "title": "GTA-maker Rockstar Games hacked again but downplays impact",
+      "url": "https://www.bbc.com/news/articles/cx2dg5g1le7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The incident marks the second time the games giant has been hacked by young, English-speaking hackers."
     },
     {
       "source": "BBC Technology",
@@ -26,42 +38,30 @@
       "summary": "The Facebook owner recently lost a landmark social media addiction trial in California"
     },
     {
-      "source": "BBC Technology",
-      "title": "OpenAI boss Sam Altman's home targeted with Molotov cocktail",
-      "url": "https://www.bbc.com/news/articles/czx91rdxpyeo?at_medium=RSS&at_campaign=rss",
-      "summary": "San Francisco police have arrested a 20-year-old suspect after a perimeter gate was set alight."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Dancer with MND performs on stage again through digital avatar",
-      "url": "https://www.bbc.com/news/articles/cgqkz5lzvnwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Breanna Olson said brainwave tech was able to re-establish the expression and connection she felt had gone."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Huawei beats Apple and Samsung with new wide foldable",
+        "#text": "SwitchBot’s button-pressing robot is now available with a rechargeable battery",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/910867/huawei-pura-x-max-foldable-phone-wide-china",
+      "url": "https://www.theverge.com/tech/909765/switchbot-bot-rechargeable-smart-home-usb-c",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Room for the Moon is thrillingly weird experimental pop",
+        "#text": "Can Puck reinvent the news business for the influencer age?",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/910826/room-for-the-moon-is-thrillingly-weird-experimental-pop",
+      "url": "https://www.theverge.com/podcast/910443/can-puck-reinvent-the-news-business-for-the-influencer-age",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Rockstar Games says hack will have ‘no impact’",
+        "#text": "Mark Zuckerberg is reportedly building an AI clone to replace him in meetings",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/910815/rockstar-games-says-hack-will-have-no-impact",
+      "url": "https://www.theverge.com/tech/910990/meta-ceo-mark-zuckerberg-ai-clone",
       "summary": "(要約準備中)"
     }
   ]
