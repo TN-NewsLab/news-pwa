@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-13T14:07:28.307Z",
+  "updatedAt": "2026-04-13T19:38:12.556Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,15 +9,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Katya Adler: Jubilation in Budapest will be felt in Europe but leaves Moscow cold",
-      "url": "https://www.bbc.com/news/articles/cn0wzxqyx17o?at_medium=RSS&at_campaign=rss",
-      "summary": "European leaders share Hungarians' joy over the ousting of Vladimir Putin's EU ally, writes the BBC's Europe editor."
+      "title": "Israelis war-weary but most oppose Iran ceasefire, poll suggests",
+      "url": "https://www.bbc.com/news/articles/clyxgxyeqpgo?at_medium=RSS&at_campaign=rss",
+      "summary": "The vast majority did not believe Hezbollah or Iran had been severely weakened by weeks of Israeli and US attacks, according to the poll."
     },
     {
       "source": "BBC World",
-      "title": "Pope says he has 'no fear' of Trump after scathing criticism",
+      "title": "Italian PM condemns ally Trump over 'unacceptable' Pope criticism",
       "url": "https://www.bbc.com/news/articles/cp841y07w5xo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president accuses Leo of being \"weak on crime and terrible for foreign policy\"."
+      "summary": "Italy's prime minister and the US president are close allies, but Trump has refused to apologise to the \"very weak\" Pope Leo XIV."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "SwitchBot’s button-pressing robot is now available with a rechargeable battery",
+        "#text": "The Apple Watch Series 11 has returned to best-ever price",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/909765/switchbot-bot-rechargeable-smart-home-usb-c",
+      "url": "https://www.theverge.com/gadgets/911191/apple-watch-series-11-smartwatch-amazon-april-deal-sale",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Can Puck reinvent the news business for the influencer age?",
+        "#text": "Xbox Game Pass &#8216;has become too expensive,’ says Microsoft’s new gaming chief in leaked memo",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/podcast/910443/can-puck-reinvent-the-news-business-for-the-influencer-age",
+      "url": "https://www.theverge.com/tech/911182/microsoft-xbox-game-pass-too-expensive-leaked-memo",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Mark Zuckerberg is reportedly building an AI clone to replace him in meetings",
+        "#text": "You can make a multicolor MacBook Neo out of Apple&#8217;s spare parts",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/910990/meta-ceo-mark-zuckerberg-ai-clone",
+      "url": "https://www.theverge.com/tech/911172/macbook-neo-apple-spare-parts-multicolor",
       "summary": "(要約準備中)"
     }
   ]
