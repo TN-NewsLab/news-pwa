@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-13T03:52:40.986Z",
+  "updatedAt": "2026-04-13T08:22:30.154Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,21 +9,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Trump's blockade threat raises risks and leaves predicaments unchanged",
-      "url": "https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The conflict is now a test of wills - Iran’s capacity to absorb strikes versus Trump’s tolerance for the war's costs."
+      "title": "Viktor Orbán's Hungarian experiment runs out of steam",
+      "url": "https://www.bbc.com/news/articles/cy81lg4yzeyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Péter Magyar's historic win offers peace for a country exhausted by the tensions of Viktor Orbán's rule,  Nick Thorpe reports from Budapest."
     },
     {
       "source": "BBC World",
-      "title": "Asha Bhosle: The sound of Bollywood dies aged 92",
-      "url": "https://www.bbc.com/news/articles/c6ppd0qdp1do?at_medium=RSS&at_campaign=rss",
-      "summary": "Her infectious voice got fans dancing and singing, becoming the soundtrack for generations of Indians."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Dancer with MND performs on stage again through digital avatar",
-      "url": "https://www.bbc.com/news/articles/cgqkz5lzvnwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Breanna Olson said brainwave tech was able to re-establish the expression and connection she felt had gone."
+      "title": "Trump's threat raises risks and leaves predicaments unchanged",
+      "url": "https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The conflict is now a test of wills - Iran’s capacity to absorb strikes versus Trump’s tolerance for the war's costs."
     },
     {
       "source": "BBC Technology",
@@ -33,9 +27,24 @@
     },
     {
       "source": "BBC Technology",
-      "title": "White House staff told not to place bets on prediction markets",
-      "url": "https://www.bbc.com/news/articles/cgld65x396go?at_medium=RSS&at_campaign=rss",
-      "summary": "The gambling platforms have grown in popularity, with some users making wagers on conflicts."
+      "title": "OpenAI boss Sam Altman's home targeted with Molotov cocktail",
+      "url": "https://www.bbc.com/news/articles/czx91rdxpyeo?at_medium=RSS&at_campaign=rss",
+      "summary": "San Francisco police have arrested a 20-year-old suspect after a perimeter gate was set alight."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Dancer with MND performs on stage again through digital avatar",
+      "url": "https://www.bbc.com/news/articles/cgqkz5lzvnwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Breanna Olson said brainwave tech was able to re-establish the expression and connection she felt had gone."
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "Huawei beats Apple and Samsung with new wide foldable",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/tech/910867/huawei-pura-x-max-foldable-phone-wide-china",
+      "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/games/910815/rockstar-games-says-hack-will-have-no-impact",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "You can save $20 on the Super Mario Galaxy game bundle when you buy a Nintendo Switch 2",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/gadgets/909928/nintendo-switch-2-super-mario-galaxy-bundle-deal-sale",
       "summary": "(要約準備中)"
     }
   ]
