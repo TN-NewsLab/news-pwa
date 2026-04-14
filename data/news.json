@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-04-14T14:13:01.263Z",
+  "updatedAt": "2026-04-14T19:40:40.657Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Lebanon seeks peace, but Hezbollah needs to be convinced first",
-      "url": "https://www.bbc.com/news/articles/cr51l794mlyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Lebanese government go into peace talks with limited influence over the group."
+      "title": "Hamas rejects Gaza disarmament plan, Palestinian official says",
+      "url": "https://www.bbc.com/news/articles/cn4vvxxg8lgo?at_medium=RSS&at_campaign=rss",
+      "summary": "The official tells the BBC that the armed group will not move forward with talks until Israel fully complies with its commitments."
     },
     {
       "source": "BBC World",
-      "title": "Hospital at centre of child HIV outbreak caught reusing syringes in undercover filming",
-      "url": "https://www.bbc.com/news/articles/clyrd818gd2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Footage shows staff in Pakistan injecting without gloves and reusing syringes, but the hospital boss refuses to acknowledge it is genuine."
+      "title": "JD Vance defends backing 'great guy' Orbán's campaign after landslide defeat",
+      "url": "https://www.bbc.com/news/articles/c8dll93j7d5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Hungary's leader was a \"great guy\" who did a \"very good job\", the US vice-president said, but he was sure he could work with Péter Magyar."
     },
     {
       "source": "BBC World",
-      "title": "Greek police using masked migrants to forcibly push other migrants back across border",
-      "url": "https://www.bbc.com/news/articles/c86vpq42dl0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Mercenaries recruited since at least 2020 for illegal migrant ‘pushbacks’ in Greece, BBC told"
+      "title": "Another woman accuses Swalwell of drugging and raping her in 2018",
+      "url": "https://www.bbc.com/news/articles/c78rr9r4e5po?at_medium=RSS&at_campaign=rss",
+      "summary": "Lonna Drewes accused Swalwell of drugging her drink before assaulting her in a hotel room."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Has Google’s AI watermarking system been reverse-engineered?",
+        "#text": "Dozens of 4K Blu-rays are included in Amazon’s three for $33 sale",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/911579/google-synthid-ai-watermarking-system-reverse-engineered",
+      "url": "https://www.theverge.com/gadgets/911806/4k-bluray-movie-three-for-33-amazon-deal-sale",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Anbernic’s new handheld is a pocket-friendly Android device with a swiveling screen",
+        "#text": "Prime Video is bundling Apple TV Plus and Peacock for a limited time",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/911600/anbernic-rg-rotate-square-handheld-gaming-console-emulator",
+      "url": "https://www.theverge.com/streaming/911793/amazon-prime-video-apple-tv-plus-peacock-bundle",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Ben McKenzie vs. crypto",
+        "#text": "Privacy advocates want Google to stop handing consumer data over to ICE",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/podcast/911605/ben-mckenzie-crypto-cgm-wearables-vergecast",
+      "url": "https://www.theverge.com/news/911789/eff-google-giving-data-ice-california-new-york",
       "summary": "(要約準備中)"
     }
   ]
