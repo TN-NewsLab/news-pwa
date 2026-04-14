@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2026-04-13T19:38:12.556Z",
+  "updatedAt": "2026-04-14T03:42:40.883Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Orbán era swept away by Péter Magyar's Hungary election landslide",
-      "url": "https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Viktor Orbán's 16-year rule is over, defeated by a 45-year-old ex-party insider who convinced a majority of Hungarians to oust him."
+      "title": "Lebanon enters talks with Israel but with no cards to play",
+      "url": "https://www.bbc.com/news/articles/cr51l794mlyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Lebanese government go into peace talks with limited influence over the group."
     },
     {
       "source": "BBC World",
-      "title": "Israelis war-weary but most oppose Iran ceasefire, poll suggests",
-      "url": "https://www.bbc.com/news/articles/clyxgxyeqpgo?at_medium=RSS&at_campaign=rss",
-      "summary": "The vast majority did not believe Hezbollah or Iran had been severely weakened by weeks of Israeli and US attacks, according to the poll."
+      "title": "BBC joins paramedics on duty in Lebanon after Israeli strikes",
+      "url": "https://www.bbc.com/news/videos/cwyk8rz1pzyo?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Middle East correspondent Hugo Bachega joins paramedics on duty in Nabatieh - a city that was once vibrant, but is now abandoned."
     },
     {
       "source": "BBC World",
-      "title": "Italian PM condemns ally Trump over 'unacceptable' Pope criticism",
-      "url": "https://www.bbc.com/news/articles/cp841y07w5xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Italy's prime minister and the US president are close allies, but Trump has refused to apologise to the \"very weak\" Pope Leo XIV."
+      "title": "Hungary's next PM would pick up if Putin calls and tell him to stop Ukraine war",
+      "url": "https://www.bbc.com/news/articles/cd6lzezp4zvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Russia has offered \"pragmatic\" relations, but Péter Magyar says he will not call Vladimir Putin himself."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Man faces attempted murder charges in attack on home of OpenAI's Sam Altman",
+      "url": "https://www.bbc.com/news/articles/cq597n1pg6lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Texas man, who also faces federal felony charges, allegedly had documents advocating for violence against AI executives."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "The incident marks the second time the games giant has been hacked by young, English-speaking hackers."
     },
     {
-      "source": "BBC Technology",
-      "title": "Meta pulls Facebook ads recruiting for social media addiction lawsuits",
-      "url": "https://www.bbc.com/news/articles/czjw0zgz9zyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Facebook owner recently lost a landmark social media addiction trial in California"
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "The Apple Watch Series 11 has returned to best-ever price",
+        "#text": "Daniel Moreno-Gama is facing federal charges for attacking Sam Altman&#8217;s home and OpenAI’s HQ",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/911191/apple-watch-series-11-smartwatch-amazon-april-deal-sale",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/911423/openai-sam-altman-attack",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Xbox Game Pass &#8216;has become too expensive,’ says Microsoft’s new gaming chief in leaked memo",
+        "#text": "The Mercedes EQS returns with massive range and charging gains",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/911182/microsoft-xbox-game-pass-too-expensive-leaked-memo",
+      "url": "https://www.theverge.com/transportation/911196/mercedes-benz-eqs-ev-range-battery-charging-2027",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "You can make a multicolor MacBook Neo out of Apple&#8217;s spare parts",
+        "#text": "Justin Bieber&#8217;s YouTube Coachella set had nothing to do with who owns his music",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/911172/macbook-neo-apple-spare-parts-multicolor",
+      "url": "https://www.theverge.com/entertainment/911340/justin-bieber-youtube-coachella",
       "summary": "(要約準備中)"
     }
   ]
