@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "開発者はすでにローカルでAIを実行しています：エンドデバイス推論がCISOの新たな盲点となる理由",
-    "title_en": "Your developers are already running AI locally: Why on-device inference is the CISO’s new blind spot",
-    "summary": "過去18か月間、生成AIを管理するCISOのプレイブックはネットワークアクセスの制御に焦点を当てていましたが、ローカル推論、すなわち「自分のモデルを持ち込む」(BYOM)の台頭により、従業員が外部API呼び出しなしでAIを実行できるようになることで、このモデルが脅かされています。この変化は、従業員の多くがモデルの使用に対する監視や適切なガバナンスなしに運営しているため、コードの整合性、ライセンス契約の遵守、悪意あるソフトウェアへの露出に関する重大なセキュリティリスクを引き起こします。これに対処するために、専門家はエンドポイントガバナンスへの移行、キュレーションされた内部モデルハブの作成、ローカルAI使用を包含するポリシーの更新を推奨し、セキュリティを確保しつつ生産性を妨げないようにすることを提案しています。",
-    "summary_en": "Over the past 18 months, the CISO playbook for managing generative AI has focused on controlling network access, but the rise of local inference, or \"Bring Your Own Model\" (BYOM), threatens this model by allowing employees to run AI without external API calls. This shift raises significant security risks related to code integrity, compliance with licensing agreements, and potential exposure to malicious software, as many employees operate without oversight or proper governance of model usage. To address this, experts recommend transitioning to endpoint governance, creating curated internal model hubs, and updating policies to encompass local AI usage, ensuring security without hindering productivity.",
-    "link": "https://venturebeat.com/security/your-developers-are-already-running-ai-locally-why-on-device-inference-is",
+    "title": "AnthropicはClaudeを「弱体化」させているのか？リーダーたちが反発する中、ユーザーから性能低下の報告が増加",
+    "title_en": "Is Anthropic 'nerfing' Claude? Users increasingly report performance degradation as leaders push back",
+    "summary": "開発者やAIユーザーは、AnthropicのClaude Opus 4.6およびClaude Codeモデルが最近のアップデート以降、推論の深さが減少し、トークン使用量が増加するなど、能力や信頼性が低下しているとの懸念をSNSで高めています。これらの苦情は「AIシュリンクフレーション」と呼ばれ、一部のユーザーは価格の変化がないまま品質が低下していると感じていることを示唆しています。また、ピーク需要時に意図的に性能を制限しているとの非難も出ていますが、Anthropicはモデルを秘密裏にダウングレードしたことを否定しています。同社が変更はモデルの劣化ではなく製品調整に起因するという主張をしているにもかかわらず、特にOpenAIのような競合他社が市場で勢いを増す中、Anthropicとユーザーの間には信頼のギャップが生じています。",
+    "summary_en": "Developers and AI users have expressed growing concerns on social media that Anthropic's Claude Opus 4.6 and Claude Code models have become less capable and reliable, citing issues such as reduced reasoning depth and increased token usage since recent updates. These complaints, some labeled as “AI shrinkflation,” suggest that users feel they are receiving a diminished product without changes in pricing, and accusations of intentional throttling during peak demand have surfaced, although Anthropic has denied secretly downgrading models. Despite the company's assertions that changes stem from product adjustments rather than model degradation, a trust gap has emerged between Anthropic and its users, particularly as competitors like OpenAI gain traction in the market.",
+    "link": "https://venturebeat.com/technology/is-anthropic-nerfing-claude-users-increasingly-report-performance",
     "category": "AI",
-    "publishedAt": "2026-04-13 17:42"
+    "publishedAt": "2026-04-14 17:33"
   },
   {
     "source": "VentureBeat",
-    "title": "インテュイット、税法の実施を数ヶ月から数時間に短縮 — 規制産業チームが適応できるワークフローを構築",
-    "title_en": "Intuit compressed months of tax code implementation into hours — and built a workflow any regulated-industry team can adapt",
-    "summary": "インテュイットのターボタックスチームは、900ページに及ぶ「ワン・ビッグ・ビューティフル・ビル（OBBB）」という複雑な法律に対処するためにAIを活用し、通常は長期を要する実施スケジュールを数日間に圧縮しました。文書分析に大規模言語モデルを使用し、コーディングやテストのためのカスタムツールを活用することで、複雑な税規制を実行可能なコードに変換し、効率性と信頼性を向上させました。このアプローチは、彼らのワークフローを改善しただけでなく、複雑な文書と厳しい納期に直面する他の規制産業にとってもテンプレートを提供します。",
-    "summary_en": "The TurboTax team at Intuit successfully leveraged AI to navigate the complexities of the One Big Beautiful Bill (OBBB), a 900-page piece of legislation, significantly compressing a normally lengthy implementation timeline into just days without sacrificing accuracy. By using large language models for document analysis and custom tools for coding and testing, they transformed how to distill complex tax regulations into actionable code, enhancing efficiency and reliability. This approach not only improved their workflow but also offers a template for other regulated industries facing similar challenges with complex documents and tight deadlines.",
-    "link": "https://venturebeat.com/data/intuit-compressed-months-of-tax-code-implementation-into-hours-and-built-a",
+    "title": "あなたの開発者たちはすでにAIをローカルで運用しています: デバイス上の推論がCISOの新たな盲点となる理由",
+    "title_en": "Your developers are already running AI locally: Why on-device inference is the CISO’s new blind spot",
+    "summary": "この記事では、生成AIの使用が急増する中で、最高情報セキュリティ責任者（CISO）が直面する進化する課題について論じています。特に、従業員が自分のデバイス上で大規模言語モデルをローカルで運用するトレンドが、重要なセキュリティの盲点を生み出しています。従来のセキュリティモデルがネットワーク監視を通じてデータの流出を制御することに焦点を当てているため、その効果が薄れており、リスクはローカルモデルの使用に伴うデータの整合性、コンプライアンス、ライセンスの問題に移ってきています。この記事は、組織がセキュリティ措置をエンドポイントまで展開し、内部モデルのハブを整備し、適切なローカルAIモデルの使用を確保するためにポリシーを更新する必要性を強調しています。",
+    "summary_en": "The article discusses the evolving challenges faced by Chief Information Security Officers (CISOs) regarding the burgeoning use of generative AI, particularly the trend of employees running large language models locally on their devices, which creates significant security blind spots. As traditional security models focused on controlling data exfiltration through network monitoring become ineffective, the risks now center around data integrity, compliance, and licensing issues associated with local model use. The piece emphasizes the need for organizations to shift security measures down to the endpoint, introduce curated internal model hubs, and update policies to ensure appropriate governance of local AI model usage while maintaining productivity.",
+    "link": "https://venturebeat.com/security/your-developers-are-already-running-ai-locally-why-on-device-inference-is",
     "category": "AI",
-    "publishedAt": "2026-04-13 17:42"
+    "publishedAt": "2026-04-14 17:33"
   },
   {
     "source": "NHK",
-    "title": "関税措置で引き受け停止の米国向け郵便物 14日に再開 日本郵便",
+    "title": "株価が上昇 軍事作戦直後の水準に 米とイラン協議の再開期待で",
     "title_en": "",
-    "summary": "日本郵便は、アメリカ向け郵便物の引き受けを再開すると発表しました。これは、トランプ政権の関税措置の影響で中断されていたものです。手続きの整備が完了したため、再開が可能になりました。",
+    "summary": "最近、東京株式市場では、アメリカとイランの協議再開への期待から日経平均株価が上昇しました。終値は、イランへの軍事作戦が開始された先月初め以来の高水準となりました。投資家の関心が高まっています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260413/k10015098281000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260414/k10015098761000.html",
     "category": "経済",
-    "publishedAt": "2026-04-13 17:43"
+    "publishedAt": "2026-04-14 17:33"
   },
   {
     "source": "BBC",
-    "title": "オルバン時代、ペーテル・マジャールによるハンガリー選挙の大勝で終焉",
-    "title_en": "Orbán era swept away by Péter Magyar's Hungary election landslide",
-    "summary": "ヴィクトル・オルバンの長期政権が終了し、45歳の元党内部者が多数の支持を集めて有権者の過半数を勝ち取った。今回の大きな政治的変化は、オルバン政権下の数年間を経て、ハンガリー国民の変化への欲求を示している。新リーダーの成功は、現政権への不満の高まりとハンガリーの政治における新しい方向性への要望を浮き彫りにしている。",
-    "summary_en": "Viktor Orbán's long tenure as Hungary's leader has come to an end, as he was defeated by a 45-year-old former party insider who garnered enough support to win over the majority of voters. This significant political shift indicates a desire for change among the Hungarian populace after years of Orbán's rule. The new leader's success highlights a growing discontent with the current regime and a push for new direction in Hungarian politics.",
-    "link": "https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&at_campaign=rss",
+    "title": "レバノンは平和を求めているが、まずヒズボラを納得させる必要がある",
+    "title_en": "Lebanon seeks peace, but Hezbollah needs to be convinced first",
+    "summary": "レバノン政府は平和交渉に入るが、交渉に関与するグループへの影響力が限られているため、課題に直面している。この状況は、政府が進行中の紛争に対する有意義な解決策を促進する能力を複雑にしている。その結果、交渉の成果は不確実であり、レバノンで持続可能な平和を実現することの困難さが浮き彫りになっている。",
+    "summary_en": "The Lebanese government is entering peace talks, but it faces challenges due to its limited influence over the group involved in the negotiations. This situation complicates the government's ability to facilitate a meaningful resolution to ongoing conflicts. As a result, the outcome of the talks remains uncertain, highlighting the difficulties in achieving lasting peace in Lebanon.",
+    "link": "https://www.bbc.com/news/articles/cr51l794mlyo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-04-13 17:43"
+    "publishedAt": "2026-04-14 17:33"
   },
   {
     "source": "NHK",
-    "title": "血液のがんなど患者増で経過観察をかかりつけ医に 福島・三重",
+    "title": "奈良 薬師寺の国宝「仏足石」に液体か 警察が捜査",
     "title_en": "",
-    "summary": "治療の進歩により、血液のがん患者の生存率が向上しています。再発がないか経過観察を行う患者を地域のかかりつけ医に受け入れてもらう取り組みが始まります。専門学会と医師会が連携して推進する予定です。",
+    "summary": "奈良市の薬師寺で、国宝の「仏足石」に液体のようなものがかけられた跡が発見されました。これにより、警察は文化財保護法違反の疑いで捜査を開始しています。仏足石は釈迦の足跡を刻んだとされる重要な文化財です。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260413/k10015098311000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260414/k10015099031000.html",
     "category": "その他",
-    "publishedAt": "2026-04-13 17:43"
+    "publishedAt": "2026-04-14 17:33"
   }
 ]
