@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-14T08:03:32.823Z",
+  "updatedAt": "2026-04-14T14:13:01.263Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,15 +9,15 @@
     },
     {
       "source": "BBC World",
-      "title": "BBC joins paramedics on duty in Lebanon after Israeli strikes",
-      "url": "https://www.bbc.com/news/videos/cwyk8rz1pzyo?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Middle East correspondent Hugo Bachega joins paramedics on duty in Nabatieh - a city that was once vibrant, but is now abandoned."
+      "title": "Hospital at centre of child HIV outbreak caught reusing syringes in undercover filming",
+      "url": "https://www.bbc.com/news/articles/clyrd818gd2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Footage shows staff in Pakistan injecting without gloves and reusing syringes, but the hospital boss refuses to acknowledge it is genuine."
     },
     {
       "source": "BBC World",
-      "title": "Hungary's next PM would pick up if Putin calls and tell him to stop Ukraine war",
-      "url": "https://www.bbc.com/news/articles/cd6lzezp4zvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Russia has offered \"pragmatic\" relations, but Péter Magyar says he will not call Vladimir Putin himself."
+      "title": "Greek police using masked migrants to forcibly push other migrants back across border",
+      "url": "https://www.bbc.com/news/articles/c86vpq42dl0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Mercenaries recruited since at least 2020 for illegal migrant ‘pushbacks’ in Greece, BBC told"
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Daniel Moreno-Gama is facing federal charges for attacking Sam Altman&#8217;s home and OpenAI’s HQ",
+        "#text": "Has Google’s AI watermarking system been reverse-engineered?",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/911423/openai-sam-altman-attack",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/911579/google-synthid-ai-watermarking-system-reverse-engineered",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The Mercedes EQS returns with massive range and charging gains",
+        "#text": "Anbernic’s new handheld is a pocket-friendly Android device with a swiveling screen",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/transportation/911196/mercedes-benz-eqs-ev-range-battery-charging-2027",
+      "url": "https://www.theverge.com/tech/911600/anbernic-rg-rotate-square-handheld-gaming-console-emulator",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Justin Bieber&#8217;s YouTube Coachella set had nothing to do with who owns his music",
+        "#text": "Ben McKenzie vs. crypto",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/911340/justin-bieber-youtube-coachella",
+      "url": "https://www.theverge.com/podcast/911605/ben-mckenzie-crypto-cgm-wearables-vergecast",
       "summary": "(要約準備中)"
     }
   ]
