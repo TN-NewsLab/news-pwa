@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "AnthropicはClaudeを「弱体化」させているのか？リーダーたちが反発する中、ユーザーから性能低下の報告が増加",
-    "title_en": "Is Anthropic 'nerfing' Claude? Users increasingly report performance degradation as leaders push back",
-    "summary": "開発者やAIユーザーは、AnthropicのClaude Opus 4.6およびClaude Codeモデルが最近のアップデート以降、推論の深さが減少し、トークン使用量が増加するなど、能力や信頼性が低下しているとの懸念をSNSで高めています。これらの苦情は「AIシュリンクフレーション」と呼ばれ、一部のユーザーは価格の変化がないまま品質が低下していると感じていることを示唆しています。また、ピーク需要時に意図的に性能を制限しているとの非難も出ていますが、Anthropicはモデルを秘密裏にダウングレードしたことを否定しています。同社が変更はモデルの劣化ではなく製品調整に起因するという主張をしているにもかかわらず、特にOpenAIのような競合他社が市場で勢いを増す中、Anthropicとユーザーの間には信頼のギャップが生じています。",
-    "summary_en": "Developers and AI users have expressed growing concerns on social media that Anthropic's Claude Opus 4.6 and Claude Code models have become less capable and reliable, citing issues such as reduced reasoning depth and increased token usage since recent updates. These complaints, some labeled as “AI shrinkflation,” suggest that users feel they are receiving a diminished product without changes in pricing, and accusations of intentional throttling during peak demand have surfaced, although Anthropic has denied secretly downgrading models. Despite the company's assertions that changes stem from product adjustments rather than model degradation, a trust gap has emerged between Anthropic and its users, particularly as competitors like OpenAI gain traction in the market.",
-    "link": "https://venturebeat.com/technology/is-anthropic-nerfing-claude-users-increasingly-report-performance",
+    "title": "Anthropicのクロード・マネージド・エージェントが企業に新たなワンストップショップを提供、しかし業者のロックインリスクを引き起こす",
+    "title_en": "Anthropic’s Claude Managed Agents gives enterprises a new one-stop shop but raises vendor 'lock-in' risk",
+    "summary": "Anthropicは最近、企業向けにAIエージェントの展開を簡素化することを目的としたクロード・マネージド・エージェントプラットフォームを発表しました。このプラットフォームは、AIモデル層にオーケストレーションロジックを組み込むことで、より迅速な展開を可能にするものです。しかし、この便利さは、企業がAIエージェントの運用に対する一部の制御をAnthropicに委ねることになり、ベンダーロックインのリスクを高めるため、セッションデータや矛盾する指示の管理について懸念が生じています。結局、クロード・マネージド・エージェントは展開を効率化しエンジニアリングの負担を軽減することを目指していますが、組織は使いやすさと制御および柔軟性の喪失のリスクとのトレードオフを慎重に評価する必要があります。",
+    "summary_en": "Anthropic recently launched Claude Managed Agents, a platform designed to simplify AI agent deployment for enterprises by embedding orchestration logic within the AI model layer, which could allow for quicker deployments. However, this convenience comes at the cost of increased vendor lock-in, as enterprises relinquish some control over their AI agent operations to Anthropic, raising concerns about managing session data and conflicting instructions. Ultimately, while Claude Managed Agents aims to streamline deployments and reduce engineering overhead, organizations must carefully weigh the trade-offs of ease of use against potential loss of control and flexibility.",
+    "link": "https://venturebeat.com/orchestration/anthropics-claude-managed-agents-gives-enterprises-a-new-one-stop-shop-but",
     "category": "AI",
-    "publishedAt": "2026-04-14 17:33"
+    "publishedAt": "2026-04-15 17:14"
   },
   {
     "source": "VentureBeat",
-    "title": "あなたの開発者たちはすでにAIをローカルで運用しています: デバイス上の推論がCISOの新たな盲点となる理由",
-    "title_en": "Your developers are already running AI locally: Why on-device inference is the CISO’s new blind spot",
-    "summary": "この記事では、生成AIの使用が急増する中で、最高情報セキュリティ責任者（CISO）が直面する進化する課題について論じています。特に、従業員が自分のデバイス上で大規模言語モデルをローカルで運用するトレンドが、重要なセキュリティの盲点を生み出しています。従来のセキュリティモデルがネットワーク監視を通じてデータの流出を制御することに焦点を当てているため、その効果が薄れており、リスクはローカルモデルの使用に伴うデータの整合性、コンプライアンス、ライセンスの問題に移ってきています。この記事は、組織がセキュリティ措置をエンドポイントまで展開し、内部モデルのハブを整備し、適切なローカルAIモデルの使用を確保するためにポリシーを更新する必要性を強調しています。",
-    "summary_en": "The article discusses the evolving challenges faced by Chief Information Security Officers (CISOs) regarding the burgeoning use of generative AI, particularly the trend of employees running large language models locally on their devices, which creates significant security blind spots. As traditional security models focused on controlling data exfiltration through network monitoring become ineffective, the risks now center around data integrity, compliance, and licensing issues associated with local model use. The piece emphasizes the need for organizations to shift security measures down to the endpoint, introduce curated internal model hubs, and update policies to ensure appropriate governance of local AI model usage while maintaining productivity.",
-    "link": "https://venturebeat.com/security/your-developers-are-already-running-ai-locally-why-on-device-inference-is",
+    "title": "マイクロソフト、安価で高速なAI画像モデル「MAI-Image-2-Efficient」を発表",
+    "title_en": "Microsoft launches MAI-Image-2-Efficient, a cheaper and faster AI image model",
+    "summary": "マイクロソフトは、主要なテキストから画像へのモデルの新バージョン「MAI-Image-2-Efficient」を発表しました。このモデルは、従来の半分の価格で制作可能な品質を提供し、速度が22%向上し、スループット効率が4倍に向上することで、大量生産やコスト重視のワークロードに対応するよう設計されています。入力トークンは百万あたり5ドル、出力トークンは百万あたり19.50ドルのコストで提供され、GoogleのGeminiなど他のモデルと競争力を持つことになっています。このリリースは、マイクロソフトがOpenAIとの関係が悪化する中で、自給自足のAIスタックを構築するというコミットメントを強調しており、外部プロバイダーへの依存を減らし、自治的な「エージェント的」AI機能の開発を目指しています。",
+    "summary_en": "Microsoft has launched MAI-Image-2-Efficient, a faster and more cost-effective variant of its flagship text-to-image model, which offers production-ready quality at approximately half the price of its predecessor. This AI model, costing $5 per million input tokens and $19.50 per million output tokens, is designed to support high-volume and cost-sensitive production workloads, while performing 22% faster and achieving 4x greater throughput efficiency, positioning it competitively against other models like Google's Gemini. The release underscores Microsoft's commitment to building a self-sufficient AI stack as it navigates a fraying relationship with OpenAI, aiming to reduce reliance on external providers and enable the development of autonomous \"agentic\" AI features.",
+    "link": "https://venturebeat.com/technology/microsoft-launches-mai-image-2-efficient-a-cheaper-and-faster-ai-image-model",
     "category": "AI",
-    "publishedAt": "2026-04-14 17:33"
+    "publishedAt": "2026-04-15 17:14"
   },
   {
     "source": "NHK",
-    "title": "株価が上昇 軍事作戦直後の水準に 米とイラン協議の再開期待で",
+    "title": "話題の船「ちきゅう」の中へ レアアースふくむ泥どうとった？",
     "title_en": "",
-    "summary": "最近、東京株式市場では、アメリカとイランの協議再開への期待から日経平均株価が上昇しました。終値は、イランへの軍事作戦が開始された先月初め以来の高水準となりました。投資家の関心が高まっています。",
+    "summary": "最近、「ちきゅう」という船が話題になっています。この船は深海探査を行うために設計されており、科学研究に貢献しています。多くの人々がその技術や役割に注目しています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260414/k10015098761000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260415/k10015087631000.html",
     "category": "経済",
-    "publishedAt": "2026-04-14 17:33"
+    "publishedAt": "2026-04-15 17:14"
   },
   {
     "source": "BBC",
-    "title": "レバノンは平和を求めているが、まずヒズボラを納得させる必要がある",
-    "title_en": "Lebanon seeks peace, but Hezbollah needs to be convinced first",
-    "summary": "レバノン政府は平和交渉に入るが、交渉に関与するグループへの影響力が限られているため、課題に直面している。この状況は、政府が進行中の紛争に対する有意義な解決策を促進する能力を複雑にしている。その結果、交渉の成果は不確実であり、レバノンで持続可能な平和を実現することの困難さが浮き彫りになっている。",
-    "summary_en": "The Lebanese government is entering peace talks, but it faces challenges due to its limited influence over the group involved in the negotiations. This situation complicates the government's ability to facilitate a meaningful resolution to ongoing conflicts. As a result, the outcome of the talks remains uncertain, highlighting the difficulties in achieving lasting peace in Lebanon.",
-    "link": "https://www.bbc.com/news/articles/cr51l794mlyo?at_medium=RSS&at_campaign=rss",
+    "title": "「少しの痛み」はイランからの長期的安全保障に値する、ベッセントがBBCに語る",
+    "title_en": "'Bit of pain' worth long-term security from Iran, Bessent tells BBC",
+    "summary": "米国財務長官は、イランによる西側都市への攻撃の危険を軽減するためには「少しの経済的痛み」を耐えることが必要な妥協であると示唆しました。この発言は、経済措置を通じて安全保障問題に取り組む政権のコミットメントを浮き彫りにしています。この感情は、国家および国際的な安全を守るために、特定の経済的デメリットを受け入れる意向を示唆しています。",
+    "summary_en": "US Treasury Secretary indicated that enduring a \"small bit of economic pain\" is a necessary trade-off to mitigate the risk of Iranian attacks on Western cities. This statement highlights the administration's commitment to addressing security threats through economic measures. The sentiment suggests a willingness to accept certain economic drawbacks for the sake of protecting national and international safety.",
+    "link": "https://www.bbc.com/news/articles/c4g66p2q075o?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-04-14 17:33"
+    "publishedAt": "2026-04-15 17:14"
   },
   {
     "source": "NHK",
-    "title": "モバイルバッテリー 今月24日から航空機内での使用禁止に",
+    "title": "健康保険法などの改正案 衆院厚生労働委で実質的な審議始まる",
     "title_en": "",
-    "summary": "国土交通省は、機内でモバイルバッテリーの発火・発煙事例が相次いでいることを受け、4月24日から日本発着便での使用を禁止すると発表しました。スマートフォンなどへの充電や、機内コンセントからの充電も禁止されます。また持ち込みは1人2個までに制限され、貨物室への預け入れは禁止が継続されます。これは国際民間航空機関の基準改訂に合わせた措置です。検査で見逃される可能性もあるため、国や航空会社はルール周知の徹底を呼びかけています。",
+    "summary": "市販薬に似た成分や効能を持つ「OTC類似薬」に関する健康保険法の改正案が審議に入りました。これにより、処方を受けた患者に追加負担を求める内容が含まれています。議論が進む中、今後の展開が注目されます。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/na-k10015098851000",
+    "link": "http://www3.nhk.or.jp/news/html/20260415/k10015099971000.html",
     "category": "その他",
-    "publishedAt": "2026-04-14 17:33"
+    "publishedAt": "2026-04-15 17:14"
   }
 ]
