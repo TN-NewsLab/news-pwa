@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-04-15T14:05:01.412Z",
+  "updatedAt": "2026-04-15T19:42:39.075Z",
   "top": [
-    {
-      "source": "BBC World",
-      "title": "Sri Lanka repatriates 238 Iranian sailors stranded after US torpedo attack",
-      "url": "https://www.bbc.com/news/articles/c9qdd318qd9o?at_medium=RSS&at_campaign=rss",
-      "summary": "The survivors of the US attack on Iranian vessel Iris Dena, which claimed the lives of 104 people, were among those sent home. "
-    },
-    {
-      "source": "BBC World",
-      "title": "'Bit of pain' worth long-term security from Iran, Bessent tells BBC",
-      "url": "https://www.bbc.com/news/articles/c4g66p2q075o?at_medium=RSS&at_campaign=rss",
-      "summary": "US Treasury Secretary said a \"small bit of economic pain\" was worth it to eliminate the threat of Iranian strikes on Western capitals."
-    },
     {
       "source": "BBC World",
       "title": "Trump's rift with Pope is playing out in public - it's costing him valuable support",
       "url": "https://www.bbc.com/news/articles/c070jxyjrmeo?at_medium=RSS&at_campaign=rss",
       "summary": "Leading conservative Catholics tell the BBC why they back the American pontiff in his spat with Trump."
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump threatens to fire Fed chair Powell if he doesn't leave in May",
+      "url": "https://www.bbc.com/news/articles/c9qddrdd8w2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Donald Trump's threat marks the latest escalation in his ongoing spat with Jerome Powell."
+    },
+    {
+      "source": "BBC World",
+      "title": "Nine killed in second Turkish school shooting in two days",
+      "url": "https://www.bbc.com/news/articles/cn088n9e6e9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Eight students and one teacher died in the attack, according to Interior Minister Mustafa Cifci."
     },
     {
       "source": "BBC Technology",
@@ -33,35 +33,35 @@
     },
     {
       "source": "BBC Technology",
-      "title": "Palantir defends its record as MPs demand more scrutiny of data use",
-      "url": "https://www.bbc.com/news/articles/c393w38lv3mo?at_medium=RSS&at_campaign=rss",
-      "summary": "NHS guidance that all hospitals should be using Palantir software from this month has sparked a backlash."
+      "title": "Snapchat owner cuts 1,000 jobs as says AI will reduce repetitive work",
+      "url": "https://www.bbc.com/news/articles/cdxdd0z2w11o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Snapchat owner is laying off around 16% of staff and withdrawn hundreds of open job roles."
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The perfect successor to Lost has been hiding from me for years",
+        "#text": "Ticketmaster is an illegal monopoly, jury rules",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/912044/from-season-4-mgm-plus",
+      "url": "https://www.theverge.com/policy/912689/live-nation-ticketmaster-antitrust-monopoly-trial-verdict",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Walmart is updating its 4K streaming box with Gemini and Matter support",
+        "#text": "FTC pushes ad agencies into dropping brand safety rules",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/912334/walmart-onn-4k-pro-streamer-google-tv-gemini-matter-thread-smart-home",
+      "url": "https://www.theverge.com/policy/912680/ftc-ad-agency-settlement-trust-safety",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "More phone cameras should come with telephoto lenses",
+        "#text": "Ikea&#8217;s smart donut lamp is a sweet treat",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/912097/vivo-x300-ultra-camera-kit-hands-on",
+      "url": "https://www.theverge.com/tech/911809/ikea-varmblixt-smart-donut-lamp-review-matter-thread",
       "summary": "(要約準備中)"
     }
   ]
