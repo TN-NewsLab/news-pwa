@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-04-15T08:04:23.023Z",
+  "updatedAt": "2026-04-15T14:05:01.412Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Sri Lanka repatriates 238 Iranian sailors stranded after US torpedo attack",
+      "url": "https://www.bbc.com/news/articles/c9qdd318qd9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The survivors of the US attack on Iranian vessel Iris Dena, which claimed the lives of 104 people, were among those sent home. "
+    },
     {
       "source": "BBC World",
       "title": "'Bit of pain' worth long-term security from Iran, Bessent tells BBC",
@@ -9,15 +15,21 @@
     },
     {
       "source": "BBC World",
-      "title": "Israel and Lebanon hold first direct talks since 1993",
-      "url": "https://www.bbc.com/news/articles/cp8ddydl18vo?at_medium=RSS&at_campaign=rss",
-      "summary": "A US statement said the two sides had agreed to launch direct negotiations, at a time and place to be determined."
+      "title": "Trump's rift with Pope is playing out in public - it's costing him valuable support",
+      "url": "https://www.bbc.com/news/articles/c070jxyjrmeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Leading conservative Catholics tell the BBC why they back the American pontiff in his spat with Trump."
     },
     {
-      "source": "BBC World",
-      "title": "Three years of messages at once - a chronicle of Sudan's war pours in as trapped reporter's phone turns on",
-      "url": "https://www.bbc.com/news/articles/cy01d1g0rrjo?at_medium=RSS&at_campaign=rss",
-      "summary": "As the conflict enters its fourth year, journalist Mohamed Suleiman shudders at what has been lost.\n"
+      "source": "BBC Technology",
+      "title": "Booking.com customers warned of 'reservation hijacking' after hack",
+      "url": "https://www.bbc.com/news/articles/cly00jnnxypo?at_medium=RSS&at_campaign=rss",
+      "summary": "The travel platform said it had changed Pins to protect customers but would not say how many were affected."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Google to punish sites that trap people in with back button tricks",
+      "url": "https://www.bbc.com/news/articles/c05dd2yj3z3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The tech giant said it will punish sites that block back button navigation from June."
     },
     {
       "source": "BBC Technology",
@@ -26,42 +38,30 @@
       "summary": "NHS guidance that all hospitals should be using Palantir software from this month has sparked a backlash."
     },
     {
-      "source": "BBC Technology",
-      "title": "Man charged with attempted murder over attack on home of OpenAI's Sam Altman",
-      "url": "https://www.bbc.com/news/articles/cq597n1pg6lo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Texas man, who also faces federal felony charges, allegedly had documents advocating for violence against AI executives."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Quantum computing: A tech race Europe could win?",
-      "url": "https://www.bbc.com/news/articles/c20q4nv89yzo?at_medium=RSS&at_campaign=rss",
-      "summary": "With some promising computing companies in the field, could Europe be a leader in quantum tech?"
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Godzilla Minus Zero stomps through New York in first teaser trailer",
+        "#text": "The perfect successor to Lost has been hiding from me for years",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/912025/godzilla-minus-zero-teaser-trailer",
+      "url": "https://www.theverge.com/entertainment/912044/from-season-4-mgm-plus",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Microsoft&#8217;s finally giving up on its massive Surface Hub touchscreen displays",
+        "#text": "Walmart is updating its 4K streaming box with Gemini and Matter support",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/912114/microsoft-surface-hub-displays-discontinued",
+      "url": "https://www.theverge.com/tech/912334/walmart-onn-4k-pro-streamer-google-tv-gemini-matter-thread-smart-home",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The FCC just saved Netgear from its router ban for no obvious reason",
+        "#text": "More phone cameras should come with telephoto lenses",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/911888/netgear-router-ban-conditional-approval",
+      "url": "https://www.theverge.com/tech/912097/vivo-x300-ultra-camera-kit-hands-on",
       "summary": "(要約準備中)"
     }
   ]
