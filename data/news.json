@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-04-16T08:03:07.259Z",
+  "updatedAt": "2026-04-16T14:13:55.795Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Lyse Doucet: Under fragile ceasefire, Iranians wonder if US deal can be done",
-      "url": "https://www.bbc.com/news/articles/c4g44gj7rgno?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's chief international correspondent reports from Iran as diplomatic efforts to avoid a return to war intensify."
+      "title": "Pope criticises 'tyrants' who spend billions on wars after Trump spat",
+      "url": "https://www.bbc.com/news/articles/cvg0z3n5e5jo?at_medium=RSS&at_campaign=rss",
+      "summary": "The comments follow a high-profile spat with US President Donald Trump, who called the Pope weak on crime."
     },
     {
       "source": "BBC World",
-      "title": "Israeli demolitions levelling towns in south Lebanon, satellite images show",
-      "url": "https://www.bbc.com/news/articles/cdxkk1vnp57o?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Verify analysis found more than 1,400 buildings had been destroyed since 2 March."
+      "title": "Turkish police detain 162 people over online praise for school shootings",
+      "url": "https://www.bbc.com/news/articles/cz9025d7jqzo?at_medium=RSS&at_campaign=rss",
+      "summary": "At least 16 people were injured in a shooting at a high school on Tuesday, before another nine were killed in a separate school shooting on Wednesday. "
     },
     {
       "source": "BBC World",
-      "title": "Frank Gardner: What is China's role in the Iran war?",
-      "url": "https://www.bbc.com/news/videos/cz67760pq0xo?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Security Correspondent Frank Gardner explains how the world's second-largest economy fits into the Gulf conflict."
+      "title": "Ex-keeper Manninger dies after car hit by train",
+      "url": "https://www.bbc.com/sport/football/articles/c4g84l14e5eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Former Arsenal goalkeeper Alex Manninger dies at the age of 48 after his car is struck by a train."
     },
     {
       "source": "BBC Technology",
-      "title": "Social media leaders called to Downing Street over children's safety",
+      "title": "Things can't go on like this with online safety, Starmer tells tech bosses",
       "url": "https://www.bbc.com/news/articles/crl11ynjyn1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Top executives from firms such as Meta and YouTube will be asked what they are doing to protect children."
+      "summary": "It comes as the government continues to consult on whether to ban under-16s from social media in the UK."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "YouTube now lets you turn off Shorts",
+        "#text": "Ronan Farrow on Sam Altman&#8217;s ‘unconstrained’  relationship with the truth",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes",
+      "url": "https://www.theverge.com/podcast/911753/sam-altman-openai-ronan-farrow-new-yorker-feature-trust-liar-ai-industry",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Ford’s EV and software chief Doug Field is leaving the company",
+        "#text": "Character.AI’s new Books mode turns reading into roleplay",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/transportation/912647/ford-doug-field-leaving-ev-software",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/912997/character-ai-books-mode",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Trump’s posting even more AI-generated Trump-Jesus fan art",
+        "#text": "The Cybertruck of e-bikes is here to replace your car",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/column/912627/trump-jesus-ai-whcd-penguin-meme",
+      "url": "https://www.theverge.com/transportation/913008/infinite-machine-olto-ebike-review",
       "summary": "(要約準備中)"
     }
   ]
