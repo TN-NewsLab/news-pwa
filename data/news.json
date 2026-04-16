@@ -1,67 +1,67 @@
 {
-  "updatedAt": "2026-04-15T08:04:23.023Z",
+  "updatedAt": "2026-04-16T03:46:52.299Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "'Bit of pain' worth long-term security from Iran, Bessent tells BBC",
-      "url": "https://www.bbc.com/news/articles/c4g66p2q075o?at_medium=RSS&at_campaign=rss",
-      "summary": "US Treasury Secretary said a \"small bit of economic pain\" was worth it to eliminate the threat of Iranian strikes on Western capitals."
+      "title": "Lyse Doucet: Under fragile ceasefire, Iranians wonder if US deal can be done",
+      "url": "https://www.bbc.com/news/articles/c4g44gj7rgno?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's chief international correspondent reports from Iran as diplomatic efforts to avoid a return to war intensify."
     },
     {
       "source": "BBC World",
-      "title": "Israel and Lebanon hold first direct talks since 1993",
-      "url": "https://www.bbc.com/news/articles/cp8ddydl18vo?at_medium=RSS&at_campaign=rss",
-      "summary": "A US statement said the two sides had agreed to launch direct negotiations, at a time and place to be determined."
+      "title": "Former US Marine pilot loses appeal against extradition from Australia",
+      "url": "https://www.bbc.com/news/articles/c20q2n0l9vgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Daniel Duggan was arrested in 2022 over claims he illegally trained the Chinese military in South Africa."
     },
     {
       "source": "BBC World",
-      "title": "Three years of messages at once - a chronicle of Sudan's war pours in as trapped reporter's phone turns on",
-      "url": "https://www.bbc.com/news/articles/cy01d1g0rrjo?at_medium=RSS&at_campaign=rss",
-      "summary": "As the conflict enters its fourth year, journalist Mohamed Suleiman shudders at what has been lost.\n"
+      "title": "Trump's rift with Pope is playing out in public - it's costing him valuable support",
+      "url": "https://www.bbc.com/news/articles/c070jxyjrmeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Leading conservative Catholics tell the BBC why they back the American pontiff in his spat with Trump."
     },
     {
       "source": "BBC Technology",
-      "title": "Palantir defends its record as MPs demand more scrutiny of data use",
-      "url": "https://www.bbc.com/news/articles/c393w38lv3mo?at_medium=RSS&at_campaign=rss",
-      "summary": "NHS guidance that all hospitals should be using Palantir software from this month has sparked a backlash."
+      "title": "Social media leaders called to Downing Street over children's safety",
+      "url": "https://www.bbc.com/news/articles/crl11ynjyn1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Top executives from firms such as Meta and YouTube will be asked what they are doing to protect children."
     },
     {
       "source": "BBC Technology",
-      "title": "Man charged with attempted murder over attack on home of OpenAI's Sam Altman",
-      "url": "https://www.bbc.com/news/articles/cq597n1pg6lo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Texas man, who also faces federal felony charges, allegedly had documents advocating for violence against AI executives."
+      "title": "Booking.com customers warned of 'reservation hijacking' after hack",
+      "url": "https://www.bbc.com/news/articles/cly00jnnxypo?at_medium=RSS&at_campaign=rss",
+      "summary": "The travel platform said it had changed Pins to protect customers but would not say how many were affected."
     },
     {
       "source": "BBC Technology",
-      "title": "Quantum computing: A tech race Europe could win?",
-      "url": "https://www.bbc.com/news/articles/c20q4nv89yzo?at_medium=RSS&at_campaign=rss",
-      "summary": "With some promising computing companies in the field, could Europe be a leader in quantum tech?"
+      "title": "Google to punish sites that trap people in with back button tricks",
+      "url": "https://www.bbc.com/news/articles/c05dd2yj3z3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The tech giant said it will punish sites that block back button navigation from June."
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Godzilla Minus Zero stomps through New York in first teaser trailer",
+        "#text": "YouTube now lets you turn off Shorts",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/912025/godzilla-minus-zero-teaser-trailer",
+      "url": "https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Microsoft&#8217;s finally giving up on its massive Surface Hub touchscreen displays",
+        "#text": "Ford’s EV and software chief Doug Field is leaving the company",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/912114/microsoft-surface-hub-displays-discontinued",
+      "url": "https://www.theverge.com/transportation/912647/ford-doug-field-leaving-ev-software",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The FCC just saved Netgear from its router ban for no obvious reason",
+        "#text": "Trump’s posting even more AI-generated Trump-Jesus fan art",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/911888/netgear-router-ban-conditional-approval",
+      "url": "https://www.theverge.com/column/912627/trump-jesus-ai-whcd-penguin-meme",
       "summary": "(要約準備中)"
     }
   ]
