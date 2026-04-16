@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "Anthropicのクロード・マネージド・エージェントが企業に新たなワンストップショップを提供、しかし業者のロックインリスクを引き起こす",
-    "title_en": "Anthropic’s Claude Managed Agents gives enterprises a new one-stop shop but raises vendor 'lock-in' risk",
-    "summary": "Anthropicは最近、企業向けにAIエージェントの展開を簡素化することを目的としたクロード・マネージド・エージェントプラットフォームを発表しました。このプラットフォームは、AIモデル層にオーケストレーションロジックを組み込むことで、より迅速な展開を可能にするものです。しかし、この便利さは、企業がAIエージェントの運用に対する一部の制御をAnthropicに委ねることになり、ベンダーロックインのリスクを高めるため、セッションデータや矛盾する指示の管理について懸念が生じています。結局、クロード・マネージド・エージェントは展開を効率化しエンジニアリングの負担を軽減することを目指していますが、組織は使いやすさと制御および柔軟性の喪失のリスクとのトレードオフを慎重に評価する必要があります。",
-    "summary_en": "Anthropic recently launched Claude Managed Agents, a platform designed to simplify AI agent deployment for enterprises by embedding orchestration logic within the AI model layer, which could allow for quicker deployments. However, this convenience comes at the cost of increased vendor lock-in, as enterprises relinquish some control over their AI agent operations to Anthropic, raising concerns about managing session data and conflicting instructions. Ultimately, while Claude Managed Agents aims to streamline deployments and reduce engineering overhead, organizations must carefully weigh the trade-offs of ease of use against potential loss of control and flexibility.",
-    "link": "https://venturebeat.com/orchestration/anthropics-claude-managed-agents-gives-enterprises-a-new-one-stop-shop-but",
+    "title": "フロンティアモデルは生産試行の3分の1で失敗し、監査が困難になっている",
+    "title_en": "Frontier models are failing one in three production attempts — and getting harder to audit",
+    "summary": "スタンフォード大学のHAIによる第9回年次AIインデックス報告書は、AIエージェントが企業の業務フローでますます採用されている一方で、信頼性のギャップが依然として存在し、約3分の1の試行で失敗していることを示しています。これは2026年にITリーダーにとって大きな課題となります。能力の向上—複雑な推理タスクにおけるベンチマークスコアが30%向上したにもかかわらず、報告書は基本的なタスク、幻想、モデルの性能およびトレーニングプロセスに関する透明性の低下という問題が継続していることに言及しています。伝統的な評価方法が飽和状態となり、急速に進化するAIモデルの区別が難しくなる中、報告書は実世界での有用性をより反映するベンチマークの必要性を強調しています。",
+    "summary_en": "The Stanford HAI's ninth annual AI Index report highlights that while AI agents are increasingly adopted in enterprise workflows, they still experience a reliability gap, failing in about one in three attempts, which presents a significant challenge for IT leaders in 2026. Despite improvements in capabilities—such as a 30% enhancement in benchmark scores for complex reasoning tasks—the report notes persistent issues with basic tasks, hallucinations, and a decline in transparency regarding model performance and training processes. The report emphasizes the need for benchmarks that better reflect real-world utility as traditional evaluation methods become saturated and less effective at distinguishing between the rapidly advancing AI models.",
+    "link": "https://venturebeat.com/security/frontier-models-are-failing-one-in-three-production-attempts-and-getting-harder-to-audit",
     "category": "AI",
-    "publishedAt": "2026-04-15 17:14"
+    "publishedAt": "2026-04-16 16:26"
   },
   {
     "source": "VentureBeat",
-    "title": "マイクロソフト、安価で高速なAI画像モデル「MAI-Image-2-Efficient」を発表",
-    "title_en": "Microsoft launches MAI-Image-2-Efficient, a cheaper and faster AI image model",
-    "summary": "マイクロソフトは、主要なテキストから画像へのモデルの新バージョン「MAI-Image-2-Efficient」を発表しました。このモデルは、従来の半分の価格で制作可能な品質を提供し、速度が22%向上し、スループット効率が4倍に向上することで、大量生産やコスト重視のワークロードに対応するよう設計されています。入力トークンは百万あたり5ドル、出力トークンは百万あたり19.50ドルのコストで提供され、GoogleのGeminiなど他のモデルと競争力を持つことになっています。このリリースは、マイクロソフトがOpenAIとの関係が悪化する中で、自給自足のAIスタックを構築するというコミットメントを強調しており、外部プロバイダーへの依存を減らし、自治的な「エージェント的」AI機能の開発を目指しています。",
-    "summary_en": "Microsoft has launched MAI-Image-2-Efficient, a faster and more cost-effective variant of its flagship text-to-image model, which offers production-ready quality at approximately half the price of its predecessor. This AI model, costing $5 per million input tokens and $19.50 per million output tokens, is designed to support high-volume and cost-sensitive production workloads, while performing 22% faster and achieving 4x greater throughput efficiency, positioning it competitively against other models like Google's Gemini. The release underscores Microsoft's commitment to building a self-sufficient AI stack as it navigates a fraying relationship with OpenAI, aiming to reduce reliance on external providers and enable the development of autonomous \"agentic\" AI features.",
-    "link": "https://venturebeat.com/technology/microsoft-launches-mai-image-2-efficient-a-cheaper-and-faster-ai-image-model",
+    "title": "Adobeの新しいFirefly AIアシスタントがPhotoshop、Premiere、Illustratorなどを1つのプロンプトから操作可能に",
+    "title_en": "Adobe’s new Firefly AI Assistant wants to run Photoshop, Premiere, Illustrator and more from one prompt",
+    "summary": "AdobeはFirefly AIアシスタントを発表しました。これは、同社のAI戦略における重要なステップであり、ユーザーがCreative Cloudの複雑なワークフローを会話型インターフェースを通じて管理できるようにします。この新しいツールは、Premiere Proにおける拡張されたカラーグレーディング機能やFrame.io Driveを通じたコラボレーション機能の更新とともに、AI駆動のコンテンツ制作の競争が激化する中でAdobeがリードする地位を築くものです。この変化に対応する中で、同社はクリエイティブなプロフェッショナルたちからの信頼を獲得するという課題に直面しており、AIがクリエイティブプロセスにおいてより中心的な役割を果たす新しいダイナミクスへの適応が必要となります。",
+    "summary_en": "Adobe has launched the Firefly AI Assistant, a significant step in its AI strategy, which allows users to manage complex workflows across its Creative Cloud suite through a conversational interface. This new tool, alongside updates like expanded color grading capabilities in Premiere Pro and collaboration features via Frame.io Drive, positions Adobe to lead in the AI-driven content creation landscape amidst increasing competition. As it navigates this shift, the company faces the challenge of gaining trust from creative professionals, who must adapt to a new dynamic where AI plays a more central role in the creative process.",
+    "link": "https://venturebeat.com/technology/adobes-new-firefly-ai-assistant-wants-to-run-photoshop-premiere-illustrator-and-more-from-one-prompt",
     "category": "AI",
-    "publishedAt": "2026-04-15 17:14"
+    "publishedAt": "2026-04-16 16:26"
   },
   {
     "source": "NHK",
-    "title": "話題の船「ちきゅう」の中へ レアアースふくむ泥どうとった？",
+    "title": "日経平均株価 終値で初の5万9000円台に 最高値を更新",
     "title_en": "",
-    "summary": "最近、「ちきゅう」という船が話題になっています。この船は深海探査を行うために設計されており、科学研究に貢献しています。多くの人々がその技術や役割に注目しています。",
+    "summary": "東京株式市場で日経平均株価が初めて5万9000円台に達し、最高値を更新しました。アメリカとイランの協議進展の期待から、原油供給への懸念が和らぎ、株価は一時1500円以上上昇しました。これにより買い注文が広がり、相場が活気づきました。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260415/k10015087631000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260416/k10015100561000.html",
     "category": "経済",
-    "publishedAt": "2026-04-15 17:14"
+    "publishedAt": "2026-04-16 16:26"
   },
   {
     "source": "BBC",
-    "title": "「少しの痛み」はイランからの長期的安全保障に値する、ベッセントがBBCに語る",
-    "title_en": "'Bit of pain' worth long-term security from Iran, Bessent tells BBC",
-    "summary": "米国財務長官は、イランによる西側都市への攻撃の危険を軽減するためには「少しの経済的痛み」を耐えることが必要な妥協であると示唆しました。この発言は、経済措置を通じて安全保障問題に取り組む政権のコミットメントを浮き彫りにしています。この感情は、国家および国際的な安全を守るために、特定の経済的デメリットを受け入れる意向を示唆しています。",
-    "summary_en": "US Treasury Secretary indicated that enduring a \"small bit of economic pain\" is a necessary trade-off to mitigate the risk of Iranian attacks on Western cities. This statement highlights the administration's commitment to addressing security threats through economic measures. The sentiment suggests a willingness to accept certain economic drawbacks for the sake of protecting national and international safety.",
-    "link": "https://www.bbc.com/news/articles/c4g66p2q075o?at_medium=RSS&at_campaign=rss",
+    "title": "ライス・ドゥセット：脆弱な停戦の下、イランでは米国との合意の可能性を探る声",
+    "title_en": "Lyse Doucet: Under fragile ceasefire, Iranians wonder if US deal can be done",
+    "summary": "BBCの主任国際特派員は、イランにおける紛争の再発を防ぐための外交努力が増加していることに注目しています。これらの取り組みは地域の緊張が高まる中で行われ、平和的な解決策を見出すことを目指しています。報告は、さまざまな利害関係者が軍事行動に頼ることなく、状況を安定させようとする中で交渉の緊急性を強調しています。",
+    "summary_en": "The BBC's chief international correspondent highlights the increasing diplomatic efforts aimed at preventing a return to conflict in Iran. These initiatives come amidst rising tensions in the region and aim to find a peaceful resolution. The report emphasizes the urgency of negotiations as various stakeholders seek to stabilize the situation without resorting to military action.",
+    "link": "https://www.bbc.com/news/articles/c4g44gj7rgno?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-04-15 17:14"
+    "publishedAt": "2026-04-16 16:26"
   },
   {
     "source": "NHK",
-    "title": "健康保険法などの改正案 衆院厚生労働委で実質的な審議始まる",
+    "title": "ロボットとAIが自動で実験 医師の研究をサポート 東京科学大",
     "title_en": "",
-    "summary": "市販薬に似た成分や効能を持つ「OTC類似薬」に関する健康保険法の改正案が審議に入りました。これにより、処方を受けた患者に追加負担を求める内容が含まれています。議論が進む中、今後の展開が注目されます。",
+    "summary": "東京科学大学は、医師の研究を支援するため、ロボットとAIを活用した自動実験施設を新設しました。最近、開所式が行われました。この施設は、実験の手間を軽減することを目的としています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260415/k10015099971000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260415/k10015100131000.html",
     "category": "その他",
-    "publishedAt": "2026-04-15 17:14"
+    "publishedAt": "2026-04-16 16:26"
   }
 ]
