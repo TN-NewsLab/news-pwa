@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-04-15T19:42:39.075Z",
+  "updatedAt": "2026-04-16T03:46:52.299Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Lyse Doucet: Under fragile ceasefire, Iranians wonder if US deal can be done",
+      "url": "https://www.bbc.com/news/articles/c4g44gj7rgno?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's chief international correspondent reports from Iran as diplomatic efforts to avoid a return to war intensify."
+    },
+    {
+      "source": "BBC World",
+      "title": "Former US Marine pilot loses appeal against extradition from Australia",
+      "url": "https://www.bbc.com/news/articles/c20q2n0l9vgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Daniel Duggan was arrested in 2022 over claims he illegally trained the Chinese military in South Africa."
+    },
     {
       "source": "BBC World",
       "title": "Trump's rift with Pope is playing out in public - it's costing him valuable support",
@@ -8,16 +20,10 @@
       "summary": "Leading conservative Catholics tell the BBC why they back the American pontiff in his spat with Trump."
     },
     {
-      "source": "BBC World",
-      "title": "Trump threatens to fire Fed chair Powell if he doesn't leave in May",
-      "url": "https://www.bbc.com/news/articles/c9qddrdd8w2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Donald Trump's threat marks the latest escalation in his ongoing spat with Jerome Powell."
-    },
-    {
-      "source": "BBC World",
-      "title": "Nine killed in second Turkish school shooting in two days",
-      "url": "https://www.bbc.com/news/articles/cn088n9e6e9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Eight students and one teacher died in the attack, according to Interior Minister Mustafa Cifci."
+      "source": "BBC Technology",
+      "title": "Social media leaders called to Downing Street over children's safety",
+      "url": "https://www.bbc.com/news/articles/crl11ynjyn1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Top executives from firms such as Meta and YouTube will be asked what they are doing to protect children."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "The tech giant said it will punish sites that block back button navigation from June."
     },
     {
-      "source": "BBC Technology",
-      "title": "Snapchat owner cuts 1,000 jobs as says AI will reduce repetitive work",
-      "url": "https://www.bbc.com/news/articles/cdxdd0z2w11o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Snapchat owner is laying off around 16% of staff and withdrawn hundreds of open job roles."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Ticketmaster is an illegal monopoly, jury rules",
+        "#text": "YouTube now lets you turn off Shorts",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/912689/live-nation-ticketmaster-antitrust-monopoly-trial-verdict",
+      "url": "https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "FTC pushes ad agencies into dropping brand safety rules",
+        "#text": "Ford’s EV and software chief Doug Field is leaving the company",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/912680/ftc-ad-agency-settlement-trust-safety",
+      "url": "https://www.theverge.com/transportation/912647/ford-doug-field-leaving-ev-software",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Ikea&#8217;s smart donut lamp is a sweet treat",
+        "#text": "Trump’s posting even more AI-generated Trump-Jesus fan art",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/911809/ikea-varmblixt-smart-donut-lamp-review-matter-thread",
+      "url": "https://www.theverge.com/column/912627/trump-jesus-ai-whcd-penguin-meme",
       "summary": "(要約準備中)"
     }
   ]
