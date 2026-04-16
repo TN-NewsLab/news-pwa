@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-16T14:13:55.795Z",
+  "updatedAt": "2026-04-16T19:37:28.319Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,13 +9,13 @@
     },
     {
       "source": "BBC World",
-      "title": "Turkish police detain 162 people over online praise for school shootings",
+      "title": "Turkish police detain 162 people over online posts about school shootings",
       "url": "https://www.bbc.com/news/articles/cz9025d7jqzo?at_medium=RSS&at_campaign=rss",
       "summary": "At least 16 people were injured in a shooting at a high school on Tuesday, before another nine were killed in a separate school shooting on Wednesday. "
     },
     {
       "source": "BBC World",
-      "title": "Ex-keeper Manninger dies after car hit by train",
+      "title": "Former Arsenal goalkeeper Alex Manninger dies after car hit by train",
       "url": "https://www.bbc.com/sport/football/articles/c4g84l14e5eo?at_medium=RSS&at_campaign=rss",
       "summary": "Former Arsenal goalkeeper Alex Manninger dies at the age of 48 after his car is struck by a train."
     },
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Ronan Farrow on Sam Altman&#8217;s ‘unconstrained’  relationship with the truth",
+        "#text": "Live Nation says it will fight monopoly suit loss",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/podcast/911753/sam-altman-openai-ronan-farrow-new-yorker-feature-trust-liar-ai-industry",
+      "url": "https://www.theverge.com/policy/913494/live-nation-ticketmaster-fight-state-monopoly-jury-verdict",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Character.AI’s new Books mode turns reading into roleplay",
+        "#text": "Ozlo’s comfy Sleepbuds are nearly 30 percent off in the run-up to Mother’s Day",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/912997/character-ai-books-mode",
+      "url": "https://www.theverge.com/gadgets/913352/ozlo-sleepbuds-mothers-day-deal-sale",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The Cybertruck of e-bikes is here to replace your car",
+        "#text": "Teenage Engineering might be getting into instrument amps next",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/transportation/913008/infinite-machine-olto-ebike-review",
+      "url": "https://www.theverge.com/gadgets/913396/teenage-engineering-ko-amp-35-leak",
       "summary": "(要約準備中)"
     }
   ]
