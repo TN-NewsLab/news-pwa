@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-04-16T19:37:28.319Z",
+  "updatedAt": "2026-04-17T03:45:24.764Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Singer D4vd arrested in connection with death of missing teen girl",
+      "url": "https://www.bbc.com/news/articles/c20d22ev21wo?at_medium=RSS&at_campaign=rss",
+      "summary": "The remains of 14-year-old Celeste Rivas Hernandez were found in the singer's car last year."
+    },
     {
       "source": "BBC World",
       "title": "Pope criticises 'tyrants' who spend billions on wars after Trump spat",
@@ -14,10 +20,10 @@
       "summary": "At least 16 people were injured in a shooting at a high school on Tuesday, before another nine were killed in a separate school shooting on Wednesday. "
     },
     {
-      "source": "BBC World",
-      "title": "Former Arsenal goalkeeper Alex Manninger dies after car hit by train",
-      "url": "https://www.bbc.com/sport/football/articles/c4g84l14e5eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Former Arsenal goalkeeper Alex Manninger dies at the age of 48 after his car is struck by a train."
+      "source": "BBC Technology",
+      "title": "Could a digital twin make you into a 'superworker'?",
+      "url": "https://www.bbc.com/news/articles/c1d907lq6nyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Firms say digital twins make staff more productive, but are they a potential legal minefield?"
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "The travel platform said it had changed Pins to protect customers but would not say how many were affected."
     },
     {
-      "source": "BBC Technology",
-      "title": "Google to punish sites that trap people in with back button tricks",
-      "url": "https://www.bbc.com/news/articles/c05dd2yj3z3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The tech giant said it will punish sites that block back button navigation from June."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Live Nation says it will fight monopoly suit loss",
+        "#text": "YouTube’s mobile app finally lets you share timestamped videos",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/913494/live-nation-ticketmaster-fight-state-monopoly-jury-verdict",
+      "url": "https://www.theverge.com/streaming/913611/youtube-mobile-app-share-at-timestamp-clips",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Ozlo’s comfy Sleepbuds are nearly 30 percent off in the run-up to Mother’s Day",
+        "#text": "Gucci-branded Google smart glasses are coming next year",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/913352/ozlo-sleepbuds-mothers-day-deal-sale",
+      "url": "https://www.theverge.com/gadgets/913523/google-gucci-ai-smart-glasses-2027",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Teenage Engineering might be getting into instrument amps next",
+        "#text": "Ballmer gives $80 million to NPR, with strings attached",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/913396/teenage-engineering-ko-amp-35-leak",
+      "url": "https://www.theverge.com/news/913518/ballmer-gives-80-million-to-npr-with-strings-attached",
       "summary": "(要約準備中)"
     }
   ]
