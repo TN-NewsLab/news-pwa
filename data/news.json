@@ -1,29 +1,35 @@
 {
-  "updatedAt": "2026-04-16T03:46:52.299Z",
+  "updatedAt": "2026-04-17T03:45:24.764Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Lyse Doucet: Under fragile ceasefire, Iranians wonder if US deal can be done",
-      "url": "https://www.bbc.com/news/articles/c4g44gj7rgno?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's chief international correspondent reports from Iran as diplomatic efforts to avoid a return to war intensify."
+      "title": "Singer D4vd arrested in connection with death of missing teen girl",
+      "url": "https://www.bbc.com/news/articles/c20d22ev21wo?at_medium=RSS&at_campaign=rss",
+      "summary": "The remains of 14-year-old Celeste Rivas Hernandez were found in the singer's car last year."
     },
     {
       "source": "BBC World",
-      "title": "Former US Marine pilot loses appeal against extradition from Australia",
-      "url": "https://www.bbc.com/news/articles/c20q2n0l9vgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Daniel Duggan was arrested in 2022 over claims he illegally trained the Chinese military in South Africa."
+      "title": "Pope criticises 'tyrants' who spend billions on wars after Trump spat",
+      "url": "https://www.bbc.com/news/articles/cvg0z3n5e5jo?at_medium=RSS&at_campaign=rss",
+      "summary": "The comments follow a high-profile spat with US President Donald Trump, who called the Pope weak on crime."
     },
     {
       "source": "BBC World",
-      "title": "Trump's rift with Pope is playing out in public - it's costing him valuable support",
-      "url": "https://www.bbc.com/news/articles/c070jxyjrmeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Leading conservative Catholics tell the BBC why they back the American pontiff in his spat with Trump."
+      "title": "Turkish police detain 162 people over online posts about school shootings",
+      "url": "https://www.bbc.com/news/articles/cz9025d7jqzo?at_medium=RSS&at_campaign=rss",
+      "summary": "At least 16 people were injured in a shooting at a high school on Tuesday, before another nine were killed in a separate school shooting on Wednesday. "
     },
     {
       "source": "BBC Technology",
-      "title": "Social media leaders called to Downing Street over children's safety",
+      "title": "Could a digital twin make you into a 'superworker'?",
+      "url": "https://www.bbc.com/news/articles/c1d907lq6nyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Firms say digital twins make staff more productive, but are they a potential legal minefield?"
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Things can't go on like this with online safety, Starmer tells tech bosses",
       "url": "https://www.bbc.com/news/articles/crl11ynjyn1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Top executives from firms such as Meta and YouTube will be asked what they are doing to protect children."
+      "summary": "It comes as the government continues to consult on whether to ban under-16s from social media in the UK."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "The travel platform said it had changed Pins to protect customers but would not say how many were affected."
     },
     {
-      "source": "BBC Technology",
-      "title": "Google to punish sites that trap people in with back button tricks",
-      "url": "https://www.bbc.com/news/articles/c05dd2yj3z3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The tech giant said it will punish sites that block back button navigation from June."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "YouTube now lets you turn off Shorts",
+        "#text": "YouTube’s mobile app finally lets you share timestamped videos",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes",
+      "url": "https://www.theverge.com/streaming/913611/youtube-mobile-app-share-at-timestamp-clips",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Ford’s EV and software chief Doug Field is leaving the company",
+        "#text": "Gucci-branded Google smart glasses are coming next year",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/transportation/912647/ford-doug-field-leaving-ev-software",
+      "url": "https://www.theverge.com/gadgets/913523/google-gucci-ai-smart-glasses-2027",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Trump’s posting even more AI-generated Trump-Jesus fan art",
+        "#text": "Ballmer gives $80 million to NPR, with strings attached",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/column/912627/trump-jesus-ai-whcd-penguin-meme",
+      "url": "https://www.theverge.com/news/913518/ballmer-gives-80-million-to-npr-with-strings-attached",
       "summary": "(要約準備中)"
     }
   ]
