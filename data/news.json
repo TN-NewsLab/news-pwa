@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2026-04-17T08:03:31.252Z",
+  "updatedAt": "2026-04-17T13:58:22.579Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Trump's Lebanon ceasefire takes Israel by surprise",
-      "url": "https://www.bbc.com/news/articles/cje4pn575jgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Few Israelis see this truce as a way out of the conflict with Hezbollah, the BBC's Lucy Williamson writes."
+      "title": "What we know about the Israel-Lebanon ceasefire",
+      "url": "https://www.bbc.com/news/articles/cwy32277e58o?at_medium=RSS&at_campaign=rss",
+      "summary": "A 10-day truce between the two countries is now in effect, with Iran-backed Hezbollah voicing support, as negotiations continue between the US and Iran.  "
     },
     {
       "source": "BBC World",
-      "title": "Singer D4vd arrested on suspicion of murdering teenage girl",
-      "url": "https://www.bbc.com/news/articles/c20d22ev21wo?at_medium=RSS&at_campaign=rss",
-      "summary": "The remains of 14-year-old Celeste Rivas Hernandez were found in the singer's car last year."
+      "title": "Mugabe's son pleads guilty to pointing a gun in South Africa",
+      "url": "https://www.bbc.com/news/articles/cqxlp5pvr3wo?at_medium=RSS&at_campaign=rss",
+      "summary": "Bellarmine Mugabe was arrested in February following the shooting of a 23-year-old man at his home in Johannesburg."
     },
     {
       "source": "BBC World",
-      "title": "Finance ministers and top bankers raise serious concerns about Mythos AI model",
-      "url": "https://www.bbc.com/news/articles/c2ev24yx4rmo?at_medium=RSS&at_campaign=rss",
-      "summary": "Experts say Mythos potentially has an unprecedented ability to identify and exploit cybersecurity weaknesses."
+      "title": "Palestinians hand over suspect in 1982 attack on Jewish restaurant in Paris",
+      "url": "https://www.bbc.com/news/articles/cj94pkyr9mpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Hicham Harb is suspected of directing the attack in the Rue des Rosiers and acting as one of the gunmen who shot at diners."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "What is Claude Mythos and what risks does it pose?",
+      "url": "https://www.bbc.com/news/articles/crk1py1jgzko?at_medium=RSS&at_campaign=rss",
+      "summary": "The company's claim the AI tool can outperform humans at some hacking and cyber-security tasks has sparked fears in the financial world."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "It comes as the government continues to consult on whether to ban under-16s from social media in the UK."
     },
     {
-      "source": "BBC Technology",
-      "title": "Booking.com customers warned of 'reservation hijacking' after hack",
-      "url": "https://www.bbc.com/news/articles/cly00jnnxypo?at_medium=RSS&at_campaign=rss",
-      "summary": "The travel platform said it had changed Pins to protect customers but would not say how many were affected."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "YouTube’s mobile app finally lets you share timestamped videos",
+        "#text": "The ‘AI is inevitable’ trap",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/streaming/913611/youtube-mobile-app-share-at-timestamp-clips",
+      "url": "https://www.theverge.com/podcast/913792/ai-divide-sam-altman-vergecast",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Gucci-branded Google smart glasses are coming next year",
+        "#text": "The creative software industry has declared war on Adobe",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/913523/google-gucci-ai-smart-glasses-2027",
+      "url": "https://www.theverge.com/tech/913765/adobe-rivals-free-creative-software-app-updates",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Ballmer gives $80 million to NPR, with strings attached",
+        "#text": "A giant cell tower is going to space this weekend",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/913518/ballmer-gives-80-million-to-npr-with-strings-attached",
+      "url": "https://www.theverge.com/tech/913752/blue-origin-reusable-rocket-test-ast-sapcemobile",
       "summary": "(要約準備中)"
     }
   ]
