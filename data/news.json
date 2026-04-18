@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-04-18T13:35:55.592Z",
+  "updatedAt": "2026-04-18T19:09:37.559Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Madonna joins Sabrina Carpenter to surprise Coachella",
-      "url": "https://www.bbc.com/news/articles/c77my6gnpy4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Queen of Pop makes a guest appearance during the Espresso singer's headline set."
+      "title": "At least six killed in Kyiv as gunman opens fire and takes hostages",
+      "url": "https://www.bbc.com/news/articles/cm25r1vkx4lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The attacker, who took hostages inside a supermarket, was killed after a shoot-out with police, officials say."
     },
     {
       "source": "BBC World",
-      "title": "Orbán's era was over in a flash and Hungary's next PM is a man in a hurry",
-      "url": "https://www.bbc.com/news/articles/c4g40npz37lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Péter Magyar and his Tisza party are wasting no time preparing for the transfer of power after their dramatic landslide victory."
+      "title": "Pope says 'tyrants' speech was not aimed at Trump",
+      "url": "https://www.bbc.com/news/articles/ce84j261kj1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The pontiff says his remarks have been misinterpreted after a spat with the US president."
     },
     {
       "source": "BBC World",
-      "title": "Millions listen to Ethiopian star's song taking swipe at government",
-      "url": "https://www.bbc.com/news/articles/cqj81g5dxkyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The country's biggest musician Teddy Afro laments a lack of unity in the country on his new track."
+      "title": "Mexico's Sheinbaum denies 'diplomatic crisis' with Spain after conquest row",
+      "url": "https://www.bbc.com/news/articles/cp86r29l45go?at_medium=RSS&at_campaign=rss",
+      "summary": "The Mexican president says there were never tension over Spainish colonisation, which had become a thorny issue. "
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "Judge rules Trump administration violated the First Amendment in fight against ICE-tracking",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/policy/914619/trump-administration-violated-first-amendment-ice-tracking",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "Cheap stuff that doesn’t suck, take 3",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/gadgets/912620/cheap-gadgets-tech-under-50-tools-headphones-fitness-trackers",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "Dyson’s handheld fan is more powerful and louder than I expected",
         "@_type": "html"
       },
       "url": "https://www.theverge.com/tech/908962/dyson-hushjet-mini-cool-personal-handheld-fan-hands-on",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "There’s nothing like an RPG over vacation",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/games/908358/people-of-note-pc-playstation-xbox-nintendo-switch-2",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "The AI apps are coming for your PC",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/tech/914429/the-ai-apps-are-coming-for-your-pc",
       "summary": "(要約準備中)"
     }
   ]
