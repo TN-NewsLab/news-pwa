@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-04-18T07:34:59.136Z",
+  "updatedAt": "2026-04-18T13:35:55.592Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Oil prices plunge as Iran says Strait 'open'",
-      "url": "https://www.bbc.com/news/articles/ckg045z73z1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Brent crude sinks by a tenth after Iran says the key waterway is open for commercial ships for the rest of the ceasefire."
+      "title": "Madonna joins Sabrina Carpenter to surprise Coachella",
+      "url": "https://www.bbc.com/news/articles/c77my6gnpy4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Queen of Pop makes a guest appearance during the Espresso singer's headline set."
     },
     {
       "source": "BBC World",
-      "title": "Ceasefire with Israel brings respite to Lebanon, but obstacles to peace remain",
-      "url": "https://www.bbc.com/news/articles/crm10w4ynj1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The halt to weeks of fighting is being celebrated in Lebanon, but it will be difficult to ensure it lasts."
+      "title": "Orbán's era was over in a flash and Hungary's next PM is a man in a hurry",
+      "url": "https://www.bbc.com/news/articles/c4g40npz37lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Péter Magyar and his Tisza party are wasting no time preparing for the transfer of power after their dramatic landslide victory."
     },
     {
       "source": "BBC World",
-      "title": "Kanye West concert in Poland cancelled over antisemitic comments",
-      "url": "https://www.bbc.com/news/articles/czx95rl4ek5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The UK government blocked the rapper from entering the country over his history of making pro-Nazi and racist statements."
+      "title": "Millions listen to Ethiopian star's song taking swipe at government",
+      "url": "https://www.bbc.com/news/articles/cqj81g5dxkyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The country's biggest musician Teddy Afro laments a lack of unity in the country on his new track."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "OpenAI’s former Sora boss is leaving",
+        "#text": "Dyson’s handheld fan is more powerful and louder than I expected",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
+      "url": "https://www.theverge.com/tech/908962/dyson-hushjet-mini-cool-personal-handheld-fan-hands-on",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Should you stare into Sam Altman&#8217;s orb before your next date?",
+        "#text": "There’s nothing like an RPG over vacation",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/914385/world-id-tinder-identity-verifying-orb",
+      "url": "https://www.theverge.com/games/908358/people-of-note-pc-playstation-xbox-nintendo-switch-2",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Anthropic’s new cybersecurity model could get it back in the government’s good graces",
+        "#text": "The AI apps are coming for your PC",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview",
+      "url": "https://www.theverge.com/tech/914429/the-ai-apps-are-coming-for-your-pc",
       "summary": "(要約準備中)"
     }
   ]
