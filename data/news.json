@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-17T19:31:38.367Z",
+  "updatedAt": "2026-04-18T03:30:05.097Z",
   "top": [
     {
       "source": "BBC World",
@@ -21,6 +21,12 @@
     },
     {
       "source": "BBC Technology",
+      "title": "White House and Anthropic hold 'productive' meeting amid fears over Mythos model",
+      "url": "https://www.bbc.com/news/articles/cyv10e1d13po?at_medium=RSS&at_campaign=rss",
+      "summary": "The discussion is a sign the AI firm's technology may be too critical for even the US government to do without."
+    },
+    {
+      "source": "BBC Technology",
       "title": "Tinder and Zoom offer 'proof of humanity' eye-scans to combat AI",
       "url": "https://www.bbc.com/news/articles/cp9vppem4evo?at_medium=RSS&at_campaign=rss",
       "summary": "The tech aims to identify people's irises and stop the rise of fake accounts and malicious scams."
@@ -32,36 +38,30 @@
       "summary": "The company's claim the AI tool can outperform humans at some hacking and cyber-security tasks has sparked fears in the financial world."
     },
     {
-      "source": "BBC Technology",
-      "title": "Could a digital twin make you into a 'superworker'?",
-      "url": "https://www.bbc.com/news/articles/c1d907lq6nyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Firms say digital twins make staff more productive, but are they a potential legal minefield?"
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Betting on the news raises ethical questions for journalists",
+        "#text": "OpenAI’s former Sora boss is leaving",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/report/914157/prediction-markets-news-outlet-ethics-policy-propublica-kalshi-polymarket",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "This charming gadget writes bad AI poetry",
+        "#text": "Should you stare into Sam Altman&#8217;s orb before your next date?",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/913981/poetry-camera-ai-hands-on",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/914385/world-id-tinder-identity-verifying-orb",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Our new favorite budget phones",
+        "#text": "Anthropic’s new cybersecurity model could get it back in the government’s good graces",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/912286/our-new-favorite-budget-phones",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview",
       "summary": "(要約準備中)"
     }
   ]
