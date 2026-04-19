@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-04-19T07:45:57.616Z",
+  "updatedAt": "2026-04-19T13:34:29.430Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Australia's most-decorated soldier vows to 'fight' war crime charges",
+      "title": "Australia's most-decorated soldier vows to fight war crime charges",
       "url": "https://www.bbc.com/news/articles/cy91r7ww3weo?at_medium=RSS&at_campaign=rss",
       "summary": "Ben Roberts-Smith has given his first statement since he was charged with five counts of the war crime of murder last week."
-    },
-    {
-      "source": "BBC World",
-      "title": "At least six killed in Kyiv as gunman opens fire and takes hostages",
-      "url": "https://www.bbc.com/news/articles/cm25r1vkx4lo?at_medium=RSS&at_campaign=rss",
-      "summary": "The attacker, who took hostages inside a supermarket, was killed after a shoot-out with police, officials say."
     },
     {
       "source": "BBC World",
       "title": "Pope says 'tyrants' speech was not aimed at Trump",
       "url": "https://www.bbc.com/news/articles/ce84j261kj1o?at_medium=RSS&at_campaign=rss",
       "summary": "The pontiff says his remarks have been misinterpreted after a spat with the US president."
+    },
+    {
+      "source": "BBC World",
+      "title": "Rat poison found in HiPP baby food jar in Austria, police say",
+      "url": "https://www.bbc.com/news/articles/cvg07lq5ql4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The brand warned on Saturday that consuming the purées may be potentially \"life-threatening\"."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "Marathon battery life makes Keychron’s Ultra 8K keyboards its best yet",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/tech/914085/keychron-q1-v5-ultra-8k-zmk-mechanical-keyboards-review",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "The future of local TV news has taken a Trumpian turn",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/column/914674/nexstar-tegna-merger-trump-local-news",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "The RAM shortage could last years",
         "@_type": "html"
       },
       "url": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Judge rules Trump administration violated the First Amendment in fight against ICE-tracking",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/policy/914619/trump-administration-violated-first-amendment-ice-tracking",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Cheap stuff that doesn’t suck, take 3",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/gadgets/912620/cheap-gadgets-tech-under-50-tools-headphones-fitness-trackers",
       "summary": "(要約準備中)"
     }
   ]
