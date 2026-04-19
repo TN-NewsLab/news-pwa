@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-04-19T13:34:29.430Z",
+  "updatedAt": "2026-04-19T19:08:59.004Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Australia's most-decorated soldier vows to fight war crime charges",
-      "url": "https://www.bbc.com/news/articles/cy91r7ww3weo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ben Roberts-Smith has given his first statement since he was charged with five counts of the war crime of murder last week."
+      "title": "Eight children killed in Louisiana shooting, police say ",
+      "url": "https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The children, aged from one to 14 years old, were killed in a shooting in Shreveport, Louisiana, which police are describing as a \"domestic disturbance\"."
     },
     {
       "source": "BBC World",
-      "title": "Pope says 'tyrants' speech was not aimed at Trump",
-      "url": "https://www.bbc.com/news/articles/ce84j261kj1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The pontiff says his remarks have been misinterpreted after a spat with the US president."
+      "title": "Ukraine police chief resigns after officers allegedly fled deadly shooting",
+      "url": "https://www.bbc.com/news/articles/c8ejn778j4do?at_medium=RSS&at_campaign=rss",
+      "summary": "Authorities say the officers have been suspended and an investigation into their actions is under way."
     },
     {
       "source": "BBC World",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "Nothing’s modular CMF Headphone Pro are down to their lowest price to date",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/gadgets/913989/nothing-cmf-noise-canceling-headphone-pro-spring-sale-deal",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "The Stars My Destination is classic proto-cyberpunk",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/entertainment/914680/the-stars-my-destination-alfred-bester-review-cyberpunk",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "Marathon battery life makes Keychron’s Ultra 8K keyboards its best yet",
         "@_type": "html"
       },
       "url": "https://www.theverge.com/tech/914085/keychron-q1-v5-ultra-8k-zmk-mechanical-keyboards-review",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "The future of local TV news has taken a Trumpian turn",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/column/914674/nexstar-tegna-merger-trump-local-news",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "The RAM shortage could last years",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
       "summary": "(要約準備中)"
     }
   ]
